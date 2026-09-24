@@ -1,1 +1,1090 @@
-{"ingredient_rules":[],"routines":[],"tips":[]}
+{
+  "ingredient_rules": [
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "tetrahexyldecyl ascorbate (witamina C)",
+        "peptydy"
+      ],
+      "rule": "Stabilną formę witaminy C (tetraheksyldecyl askorbinian) można łączyć w jednej rutynie z peptydami.",
+      "why": "Forma ta należy do rodziny tetraizopalmitynianu askorbylu, dzięki czemu jest stabilna i nie koliduje w pielęgnacji ze składnikami peptydowymi.",
+      "timestamp": "03:36",
+      "video_id": "AS08OaHJyP0",
+      "video_title": "NEW AT ROSSMANN❗️- LIVE TEST❗️- ALL-DAY WEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "witamina C w formie SAP",
+        "peptydy"
+      ],
+      "rule": "Nie można łączyć witaminy C w formie SAP z peptydami.",
+      "why": "Doprowadza to do destabilizacji peptydów oraz reakcji krzyżowokontaktowej i zniszczenia barier hydrolipidowej, przez co peptydy nie wchłoną się ani nie zadziałają.",
+      "timestamp": "04:09",
+      "video_id": "fwKsVOzoXfI",
+      "video_title": "ROSSMANN - NEW FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-23"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "witamina C",
+        "ceramidy",
+        "kwas hialuronowy",
+        "wszystkie formy witaminy C"
+      ],
+      "rule": "Z każdą formą witaminy C można łączyć ceramidy, kwas hialuronowy, SAP, tetry, askorbil glukozyd i tetraheksyloaskorbinian.",
+      "why": "Nie ma z tym żadnego problemu.",
+      "timestamp": "07:15",
+      "video_id": "fwKsVOzoXfI",
+      "video_title": "ROSSMANN - NEW FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C"
+      ],
+      "rule": "Nie można łączyć peptydów i witaminy C w jednej rutynie.",
+      "why": "Maski z witaminą C i peptydy nie powinny być nakładane w tej samej rutynie pielęgnacyjnej.",
+      "timestamp": "07:02",
+      "video_id": "xq8KI2zNfi4",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT ISN’T?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-20"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "krem liftingujący",
+        "peptydy miedziowe"
+      ],
+      "rule": "Można łączyć krem z peptydami miedziowymi.",
+      "why": "Produkt nie ma disodium EDTA, więc można go łączyć z peptydami.",
+      "timestamp": "04:50",
+      "video_id": "RHvyqwrtzrk",
+      "video_title": "ZIAJA - IS THIS CREAM EFFECTIVE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-18"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptyd",
+        "witamina C inna niż tetra"
+      ],
+      "rule": "Nie łączyć produktu z peptydami z witaminą C inną niż tetra.",
+      "why": "Tetra tylko wchodzi w grę, żadna inna forma witaminy C, bo powoduje reakcję krwowo-kontaktową, rozwalenie pH, rumień, szorstkość skóry i destabilizację peptydów.",
+      "timestamp": "07:27",
+      "video_id": "mliIVzVrLbQ",
+      "video_title": "ROSSMANN - A MUST-HAVE HIT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "wcierka Pharmaceris H",
+        "Kérastase Genesis / Exosome"
+      ],
+      "rule": "Wcierkę Pharmaceris H można stosować na przemian z wcierkami Kérastase dla piorunująco szybkich efektów.",
+      "why": "Działają synergicznie i ich składy się uzupełniają.",
+      "timestamp": "05:06",
+      "video_id": "RllTFOqf6t0",
+      "video_title": "PHARMACY HIT❗️THIS IS TRULY WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "olejki eteryczne",
+        "oleje bazowe"
+      ],
+      "rule": "Olejki eteryczne muszą być zawsze rozstępczone w olejach bazowych najpierw, a dopiero potem można nimi traktować skórę.",
+      "why": "Nierozcieńczone olejki eteryczne mogą zrobić krzywdę i podrażnić skórę głowy.",
+      "timestamp": "05:24",
+      "video_id": "Ynw7ZGECrmU",
+      "video_title": "ONE OF THE BEST SHAMPOOS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "ceramidy",
+        "witamina C",
+        "peptyd miedzi"
+      ],
+      "rule": "Krem można łączyć z peptydami, ceramidami, witaminą C i peptydem miedzi.",
+      "why": "Składniki te nie wchodzą w konflikty i dobrze współpracują.",
+      "timestamp": "06:49",
+      "video_id": "e0W3QtpsV4Q",
+      "video_title": "THE FACE CREAM EVERYONE NEEDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "retinoidy",
+        "witamina C"
+      ],
+      "rule": "Retinoidy i witaminę C można łączyć.",
+      "why": "Autor wspomina, że razem z widzami badają i łączą retinoidy.",
+      "timestamp": "05:32",
+      "video_id": "31xQ4CE4M8M",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "produkt zawierający disodium EDTA",
+        "peptydy miedziowe"
+      ],
+      "rule": "Jeśli używasz produktu z disodium EDTA, musisz go zmyć wodą przed nałożeniem peptydów miedziowych.",
+      "why": "Disodium EDTA w produktach bez spłukiwania mogłoby doprowadzić barierę hydrolipidową do armagedonu i zniszczyć działanie retinoidów czy peptydów.",
+      "timestamp": "01:21",
+      "video_id": "Fgq8DWGBeyY",
+      "video_title": "ROSSMANN❗️ - THE FOAM THAT WORKS IN 30 SECONDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-13"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "kwasy",
+        "peelingi enzymatyczne"
+      ],
+      "rule": "W trakcie stosowania retinoidów zakaz stosowania jakichkolwiek preparatów złuszczających, kwasów i peelingów.",
+      "why": "Retinoidy same w sobie złuszczają skórę mikrozłuszczaniem, a dodatkowe kwasy mogą prowadzić do podrażnień i przesuszenia.",
+      "timestamp": "07:41",
+      "video_id": "saaZxpSvbuY",
+      "video_title": "EVERYTHING ABOUT THE NEW RELEASES ❗️THE MOST IMPORTANT COSMETICS OF 2026!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Recovery Calming Mask",
+        "retinoidy",
+        "peptydy",
+        "ceramidy",
+        "lipidy",
+        "witaminy"
+      ],
+      "rule": "Maskę Recovery Calming Mask można łączyć ze wszystkimi składnikami aktywnymi oraz stosować jako okluzję 30 minut po nałożeniu retinoidów.",
+      "why": "Maska silnie wycisza, regeneruje, nawilża i nie osłabia działania retinoidów, jeśli minął odpowiedni czas od ich aplikacji.",
+      "timestamp": "09:00",
+      "video_id": "saaZxpSvbuY",
+      "video_title": "EVERYTHING ABOUT THE NEW RELEASES ❗️THE MOST IMPORTANT COSMETICS OF 2026!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Retinoidy",
+        "Kwasy (peelingi)"
+      ],
+      "rule": "W trakcie stosowania retinoidów należy unikać kwasów i innych peelingów.",
+      "why": "Retinal i HPR mocno działają na skórę, więc łączenie ich z kwasami może wywołać nadmierne podrażnienia.",
+      "timestamp": "02:58",
+      "video_id": "-3upxPdKhUg",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-11"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Blue Moon Lash & Brow Serum",
+        "Dysodium EDTA",
+        "Witamina C"
+      ],
+      "rule": "Nie stosować serum z tripeptydem miedziowym w jednej rutynie z produktami zawierającymi EDTA lub niestabilną witaminę C.",
+      "why": "Tetra może destabilizować peptydy, a EDTA chelatuje miedź, osłabiając działanie produktu.",
+      "timestamp": "15:08",
+      "video_id": "-3upxPdKhUg",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-11"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "alkohol w mgiełkach Miraculum",
+        "bariera hydrolipidowa skóry"
+      ],
+      "rule": "Nie aplikować mgiełek z alkoholami bezpośrednio na ciało lub skórę.",
+      "why": "Może zniszczyć barierę hydrolipidową skóry; należy aplikować je na ubrania.",
+      "timestamp": "00:26",
+      "video_id": "hd4if9kTKSA",
+      "video_title": "BIEDRONKA❗️- WHAT'S WORTH BUYING AND WHAT ISN'T?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "inne składniki aktywne"
+      ],
+      "rule": "Nie wolno na retinoidy nakładać żadnych innych składników aktywnych pod oczy.",
+      "why": "Doprowadzi to do zgrzytu, reakcji krzyżowo-kontaktowej oraz podrażnienia.",
+      "timestamp": "00:44",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "retinoidy",
+        "wazelina",
+        "lanolina",
+        "oleje",
+        "masła"
+      ],
+      "rule": "Pod oczy z retinoidami można stosować okluzję typu wazelina, lanolina, oleje czy masła.",
+      "why": "Emolienty nie wchodzą w reakcje z retinoidami i chronią skórę przed przesuszeniem.",
+      "timestamp": "03:07",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "kwasy",
+        "wazelina",
+        "lanolina"
+      ],
+      "rule": "Kwasy i sera z kwasami można zabezpieczać wazeliną lub lanoliną.",
+      "why": "Działają jako bezpieczny, czysty emolient okluzyjny bez składników aktywnych.",
+      "timestamp": "04:36",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "witamina C",
+        "balsam do ciała C.B3 z niacynamidem"
+      ],
+      "rule": "Można używać na dzień witaminę C w składzie balsamu do ciała.",
+      "why": "To nie koliduje i nie wchodzi w interakcje.",
+      "timestamp": "03:39",
+      "video_id": "0MJ2uPmtqn4",
+      "video_title": "ZIAJA AT ROSSMANN❗️ - WHAT’S WORTH BUYING?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "preparaty keratoliczne",
+        "inne aktywne składniki"
+      ],
+      "rule": "Nie łączyć retinolu i kwasów z wieloma składnikami aktywnymi naraz.",
+      "why": "Należy dawać im działać samowolnie, by uniknąć naruszenia bariery hydrolipidowej i podrażnień.",
+      "timestamp": "09:29",
+      "video_id": "-mwT1walN2Q",
+      "video_title": "THE BEST FACE CREAMS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "tetra",
+        "chelat disodium edta"
+      ],
+      "rule": "Nie wolno nakładać z produktami zawierającymi chelat disodium edta.",
+      "why": "Zdestabilizuje to miedź i wywoła reakcję chemiczną.",
+      "timestamp": "09:00",
+      "video_id": "gqmINixRrVk",
+      "video_title": "COLLAGEN BOOSTER?! 😱 *ATELOCOLLAGEN* *COPPER PEPTIDE* - DRUGSTORE HIT 🤫",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    }
+  ],
+  "routines": [
+    {
+      "problem": "skóra mieszana, tłusta, odwodniona",
+      "time_of_day": "rano",
+      "steps": [
+        "oczyszczanie",
+        "nałożenie kremu Miya z matchą"
+      ],
+      "notes": "Krem ze względu na konsystencję i działanie oraz pod makijaż lepiej sprawdzi się rano.",
+      "timestamp": "09:41",
+      "video_id": "fwKsVOzoXfI",
+      "video_title": "ROSSMANN - NEW FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-23"
+    },
+    {
+      "problem": "puszenie włosów",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie",
+        "odżywienie",
+        "dopieszczenie",
+        "stylizacja"
+      ],
+      "notes": "spray wygładza i dyscyplinuje włosy bez ich obciążania",
+      "timestamp": "02:06",
+      "video_id": "AvbjWNmLzak",
+      "video_title": "ROSSMANN❗️- THIS IS A HUGE HIT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-22"
+    },
+    {
+      "problem": "wypadanie włosów i przyspieszenie wzrostu",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie skóry głowy szamponem",
+        "nałożenie wcierki"
+      ],
+      "notes": "Szampon i wcierka działają synergicznie dla lepszego wzrostu włosów.",
+      "timestamp": "10:25",
+      "video_id": "hIqxyWF306g",
+      "video_title": "NEW AT ROSSMANN: PRODUCTS WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-21"
+    },
+    {
+      "problem": "brak jędrności i nawilżenia",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie",
+        "nakładanie kremu"
+      ],
+      "notes": "Krem może być stosowany na dzień i na noc, pod warunkiem że konsystencja odpowiada użytkownikowi.",
+      "timestamp": "06:05",
+      "video_id": "RHvyqwrtzrk",
+      "video_title": "ZIAJA - IS THIS CREAM EFFECTIVE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-18"
+    },
+    {
+      "problem": "nawilżenie, zmarszczki, rozświetlenie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożyć maskę na 8 minut",
+        "zdjąć maskę",
+        "wklepać pozostałości",
+        "nałożyć serum",
+        "nałożyć krem"
+      ],
+      "notes": "Maska stosowana 4 razy: 2 razy rano pod makijaż i 2 razy wieczorem.",
+      "timestamp": "08:18",
+      "video_id": "mliIVzVrLbQ",
+      "video_title": "ROSSMANN - A MUST-HAVE HIT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "problem": "wypadanie włosów i łysienie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "spryskanie skóry głowy wcierką",
+        "odczekanie 3-5 minut do wchłonięcia",
+        "przejście do suszenia włosów suszarką"
+      ],
+      "notes": "Stosować regularnie. W przypadku suszarki dać wchłonąć składnikom, aby nie odparowały pod wpływem ciepła.",
+      "timestamp": "03:48",
+      "video_id": "RllTFOqf6t0",
+      "video_title": "PHARMACY HIT❗️THIS IS TRULY WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "problem": "łupież i łojotokowa skóra głowy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Nałożyć szampon na włosy",
+        "Spienić i pozostawić na minutę",
+        "Spłukać"
+      ],
+      "notes": "Można stosować 2-3 razy w tygodniu (lub co czwarte mycie przy włosach farbowanych, aby nie wypłukiwać pigmentu).",
+      "timestamp": "07:14",
+      "video_id": "Ynw7ZGECrmU",
+      "video_title": "ONE OF THE BEST SHAMPOOS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "problem": "trądzik, nadreaktywność, podrażnienia po retinoidach",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie",
+        "aplikacja kremu Neuro Calmis"
+      ],
+      "notes": "Można stosować rano i na noc.",
+      "timestamp": "01:15",
+      "video_id": "e0W3QtpsV4Q",
+      "video_title": "THE FACE CREAM EVERYONE NEEDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "problem": "nadmiar sebum i produktów włosowych",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Użycie szamponu oczyszczającego raz w tygodniu"
+      ],
+      "notes": "Szampon nie do stosowania codziennie, aby nie zniszczyć bariery hydrolipidowej skóry głowy.",
+      "timestamp": "01:18",
+      "video_id": "31xQ4CE4M8M",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "problem": "potrzeba szybkiego nawilżenia, rozświetlenia i dawki energii dla skóry",
+      "time_of_day": "rano",
+      "steps": [
+        "nałożyć 2-3 pompki pianki na twarz",
+        "odczekać 30 sekund",
+        "zmyć nadmiar pianki wodą"
+      ],
+      "notes": "Maska nie bąbelkuje mocno, szybko się wchłania w 30 sekund, pozostawia skórę rozświetloną, nawilżoną i pełną blasku.",
+      "timestamp": "00:51",
+      "video_id": "Fgq8DWGBeyY",
+      "video_title": "ROSSMANN❗️ - THE FOAM THAT WORKS IN 30 SECONDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-13"
+    },
+    {
+      "problem": "wprowadzenie retinoidów do pielęgnacji",
+      "time_of_day": "wieczór",
+      "steps": [
+        "nałożenie retinoidu na noc",
+        "odczekanie 20-30 minut w celu całkowitego wchłonięcia"
+      ],
+      "notes": "Stosować 3 noce pod rząd w tygodniu pod oczy raz w tygodniu (dla wersji Protocol 1). W trakcie stosowania obowiązuje bezwzględny zakaz kwasów i peelingów enzymatycznych.",
+      "timestamp": "03:45",
+      "video_id": "saaZxpSvbuY",
+      "video_title": "EVERYTHING ABOUT THE NEW RELEASES ❗️THE MOST IMPORTANT COSMETICS OF 2026!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-12"
+    },
+    {
+      "problem": "Pielęgnacja z retinoidami dla początkujących",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Nałożenie serum z retinoidem (np. Retinoid Protocol 1) 3 noce pod rząd w tygodniu",
+        "Stosowanie pod oczy raz w tygodniu"
+      ],
+      "notes": "Nie stosować w ciąży i podczas karmienia piersią. Unikać kwasów w dniach aplikacji.",
+      "timestamp": "02:53",
+      "video_id": "-3upxPdKhUg",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-11"
+    },
+    {
+      "problem": "Regeneracja i łagodzenie podrażnień",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja serum",
+        "Po 30 minutach nałożenie Recovery Calming Mask jako kremu na noc"
+      ],
+      "notes": "Można stosować codziennie lub po retinoidach w celu wyciszenia skóry.",
+      "timestamp": "09:37",
+      "video_id": "-3upxPdKhUg",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-11"
+    },
+    {
+      "problem": "nadmierna potliwość",
+      "time_of_day": "noc",
+      "steps": [
+        "stosować peelingi pod pachami przez 3 noce pod rząd w tygodniu",
+        "w trakcie zakazać innych kwasów, peelingów i retinoidów",
+        "rano zmyć wodą lub żelem i nałożyć dezodorant"
+      ],
+      "notes": "kwasy skutecznie odblokowują ujścia gruczołów potowych i przyspieszają detoksykację",
+      "timestamp": "04:11",
+      "video_id": "5MsMjnH8-zw",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "skóra wokół oczu przy stosowaniu retinoidów",
+      "time_of_day": "wieczór",
+      "steps": [
+        "nałożyć retinoid na twarz",
+        "nałożyć wazelinę lub lanolinę wokół oczu jako okluzję"
+      ],
+      "notes": "Stosować w 2 pozostałe noce, kiedy nie nakłada się retinolu na twarz, lub jako okluzję wokół oczu przy codziennym retinolu.",
+      "timestamp": "02:10",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "demakijaż i oczyszczanie skóry twarzy",
+      "time_of_day": "wieczór",
+      "steps": [
+        "płyn micelarny (mycie skóry zmyć po demakijażu)",
+        "właściwe oczyszczanie (żel, pianka, emulsja lub inna forma mycia twarzy)"
+      ],
+      "notes": "Płyn micelarny nie jest tonikiem i nie służy do zostawiania na twarzy.",
+      "timestamp": "06:44",
+      "video_id": "0MJ2uPmtqn4",
+      "video_title": "ZIAJA AT ROSSMANN❗️ - WHAT’S WORTH BUYING?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "Puszące się i bardzo wysuszone włosy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "szampon Length & Shine",
+        "odżywka Length & Shine",
+        "maska Length & Shine"
+      ],
+      "notes": "Seria świetna do włosów puszących się i wysuszonych.",
+      "timestamp": "00:19",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "Oczyszczanie i regulacja skóry głowy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "szampon Scalp Control z dżupkiem (peelingujący)",
+        "szampon do codziennego użytku Scalp Control",
+        "serum do skóry głowy"
+      ],
+      "notes": "Wymaga systematyczności i odpowiedniego schematu działania.",
+      "timestamp": "01:47",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "Regeneracja włosów zniszczonych i rozjaśnianych",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "odżywka Molecular Repair",
+        "maska Molecular Repair",
+        "serum silikonowo-olejkowe"
+      ],
+      "notes": "Na włosach rozjaśnianych nakładanie na 10 minut daje efekt; włosy rozjaśniane potrzebują dłuższego czasu działania.",
+      "timestamp": "05:13",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "Ochrona końcówek przed uszkodzeniami mechanicznymi",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "kilka kropel serum Bio Elixir na mokre, osuszone ręcznikiem włosy",
+        "skubanie końcówek i stylizacja"
+      ],
+      "notes": "Nie nakładać na skórę głowy, stosować tylko na końcówki.",
+      "timestamp": "06:54",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "Oczyszczenie skóry głowy z nadmiaru kosmetyków i stylizacji",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "płyn peelingujący After Party (raz w tygodniu)",
+        "szampon oczyszczający After Party (raz w tygodniu)"
+      ],
+      "notes": "Stosować raz w tygodniu, aby nie zniszczyć bariery hydrolipidowej.",
+      "timestamp": "07:54",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "odwodnienie, przesuszenie, utrata jędrności",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczanie skóry",
+        "nałożenie kremu-maski na noc"
+      ],
+      "notes": "Można łączyć z peptydami miedziowymi i ceramidami.",
+      "timestamp": "08:46",
+      "video_id": "gqmINixRrVk",
+      "video_title": "COLLAGEN BOOSTER?! 😱 *ATELOCOLLAGEN* *COPPER PEPTIDE* - DRUGSTORE HIT 🤫",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "problem": "odwodniona i sucha skóra",
+      "time_of_day": "wieczór",
+      "steps": [
+        "umyć twarz",
+        "nałożyć tonik",
+        "na mokrą skórę od toniku nałożyć ampułkę",
+        "nałożyć maskę w płachcie na 8 minut",
+        "wklepać nadmiar esencji",
+        "nałożyć krem (np. Lino Mag Zielony, CeraVe, Bielenda, itp.)"
+      ],
+      "notes": "Stosować raz na dwa tygodnie na noc przed snem.",
+      "timestamp": "01:45",
+      "video_id": "zg0onMCJ3bI",
+      "video_title": "ROSSMANN - MAX FACE RESULTS FOR 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    }
+  ],
+  "tips": [
+    {
+      "topic": "Ochrona przeciwsłoneczna pod makijaż",
+      "tip": "Krem CC lub sztyft z filtrem SPF 30 nie zastąpi pełnej ochrony przeciwsłonecznej – pod produkt koloryzujący należy nałożyć dedykowany krem z filtrem, np. SPF 50.",
+      "timestamp": "02:15",
+      "video_id": "AS08OaHJyP0",
+      "video_title": "NEW AT ROSSMANN❗️- LIVE TEST❗️- ALL-DAY WEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-24"
+    },
+    {
+      "topic": "Aplikacja bogatych balsamów w sztyfcie",
+      "tip": "Mocno odżywcze produkty w sztyfcie warto aplikować w umiarkowanej ilości i wklepywać gąbeczką, aby nie przeciążyć skóry nadmierną tłustością.",
+      "timestamp": "10:13",
+      "video_id": "AS08OaHJyP0",
+      "video_title": "NEW AT ROSSMANN❗️- LIVE TEST❗️- ALL-DAY WEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-24"
+    },
+    {
+      "topic": "Makijaż podczas kuracji kwasami i retinoidami",
+      "tip": "W trakcie kuracji złuszczających skóra potrzebuje silnego natłuszczenia i regeneracji; bogate formuły z masłem kakaowym i lipidami zapobiegają suchości oraz nie wchodzą w zmarszczki.",
+      "timestamp": "09:37",
+      "video_id": "AS08OaHJyP0",
+      "video_title": "NEW AT ROSSMANN❗️- LIVE TEST❗️- ALL-DAY WEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-24"
+    },
+    {
+      "topic": "Zużywalność kremu po otwarciu",
+      "tip": "Po otwarciu kremu PAO wynosi 3 miesiące, więc zużywalność musi być szybka.",
+      "timestamp": "09:52",
+      "video_id": "fwKsVOzoXfI",
+      "video_title": "ROSSMANN - NEW FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-23"
+    },
+    {
+      "topic": "stosowanie sprayu",
+      "tip": "Wystarczą 3-4 psiknięcia na całą długość włosów.",
+      "timestamp": "09:50",
+      "video_id": "AvbjWNmLzak",
+      "video_title": "ROSSMANN❗️- THIS IS A HUGE HIT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-22"
+    },
+    {
+      "topic": "Zapach produktów",
+      "tip": "Zapach szamponu i wcierki nie utrzymuje się na włosach po ich wysuszeniu.",
+      "timestamp": "09:54",
+      "video_id": "hIqxyWF306g",
+      "video_title": "NEW AT ROSSMANN: PRODUCTS WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-21"
+    },
+    {
+      "topic": "stosowanie płukanek i mleczek do włosów",
+      "tip": "Nie nakładaj produktów typu płukanka kwasowa czy mleczko wygładzające na skórę głowy, lecz wyłącznie na długość i końce włosów, aby uniknąć wypadania włosów.",
+      "timestamp": "01:09",
+      "video_id": "xq8KI2zNfi4",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT ISN’T?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-20"
+    },
+    {
+      "topic": "dostępność maseczek Yope",
+      "tip": "Jeśli szukasz maseczek Yope Waterfully w Rossmannie, szukaj na specjalnych szafach promocyjnych.",
+      "timestamp": "04:26",
+      "video_id": "xq8KI2zNfi4",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT ISN’T?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-20"
+    },
+    {
+      "topic": "Obserwacja reakcji skóry",
+      "tip": "Musisz obserwować bacznie reakcje swojej skóry na krem z kwasem GABA, bo może, ale nie musi podrażniać.",
+      "timestamp": "00:29",
+      "video_id": "Dyppt1Mr9RA",
+      "video_title": "THE BEST FACE CREAMS FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-19"
+    },
+    {
+      "topic": "Dobór kremu bogatego",
+      "tip": "Bogate kremy regenerujące z kompleksem lipidowym mogą zapychać skórę tłustą i skłonną do niedoskonałości.",
+      "timestamp": "06:14",
+      "video_id": "Dyppt1Mr9RA",
+      "video_title": "THE BEST FACE CREAMS FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-19"
+    },
+    {
+      "topic": "czas trzymania maseczek",
+      "tip": "Maseczek nie trzeba trzymać 1-2 godzin jak mówi producent, wystarczy około 8 minut, aby uniknąć problemu z przesuszeniem bariery hydrolipidowej.",
+      "timestamp": "01:50",
+      "video_id": "XUzIguPmqUk",
+      "video_title": "ROSSMANN - WHICH PRODUCT WINS?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-19"
+    },
+    {
+      "topic": "stosowanie kremu w niskim budżecie",
+      "tip": "Dla osób szukających świadomego, skutecznego kosmetyku w niskim budżecie, krem Ziaja będzie dobrym i tanim rozwiązaniem.",
+      "timestamp": "08:15",
+      "video_id": "RHvyqwrtzrk",
+      "video_title": "ZIAJA - IS THIS CREAM EFFECTIVE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-18"
+    },
+    {
+      "topic": "stosowanie żelu",
+      "tip": "Nałożyć produkt na ciało, zostawić pianę na około 30 sekund i zmyć, aby fosfolipidy i baza fosfolipidowa mogły się wbudować w naskórek.",
+      "timestamp": "06:47",
+      "video_id": "xfNSS-bwvws",
+      "video_title": "ROSSMANN HIT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-18"
+    },
+    {
+      "topic": "Czas trzymania maski",
+      "tip": "Mimo że producent zaleca 10-15 minut, autor zaleca trzymać maskę 8 minut.",
+      "timestamp": "03:20",
+      "video_id": "mliIVzVrLbQ",
+      "video_title": "ROSSMANN - A MUST-HAVE HIT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "topic": "stosowanie wcierek z suszarką",
+      "tip": "Przed suszeniem włosów suszarką odczekaj 3-5 minut, aby składniki aktywne wcierki wchłonęły się i nie odparowały pod wpływem nawiewu.",
+      "timestamp": "04:02",
+      "video_id": "RllTFOqf6t0",
+      "video_title": "PHARMACY HIT❗️THIS IS TRULY WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "topic": "konieczność peelingu skóry głowy",
+      "tip": "Bez peelingu skóry głowy żadna wcierka nie zadziała w 100%, ponieważ martwe komórki naskórka blokują transport składników aktywnych.",
+      "timestamp": "06:19",
+      "video_id": "RllTFOqf6t0",
+      "video_title": "PHARMACY HIT❗️THIS IS TRULY WORTH BUYING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-17"
+    },
+    {
+      "topic": "łupież od maszynki",
+      "tip": "Jeśli fani golą się na łyso maszynkami jednorazowymi i mają krotsze stany/krostki, warto kupić im ten szampon, bo zapomną o problemie.",
+      "timestamp": "03:20",
+      "video_id": "Ynw7ZGECrmU",
+      "video_title": "ONE OF THE BEST SHAMPOOS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "topic": "częstotliwość stosowania",
+      "tip": "Szampon można stosować dwa-trzy razy w tygodniu, nie ma żadnych problemów z redukcją łupieżu, efekty są długoterminowe.",
+      "timestamp": "07:49",
+      "video_id": "Ynw7ZGECrmU",
+      "video_title": "ONE OF THE BEST SHAMPOOS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "topic": "Retinoidy",
+      "tip": "Oficjalnie można zacząć retinoidy od dzisiaj, od 15 września, jeśli nie skończyła się dwutygodniowa przerwa po kwasach.",
+      "timestamp": "00:16",
+      "video_id": "l5EW6QWkFMQ",
+      "video_title": "BIG CHANGES.❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "topic": "Kalendarz adwentowy",
+      "tip": "W tym roku kalendarz adwentowy będzie zawierał wyłącznie kosmetyki Kasprzaks Skin, co pozwoli na szybsze poznanie nowości.",
+      "timestamp": "06:14",
+      "video_id": "l5EW6QWkFMQ",
+      "video_title": "BIG CHANGES.❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-16"
+    },
+    {
+      "topic": "stosowanie pod makijaż",
+      "tip": "Krem ma satynowy glow, nie roluje się i dobrze sprawdza się pod makijaż.",
+      "timestamp": "07:16",
+      "video_id": "e0W3QtpsV4Q",
+      "video_title": "THE FACE CREAM EVERYONE NEEDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "topic": "stosowanie retinoidów",
+      "tip": "Rozpoczęcie aplikacji retinoidów w najbliższą niedzielę wraz z widzam.",
+      "timestamp": "05:32",
+      "video_id": "31xQ4CE4M8M",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-15"
+    },
+    {
+      "topic": "Nakładanie kremu SPF",
+      "tip": "Krem SPF nakładamy w ilości jednego całego palca.",
+      "timestamp": "07:29",
+      "video_id": "zFLb3f6IByM",
+      "video_title": "FINALLY, AN EFFECTIVE FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-14"
+    },
+    {
+      "topic": "Czas wchłaniania błysku SPF",
+      "tip": "Błysk po nałożeniu kremu SPF neutralizuje się w ciągu 3-5 minut.",
+      "timestamp": "07:13",
+      "video_id": "zFLb3f6IByM",
+      "video_title": "FINALLY, AN EFFECTIVE FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-14"
+    },
+    {
+      "topic": "Dobór kremu przy retinoidach",
+      "tip": "Wybieraj kremy o działaniu regenerującym, odbudowującym barierę hydrolipidową i łagodzącym, dopasowane do stopnia uszkodzenia skóry.",
+      "timestamp": "00:00",
+      "video_id": "Jx2vJ8qWTvQ",
+      "video_title": "EFFECTIVE FACE CREAMS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-14"
+    },
+    {
+      "topic": "Sposób użycia pianki",
+      "tip": "Nałóż 2-3 pompki pianki na dłonie, rozprowadź równomiernie po twarzy, pozostaw na 30 sekund i zmyj wodą.",
+      "timestamp": "00:51",
+      "video_id": "Fgq8DWGBeyY",
+      "video_title": "ROSSMANN❗️ - THE FOAM THAT WORKS IN 30 SECONDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-13"
+    },
+    {
+      "topic": "Czas trzymania",
+      "tip": "30 sekund w zupełności wystarcza, aby maska zadziałała i wchłonęła się w skórę.",
+      "timestamp": "02:40",
+      "video_id": "Fgq8DWGBeyY",
+      "video_title": "ROSSMANN❗️ - THE FOAM THAT WORKS IN 30 SECONDS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-13"
+    },
+    {
+      "topic": "zasada tolerancji retinoidów",
+      "tip": "Zawsze należy zaczynać od najniższych stężeń retinoidów, aby skóra zbudowała tolerancję, nawet jeśli kosmetyki są zaawansowane.",
+      "timestamp": "06:54",
+      "video_id": "saaZxpSvbuY",
+      "video_title": "EVERYTHING ABOUT THE NEW RELEASES ❗️THE MOST IMPORTANT COSMETICS OF 2026!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-12"
+    },
+    {
+      "topic": "stosowanie maseczki po retinoidach",
+      "tip": "Po 30 minutach od aplikacji retinoidu można nałożyć Recovery Calming Mask jako okluzję, co nie osłabia działania retinoidów, a mocno wycisza skórę.",
+      "timestamp": "08:58",
+      "video_id": "saaZxpSvbuY",
+      "video_title": "EVERYTHING ABOUT THE NEW RELEASES ❗️THE MOST IMPORTANT COSMETICS OF 2026!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-12"
+    },
+    {
+      "topic": "Aplikacja serum do brwi i rzęs",
+      "tip": "Nakładaj produkt za pomocą silikonowej szczoteczki od nasady rzęs po same końce, aby je wykondycjonować.",
+      "timestamp": "13:06",
+      "video_id": "-3upxPdKhUg",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-11"
+    },
+    {
+      "topic": "stosowanie maseczki z retinalem",
+      "tip": "Używać 3 noce pod rząd w tygodniu w trakcie zakazu innych retinoidów, kwasów i peelingów",
+      "timestamp": "01:58",
+      "video_id": "5MsMjnH8-zw",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "stosowanie kremu z kwasem glikolowym do dłoni",
+      "tip": "Stosować 3 noce pod rząd w tygodniu, w pozostałe dni kremy odżywcze",
+      "timestamp": "02:31",
+      "video_id": "5MsMjnH8-zw",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Wiek stosowania",
+      "tip": "Dzieci mogą używać mgiełek i żeli do mycia od 6. roku życia, ale nie powinny nakładać ich na skórę.",
+      "timestamp": "07:09",
+      "video_id": "hd4if9kTKSA",
+      "video_title": "BIEDRONKA❗️- WHAT'S WORTH BUYING AND WHAT ISN'T?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Peptydy w pielęgnacji",
+      "tip": "Peptydy to cudowna kategoria składników aktywnych, które genialnie oddziałują na naszą skórę, stymulując produkcję kolagenu, elastyny oraz wykazując działanie odmładzające.",
+      "timestamp": "00:33",
+      "video_id": "Yc6cgoFfqC8",
+      "video_title": "THIS INGREDIENT REDUCES WRINKLES AND MORE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "ilość produktu pod oczy",
+      "tip": "Nakładać niewiele produktu pod oczy, bo skóra szybko się świeci; nie stosować metody roztierania, lecz wklepywania w paluszki.",
+      "timestamp": "06:43",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "rola okluzji",
+      "tip": "Okluzja nie nawilża, a zabezpiecza skórę przed transepiremalną utratą wody i przesuszeniem.",
+      "timestamp": "08:35",
+      "video_id": "wIIK8u68PfA",
+      "video_title": "ZIAJA - THE EYE CREAM HIT YOU CAN BUY FOR 4 PLN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Dobór kremu pod kątem kwasów",
+      "tip": "Jeśli nie używasz kwasów ani retinoidów jako preparatów keratolicznych, a używasz delikatnego peelingu enzymatycznego, nie potrzebujesz SPF 50 - krem Kozie Mleko SPF 15 będzie idealny.",
+      "timestamp": "00:28",
+      "video_id": "0MJ2uPmtqn4",
+      "video_title": "ZIAJA AT ROSSMANN❗️ - WHAT’S WORTH BUYING?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Użytkowanie kosmetyków proteinowych do włosów",
+      "tip": "Odżywka i maska Kozie Mleko to produkty proteinowe, przeznaczone do stosowania maksymalnie raz w tygodniu, a nie do codziennego użytku.",
+      "timestamp": "07:43",
+      "video_id": "0MJ2uPmtqn4",
+      "video_title": "ZIAJA AT ROSSMANN❗️ - WHAT’S WORTH BUYING?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Stosowanie kosmetyków",
+      "tip": "Warto sprawdzać składy i dopasowywać produkty do potrzeb swojej skóry (np. cera sucha vs naczynkowa).",
+      "timestamp": "01:50",
+      "video_id": "-mwT1walN2Q",
+      "video_title": "THE BEST FACE CREAMS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Ceny i promocje",
+      "tip": "Nie sugeruj się cenami na półce, ponieważ często ulegają zmianie i są promocje.",
+      "timestamp": "00:14",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Maski silikonowe",
+      "tip": "Maski silikonowe od Onlybio są świetne na długość i końce, ale nie można ich nakładać na skórę głowy.",
+      "timestamp": "00:36",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Szampony specjalistyczne Tochi",
+      "tip": "Szampony Tochi są specjalistyczne i droższe, ale często bywają w promocji w Rossmannie.",
+      "timestamp": "04:09",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Skład szamponów Tochi",
+      "tip": "Przed zakupem szamponu Tochi na ŁZS sprawdź skład – jeśli ma acrylate/s crosspolymer (plastik), unikaj; jeśli nie ma, kupuj.",
+      "timestamp": "04:10",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "Serum Bio Elixir",
+      "tip": "To nie są olejki do olejowania ani do nakładania na skórę głowy – stosuj tylko na końcówki, aby uniknąć przyklapu i wypadania włosów.",
+      "timestamp": "07:14",
+      "video_id": "wtzZWyukCw8",
+      "video_title": "ROSSMANN❗️ - WHAT'S WORTH BUYING NOW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "stosowanie pod oczy",
+      "tip": "Jeśli produkt nie powoduje pieczenia pod oczami, można go tam stosować. Jeśli powoduje łzawienie, należy unikać tego obszaru.",
+      "timestamp": "10:24",
+      "video_id": "gqmINixRrVk",
+      "video_title": "COLLAGEN BOOSTER?! 😱 *ATELOCOLLAGEN* *COPPER PEPTIDE* - DRUGSTORE HIT 🤫",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "czas trzymania maski",
+      "tip": "Maskę w płachcie trzymamy 8 minut, nie dopuszczając do wyschnięcia.",
+      "timestamp": "06:18",
+      "video_id": "zg0onMCJ3bI",
+      "video_title": "ROSSMANN - MAX FACE RESULTS FOR 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    },
+    {
+      "topic": "kiedy stosować",
+      "tip": "Najlepiej stosować na noc przed snem, gdy skóra się regeneruje.",
+      "timestamp": "09:48",
+      "video_id": "zg0onMCJ3bI",
+      "video_title": "ROSSMANN - MAX FACE RESULTS FOR 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-10"
+    }
+  ]
+}
