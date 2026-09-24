@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Czy mogę tego używać?</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧴</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEF3F1; --surface:#FFFFFF; --ink:#16302B; --muted:#5B6B67; --line:#D3DDD9;
+  --good:#1F7A4D; --good-bg:#E1F2E8; --bad:#B3261E; --bad-bg:#FBE4E1; --neutral:#6E747C; --neutral-bg:#ECEEF0;
+  --head:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Figtree", "Segoe UI", system-ui, sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:inherit}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding:0 18px 60px}
+header{padding:28px 0 8px}
+h1{font-family:var(--head);font-weight:700;font-size:clamp(30px,8vw,44px);line-height:1.05;margin:0 0 6px;letter-spacing:-.02em}
+.sub{color:var(--muted);margin:0;font-size:15px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:14px 0 10px}
+.search{width:100%;font:500 19px var(--body);color:var(--ink);background:var(--surface);border:2px solid var(--ink);border-radius:14px;padding:14px 16px;outline:none}
+.search:focus-visible{box-shadow:0 0 0 4px #16302B33}
+.tabs{display:flex;gap:6px;margin-top:12px}
+.tab,.chip{font:600 15px var(--body);border:1.5px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:7px 14px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.chip[aria-pressed="true"]{border-color:var(--ink);background:var(--surface)}
+button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.count{color:var(--muted);font-size:14px;margin:6px 2px 10px}
+.list{display:flex;flex-direction:column;gap:8px}
+details.item{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+details.item summary{list-style:none;display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:14px 16px;cursor:pointer}
+details.item summary::-webkit-details-marker{display:none}
+.brand{font-size:13px;color:var(--muted);font-weight:500}
+.pname{font-family:var(--head);font-weight:500;font-size:18px;line-height:1.25}
+.cat{font-size:13px;color:var(--muted)}
+.verdict{font-family:var(--head);font-weight:700;font-size:15px;padding:6px 11px;border-radius:8px;white-space:nowrap}
+.v-polecany{color:var(--good);background:var(--good-bg)}
+.v-odradzany{color:var(--bad);background:var(--bad-bg)}
+.v-neutralny{color:var(--neutral);background:var(--neutral-bg)}
+.more{padding:0 16px 14px;border-top:1px solid var(--line)}
+.more p{margin:10px 0 0}
+.tags{font-size:14px;color:var(--muted)}
+.mention{margin-top:12px;padding-left:12px;border-left:3px solid var(--line)}
+.mention.polecany{border-color:var(--good)} .mention.odradzany{border-color:var(--bad)}
+.mention a{color:var(--ink);font-size:14px}
+.warn{font-size:14px;color:var(--bad);margin-top:10px}
+h2{font-family:var(--head);font-weight:700;font-size:24px;margin:28px 0 10px;letter-spacing:-.01em}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card .rule{font-weight:600}
+.card .why{color:var(--muted);font-size:15px;margin-top:4px}
+.card .src{font-size:13px;margin-top:8px}
+.card .src a{color:var(--muted)}
+.type{display:inline-block;font-size:13px;font-weight:600;border-radius:6px;padding:2px 8px;margin-bottom:6px}
+ol.steps{margin:8px 0 0;padding-left:22px}
+ol.steps li{margin:3px 0}
+.empty{background:var(--surface);border:1.5px dashed var(--line);border-radius:12px;padding:22px;color:var(--muted)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Czy mogę tego używać?</h1>
+    <p class="sub" id="meta">Oceny kosmetyków i wiedza z kanałów Kacpra</p>
+  </header>
+
+  <div class="bar">
+    <input id="q" class="search" type="search" placeholder="Wpisz nazwę lub markę" autocomplete="off" aria-label="Szukaj">
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" aria-selected="true" data-tab="products">Produkty</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="knowledge">Wiedza</button>
+    </div>
+    <div class="chips" id="pfilters">
+      <button class="chip" aria-pressed="true" data-f="all">Wszystkie</button>
+      <button class="chip" aria-pressed="false" data-f="polecany">Polecane</button>
+      <button class="chip" aria-pressed="false" data-f="odradzany">Odradzane</button>
+    </div>
+  </div>
+
+  <section id="products">
+    <div class="count" id="pcount"></div>
+    <div class="list" id="plist"></div>
+  </section>
+
+  <section id="knowledge" hidden>
+    <h2>Pielęgnacja na problem</h2>
+    <div class="chips" id="problems"></div>
+    <div class="list" id="routines" style="margin-top:10px"></div>
+    <h2>Łączenie składników</h2>
+    <div class="list" id="rules"></div>
+    <h2>Porady</h2>
+    <div class="list" id="tips"></div>
+  </section>
+</div>
+
+<script>
+const fold = s => (s||"").toString().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/ł/g,"l");
+const esc = s => (s||"").toString().replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const secs = t => { const p=(t||"").split(":").map(Number); if(p.some(isNaN)||!p.length) return 0; return p.reduce((a,b)=>a*60+b,0); };
+const link = s => `https://www.youtube.com/watch?v=${s.video_id}${secs(s.timestamp)?`&t=${secs(s.timestamp)}s`:""}`;
+const src = s => `<div class="src"><a href="${link(s)}" target="_blank" rel="noopener">${esc(s.channel)}: ${esc(s.video_title)}${s.timestamp?` (${esc(s.timestamp)})`:""}</a></div>`;
+
+let products=[], know={ingredient_rules:[],routines:[],tips:[]}, videos={};
+let filter="all", tab="products", problem=null;
+const q = document.getElementById("q");
+
+async function load(){
+  const bust = "?v=" + Date.now();
+  const get = async (f, d) => { try { const r = await fetch("data/"+f+bust); return r.ok ? await r.json() : d; } catch { return d; } };
+  [products, know, videos] = await Promise.all([get("products.json",[]), get("knowledge.json",know), get("videos.json",{})]);
+  const done = Object.values(videos).filter(v=>v.status==="done").length;
+  document.getElementById("meta").textContent = done
+    ? `${products.length} kosmetyków z ${done} obejrzanych filmów`
+    : "Baza się zapełnia. Pierwsze wyniki pojawią się po pierwszym uruchomieniu automatu.";
+  render();
+}
+
+function render(){
+  const term = fold(q.value.trim());
+  document.getElementById("pfilters").hidden = tab!=="products";
+  document.getElementById("products").hidden = tab!=="products";
+  document.getElementById("knowledge").hidden = tab!=="knowledge";
+  tab==="products" ? renderProducts(term) : renderKnowledge(term);
+}
+
+function renderProducts(term){
+  const list = products.filter(p =>
+    (filter==="all" || p.verdict===filter) &&
+    (!term || fold(`${p.brand} ${p.name} ${p.category} ${(p.ingredients||[]).join(" ")}`).includes(term)));
+  document.getElementById("pcount").textContent = products.length ? `${list.length} wyników` : "";
+  const el = document.getElementById("plist");
+  if(!products.length){ el.innerHTML = `<div class="empty">Tu pojawią się kosmetyki, gdy automat obejrzy pierwsze filmy.</div>`; return; }
+  if(!list.length){ el.innerHTML = `<div class="empty">Brak tego produktu w bazie. Autor go nie ocenił albo nazwa jest zapisana inaczej. Spróbuj wpisać samą markę.</div>`; return; }
+  el.innerHTML = list.slice(0,200).map(p => `
+    <details class="item">
+      <summary>
+        <div>
+          <div class="brand">${esc(p.brand)}</div>
+          <div class="pname">${esc(p.name)}</div>
+          ${p.category?`<div class="cat">${esc(p.category)}</div>`:""}
+        </div>
+        <span class="verdict v-${p.verdict}">${p.verdict==="polecany"?"Polecany":p.verdict==="odradzany"?"Odradzany":"Bez oceny"}</span>
+      </summary>
+      <div class="more">
+        ${p.conflict?`<p class="warn">Autor zmieniał zdanie. Pokazuję najnowszą ocenę.</p>`:""}
+        ${p.for?.length?`<p class="tags">Dla: ${esc(p.for.join(", "))}</p>`:""}
+        ${p.ingredients?.length?`<p class="tags">Składniki: ${esc(p.ingredients.join(", "))}</p>`:""}
+        ${[...p.mentions].sort((a,b)=>(b.date||"").localeCompare(a.date||"")).map(m=>`
+          <div class="mention ${m.verdict}">
+            <div>${esc(m.reason)||"Bez komentarza"}</div>
+            <a href="${link(m)}" target="_blank" rel="noopener">${esc(m.video_title)}${m.date?`, ${esc(m.date)}`:""}</a>
+          </div>`).join("")}
+      </div>
+    </details>`).join("");
+}
+
+function renderKnowledge(term){
+  const match = o => !term || fold(JSON.stringify(o)).includes(term);
+  const probs = [...new Set(know.routines.map(r => (r.problem||"").trim().toLowerCase()).filter(Boolean))].sort();
+  document.getElementById("problems").innerHTML = probs.map(p =>
+    `<button class="chip" aria-pressed="${p===problem}" data-p="${esc(p)}">${esc(p)}</button>`).join("");
+  const routines = know.routines.filter(r => (!problem || (r.problem||"").trim().toLowerCase()===problem) && match(r));
+  document.getElementById("routines").innerHTML = routines.length ? routines.map(r => `
+    <div class="card">
+      <div class="rule">${esc(r.problem)}${r.time_of_day?`, ${esc(r.time_of_day)}`:""}</div>
+      <ol class="steps">${(r.steps||[]).map(s=>`<li>${esc(s)}</li>`).join("")}</ol>
+      ${r.notes?`<div class="why">${esc(r.notes)}</div>`:""}
+      ${src(r)}
+    </div>`).join("") : `<div class="empty">Brak schematów${problem||term?" dla tego wyszukiwania":""}.</div>`;
+
+  const rules = know.ingredient_rules.filter(match);
+  document.getElementById("rules").innerHTML = rules.length ? rules.map(r => {
+    const t = (r.type||"").toLowerCase();
+    const cls = t.startsWith("nie") ? "v-odradzany" : t.startsWith("można") ? "v-polecany" : "v-neutralny";
+    return `<div class="card">
+      <span class="type ${cls}">${esc(r.type||"uwaga")}</span>
+      <div class="rule">${esc(r.rule)}</div>
+      ${r.ingredients?.length?`<div class="tags">${esc(r.ingredients.join(" + "))}</div>`:""}
+      ${r.why?`<div class="why">${esc(r.why)}</div>`:""}
+      ${src(r)}
+    </div>`;}).join("") : `<div class="empty">Brak zasad${term?" dla tego wyszukiwania":""}.</div>`;
+
+  const tips = know.tips.filter(match);
+  document.getElementById("tips").innerHTML = tips.length ? tips.map(t => `
+    <div class="card"><div class="rule">${esc(t.topic)}</div><div class="why">${esc(t.tip)}</div>${src(t)}</div>`).join("")
+    : `<div class="empty">Brak porad${term?" dla tego wyszukiwania":""}.</div>`;
+}
+
+q.addEventListener("input", render);
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => {
+  tab = b.dataset.tab;
+  document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", x===b));
+  render();
+}));
+document.getElementById("pfilters").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if(!b) return;
+  filter = b.dataset.f;
+  document.querySelectorAll("#pfilters .chip").forEach(x => x.setAttribute("aria-pressed", x===b));
+  render();
+});
+document.getElementById("problems").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if(!b) return;
+  problem = problem===b.dataset.p ? null : b.dataset.p;
+  render();
+});
+load();
+</script>
+</body>
+</html>

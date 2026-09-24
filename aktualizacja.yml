@@ -1,0 +1,41 @@
+name: Aktualizacja bazy
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aktualizacja
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalacja
+        run: pip install -r requirements.txt
+
+      - name: Oglądanie nowych filmów
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/process.py
+
+      - name: Zapis do bazy
+        if: always()
+        run: |
+          git config user.name "skincare-bot"
+          git config user.email "skincare-bot@users.noreply.github.com"
+          git add docs/data
+          git diff --staged --quiet || git commit -m "Aktualizacja bazy $(date +%F)"
+          git push

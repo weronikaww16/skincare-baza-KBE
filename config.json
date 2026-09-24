@@ -1,0 +1,18 @@
+{
+  "model": "gemini-flash-latest",
+  "since": "2025-09-24",
+  "daily_budget_minutes": 420,
+  "max_videos_per_run": 40,
+  "channels": [
+    {
+      "handle": "@kacperskinekspert",
+      "name": "Kacper Skin Ekspert",
+      "mode": "full"
+    },
+    {
+      "handle": "@KacperBeautyMake-Up",
+      "name": "Kacper Beauty Make-Up",
+      "mode": "products"
+    }
+  ]
+}
