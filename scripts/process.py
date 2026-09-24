@@ -22,9 +22,16 @@ PRODUCTS_F = DATA / "products.json"
 KNOW_F = DATA / "knowledge.json"
 
 API_KEY = os.environ.get("GEMINI_API_KEY")
-MODEL = CONFIG.get("model", "gemini-flash-latest")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+MODELS = CONFIG.get("models") or [
+    CONFIG.get("model", "gemini-flash-latest"),
+    "gemini-2.5-flash",
+    "gemini-flash-lite-latest",
+    "gemini-2.5-flash-lite",
+]
+MODELS = list(dict.fromkeys(MODELS))
+BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
 MAX_ATTEMPTS = 3
+BACKLOG_PER_CHANNEL = CONFIG.get("backlog_per_channel", 100)
 
 
 class RateLimited(Exception):
@@ -61,15 +68,23 @@ def list_videos(handle):
             e = json.loads(line)
         except json.JSONDecodeError:
             continue
+        date = None
         ts = e.get("timestamp") or e.get("release_timestamp")
+        if ts:
+            date = dt.datetime.fromtimestamp(ts, dt.timezone.utc).strftime("%Y-%m-%d")
+        elif e.get("upload_date"):
+            u = e["upload_date"]
+            date = f"{u[:4]}-{u[4:6]}-{u[6:8]}"
         videos.append({
             "id": e["id"],
             "title": e.get("title", ""),
             "duration": int(e.get("duration") or 1200),
-            "date": dt.datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d") if ts else None,
+            "date": date,
         })
     if not videos:
         print(f"[!] Nie udało się pobrać listy filmów dla {handle}:\n{res.stderr[-1500:]}")
+    dated = sum(1 for v in videos if v["date"])
+    print(f"{handle}: {len(videos)} filmów na kanale, z datą: {dated}")
     return videos
 
 
@@ -144,7 +159,11 @@ Zwróć JSON:
 Jeśli w filmie nie ma ocen produktów, zwróć pustą listę "products". Pisz po polsku. Zwróć tylko JSON."""
 
 
+active_model = 0
+
+
 def ask_gemini(video_id, prompt):
+    global active_model
     body = {
         "contents": [{
             "parts": [
@@ -158,23 +177,37 @@ def ask_gemini(video_id, prompt):
             "temperature": 0.2,
         },
     }
-    for attempt in range(3):
-        r = requests.post(GEMINI_URL, headers={"x-goog-api-key": API_KEY}, json=body, timeout=900)
+    waits = 0
+    while active_model < len(MODELS):
+        model = MODELS[active_model]
+        r = requests.post(BASE_URL.format(model), headers={"x-goog-api-key": API_KEY}, json=body, timeout=900)
+        if r.status_code == 200:
+            data = r.json()
+            parts = data.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+            text = "".join(p.get("text", "") for p in parts).strip()
+            text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
+            return json.loads(text)
+        msg = r.text[:800]
+        if r.status_code in (404, 400) and "model" in msg.lower() and "not" in msg.lower():
+            print(f"   model {model} niedostępny, próbuję następny")
+            active_model += 1
+            continue
         if r.status_code == 429:
-            print("   limit zapytań, czekam 70 s...")
+            daily = "perday" in msg.lower().replace("_", "").replace(" ", "") or "limit: 0" in msg
+            print(f"   [{model}] odmowa 429: {msg}")
+            if daily or waits >= 2:
+                print(f"   przełączam z modelu {model} na następny")
+                active_model += 1
+                waits = 0
+                continue
+            waits += 1
             time.sleep(70)
             continue
         if r.status_code >= 500:
             time.sleep(30)
             continue
-        if r.status_code != 200:
-            raise RuntimeError(f"Gemini {r.status_code}: {r.text[:500]}")
-        data = r.json()
-        parts = data.get("candidates", [{}])[0].get("content", {}).get("parts", [])
-        text = "".join(p.get("text", "") for p in parts).strip()
-        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
-        return json.loads(text)
-    raise RateLimited("Wyczerpany dzienny limit Gemini")
+        raise RuntimeError(f"Gemini {r.status_code}: {msg}")
+    raise RateLimited("Wszystkie modele wyczerpały dzienny limit")
 
 
 # ---------- scalanie ----------
@@ -240,7 +273,12 @@ def main():
 
     queue = []
     for ch in CONFIG["channels"]:
-        for v in list_videos(ch["handle"]):
+        vids = list_videos(ch["handle"])
+        if not any(v["date"] for v in vids):
+            vids = vids[:BACKLOG_PER_CHANNEL]
+            print(f"   brak dat, biorę {len(vids)} najnowszych filmów z kanału")
+        for rank, v in enumerate(vids):
+            v["rank"] = rank
             state = videos.get(v["id"], {})
             if state.get("status") == "done" or state.get("attempts", 0) >= MAX_ATTEMPTS:
                 continue
@@ -248,7 +286,8 @@ def main():
                 continue
             queue.append({**v, "channel": ch["name"], "mode": ch["mode"]})
 
-    queue.sort(key=lambda v: v["date"] or "9999", reverse=True)
+    # najnowsze najpierw, kanały na przemian
+    queue.sort(key=lambda v: (v["date"] or "9999", -v["rank"]), reverse=True)
     budget = CONFIG.get("daily_budget_minutes", 420) * 60
     limit = CONFIG.get("max_videos_per_run", 40)
     print(f"Do obejrzenia: {len(queue)} filmów")
@@ -257,7 +296,7 @@ def main():
     for v in queue:
         if done >= limit or used + v["duration"] > budget:
             break
-        print(f"-> {v['channel']}: {v['title']} ({v['duration'] // 60} min)")
+        print(f"-> {v['channel']}: {v['title']} ({v['duration'] // 60} min, {v['date'] or 'brak daty'})")
         prompt = PROMPT_FULL if v["mode"] == "full" else PROMPT_PRODUCTS
         source = {"video_id": v["id"], "video_title": v["title"], "channel": v["channel"], "date": v["date"]}
         try:
@@ -284,7 +323,7 @@ def main():
         save(PRODUCTS_F, products)
         save(KNOW_F, know)
         save(VIDEOS_F, videos)
-        print(f"   ok, produktów w filmie: {len(result.get('products') or [])}")
+        print(f"   ok ({MODELS[active_model]}), produktów w filmie: {len(result.get('products') or [])}")
         time.sleep(20)
 
     print(f"Gotowe: {done} filmów, łącznie produktów w bazie: {len(products)}")
