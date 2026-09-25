@@ -321,6 +321,178 @@
       "video_title": "COLLAGEN BOOSTER?! 😱 *ATELOCOLLAGEN* *COPPER PEPTIDE* - DRUGSTORE HIT 🤫",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-09-10"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "produkty z peptydami",
+        "witamina C inna niż tetra",
+        "kwas askorbinowy",
+        "etylowany kwas askorbinowy",
+        "askorbyloglukozyd"
+      ],
+      "rule": "Nie łączyć produktów z peptydami (np. maski z tuberozą) z kwasem askorbinowym i jego pochodnymi.",
+      "why": "Dochodzi do reakcji krzyżowo-kontaktowej, destabilizacji peptydów, rumienia, podrażnienia i zrujnowania bariery hydrolipidowej.",
+      "timestamp": "05:46",
+      "video_id": "s-Jwux9FPlM",
+      "video_title": "ROSSMANN - WIELKI HIT DLA KAŻDEGO W UCZCIWEJ CENIE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "witaminą C (tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Nie łączyć w jednej rutynie retinoidów z witaminą C innej niż tetraizopalmitynian askorbylu.",
+      "why": "Tetrawitamina C jako jedyna forma witaminy C nie reaguje z peptydami i nie dochodzi do reakcji krzyżowo-kontaktowej.",
+      "timestamp": "10:10",
+      "video_id": "Xle5gSuYYx8",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING AND WHAT’S NOT?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinal"
+      ],
+      "rule": "Nie stosować produktów z retinalem w okresie letnim (np. w sierpniu).",
+      "why": "Retinal uwrażliwia skórę na słońce i nie powinien być stosowany latem przez niektóre osoby.",
+      "timestamp": "02:26",
+      "video_id": "CxLiHBKeDW8",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "puder",
+        "podkład",
+        "świadoma pielęgnacja"
+      ],
+      "rule": "Jeden zły składnik (puder, podkład) równa się brak sensu stosowania świadomej pielęgnacji.",
+      "why": "Niszczą efekty, więc trzeba mieć wszystko świadome, aby wymagać efektów.",
+      "timestamp": "00:49",
+      "video_id": "XZ-iNZwSgTU",
+      "video_title": "HOW TO REDUCE DARK SPOTS AT HOME❗️ - PROVEN COMBO!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "cała seria Blue Moon (mgiełka/tonik)",
+        "mgiełka"
+      ],
+      "rule": "Nie stosować całej serii Blue Moon na raz z mgiełką, jeśli skóra może zaprotestować zaczerwienieniem.",
+      "why": "Skóra może silnie zareagować i się zaczerwienić.",
+      "timestamp": "06:50",
+      "video_id": "kWSfFp4aJsI",
+      "video_title": "ATTENTION ❗️END OF VACATION - START TIME!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "mozna łączyć",
+      "ingredients": [
+        "wcierka Exosome Scalp Booster",
+        "wcierka Blue Moon"
+      ],
+      "rule": "Można łączyć obie wcierki (jednego dnia jedną, drugiego drugą), aby uzyskać jeszcze lepsze efekty.",
+      "why": "Obie działają efektywnie i komplementarnie.",
+      "timestamp": "04:08",
+      "video_id": "kWSfFp4aJsI",
+      "video_title": "ATTENTION ❗️END OF VACATION - START TIME!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "witamina C (Nino-Nis-Tetra)",
+        "produkty z peptydami"
+      ],
+      "rule": "Jeśli w combo jest witamina C Nino-Nis-Tetra, żadne późniejsze produkty nie mogą mieć peptydów.",
+      "why": "Zgodnie z lekcją na kanale składniki te nie łączą się ze sobą.",
+      "timestamp": "02:56",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "disodium EDTA chelator",
+        "peptydy"
+      ],
+      "rule": "Jeśli produkt ma disodium EDTA chelator, to nie może być peptydem.",
+      "why": "Peptyd nie działa w obecności tego składnika.",
+      "timestamp": "03:13",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "tonik/serum",
+        "maska w płacie"
+      ],
+      "rule": "Konsystencja maski w płacie musi odpowiadać konsystencji serum i toniku (np. kremowa do kremowego).",
+      "why": "Aby utrzymać zasadę konsystencji od najlżejszej do najcięższej, inaczej będzie niekompatybilność.",
+      "timestamp": "04:46",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "serum z witaminą C",
+        "maska w płacie"
+      ],
+      "rule": "Jeżeli serum z witaminą C ma olejową konsystencję, maska w płacie nie może być żelowa.",
+      "why": "Musi być emulisyjna, żeby zachować spójność konsystencji.",
+      "timestamp": "09:51",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwasów peelingujących",
+        "retinoidów",
+        "krem redukujący niedoskonałości Pharmaceris"
+      ],
+      "rule": "W trakcie stosowania kremu zakaz innych kwasów peelingujących, a zwłaszcza retinoidów.",
+      "why": "Krem jest silnie złuszczający i przeciwzaskórnikowy.",
+      "timestamp": "03:36",
+      "video_id": "3uOlMmU4DjU",
+      "video_title": "PHARMACY HITS❗️EFFECTIVE face CREAM?😱, AND OTHER PRODUCTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas",
+        "retinol"
+      ],
+      "rule": "Nie łączyć kremu z kwasami i retinolem.",
+      "why": "Autor wspomina, że z kwasami i retinolem niczego nie łączymy.",
+      "timestamp": "04:52",
+      "video_id": "OtKpc-LeYbY",
+      "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-25"
     }
   ],
   "routines": [
@@ -660,6 +832,156 @@
       "video_title": "ROSSMANN - MAX FACE RESULTS FOR 15 PLN❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-09-10"
+    },
+    {
+      "problem": "Oczyszczenie, odświeżenie i regeneracja skóry rano",
+      "time_of_day": "rano",
+      "steps": [
+        "Aplikacja maski z glinką Miya myMUD na oczyszczoną skórę na około 3–5 minut",
+        "Zmycie maski letnią wodą i osuszenie twarzy ręcznikiem",
+        "Rozpylenie na twarz mgiełki Bielenda Royal",
+        "Aplikacja serum Kacper Skin Blue Moon z tripeptydem miedziowym",
+        "Nałożenie kremu/maski łagodzącej Kacper Skin Calming Recover Mask",
+        "Aplikacja kremu/maski pod oczy Dr Irena Eris Harmonic",
+        "Aplikacja kremu z filtrem SPF (autor zapowiada nałożenie poza kamerą)"
+      ],
+      "notes": "Po zmyciu maski glinkowej skóra jest chłonna i bardzo szybko wchłania składniki aktywne z kolejnych kosmetyków.",
+      "timestamp": "01:15",
+      "video_id": "Q10UNRjUAyE",
+      "video_title": "NEW AT ROSSMANN❗️- TESTING LIVE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-25"
+    },
+    {
+      "problem": "osłabione cebulki, wypadanie włosów, przetłuszczanie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "umyć skórę głowy i włosy",
+        "wykondycjonować i odżywić odżywką",
+        "rozpylić i wmasować preparat w skórę głowy i zostawić"
+      ],
+      "notes": "Stosować co najmniej 2 razy w tygodniu przez okres 2 miesięcy.",
+      "timestamp": "02:18",
+      "video_id": "ZD9ZkK3YUF8",
+      "video_title": "13 ZLOTYS - THAT'S ALL YOU NEED",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "problem": "odżywienie, ujędrnienie, nawilżenie skóry",
+      "time_of_day": "noc",
+      "steps": [
+        "Nałożyć grubszą warstwę maski na oczyszczoną skórę twarzy, szyi i dekoltu",
+        "Pozostawić do wchłonięcia na 35 minut",
+        "Pozbyć się nadmiaru / satynowo-olejowego wykończenia"
+      ],
+      "notes": "Można stosować zamiast kremu na noc lub kilkukrotnie w tygodniu.",
+      "timestamp": "01:50",
+      "video_id": "s-Jwux9FPlM",
+      "video_title": "ROSSMANN - WIELKI HIT DLA KAŻDEGO W UCZCIWEJ CENIE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "problem": "złuszczanie kwasami",
+      "time_of_day": "wieczór",
+      "steps": [
+        "używanie kwasów na ciało przez 3 noce pod rząd w tygodniu"
+      ],
+      "notes": "w pozostałe dni stosować balsamy nawilżająco-peptydowe",
+      "timestamp": "04:30",
+      "video_id": "CxLiHBKeDW8",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "problem": "przebarwienia",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "peeling kwasowy raz w tygodniu",
+        "stosowanie boosterów i toników",
+        "kremy na noc i serum z kwasem askorbinowym"
+      ],
+      "notes": "Kombo nie jest dla osób z zaburzoną barierą hydrolipidową; najpierw trzeba ją odbudować.",
+      "timestamp": "01:46",
+      "video_id": "XZ-iNZwSgTU",
+      "video_title": "HOW TO REDUCE DARK SPOTS AT HOME❗️ - PROVEN COMBO!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "problem": "kuracja przeciwdziałająca łysieniu androgenowemu i stymulująca wzrost włosów",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja wcierek Exosome Scalp Booster lub Blue Moon Hair Serum"
+      ],
+      "notes": "Można stosować naprzemiennie lub pojedynczo.",
+      "timestamp": "03:22",
+      "video_id": "kWSfFp4aJsI",
+      "video_title": "ATTENTION ❗️END OF VACATION - START TIME!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "problem": "złuszczanie i oczyszczanie skóry z przebarwieniami",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja peelingu Mela Correcting Peel raz w tygodniu od 1 do 3 minut",
+        "Zmycie peelingu",
+        "Nałożenie żelu/kremu"
+      ],
+      "notes": "Zaczynać od 1 minuty, potem zwiększać do 3 minut; po 30 minutach może wystąpić zaczerwienienie.",
+      "timestamp": "10:24",
+      "video_id": "kWSfFp4aJsI",
+      "video_title": "ATTENTION ❗️END OF VACATION - START TIME!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "problem": "ogólna pielęgnacja",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie skóry twarzy (demakijaż wieczorem, żel rano)",
+        "tonik do twarzy",
+        "serum (kremowe lub żelowe)",
+        "maska w płacie (zgodna z konsystencją serum) na 8 minut",
+        "krem"
+      ],
+      "notes": "Etap można wykonywać rano lub wieczorem. Maska silikonowa potęguje wnikanie składników i zapobiega wysychaniu.",
+      "timestamp": "02:05",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "problem": "zaskórniki i przebarwienia",
+      "time_of_day": "wieczór",
+      "steps": [
+        "aplikacja kremu redukującego niedoskonałości i zaskórniki przez 3 noce pod rząd w tygodniu"
+      ],
+      "notes": "W trakcie jego stosowania zakaz innych kwasów peelingujących i retinoidów.",
+      "timestamp": "03:35",
+      "video_id": "3uOlMmU4DjU",
+      "video_title": "PHARMACY HITS❗️EFFECTIVE face CREAM?😱, AND OTHER PRODUCTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "problem": "skóra po ekspozycji na słońce, przesuszenie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie",
+        "tonik nawilżający lub esencja nawilżająca",
+        "krem Cornu-Sensilium"
+      ],
+      "notes": "Można stosować na podkład tonizujący, a przy dużych powierzchniach używać mniej toniku.",
+      "timestamp": "06:29",
+      "video_id": "OtKpc-LeYbY",
+      "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-25"
     }
   ],
   "tips": [
@@ -1085,6 +1407,195 @@
       "video_title": "ROSSMANN - MAX FACE RESULTS FOR 15 PLN❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-09-10"
+    },
+    {
+      "topic": "Stosowanie masek z glinką",
+      "tip": "Pierwszy raz warto nałożyć maskę glinkową tylko na 2–3 minuty, aby sprawdzić reakcję skóry. Nie należy dopuszczać do jej całkowitego wyschnięcia na twarzy (można zraszać wodą).",
+      "timestamp": "00:39",
+      "video_id": "Q10UNRjUAyE",
+      "video_title": "NEW AT ROSSMANN❗️- TESTING LIVE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-25"
+    },
+    {
+      "topic": "Glinka myjąca a kuracja retinoidami",
+      "tip": "Przy stosowaniu retinoidów codzienne mycie twarzy glinką może być zbyt mocne dla skóry – w takim przypadku lepiej stosować ją wyłącznie jako maskę raz w tygodniu.",
+      "timestamp": "07:54",
+      "video_id": "Q10UNRjUAyE",
+      "video_title": "NEW AT ROSSMANN❗️- TESTING LIVE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-25"
+    },
+    {
+      "topic": "Sposób użycia produktu Miya myMUD",
+      "tip": "Miya myMUD daje znacznie bardziej spektakularne efekty oczyszczenia i wygładzenia, gdy jest stosowana jako kilkuminutowa maseczka niż jako szybki produkt myjący spłukiwany po paru sekundach.",
+      "timestamp": "09:35",
+      "video_id": "Q10UNRjUAyE",
+      "video_title": "NEW AT ROSSMANN❗️- TESTING LIVE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-25"
+    },
+    {
+      "topic": "cena a skład",
+      "tip": "Nie trzeba czystić ludziom portfeli ani wydawać fortuny, żeby zarobić dobry produkt. Warto korzystać z tańszych opcji o świetnym składzie.",
+      "timestamp": "07:18",
+      "video_id": "ZD9ZkK3YUF8",
+      "video_title": "13 ZLOTYS - THAT'S ALL YOU NEED",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "świadomość konsumencka",
+      "tip": "Pełna świadomość konsumencka polega na tym, że używacie wszystkiego o czystym składzie i dopiero wtedy można egzekwować rezultaty.",
+      "timestamp": "09:07",
+      "video_id": "ZD9ZkK3YUF8",
+      "video_title": "13 ZLOTYS - THAT'S ALL YOU NEED",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Wiek kremów",
+      "tip": "Nie istnieją kremy dedykowane konkretnemu wiekowi (np. 40+, 50+). To chwyt marketingowy służący zwiększeniu zysków ze sprzedaży.",
+      "timestamp": "00:54",
+      "video_id": "3aPMuLIevNQ",
+      "video_title": "CAN'T BUY FACE CREAMS?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Dobór kosmetyków",
+      "tip": "Kosmetyki do pielęgnacji dobieramy do potrzeb skóry, a nie do wieku zamieszczonego na opakowaniu.",
+      "timestamp": "01:40",
+      "video_id": "3aPMuLIevNQ",
+      "video_title": "CAN'T BUY FACE CREAMS?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Starzenie się skóry",
+      "tip": "Globalne starzenie się skóry rozpoczyna się około 25 roku życia, kiedy pojawiają się pierwsze oznaki przesuszenia i zmarszczki.",
+      "timestamp": "05:13",
+      "video_id": "3aPMuLIevNQ",
+      "video_title": "CAN'T BUY FACE CREAMS?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Główny wyznacznik",
+      "tip": "Głównym wyznacznikiem doboru kosmetyku nie powinien być opis marketingowy producenta ani wiek, a potrzeba Twojej skóry.",
+      "timestamp": "04:23",
+      "video_id": "3aPMuLIevNQ",
+      "video_title": "CAN'T BUY FACE CREAMS?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "stosowanie maski jako kremu",
+      "tip": "Maska może być stosowana jako krem na noc w mniejszej ilości, co pozwala na wielokrotne użycie z jednej saszetki.",
+      "timestamp": "02:00",
+      "video_id": "s-Jwux9FPlM",
+      "video_title": "ROSSMANN - WIELKI HIT DLA KAŻDEGO W UCZCIWEJ CENIE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "zabezpieczenie saszetki",
+      "tip": "Saszetkę można dobrze zamknąć klamrą, klamerką lub taśmą skleić, aby używać jej wielorazowo.",
+      "timestamp": "09:41",
+      "video_id": "s-Jwux9FPlM",
+      "video_title": "ROSSMANN - WIELKI HIT DLA KAŻDEGO W UCZCIWEJ CENIE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Wybór kremów z retinolem",
+      "tip": "Kremy z retinolem nie usuwają trądziku czy przebarwień – to produkty na start ze stabilnym stężeniem, odpowiednie na początek.",
+      "timestamp": "08:58",
+      "video_id": "Xle5gSuYYx8",
+      "video_title": "ROSSMANN - WHAT’S WORTH BUYING AND WHAT’S NOT?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Wybór produktów",
+      "tip": "Warto zwracać uwagę na składy i wybierać kosmetyki z porządną bazą recepturową oraz aktywnymi składnikami dopasowanymi do potrzeb skóry.",
+      "timestamp": "05:35",
+      "video_id": "Mu8xnYGmJPw",
+      "video_title": "KASIA APPRECIATED MY WORK❗️I BOUGHT A TON OF COSMETICS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Dobór kosmetyków dla nastolatków",
+      "tip": "Nie wymagaj od podstawowych serii nawilżających (np. Cloud 111) redukcji zmarszczek, trądziku czy przebarwień – to bezpieczne produkty nawilżające dla młodej skóry bez specjalnych problemów.",
+      "timestamp": "08:50",
+      "video_id": "CxLiHBKeDW8",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Ilość produktu",
+      "tip": "Maksymalnie dwie-trzy krople produktu o małej pojemności i silnej koncentracji, nie dawać więcej.",
+      "timestamp": "06:03",
+      "video_id": "XZ-iNZwSgTU",
+      "video_title": "HOW TO REDUCE DARK SPOTS AT HOME❗️ - PROVEN COMBO!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-04"
+    },
+    {
+      "topic": "Łączenie produktów",
+      "tip": "Jeśli kupujesz krem i igiełkę/serum, dobieraj inne rodzaje (np. krem z innej linii niż serum), aby nie przeciążyć skóry.",
+      "timestamp": "07:05",
+      "video_id": "kWSfFp4aJsI",
+      "video_title": "ATTENTION ❗️END OF VACATION - START TIME!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "topic": "maska silikonowa",
+      "tip": "Maska silikonowa wytwarza ciepło, utrzymuje wilgoć i sprawia, że składniki aktywne są lepiej wchłaniane w głąb skóry.",
+      "timestamp": "06:31",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "topic": "higiena maski silikonowej",
+      "tip": "Maska silikonowa jest jednorazowa? Nie, po każdym użyciu trzeba ją dokładnie umyć żelem i odstawić w czyste miejsce.",
+      "timestamp": "13:25",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "topic": "opuchnięcia poranne",
+      "tip": "Na obrzęki rano można włożyć maskę silikonową na 10 minut do lodówki, co da efekt chłodzenia i pobudzenia.",
+      "timestamp": "13:04",
+      "video_id": "jR7448MXU5E",
+      "video_title": "BOOST YOUR SKINCARE ROUTINE❗️- RESULTS IN JUST 8 MINUTES!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "topic": "stosowanie szamponu na siwienie",
+      "tip": "Szampon należy stosować regularnie w celu opóźnienia siwienia, jednak pamiętaj, że siwienie zachodzi w organizmie, a nie na skórze.",
+      "timestamp": "05:32",
+      "video_id": "3uOlMmU4DjU",
+      "video_title": "PHARMACY HITS❗️EFFECTIVE face CREAM?😱, AND OTHER PRODUCTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-28"
+    },
+    {
+      "topic": "stosowanie po opalaniu",
+      "tip": "Świąt ustępuje natychmiast po nałożeniu kremu na mokrą skórę po opalaniu.",
+      "timestamp": "07:12",
+      "video_id": "OtKpc-LeYbY",
+      "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-25"
     }
   ]
 }
