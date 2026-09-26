@@ -493,6 +493,360 @@
       "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-08-25"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "esencja z peptydami",
+        "witamina C (kwas askorbinowy i formy inne niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Produktu nie należy łączyć z żadną inną formą witaminy C poza tetraizopalmitynianem askorbylu (tetra).",
+      "why": "Ze względu na obecność peptydów może dojść do reakcji krzyżowo-kontaktowej, destabilizacji peptydu i uszkodzenia bariery hydrolipidowej.",
+      "timestamp": "04:27",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "esencja",
+        "peptyd miedziowy"
+      ],
+      "rule": "Produkt można bez przeszkód łączyć w jednej rutynie z peptydem miedziowym.",
+      "why": "Formuła nie zawiera w składzie chelatora Disodium EDTA.",
+      "timestamp": "04:40",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Produkt nie jest odpowiedni dla kobiet w ciąży oraz mam karmiących piersią.",
+      "why": "Kosmetyk zawiera w składzie fenoksyetanol.",
+      "timestamp": "04:12",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "witamina C (inna niż tetra)",
+        "peptydy"
+      ],
+      "rule": "Przed nałożeniem serum z peptydami nie należy stosować toniku z witaminą C inną niż forma tetra.",
+      "why": "Stosowanie innych form witaminy C przed peptydami może doprowadzić do niepożądanej reakcji krzyżowej.",
+      "timestamp": "03:26",
+      "video_id": "04Hr_otWOhM",
+      "video_title": "MAX RESULTS AFTER JUST 1 USE! *healthy skin* , INTENSE HYDRATION!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "Cocamidopropyl Betaine"
+      ],
+      "rule": "Osoby z nadwrażliwością lub alergią na Cocamidopropyl Betaine powinny unikać produktów z tym detergentem.",
+      "why": "Składnik ten może wywoływać reakcje alergiczne i podrażnienia u osób nadwrażliwych.",
+      "timestamp": "03:57",
+      "video_id": "03Tyncb1oa8",
+      "video_title": "POLISH COSMETICS THAT WON OVER EVERYTHING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwasowe serum do ust",
+        "inne kwasy i peelingi do ust"
+      ],
+      "rule": "W trakcie kuracji kwasowym serum do ust nie wolno stosować innych peelingów ani kwasów na usta.",
+      "why": "Podwójne złuszczanie mogłoby doprowadzić do podrażnienia i uszkodzenia delikatnego naskórka ust.",
+      "timestamp": "02:59",
+      "video_id": "46dqNMnydgA",
+      "video_title": "NEW AT ROSSMANN - WHAT TO CHOOSE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "kwasy złuszczające do ust",
+        "filtry UV (SPF 50)"
+      ],
+      "rule": "Podczas stosowania peelingu kwasowego na usta, w ciągu dnia obowiązkowo należy używać pomadki z filtrem SPF 50.",
+      "why": "Złuszczony kwasami naskórek ust jest uwrażliwiony i wymaga bezwzględnej ochrony przed promieniowaniem słonecznym.",
+      "timestamp": "03:01",
+      "video_id": "46dqNMnydgA",
+      "video_title": "NEW AT ROSSMANN - WHAT TO CHOOSE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "serum z mikroigiełkami",
+        "witamina C (inna niż tetra)"
+      ],
+      "rule": "Przed nałożeniem serum z mikroigiełkami nie stosować form witaminy C innych niż tetraizopalmitynian askorbylu.",
+      "why": "Formy kwasowe witaminy C w połączeniu z mikronakłuwaniem mogą wywołać silne podrażnienia.",
+      "timestamp": "09:20",
+      "video_id": "tbf78f96aa8",
+      "video_title": "ROSSMANN - IS THIS A WRINKLE REVOLUTION?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Ascorbyl Tetraisopalmitate (witamina C tetra)",
+        "peptydy (w tym peptydy miedzi)",
+        "ceramidy",
+        "lipidy"
+      ],
+      "rule": "Witaminę C w formie tetra można bez problemu łączyć w jednej rutynie ze wszystkimi rodzajami peptydów, ceramidami oraz lipidami.",
+      "why": "Forma tetra nie destabilizuje peptydów (w przeciwieństwie do czystego kwasu askorbinowego).",
+      "timestamp": "09:08",
+      "video_id": "J8nyC9SXMb4",
+      "video_title": "PHARMACY HIT? 🫢 - WILL IT WORK MIRACLES? LET’S FIND OUT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas mlekowy / serum złuszczające",
+        "inne kwasy",
+        "peelingi",
+        "retinoidy"
+      ],
+      "rule": "W trakcie stosowania serum z kwasem mlekowym nie wolno łączyć go z innymi kwasami, peelingami oraz retinoidami.",
+      "why": "Serum ma właściwości keratolityczne i złuszczające naskórek, więc dodatkowe substancje drażniące mogłyby uszkodzić skórę.",
+      "timestamp": "04:02",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (inna niż tetraizopalmitynian)"
+      ],
+      "rule": "Peptydów nie łączyć z inną witaminą C niż tetraizopalmitynian.",
+      "why": "Dochodzi do reakcji przewonokontaktowej, destabilizacji peptydów oraz podrażnienia i rumienia.",
+      "timestamp": "08:01",
+      "video_id": "g4TzEP9BF4Q",
+      "video_title": "THIS EYE CREAM WORKS WONDERS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "peptydy",
+        "witamina C"
+      ],
+      "rule": "Peptydy można łączyć wyłącznie z formą witaminy C taką jak treha izopalmitynian askorbylu.",
+      "why": "Inne formy witaminy C stabilizują peptydy w sposób, który wywołuje reakcję krzyżowo-kontaktową, niszcząc barierę hydrolipidową.",
+      "timestamp": "05:26",
+      "video_id": "aZ4A9WEO7nA",
+      "video_title": "4 EFFECTIVE ROSSMANN PRODUCTS WORTH BUYING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "serum peptydowe sygnałowe",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie wolno łączyć serum z peptydami sygnałowymi z peptydami miedziowymi.",
+      "why": "Serum z peptydami sygnałowymi ma chelator disodium EDTA, więc nie może być łączone z peptydem miedziowym.",
+      "timestamp": "06:04",
+      "video_id": "aZ4A9WEO7nA",
+      "video_title": "4 EFFECTIVE ROSSMANN PRODUCTS WORTH BUYING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "alkohol denat."
+      ],
+      "rule": "Alkohol denat. na końcu składu może naruszać barierę hydrolipidową.",
+      "why": "Stara wersja kremu miała w składzie alkohol denat. (pod nazwą alcohol denat. lub alchocol), który niszczył barierę hydrolipidową, nowa wersja go nie ma.",
+      "timestamp": "01:41",
+      "video_id": "NU3MACTo3sQ",
+      "video_title": "ATTENTION❗️THEY FINALLY FIXED THIS FACE CREAM!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy miedziowe",
+        "witamina C (kwas askorbinowy)"
+      ],
+      "rule": "Nie łączyć peptydów miedziowych z witaminą C kwasową.",
+      "why": "Dochodzi do destablilizacji peptydów miedziowych do reakcji krzyżowokontaktowej do zrujnowania bariery hydrolipidowej.",
+      "timestamp": "10:14",
+      "video_id": "-d1dLjJ8I0E",
+      "video_title": "ONE OF THE BEST FACE CREAMS IN POLAND!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "serum nawilżające (np. Lekere Ultra Hydration)",
+        "większość składników aktywnych"
+      ],
+      "rule": "Produkt można łączyć ze wszystkimi składnikami aktywnymi.",
+      "why": "Ma skoncentrowany skład celujący w nawilżenie i regenerację bariery hydrolipidowej.",
+      "timestamp": "01:18",
+      "video_id": "I1OID8zQSDM",
+      "video_title": "EFFECTIVE FACE SERUM FOR EVERY SKIN TYPE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "serum nawilżające",
+        "kwasy",
+        "retinoidy"
+      ],
+      "rule": "Nie łączyć z kwasami i retinoidami jako bazą nośnikową, ale można stosować jako pielęgnację wspierającą.",
+      "why": "Z określonymi składnikami silnie złuszczającymi nie należy ich mieszać bezpośrednio, choć jako nawilżenie po kwasach sprawdzą się idealnie.",
+      "timestamp": "09:20",
+      "video_id": "I1OID8zQSDM",
+      "video_title": "EFFECTIVE FACE SERUM FOR EVERY SKIN TYPE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "maska Oriflame sleeping mask",
+        "krem z filtrem (np. Asoa)"
+      ],
+      "rule": "Nie należy nakładać mokrej maski Oriflame bezpośrednio pod krem z filtrem.",
+      "why": "Maska musi się w pełni wchłonąć i dać lekko lepką warstwę; zbyt szybkie nałożenie kremu z filtrem powoduje rolowanie się produktów.",
+      "timestamp": "08:14",
+      "video_id": "Gm1jYapCq9I",
+      "video_title": "RESULTS AFTER JUST 1 USE ❗️- GLOWING, PERFECTLY HYDRATED SKIN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C"
+      ],
+      "rule": "Nie wolno łączyć peptydów z witaminą C w jednej rutynie pielęgnacyjnej.",
+      "why": "Peptydy ulegają dezaktywacji i dochodzi do reakcji krzyżowocontaktowej, a w efekcie do zniszczenia bariery hydrolipidowej.",
+      "timestamp": "08:18",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C tetra"
+      ],
+      "rule": "Z witaminą C tetra można łączyć peptydy w jednej rutynie.",
+      "why": "Z innymi formami witaminy C peptydy ulegają dezaktywacji, ale z tetram witaminy C jest to możliwe.",
+      "timestamp": "08:21",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "dismutaza etanowa",
+        "czysty peptyd miedziowy",
+        "czysty peptyd"
+      ],
+      "rule": "Nie można łączyć tego produktu z pochodnym peptydem miedziowym ani czystym peptydem miedziowym.",
+      "why": "Z dysmutazą etanową i peptydami miedziowymi produkt ten się nie łączy.",
+      "timestamp": "08:48",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "ceramidy"
+      ],
+      "rule": "Najlepiej łączyć peptydy z ceramidami.",
+      "why": "Dzięki temu serum dopełni rutynę kremem ceramidowym.",
+      "timestamp": "09:00",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "tetram witaminy C"
+      ],
+      "rule": "Z tetram witaminy C można łączyć peptydy.",
+      "why": "Peptydy wjeżdżają pierwsze, a później tetra druga.",
+      "timestamp": "09:05",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "czysta witamina C"
+      ],
+      "rule": "Nie łączyć produktów z peptydami z produktami zawierającymi inną formę witaminy C niż tetraizopalmitynian askorbylu.",
+      "why": "Peptydy nie reagują dobrze z większością form witaminy C poza tetraisopalmitynianem askorbylu.",
+      "timestamp": "07:10",
+      "video_id": "v2GbgKaR3eE",
+      "video_title": "ROSSMANN - 5 EFFECTIVE SKINCARE PRODUCTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "produkt",
+        "peptyd miedziowy"
+      ],
+      "rule": "Produktu nie można łączyć z żadnym peptydem miedziowym w jednej rutynie pielęgnacyjnej.",
+      "why": "Wynika to ze składu i zawartości poszczególnych substancji.",
+      "timestamp": "03:45",
+      "video_id": "kxn-EJqwBqw",
+      "video_title": "I WASTED MY MONEY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
     }
   ],
   "routines": [
@@ -982,6 +1336,338 @@
       "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-08-25"
+    },
+    {
+      "problem": "sucha, odwodniona skóra podczas kuracji retinoidami",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja dwufazowej esencji/mgiełki jako toniku",
+        "Kolejne kroki pielęgnacji regenerująco-nawilżającej (w noce bez retinoidów)"
+      ],
+      "notes": "Podczas kuracji retinoidami skóra potrzebuje silnego nawodnienia i odbudowy bariery hydrolipidowej; esencja ułatwia też wchłanianie kolejnych kosmetyków.",
+      "timestamp": "07:02",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "problem": "skóra przesuszona, podrażniona, po opalaniu i kąpielach wodnych",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Dokładne oczyszczenie skóry twarzy",
+        "Aplikacja toniku lub esencji nawadniającej (bez aktywnej witaminy C innej niż tetra)",
+        "Nałożenie małej ilości neuroserum peptydowego na wilgotną skórę",
+        "Aplikacja obfitej warstwy kremu Kailas na wchłonięte w około 80-90% serum"
+      ],
+      "notes": "Gdy skóra jest rozogniona i przesuszona, należy zrezygnować z innych silnych substancji aktywnych i skupić się wyłącznie na regeneracji.",
+      "timestamp": "03:23",
+      "video_id": "04Hr_otWOhM",
+      "video_title": "MAX RESULTS AFTER JUST 1 USE! *healthy skin* , INTENSE HYDRATION!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "suche, spierzchnięte usta wymagające złuszczenia",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Dokładne umycie i osuszenie ust",
+        "Zaaplikowanie i wklepanie niewielkiej ilości kwasowego serum złuszczającego Bielenda"
+      ],
+      "notes": "Stosować wyłącznie solowo na noc, dokładnie przez 3 noce pod rząd w tygodniu. W ciągu dnia obowiązkowo aplikować pomadkę z SPF 50.",
+      "timestamp": "02:55",
+      "video_id": "46dqNMnydgA",
+      "video_title": "NEW AT ROSSMANN - WHAT TO CHOOSE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "pierwsze oznaki starzenia, potrzeba wygładzenia i delikatnej odnowy naskórka",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Oczyszczenie i stonizowanie skóry (bez witaminy C innej niż tetra)",
+        "Aplikacja serum z mikroigiełkami metodą wklepującą/stemplującą (nie rozcierać)",
+        "Aplikacja kremu okluzyjnego metodą wklepującą/stemplującą (nie rozcierać)"
+      ],
+      "notes": "Po aplikacji iść spać; na drugi dzień może być odczuwalne delikatne kłucie, dopóki mikroigiełki nie zostaną naturalnie usunięte z naskórka.",
+      "timestamp": "09:11",
+      "video_id": "tbf78f96aa8",
+      "video_title": "ROSSMANN - IS THIS A WRINKLE REVOLUTION?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "skóra sucha, dojrzała, z przebarwieniami, wymagająca regeneracji",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Oczyszczenie twarzy",
+        "Aplikacja toniku (np. z peptydami)",
+        "Aplikacja serum wodnego/żelowego (np. z peptydem miedzi)",
+        "Aplikacja 1-2 kropli serum olejowego z witaminą C tetra",
+        "Nałożenie kremu domykającego pielęgnację"
+      ],
+      "notes": "Serum na bazie olejowej musi być aplikowane jako ostatnie serum przed nałożeniem kremu.",
+      "timestamp": "08:50",
+      "video_id": "J8nyC9SXMb4",
+      "video_title": "PHARMACY HIT? 🫢 - WILL IT WORK MIRACLES? LET’S FIND OUT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "wypadanie włosów / oszczędna kuracja ampułkami",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Stosowanie jednej ampułki dziennie przez 10 kolejnych dni w miesiącu (jako intensywny shot)",
+        "Stosowanie innej, tańszej wcierki w pozostałe dni miesiąca"
+      ],
+      "notes": "Pozwala to na regularną stymulację mieszków włosowych bez nadmiernego obciążania domowego budżetu.",
+      "timestamp": "06:34",
+      "video_id": "DGGjJPb8mzc",
+      "video_title": "ROSSMANN - PRZEŁOM W REDUKCJI WYPADANIA WŁOSÓW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "złuszczanie naskórka i świeże przebarwienia",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Dokładne oczyszczenie skóry",
+        "Aplikacja serum solo na noc (bez nakładania żadnych innych kosmetyków na wierzch)"
+      ],
+      "notes": "Stosować przez 3 noce z rzędu w tygodniu; produkt ma charakter keratolityczny.",
+      "timestamp": "03:58",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "sucha skóra wokół oczu, zmarszczki z przesuszenia, oznaki zmęczenia",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja kremu pod oczy rano i wieczorem",
+        "Łączenie z peptydami, ceramidami i lipidami"
+      ],
+      "notes": "Produkt działa nawilżająco i przeciwzmarszczkowo.",
+      "timestamp": "07:55",
+      "video_id": "g4TzEP9BF4Q",
+      "video_title": "THIS EYE CREAM WORKS WONDERS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "skórzane, kadniane i szafranowe nuty zapachowe",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "rozpuszczalnik dla olejków zawartych w bazie zapachu (alkohol denat)",
+        "kompozycja zapachowa",
+        "czysta woda",
+        "olejki",
+        "regulator",
+        "konserwant"
+      ],
+      "notes": "Skład jest prosty i minimalistyczny, bez filtrów przenikających do zapachu.",
+      "timestamp": "06:05",
+      "video_id": "oP19I8u9cS0",
+      "video_title": "SKOLIM KAMIKAZE - A SCENT LIKE NO OTHER!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "nieprzyjemny zapach pach",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie pach",
+        "nałożenie produktu złuszczającego z kwasami",
+        "nałożenie dezodorantu"
+      ],
+      "notes": "należy stosować kwasy (np. laktobionowy, salicylowy, mlekowy, pirogronowy, azelainowy) oraz dbać o brak martwego naskórka",
+      "timestamp": "05:37",
+      "video_id": "JtOEmFwICPw",
+      "video_title": "STINKY ARMPITS? - NOTHING TO BE ASHAMED OF, IT'S A PROBLEM THAT NEEDS SOLVING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "przetłuszczająca się skóra głowy i matowe włosy",
+      "time_of_day": "raz w tygodniu",
+      "steps": [
+        "umyć skórę głowy i włosy szamponem głęboko oczyszczającym",
+        "nałożyć odżywkę octową na 2-3 minuty (lub do 10 minut w celu odżywienia skóry)",
+        "spłukać"
+      ],
+      "notes": "Można stosować po farbowaniu lub tonowaniu włosów w celu domknięcia łusek i przedłużenia trwałości koloru.",
+      "timestamp": "04:41",
+      "video_id": "BcDFG1XcOsg",
+      "video_title": "A HUGE HAIR HIT FOR 13 ZLOTYS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "detoksykacja pach z aluminium",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie pach żelem rano i wieczorem",
+        "stosowanie dezodorantu kwasowego lub bez aluminium",
+        "czas detoksykacji trwa od kilku tygodni do kilku miesięcy"
+      ],
+      "notes": "Przejście na naturalne dezodoranty wymaga detoksykacji z aluminium i potu, która może potrwać kilka miesięcy.",
+      "timestamp": "01:04",
+      "video_id": "UYjSrRQ1WQk",
+      "video_title": "ROSSMANN - THE 12 BEST UNDERARM DEODORANTS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "odbudowa barier hydrolipidowych i nawilżenie skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Oczyszczenie skóry",
+        "Nałożenie kremu Isana Ceramidy 3% Pantenol"
+      ],
+      "notes": "Można stosować rano i wieczorem, produkt jest na tyle uniwersalny, że pasuje do większości rutyn pielęgnacyjnych.",
+      "timestamp": "07:34",
+      "video_id": "NU3MACTo3sQ",
+      "video_title": "ATTENTION❗️THEY FINALLY FIXED THIS FACE CREAM!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "odwodnienie skóry, uszkodzona bariera hydrolipidowa, suchość",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie twarzy i dekoltu",
+        "rozprowadzenie serum rano i wieczorem",
+        "nałożenie kremu lub dalsza pielęgnacja"
+      ],
+      "notes": "Stosować rano i wieczorem dla szybszego nawilżenia i odzyskania komfortu skóry.",
+      "timestamp": "02:59",
+      "video_id": "I1OID8zQSDM",
+      "video_title": "EFFECTIVE FACE SERUM FOR EVERY SKIN TYPE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "nawilżenie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie twarzy",
+        "nałożenie esencji (toniku)",
+        "serum aktywne",
+        "krem lub jaba"
+      ],
+      "notes": "Można stosować rano i wieczorem.",
+      "timestamp": "02:55",
+      "video_id": "KEHv42dUnuc",
+      "video_title": "ROSSMANN HIT FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "sucha, odwodniona i wrażliwa skóra głowy oraz przesuszone i zniszczone włosy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożyć odżywkę na skórę głowy i włosy",
+        "w przypadku skóry głowy pozostawić na minimum 10 minut",
+        "w przypadku włosów można nałożyć i spłukać od razu lub wygładzić domknięte łuski"
+      ],
+      "notes": "Może być stosowana nawet dwa razy dziennie.",
+      "timestamp": "07:28",
+      "video_id": "2GGhqHLLNz8",
+      "video_title": "A HAIR MIRACLE THAT COSTS PENNIES AND GIVES AMAZING RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "odwodnienie, brak blasku, lekkie nawilżenie",
+      "time_of_day": "rano",
+      "steps": [
+        "mycie twarzy",
+        "tonik z peptydami, ceramidami, lipidami lub primery",
+        "serum Jagi glow anti-age",
+        "krem z filtrem"
+      ],
+      "notes": "Idealne combo pod makijaż, nie obciąża skóry, daje efekt glass skin.",
+      "timestamp": "01:46",
+      "video_id": "Gm1jYapCq9I",
+      "video_title": "RESULTS AFTER JUST 1 USE ❗️- GLOWING, PERFECTLY HYDRATED SKIN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "upalne dni, odwodniona, zmęczona skóra",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczanie twarzy",
+        "serum Jagi",
+        "maska Oriflame sleeping mask (odczekać minutę aż się wchłonie)"
+      ],
+      "notes": "Świetna regeneracja i nawilżenie na noc.",
+      "timestamp": "05:01",
+      "video_id": "Gm1jYapCq9I",
+      "video_title": "RESULTS AFTER JUST 1 USE ❗️- GLOWING, PERFECTLY HYDRATED SKIN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "złuszczanie i oczyszczanie skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożyć równomiernie grubą warstwę maski na oczyszczoną, suchą skórę twarzy",
+        "omijać okolicę oczu i ust",
+        "pozostawić maksymalnie na 10 minut",
+        "zmyć"
+      ],
+      "notes": "Maska nie ma prawa zaschnąć na twarzy; stosować 1-2 razy w tygodniu.",
+      "timestamp": "03:50",
+      "video_id": "BKV8QmAyVJQ",
+      "video_title": "OMG❗️THE WAY THIS COOLS THE FACE❗️- AN EFFECTIVE PRODUCT THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "trądzik, krostki, niedoskonałości, przebarwienia",
+      "time_of_day": "wieczór",
+      "steps": [
+        "spryskiwanie skóry po umyciu",
+        "dokładne wytarcie i wmasowanie ręcznikiem",
+        "rozprowadzenie dłońmi",
+        "stosowanie 3 noce pod rząd w tygodniu w trakcie zakazu innych peelingów kwasowych"
+      ],
+      "notes": "Stosować 3 noce pod rząd w tygodniu; w pozostałe dni po umyciu nakładać mocno nawilżające balsamy, filtr oraz unikać silnego moczenia skóry.",
+      "timestamp": "04:19",
+      "video_id": "fpRhO4EFjtQ",
+      "video_title": "THE BEST SKINCARE PRODUCT IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "pielęgnacja skóry i pozorne wygładzenie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożenie kremu lub ampułki Centella",
+        "umycie twarzy"
+      ],
+      "notes": "Po umyciu twarzy efekt wygładzenia znika, a stan skóry nie ulega poprawie.",
+      "timestamp": "02:08",
+      "video_id": "0dL6pdmsGuk",
+      "video_title": "DO YOU NEED TO RUN TO BIEDRONKA?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "problem": "stylizacja i kondycja włosów",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożenie niewielkiej ilości żelu na mokre lub suche włosy",
+        "przeczesanie i pozostawienie do wyschnięcia"
+      ],
+      "notes": "Można nakładać warstwowo w ciągu dnia, żeby poprawić stylizację.",
+      "timestamp": "05:29",
+      "video_id": "x-Xpi_zBJNU",
+      "video_title": "ROSSMANN - A NEW PRODUCT I RECOMMEND TO EVERYONE",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
     }
   ],
   "tips": [
@@ -1596,6 +2282,546 @@
       "video_title": "EFFECTIVE FACE CREAM YOU CAN BUY AT THE PHARMACY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-08-25"
+    },
+    {
+      "topic": "Przygotowanie produktu do użycia",
+      "tip": "Mgiełka ma formułę dwufazową (olejek i płyn) – przed każdym użyciem należy ją mocno wstrząsnąć.",
+      "timestamp": "01:07",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "topic": "Alergia na produkty pszczele",
+      "tip": "Osoby ze stwierdzonym uczuleniem na produkty pochodzenia pszczelego (miód, mleczko pszczele) nie mogą stosować tej esencji.",
+      "timestamp": "02:56",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "topic": "Podbicie efektu glow w makijażu",
+      "tip": "Rozpylenie mgiełki ze sporej odległości na zbyt suchy, matowy makijaż pozwala go ożywić i nadać cerze promienny blask.",
+      "timestamp": "05:00",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "topic": "Sposób aplikacji",
+      "tip": "Produkt można stosować tradycyjnie jako tonik wklepywany w skórę przed kolejnymi krokami pielęgnacji, co ułatwia wchłanianie następnych produktów.",
+      "timestamp": "06:54",
+      "video_id": "t5K0fwZOgT4",
+      "video_title": "NEW AT ROSSMANN❗️- I DIDN'T SEE THIS COMING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-26"
+    },
+    {
+      "topic": "Wydajność serum peptydowego",
+      "tip": "Serum peptydowe jest silnie skoncentrowane, dlatego wystarczy zaledwie pół pompki nałożone na wilgotną od toniku skórę.",
+      "timestamp": "02:26",
+      "video_id": "04Hr_otWOhM",
+      "video_title": "MAX RESULTS AFTER JUST 1 USE! *healthy skin* , INTENSE HYDRATION!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Przechowywanie kremu Kailas",
+      "tip": "Krem Kailas można trzymać w lodówce, co daje dodatkowe ukojenie przy podrażnionej skórze.",
+      "timestamp": "08:11",
+      "video_id": "04Hr_otWOhM",
+      "video_title": "MAX RESULTS AFTER JUST 1 USE! *healthy skin* , INTENSE HYDRATION!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Łuszczenie skóry po słońcu",
+      "tip": "W przypadku silnego poparzenia słonecznego i schodzenia naskórka bezwzględnie nie wolno go drapać ani odrywać.",
+      "timestamp": "09:34",
+      "video_id": "04Hr_otWOhM",
+      "video_title": "MAX RESULTS AFTER JUST 1 USE! *healthy skin* , INTENSE HYDRATION!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Dobór masełek do twarzy do typu skóry",
+      "tip": "Bogate, tłuste masełka do twarzy o działaniu okluzyjnym nie są odpowiednie dla skóry tłustej i trądzikowej; najlepiej sprawdzą się przy cerze suchej i odwodnionej.",
+      "timestamp": "02:27",
+      "video_id": "03Tyncb1oa8",
+      "video_title": "POLISH COSMETICS THAT WON OVER EVERYTHING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Podział kosmetyków ze względu na płeć",
+      "tip": "Kosmetyki myjące i pielęgnacyjne nie mają płci – żele z etykietami dedykowanymi mężczyznom może z powodzeniem stosować każdy, o ile odpowiada mu skład.",
+      "timestamp": "04:03",
+      "video_id": "03Tyncb1oa8",
+      "video_title": "POLISH COSMETICS THAT WON OVER EVERYTHING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Częstotliwość stosowania kwasowego peelingu do ust",
+      "tip": "Nie należy używać kwasowych produktów złuszczających do ust codziennie – optymalna kuracja to aplikacja przez 3 kolejne noce w tygodniu, ponieważ usta nie produkują codziennie nadmiaru martwego naskórka.",
+      "timestamp": "02:44",
+      "video_id": "46dqNMnydgA",
+      "video_title": "NEW AT ROSSMANN - WHAT TO CHOOSE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Ochrona przeciwsłoneczna ust",
+      "tip": "W trakcie kuracji kwasami złuszczającymi na usta niezbędne jest zabezpieczanie ich w ciągu dnia pomadką z wysokim filtrem SPF 50 (np. Bepanthen).",
+      "timestamp": "03:01",
+      "video_id": "46dqNMnydgA",
+      "video_title": "NEW AT ROSSMANN - WHAT TO CHOOSE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "sposób aplikacji produktów z mikroigiełkami",
+      "tip": "Kosmetyków z mikroigiełkami oraz nakładanych na nie kremów nie wolno rozcierać na skórze, lecz należy je wklepywać/stemplować, aby nie uszkodzić bariery hydrolipidowej i nie wywołać podrażnień.",
+      "timestamp": "09:11",
+      "video_id": "tbf78f96aa8",
+      "video_title": "ROSSMANN - IS THIS A WRINKLE REVOLUTION?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "ekstrakt z torfu w kosmetykach",
+      "tip": "Jeśli po wielu kosmetykach marki Tołpa występuje podrażnienie lub zaczerwienienie skóry, przyczyną może być indywidualna reakcja na ekstrakt z torfu.",
+      "timestamp": "04:21",
+      "video_id": "tbf78f96aa8",
+      "video_title": "ROSSMANN - IS THIS A WRINKLE REVOLUTION?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "bezpieczeństwo w ciąży i podczas karmienia",
+      "tip": "Ze względu na obecność fenoksyetanolu w składzie, produkt nie jest zalecany dla kobiet w ciąży oraz karmiących piersią.",
+      "timestamp": "06:02",
+      "video_id": "tbf78f96aa8",
+      "video_title": "ROSSMANN - IS THIS A WRINKLE REVOLUTION?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Cera tłusta i trądzikowa a bazy olejowe",
+      "tip": "Kosmetyki oparte na bazie oleju ze słodkich migdałów i mieszance olejów mogą działać komedogennie i wywoływać wysyp podskórnych grudek u osób z cerą tłustą, trądzikową i skłonną do zapychania.",
+      "timestamp": "04:06",
+      "video_id": "J8nyC9SXMb4",
+      "video_title": "PHARMACY HIT? 🫢 - WILL IT WORK MIRACLES? LET’S FIND OUT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Kolejność nakładania kosmetyków",
+      "tip": "Kosmetyki należy zawsze nakładać od najlżejszej konsystencji do najcięższej; serum olejowe aplikuje się po produktach wodnych, a przed kremem zamykającym.",
+      "timestamp": "09:24",
+      "video_id": "J8nyC9SXMb4",
+      "video_title": "PHARMACY HIT? 🫢 - WILL IT WORK MIRACLES? LET’S FIND OUT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Stosowanie serum pod oczy",
+      "tip": "Jeśli po nałożeniu produktu w okolice oczu wystąpi podrażnienie, zaczerwienienie lub łzawienie, należy omijać te okolice i stosować produkt wyłącznie na resztę twarzy.",
+      "timestamp": "09:39",
+      "video_id": "J8nyC9SXMb4",
+      "video_title": "PHARMACY HIT? 🫢 - WILL IT WORK MIRACLES? LET’S FIND OUT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Łysienie androgenowe",
+      "tip": "Same kosmetyki i ampułki nie wyleczą łysienia androgenowego, ponieważ problem leży wewnątrz organizmu; konieczna jest konsultacja lekarska i wdrożenie farmakoterapii, a ampułki mogą stanowić cenne wsparcie leczenia.",
+      "timestamp": "02:05",
+      "video_id": "DGGjJPb8mzc",
+      "video_title": "ROSSMANN - PRZEŁOM W REDUKCJI WYPADANIA WŁOSÓW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Uniwersalność stosowania",
+      "tip": "Ampułki można z powodzeniem stosować również przy ogólnym wypadaniu włosów niezwiązanym z hormonami oraz w celu przyspieszenia porostu.",
+      "timestamp": "03:50",
+      "video_id": "DGGjJPb8mzc",
+      "video_title": "ROSSMANN - PRZEŁOM W REDUKCJI WYPADANIA WŁOSÓW?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Skuteczność na przebarwienia",
+      "tip": "Serum nie poradzi sobie z bardzo mocnymi, utrwalonymi i wysyconymi melaniną przebarwieniami – sprawdzi się głównie przy świeżych, drobnych i czerwonych zmianach.",
+      "timestamp": "05:44",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Powstawanie przebarwień",
+      "tip": "Przebarwienia nie powstają z dnia na dzień po wyjściu na słońce; proces powstawania i wysycenia zmiany melaniną trwa nawet około 6 miesięcy.",
+      "timestamp": "06:20",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Ograniczenia stosowania",
+      "tip": "Produktu o działaniu keratolitycznym z kwasem mlekowym nie należy stosować w okresie letnim ani na cerę tłustą i trądzikową (jest dla niej za słaby złuszczająco).",
+      "timestamp": "07:12",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Aplikacja preparatów keratolitycznych",
+      "tip": "Na serum keratolityczne nie należy nakładać żadnych innych kosmetyków – preparat nakłada się całkowicie solo na noc.",
+      "timestamp": "08:16",
+      "video_id": "t--LxU9SLq8",
+      "video_title": "ROSSMANN - SKUTECZNE SERUM DO TWARZY, KTÓRE WARTO KUPOWAĆ. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "zapach",
+      "tip": "Krem ma śladową ilość zapachu, co jest dobre dla osób wyczulonych.",
+      "timestamp": "07:14",
+      "video_id": "g4TzEP9BF4Q",
+      "video_title": "THIS EYE CREAM WORKS WONDERS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "konsystencja",
+      "tip": "Krem ma zbitą, gęstą, treśćiwą konsystencję o maślanym wykończeniu.",
+      "timestamp": "07:26",
+      "video_id": "g4TzEP9BF4Q",
+      "video_title": "THIS EYE CREAM WORKS WONDERS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "bezpieczeństwo",
+      "tip": "Produkt nie ma fenoksyetanolu, dzięki czemu mogą go używać kobiety w ciąży i karmiące piersią.",
+      "timestamp": "09:48",
+      "video_id": "g4TzEP9BF4Q",
+      "video_title": "THIS EYE CREAM WORKS WONDERS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "stosowanie",
+      "tip": "Perfumy należy stosować na ubrania, a nie na skórę, ponieważ są na alkoholu.",
+      "timestamp": "04:25",
+      "video_id": "oP19I8u9cS0",
+      "video_title": "SKOLIM KAMIKAZE - A SCENT LIKE NO OTHER!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "rozwijanie zapachu",
+      "tip": "Daj perfumom minutę lub dwie na rozwinięcie i uolpennienie się, aby poznać ich magię.",
+      "timestamp": "03:03",
+      "video_id": "oP19I8u9cS0",
+      "video_title": "SKOLIM KAMIKAZE - A SCENT LIKE NO OTHER!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "próbki",
+      "tip": "Przed zakupem pełnowymiarowego opakowania można zamówić próbnik i przetestować zapach na ubraniu.",
+      "timestamp": "04:17",
+      "video_id": "oP19I8u9cS0",
+      "video_title": "SKOLIM KAMIKAZE - A SCENT LIKE NO OTHER!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "peelingi ziarniste",
+      "tip": "nigdy w życiu pod żadnym pozorem nie przeprowadzaj na swoich pachach peeeelingów ziarnistych",
+      "timestamp": "05:10",
+      "video_id": "JtOEmFwICPw",
+      "video_title": "STINKY ARMPITS? - NOTHING TO BE ASHAMED OF, IT'S A PROBLEM THAT NEEDS SOLVING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "stosowanie kwasów",
+      "tip": "produkty przeznaczone do twarzy lub ciała można używać pod pachy pod warunkiem bacznej obserwacji reakcji skóry",
+      "timestamp": "05:46",
+      "video_id": "JtOEmFwICPw",
+      "video_title": "STINKY ARMPITS? - NOTHING TO BE ASHAMED OF, IT'S A PROBLEM THAT NEEDS SOLVING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Świadoma pielęgnacja",
+      "tip": "Jeden śmieciowy produkt w pielęgnacji niszczy efekty całej rutyny, niezależnie od tego, czy to puder, czy podkład z plastikiem.",
+      "timestamp": "06:57",
+      "video_id": "aZ4A9WEO7nA",
+      "video_title": "4 EFFECTIVE ROSSMANN PRODUCTS WORTH BUYING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "stosowanie odżywki octowej",
+      "tip": "Odżywkę można stosować raz w tygodniu po głębokim oczyszczeniu skóry głowy szamponem.",
+      "timestamp": "04:41",
+      "video_id": "BcDFG1XcOsg",
+      "video_title": "A HUGE HAIR HIT FOR 13 ZLOTYS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "detoksykacja",
+      "tip": "Zanim zaczniesz stosować naturalne dezodoranty, musisz przejść proces detoksykacji z aluminium.",
+      "timestamp": "03:40",
+      "video_id": "UYjSrRQ1WQk",
+      "video_title": "ROSSMANN - THE 12 BEST UNDERARM DEODORANTS IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "czytanie składów INCI",
+      "tip": "Zawsze dokładnie czytaj skład kosmetyku (INCI) przed zakupem, szczególnie zwracając uwagę na końcówkę składu, np. obecność alkoholu denat.",
+      "timestamp": "01:34",
+      "video_id": "NU3MACTo3sQ",
+      "video_title": "ATTENTION❗️THEY FINALLY FIXED THIS FACE CREAM!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "dbanie o portfel",
+      "tip": "Kupując dobre kosmetyki, nie zbankrutujesz, bo dobra pielęgnacja nie musi kosztować fortuny.",
+      "timestamp": "12:05",
+      "video_id": "NU3MACTo3sQ",
+      "video_title": "ATTENTION❗️THEY FINALLY FIXED THIS FACE CREAM!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Kupowanie kosmetyków",
+      "tip": "Nie kupuj w Hebe, kupuj przez internet, ponieważ ceny w Hebe bywają bardzo zawyżone w porównaniu do hurtowników czy dystrybutorów.",
+      "timestamp": "11:03",
+      "video_id": "-d1dLjJ8I0E",
+      "video_title": "ONE OF THE BEST FACE CREAMS IN POLAND!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Używanie kosmetyków",
+      "tip": "Kosmetyki trzeba zużywać, żeby kupować nowe i nie oszczędzać na ich stosowaniu.",
+      "timestamp": "01:40",
+      "video_id": "6uMnFbQ4XJo",
+      "video_title": "THEY JUMPED THE GUN ON THE SEASON 😳, BUT THEY MADE GREAT COSMETICS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Pielęgnacja po opalaniu",
+      "tip": "Żele pod prysznic z lipidami, fosfolipidami i sfingolipidami są idealne po opalaniu lub wyjściu na urlo, aby uspokoić skórę.",
+      "timestamp": "05:32",
+      "video_id": "6uMnFbQ4XJo",
+      "video_title": "THEY JUMPED THE GUN ON THE SEASON 😳, BUT THEY MADE GREAT COSMETICS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Wybór kosmetyków",
+      "tip": "Kupując kosmetyki, zwracaj uwagę na skład i recepturę, a nie na marketing i opłacone reklamy.",
+      "timestamp": "09:39",
+      "video_id": "I1OID8zQSDM",
+      "video_title": "EFFECTIVE FACE SERUM FOR EVERY SKIN TYPE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Wskazania",
+      "tip": "Produkt nie jest przeznaczony dla kobiet w ciąży ani matek karmiących piersią.",
+      "timestamp": "07:15",
+      "video_id": "I1OID8zQSDM",
+      "video_title": "EFFECTIVE FACE SERUM FOR EVERY SKIN TYPE?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Analiza składów",
+      "tip": "Przed skrytykowaniem lub poleceniem produktu należy dokładnie przeanalizować jego skład i sprawdzić jego działanie.",
+      "timestamp": "01:21",
+      "video_id": "Eo2cJoXD2bU",
+      "video_title": "THE SILENCE IS OVER.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Odmienność formuł",
+      "tip": "W Polsce pojawiła się inna formuła produktu niż w Niemczech, różniąca się składem i opakowaniem.",
+      "timestamp": "01:10",
+      "video_id": "KEHv42dUnuc",
+      "video_title": "ROSSMANN HIT FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Kwas mlekowy w składzie",
+      "tip": "Kwas mlekowy reguluje pH, nie złuszcza skóry w małych ilościach, ale wspiera działanie nawilżające.",
+      "timestamp": "06:00",
+      "video_id": "KEHv42dUnuc",
+      "video_title": "ROSSMANN HIT FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Ciąża i karmienie piersią",
+      "tip": "Niektóre produkty z fenoksyetanolem mają zakaz używania przez kobiety w ciąży i karmiące piersią, choć w tym toniku nie stanowi to problemu.",
+      "timestamp": "06:36",
+      "video_id": "KEHv42dUnuc",
+      "video_title": "ROSSMANN HIT FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Czas trzymania odżywki na skórze głowy",
+      "tip": "Aby odżywka zadziałała na skórę głowy i wykorzystała swój potencjal nawilżający, musi postać na niej minimum 10 minut.",
+      "timestamp": "07:36",
+      "video_id": "2GGhqHLLNz8",
+      "video_title": "A HAIR MIRACLE THAT COSTS PENNIES AND GIVES AMAZING RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Czas wchłaniania",
+      "tip": "Po nałożeniu maski Oriflame Sleeping Mask warto odczekać minutę, aż produkt całkowicie się wchłonie przed kolejnym krokiem.",
+      "timestamp": "05:34",
+      "video_id": "Gm1jYapCq9I",
+      "video_title": "RESULTS AFTER JUST 1 USE ❗️- GLOWING, PERFECTLY HYDRATED SKIN!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "analiza składów",
+      "tip": "Nauka składów jest obowiązkiem, aby zrozumieć, co kupujesz. Należy analizować każdy składnik po składniku, sprawdzając jego działanie, bazę nośnikową i transportery, zamiast wierzyć w opisy producenta.",
+      "timestamp": "08:30",
+      "video_id": "gvjN4WNvx8E",
+      "video_title": "DON'T WASTE A PENNY ON THIS FACE CREAM!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "dostępność i pojemności",
+      "tip": "W drogeriach Hebe bywa mniejsza tradycyjna pojemność serum, a w Rossmannie powiększona.",
+      "timestamp": "00:31",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "kolor produktu",
+      "tip": "Serum ma lekko różowy kolor ze względu na obecność witaminy B12.",
+      "timestamp": "01:27",
+      "video_id": "YGbaA46G45U",
+      "video_title": "A MUST-HAVE FOR WRINKLES AT ROSSMANN?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "czas trzymania maski",
+      "tip": "Maska z enzymami musi mieć czas na rozwinięcie się w skórze (około 10 minut), ale nie wolno dopuścić do jej zaschnięcia.",
+      "timestamp": "06:22",
+      "video_id": "BKV8QmAyVJQ",
+      "video_title": "OMG❗️THE WAY THIS COOLS THE FACE❗️- AN EFFECTIVE PRODUCT THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "stosowanie serum z witaminą C",
+      "tip": "Serum z witaminą C stosuje się trzy noce pod rząd w tygodniu, w trakcie zakazu innych peelingów i kwasów na ciało.",
+      "timestamp": "00:50",
+      "video_id": "v2GbgKaR3eE",
+      "video_title": "ROSSMANN - 5 EFFECTIVE SKINCARE PRODUCTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "SPF na ciało",
+      "tip": "Używaj minimalnego kremu przeciwsłonecznego na ciało SPF 20-30.",
+      "timestamp": "01:58",
+      "video_id": "fpRhO4EFjtQ",
+      "video_title": "THE BEST SKINCARE PRODUCT IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Unikanie m.in. mechanicznych peelingów",
+      "tip": "W trakcie kuracji zakaz innych peelingów na ciało, żadnych mechanicznych złuszczających intensywnie i innych preparatów kwasowych.",
+      "timestamp": "04:26",
+      "video_id": "fpRhO4EFjtQ",
+      "video_title": "THE BEST SKINCARE PRODUCT IN POLAND❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Używanie płatków kosmetycznych",
+      "tip": "Płatki można stosować jako maseczkę przez 10-15 minut lub po prostu delikatnie nałożyć jako tonik, nie pocierając skóry.",
+      "timestamp": "02:00",
+      "video_id": "kxn-EJqwBqw",
+      "video_title": "I WASTED MY MONEY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Higiena nakładania płatków",
+      "tip": "Używaj szpatułki, aby w sposób higieniczny nabierać płatki z opakowania bez konieczności dotykania ich wszystkimi palcami.",
+      "timestamp": "08:36",
+      "video_id": "kxn-EJqwBqw",
+      "video_title": "I WASTED MY MONEY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "analiza składu",
+      "tip": "Zanim polecisz lub kupisz kosmetyk, rozłóż go na czynniki pierwsze – od A do Z, analizuj składnik po składniku.",
+      "timestamp": "06:21",
+      "video_id": "0dL6pdmsGuk",
+      "video_title": "DO YOU NEED TO RUN TO BIEDRONKA?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "świadomość konsumencka",
+      "tip": "Nie daj się nabrać na social media i influencerów; sprawdzaj składy produktów, zamiast kupować pod wpływem mody.",
+      "timestamp": "09:07",
+      "video_id": "0dL6pdmsGuk",
+      "video_title": "DO YOU NEED TO RUN TO BIEDRONKA?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Nakładanie żelu na mokre włosy",
+      "tip": "Na mokre włosy nałóż niewielką ilość żelu, przeczesz i poczekaj do wyschnięcia – po wyschnięciu wyczesz powstałą warstwę sztywności.",
+      "timestamp": "05:30",
+      "video_id": "x-Xpi_zBJNU",
+      "video_title": "ROSSMANN - A NEW PRODUCT I RECOMMEND TO EVERYONE",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
+    },
+    {
+      "topic": "Nakładanie żelu na suche włosy",
+      "tip": "Na suche włosy produkt wchłania się w kilka sekund bez efektu mokrych włosów i nie wymaga ponownego schnięcia.",
+      "timestamp": "08:04",
+      "video_id": "x-Xpi_zBJNU",
+      "video_title": "ROSSMANN - A NEW PRODUCT I RECOMMEND TO EVERYONE",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-08-26"
     }
   ]
 }
