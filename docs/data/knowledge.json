@@ -1706,6 +1706,136 @@
       "video_title": "REALLY MOISTURIZED SKIN: A serum worth having in your skincare routine.",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-05-29"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (inna niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Produktu Blur Me nie należy łączyć z witaminą C w formie innej niż tetraizopalmitynian askorbylu.",
+      "why": "Produkt zawiera w składzie peptydy (Palmitoyl Dipeptide-5 i Palmitoyl Tripeptide-5), które kolidują z większością form witaminy C.",
+      "timestamp": "03:18",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy miedzi",
+        "ceramidy",
+        "lipidy",
+        "kwas hialuronowy"
+      ],
+      "rule": "Produkt można bez przeszkód łączyć z ceramidami, lipidami, kwasem hialuronowym oraz peptydami miedzi.",
+      "why": "Składniki te są w pełni kompatybilne z formułą kremu.",
+      "timestamp": "07:16",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwasy",
+        "retinoidy"
+      ],
+      "rule": "Nie należy stosować kwasów i retinoidów naprzemiennie w krótkich odstępach czasu ani w tym samym okresie pielęgnacyjnym.",
+      "why": "Naprzemienne stosowanie kwasów i retinoidów (np. co kilka dni lub tydzień po tygodniu) nie przyspiesza regeneracji, lecz prowadzi do ciągłego niszczenia bariery hydrolipidowej.",
+      "timestamp": "04:55",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "retinol",
+        "kwasy keratolityczne",
+        "witamina C"
+      ],
+      "rule": "Należy całkowicie odstawić silne składniki aktywne w trakcie odbudowy uszkodzonej bariery hydrolipidowej.",
+      "why": "Składniki te mogą dodatkowo podrażniać nieszczelną skórę i uniemożliwiać proces regeneracji płaszcza hydrolipidowego.",
+      "timestamp": "20:50",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "woda",
+        "kosmetyki pielęgnacyjne"
+      ],
+      "rule": "Nie oczyszczaj twarzy samą wodą przed nałożeniem kosmetyków.",
+      "why": "Woda nie jest emulgatorem, nie usuwa tłuszczu i zanieczyszczeń lipidowych, a nałożenie kosmetyków na brudną skórę blokuje pory i narusza barierę hydrolipidową.",
+      "timestamp": "02:26",
+      "video_id": "qS9mnEKa5Hw",
+      "video_title": "MORNING AND EVENING SKIN CARE: What Really Matters",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "retinoidy",
+        "kwasy"
+      ],
+      "rule": "Nie wolno łączyć retinoidów z kwasami w jednym cyklu bez odpowiedniego przygotowania i ochrony.",
+      "why": "Może dojść do nadmiernego złuszczenia i podrażnienia.",
+      "timestamp": "07:30",
+      "video_id": "3_zoIWlAkec",
+      "video_title": "MATURE SKIN: HOW TO IMPROVE SKIN QUALITY WITHOUT EXCESS",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "mozna laczyc",
+      "ingredients": [
+        "azeloglicyna",
+        "kwas azelainowy"
+      ],
+      "rule": "Można łączyć azeloglicynę i kwas azelainowy jednocześnie.",
+      "why": "Są z jednej rodziny (azeloglicyna jest pochodną kwasu azelainowego), nie gryzą się i potęgują działanie keratolitycznie rozjaśniające i stabilizujące.",
+      "timestamp": "04:35",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas azelainowy",
+        "retinoidy"
+      ],
+      "rule": "Nie stosować retinoidów razem z produktami keratolyticznymi w tym samym okresie.",
+      "why": "Skóra potrzebuje przerwy (ok. 14 dni) po retinoidach, aby odbudować barierę hydrolipidową; nie wolno też łączyć różnych kwasów i retinoidów na raz.",
+      "timestamp": "01:05",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "kwasy",
+        "ceramidowy tonik Glow Up"
+      ],
+      "rule": "Nie można łączyć toniku ceramidowego Glow Up z retinolem i z kwasami.",
+      "why": "Zasady łączenia składników aktywnych.",
+      "timestamp": "02:22",
+      "video_id": "RGs6cmKAZCE",
+      "video_title": "SKUTECZNA PIELEGNACJA❗️SKÓRA W LEPSZEJ KONDYCJI: NAWILŻENIE, ELASTYCZNOŚĆ, WYGŁADZENIE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
     }
   ],
   "routines": [
@@ -3383,6 +3513,104 @@
       "video_title": "ANTI-AGING SKINCARE in your 20s",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-05-29"
+    },
+    {
+      "problem": "uszkodzona bariera hydrolipidowa",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Delikatne oczyszczanie skóry bez zdzierania naturalnej warstwy ochronnej",
+        "Nawadnianie i nawilżanie skóry składnikami wiążącymi wodę",
+        "Aplikacja kosmetyków barierowych z ceramidami, cholesterolem, kwasami tłuszczowymi i emolientami",
+        "Zabezpieczenie skóry przed transepidermalną utratą wody (TEWL) za pomocą okluzji",
+        "Obowiązkowa ochrona przeciwsłoneczna (filtry SPF)"
+      ],
+      "notes": "Należy bezwzględnie zrezygnować z alkoholu, silnych kwasów, retinoidów, mikroigieł, ciężkich podkładów zastygających i matujących pudrów. Odbudowa bariery wymaga czasu i cierpliwości.",
+      "timestamp": "11:32",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "problem": "ogólna pielęgnacja",
+      "time_of_day": "rano",
+      "steps": [
+        "jednodniowe oczyszczanie skóry żelem, emulsją lub pianką",
+        "tonizacja",
+        "serum aktywne",
+        "krem do twarzy lub pod oczy",
+        "ochrona przeciwsłoneczna (SPF)"
+      ],
+      "notes": "Ranna rutyna powinna opierać się na jednodniowym oczyszczaniu i ochronie przed słońcem.",
+      "timestamp": "01:15",
+      "video_id": "qS9mnEKa5Hw",
+      "video_title": "MORNING AND EVENING SKIN CARE: What Really Matters",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "problem": "regeneracja nocna",
+      "time_of_day": "wieczór",
+      "steps": [
+        "preparaty keratoliczne (kwasy, retinoidy)",
+        "dokładny demakijaż (np. płyn micelarny + emulgowanie)",
+        "żel do mycia twarzy, pianka lub emulsja",
+        "serum kwasowe / aktywne",
+        "okluzja (np. wazelina, olejek, krem z filtrem)"
+      ],
+      "notes": "Wieczorna pielęgnacja jest bardziej rozbudowana, wykorzystuje potencjał nocnej regeneracji skóry.",
+      "timestamp": "08:03",
+      "video_id": "qS9mnEKa5Hw",
+      "video_title": "MORNING AND EVENING SKIN CARE: What Really Matters",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "problem": "starzenie się skóry, zmarszczki, utrata jędrności",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczanie skóry",
+        "złuszczanie (np. kwasy, retinoidy)",
+        "serum z retinolem",
+        "krem nawilżający"
+      ],
+      "notes": "Kuracja retinoidami przynosi efekty długoterminowe i wymaga regularności.",
+      "timestamp": "09:08",
+      "video_id": "3_zoIWlAkec",
+      "video_title": "MATURE SKIN: HOW TO IMPROVE SKIN QUALITY WITHOUT EXCESS",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "problem": "skóra wrażliwa, naczynkowa, rumianasta",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczenie skóry",
+        "osuszenie ręcznikiem",
+        "nałożenie serum z azeloglicyną (3 noce w tygodniu)"
+      ],
+      "notes": "W trakcie zakaz stosowania kwasów, peelingów i retinoidów; nie nakładać toników przed produktem keratolyticznym.",
+      "timestamp": "05:27",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "problem": "skóra potrzebująca efektu MAX (trwałe, mocne działanie)",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczenie skóry",
+        "osuszenie ręcznikiem",
+        "nałożenie serum z azeloglicyną",
+        "nałożenie kremu z kwasem azelainowym (jednocześnie 3 noce w tygodniu)"
+      ],
+      "notes": "Produkty stosowane razem się nie gryzą; daje mocniejsze efekty złuszczające i rozjaśniające.",
+      "timestamp": "07:18",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
     }
   ],
   "tips": [
@@ -5572,6 +5800,240 @@
       "video_title": "ANTI-AGING SKINCARE in your 20s",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-05-29"
+    },
+    {
+      "topic": "Ocena produktów kosmetycznych",
+      "tip": "Nie należy skreślać kosmetyku wyłącznie na podstawie analizy składu INCI – warto ocenić jego formulację, sensorykę i zachowanie na skórze.",
+      "timestamp": "00:13",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "topic": "Stosowanie filtrów z efektem tint/blur",
+      "tip": "Kremy z filtrem o właściwościach upiększających i wyrównujących koloryt najlepiej nakładać jako dodatkową warstwę (krem CC) na bazowy, sprawdzony krem z SPF 50.",
+      "timestamp": "03:37",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "topic": "Aplikacja kremu Miya Blur Me",
+      "tip": "Krem Blur Me nie lubi wklepywania – najwygodniej i najrównomierniej rozprowadza się go dłońmi, przeciągając palcami po skórze.",
+      "timestamp": "04:26",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "topic": "Ograniczenia stosowania",
+      "tip": "Ze względu na obecność fenoksyetanolu w składzie produkt nie jest rekomendowany dla kobiet w ciąży oraz matek karmiących piersią.",
+      "timestamp": "03:04",
+      "video_id": "rMj_A3emUdY",
+      "video_title": "ROSSMANN! - NEW PRODUCT WORTH BUYING?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-09-29"
+    },
+    {
+      "topic": "objawy uszkodzonej bariery hydrolipidowej",
+      "tip": "Do głównych objawów zaburzonej bariery należą: nieustająca suchość i ściągnięcie po myciu, pieczenie i zaczerwienienie po nałożeniu kremu, nagły rumień, łuszczenie się skóry oraz nadmierny, reaktywny łojotok.",
+      "timestamp": "01:00",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "agresywne oczyszczanie twarzy",
+      "tip": "Nie należy myć skóry agresywnie ani wielokrotnie pod rząd żelem do momentu całkowitego odtłuszczenia – uczucie delikatnego filmu po myciu może być naturalną warstwą ochronną, której nie wolno zdzierać.",
+      "timestamp": "08:33",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "alkohol w kosmetykach",
+      "tip": "Należy unikać alkoholu denaturowanego (Alcohol Denat) oraz izopropylowego w produktach do pielęgnacji, ponieważ niszczą one lipidy naskórka i potęgują utratę wody.",
+      "timestamp": "06:05",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "czas odbudowy bariery",
+      "tip": "Lekko naruszoną barierę hydrolipidową można odbudować w około 6 tygodni, natomiast silnie uszkodzoną lub zniszczoną nawet przez okres do jednego roku; niemożliwa jest jej regeneracja w kilka dni.",
+      "timestamp": "12:55",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "kuracje przeciwstarzeniowe i rozjaśniające",
+      "tip": "Dopóki bariera hydrolipidowa nie zostanie w pełni wyleczona i uszczelniona, należy odłożyć wszelkie kuracje redukujące zmarszczki czy przebarwienia, gdyż nieszczelna skóra nie wykorzysta potencjału składników aktywnych.",
+      "timestamp": "17:15",
+      "video_id": "A3K0NathOD4",
+      "video_title": "BARIERA HYDROLIPIDOWA SKÓRY: Dlaczego skóra jest sucha i podrażniona",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Złuszczanie skóry",
+      "tip": "Unikaj zbyt częstego złuszczania skóry, toników z kwasami czy szczoteczek sonicznych codziennie, ponieważ niszczą barierę hydrolipidową.",
+      "timestamp": "01:18",
+      "video_id": "_T4MRs2SDys",
+      "video_title": "SKIN CARE ERRORS that AGE your skin.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Kremy z filtrem SPF",
+      "tip": "Zawsze stosuj kremy z filtrem SPF 30 lub SPF 50, ponieważ chronią skórę przed oparzeniem i fotostarzeniem.",
+      "timestamp": "09:04",
+      "video_id": "_T4MRs2SDys",
+      "video_title": "SKIN CARE ERRORS that AGE your skin.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Demakijaż ciała",
+      "tip": "Nie ścieraj nadmiernie skóry ciała na sucho ani nie stosuj przestarzałych metod demakijażu, które niszczą naskórek.",
+      "timestamp": "13:51",
+      "video_id": "_T4MRs2SDys",
+      "video_title": "SKIN CARE ERRORS that AGE your skin.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Alkohol denat",
+      "tip": "Unikaj kosmetyków z alkoholem denat., ponieważ wypalają barierę hydrolipidową i przyspieszają starzenie skóry.",
+      "timestamp": "22:00",
+      "video_id": "_T4MRs2SDys",
+      "video_title": "SKIN CARE ERRORS that AGE your skin.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "oczyszczanie",
+      "tip": "Używaj ręczniczków typowo do twarzy lub papierowych, aby uniknąć roznoszenia bakterii.",
+      "timestamp": "04:18",
+      "video_id": "qS9mnEKa5Hw",
+      "video_title": "MORNING AND EVENING SKIN CARE: What Really Matters",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "demakijaż",
+      "tip": "Myj produktem do demakijażu tak długo, aż woda na płatku będzie bezbarwna, a nie mleczna.",
+      "timestamp": "13:43",
+      "video_id": "qS9mnEKa5Hw",
+      "video_title": "MORNING AND EVENING SKIN CARE: What Really Matters",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "złuszczanie",
+      "tip": "Bez złuszczania skóry żaden kosmetyk nie zadziała głęboko, ponieważ składniki aktywne nie przenikną przez martwy naskórek.",
+      "timestamp": "06:12",
+      "video_id": "3_zoIWlAkec",
+      "video_title": "MATURE SKIN: HOW TO IMPROVE SKIN QUALITY WITHOUT EXCESS",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "ochrona przeciwsłoneczna",
+      "tip": "Obowiązkowa ochrona przeciwsłoneczna (SPF) to kluczowy element opóźniania starzenia się skóry i zapobiegania fotostarzeniu.",
+      "timestamp": "13:43",
+      "video_id": "3_zoIWlAkec",
+      "video_title": "MATURE SKIN: HOW TO IMPROVE SKIN QUALITY WITHOUT EXCESS",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Przebarwienia",
+      "tip": "Przebarwienia powstają z dnia na dzień, ale ich usunięcie wymaga czasu, odbudowy bariery hydrolipidowej i cierpliwości.",
+      "timestamp": "00:52",
+      "video_id": "q-0q2GzKyRg",
+      "video_title": "GET RID OF DISCOLORATION AT HOME - it's possible.",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "toniki",
+      "tip": "Przed preparatami keratolyticznymi nie nakłada się żadnych toników.",
+      "timestamp": "05:04",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "makijaż",
+      "tip": "Jeśli używasz pudrów talkowych, podkładów z talkiem itp., nie oczekuj efektów od produktów keratolyticznych.",
+      "timestamp": "09:54",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "wakacje",
+      "tip": "Produktów keratolyticznych nie wolno używać w okresie wyjazdów do ciepłych krajów lub opalania na plaży.",
+      "timestamp": "11:20",
+      "video_id": "w181ERYKJFM",
+      "video_title": "THIS COMBINATION REALLY WORKS (ANTI-AGING GAME CHANGER)",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Skuteczność kosmetyków na cellulit",
+      "tip": "Żaden kosmetyk nie zredukuje cellulitu ani nie zmniejszy obwodu uda, ale może poprawić jędrność i elastyczność skóry.",
+      "timestamp": "02:04",
+      "video_id": "XskF5XHXGiQ",
+      "video_title": "ROSSMANN: WILL PEOPLE LOVE THIS COSMETIC?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Działanie kolagenu w kosmetykach",
+      "tip": "Kolagen nie wnika w skórę, osadza się na powierzchni i pełni funkcję nośnikową, co daje tzw. efekt lift-up (napięcie skóry).",
+      "timestamp": "07:08",
+      "video_id": "RGs6cmKAZCE",
+      "video_title": "SKUTECZNA PIELEGNACJA❗️SKÓRA W LEPSZEJ KONDYCJI: NAWILŻENIE, ELASTYCZNOŚĆ, WYGŁADZENIE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Bezpieczeństwo w ciąży i podczas karmienia",
+      "tip": "Ceramidowy tonik Glow Up nie posiada fenoksyetanolu, więc można go używać w ciąży i podczas karmienia piersią. Tonik Lift Up zawiera fenoksyetanol i nie jest zalecany w tych okresach.",
+      "timestamp": "08:13",
+      "video_id": "RGs6cmKAZCE",
+      "video_title": "SKUTECZNA PIELEGNACJA❗️SKÓRA W LEPSZEJ KONDYCJI: NAWILŻENIE, ELASTYCZNOŚĆ, WYGŁADZENIE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Krem regeneracyjny a nawilżający",
+      "tip": "Informacja o regeneracyjnym kremie wymaga całkowitej regeneracji skóry, a nie tylko jej nawilżenia.",
+      "timestamp": "03:00",
+      "video_id": "PjElAu4Jlzs",
+      "video_title": "SKUTECZNY KREM DO TWARZY! ✅",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
+    },
+    {
+      "topic": "Stres oksydacyjny",
+      "tip": "Stres oksydacyjny przyspiesza ponad dziesięciokrotnie szybszy proces starzenia się skóry.",
+      "timestamp": "06:50",
+      "video_id": "PjElAu4Jlzs",
+      "video_title": "SKUTECZNY KREM DO TWARZY! ✅",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-05-30"
     }
   ]
 }
