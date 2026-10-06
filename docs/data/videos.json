@@ -2985,9 +2985,9 @@
     "title": "ROSSMANN - THE BEST NEW RELEASE OF 2026❗️",
     "channel": "Kacper Skin Ekspert",
     "date": "2026-10-05",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "error": "Expecting value: line 11 column 9 (char 478)"
   },
   "CZ4lh-MVoeA": {
     "title": "NOWOŚCI W ROSSMANN - I TO JAKIE! ",
@@ -3007,9 +3007,8 @@
     "title": "3 WIELKIE NOWOŚCI W ROSSMANN!",
     "channel": "Kacper Beauty Make-Up",
     "date": "2026-02-06",
-    "attempts": 1,
-    "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "status": "done",
+    "summary": "Autor omawia trzy nowości kosmetyczne z Rossmanna: tusz do rzęs, olejek do usuwania skórek oraz puder, analizując ich składy i przeznaczenie."
   },
   "49PXh_BJ1Tw": {
     "title": "POLIESTER W KREMIE?! MAM DLA WAS TAŃSZY I LEPSZY ZAMIENNIK!",
@@ -3092,9 +3091,8 @@
     "title": "WE HAVE A WONDERFUL NEW MASCARA FOR 20 ZLOTY!",
     "channel": "Kacper Beauty Make-Up",
     "date": "2026-02-06",
-    "attempts": 1,
-    "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "status": "done",
+    "summary": "Recenzja nowości kosmetycznej – tuszu do rzęs od marki Bell – oraz szczegółowa analiza i ocena jego składu."
   },
   "wuCMlPlPvUA": {
     "title": "THIS WONDERFUL CONCEALER COSTS ONLY 14 ZLOTY!",
@@ -3121,9 +3119,8 @@
     "title": "PODKŁAD Z DROGERII, KTÓRY NIE JEST HITEM❗️",
     "channel": "Kacper Beauty Make-Up",
     "date": "2026-02-06",
-    "attempts": 1,
-    "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "status": "done",
+    "summary": "Autor filmu recenzuje skład podkładu Puffcloud od marki Paese, oceniając go negatywnie ze względu na obecność mikroplastiku i innych kontrowersyjnych składników."
   },
   "XgukZDN5HAo": {
     "title": "Nigdy w życiu za TAKĄ CENĘ! - Mam dla Was zamiennik!",
@@ -3285,5 +3282,237 @@
     "date": "2026-02-06",
     "status": "done",
     "summary": "Autor filmu prezentuje wybrane kosmetyki z drogerii Rossmann, omawiając ich składy, działanie oraz to, dla jakich typów skóry są przeznaczone. Wskazuje produkty warte uwagi oraz te, które posiadają w składzie mikroplastik lub inne kontrowersyjne elementy."
+  },
+  "N9hNWZcOE78": {
+    "title": "ROSSMANN - OPENING THE ISANA 2026 ADVENT CALENDAR - Is it worth the price?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-06",
+    "status": "done",
+    "summary": "Autor filmu otwiera i recenzuje kalendarz adwentowy marki Isana, po kolei omawiając składy, działanie oraz oceniając poszczególne produkty kosmetyczne."
+  },
+  "LddMxD6meG0": {
+    "title": "NEW AT ROSSMANN - THEY DID THE SAME THING AGAIN….",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-06",
+    "status": "done",
+    "summary": "Autor filmu recenzuje dwufazowy podkład marki NAM, analizując jego skład oraz działanie na skórę, i ostatecznie go odradza ze względu na niekorzystny skład."
+  },
+  "XArGp9W-JZQ": {
+    "title": "3 WONDERFUL PRODUCTS AND A BEAUTIFUL MAKEUP GUARANTEED!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-05",
+    "status": "done",
+    "summary": "Autor prezentuje kombo makijażowe przeznaczone do skóry suchej, oparte na połączeniu kremu rozświetlającego i podkładu, polecając konkretne produkty."
+  },
+  "gp4NaVHWN-o": {
+    "title": "SKOLIM - ZAPACH, KTÓRY ZOSTAJE NA DŁUGO ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia perfumy Temperatura by Skolim, przedstawiając ich zapach, skład, trwałość oraz cenę. Dzieli się swoimi wrażeniami z użytkowania produktu i daje wskazówki dotyczące jego zakupu."
+  },
+  "mgQyYxIquQ4": {
+    "title": "UWAGA❗️PEPTYDY + COLOSTRUM W ODMŁADZANIU SKÓRY? ZRÓB TO W DOMU!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor pokazuje i omawia combo pielęgnacyjne łączące tripeptyd miedziowy z kremem zawierającym kolostrum i mleko kładące. Wyjaśnia zasady łączenia tych składników, ich działanie na przebarwienia, zmarszczki i barierę hydrolipidową."
+  },
+  "4WdevUPSrpw": {
+    "title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "attempts": 1,
+    "status": "failed",
+    "error": "Expecting ':' delimiter: line 128 column 18 (char 6074)"
+  },
+  "rd9D4YNcgCo": {
+    "title": "ROSSMANN - WHICH HAIR SHAMPOOS TO BUY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor filmu przedstawia przegląd i opinie na temat wybranych szamponów i produktów do pielęgnacji skóry głowy dostępnych w drogerii Rossmann, omawiając ich składy, działanie oraz to, dla kogo będą odpowiednie."
+  },
+  "NZ345sloAsQ": {
+    "title": "THE BEST FACE CREAM IN POLAND",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia działanie kolostra i mleka klaczy w pielęgnacji skóry. Ostrzega przed nieskutecznym produktem z kolostrem i parafiną oraz poleca tani, skuteczny polski krem z tymi składnikami."
+  },
+  "SmqFlHeIyl0": {
+    "title": "OMG, CUDO",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia płyn do płukania jamy ustnej marki Ioska, analizuje jego skład, sposób działania oraz dzieli się swoimi wrażeniami z użytkowania tego produktu."
+  },
+  "kgFnrvDoeM0": {
+    "title": "KREM DO TWARZY ZA 10 ZŁOTYCH ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "W filmie autor omawia kolejne kosmetyki marki Ziajka, skupiając się na kozim mleku jako składniku odżywczym. Przedstawia dokładną recenzję kremu do twarzy, analizując jego skład oraz to, jak sprawdza się na różnych typach cery."
+  },
+  "ETzsazRWFpU": {
+    "title": "ROSSMANN NAPRAWDĘ TO ZROBIŁ! ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia dwie nowości marki ISANA z serii Sensitive z Niemiec, które wkrótce pojawią się w Polsce. Przedstawia ich składy, działanie oraz ocenia przydatność dla skóry wrażliwej."
+  },
+  "Uc2AMkIAGHw": {
+    "title": "W KOŃCU PORZĄDNY HIT Z APTEKI❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Film jest poradnikiem dotyczącym pielęgnacji skóry głowy. Autor omawia składniki aktywne w szamponach, analizuje konkretny produkt i podaje wskazówki, jak dobrać odpowiednią formułę."
+  },
+  "8rKzvGcUdUo": {
+    "title": "TYLE SKŁADNIKÓW AKTYWNYCH W JEDNYM KOSMETYKU?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia kollagenowy stymulator młodości – tonik marki Bielenda. Przedstawia jego skład, działanie poszczególnych składników, konsystencję, zapach oraz ogólną opinię i rekomendacje dotyczące stosowania."
+  },
+  "iao6tf2ka28": {
+    "title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Film porusza temat optymalizacji i poprawności wykonywania peelingu skóry głowy. Autor wyjaśnia, dlaczego nie należy nakładać peelingu na brudną skórę głowy oraz jakie mogą być tego negatywne konsekwencje."
+  },
+  "KyeWn1ho234": {
+    "title": "BIEDRONKA HIT❗️- I'LL TEACH YOU HOW TO USE IT❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor filmu omawia przeciwzmarszczkowe serum do twarzy i dekoltu Botu-Line Expert marki Perfecta. Przedstawia jego skład, działanie, konsystencję oraz zasady stosowania i łączenia z innymi składnikami."
+  },
+  "qIYoP29iqvM": {
+    "title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia popularny produkt do pielęgnacji skóry, zwracając uwagę na jego skład, działanie oraz to, jakich składników nie należy z nim łączyć, aby uniknąć podrażnień. Przestrzega przed powszechnym błędem czytania wyłącznie nazwy głównej zamiast całego składu."
+  },
+  "944nfQqC70c": {
+    "title": "NOWOŚĆ ZIAJA❗️- KOMBO, KTÓRE ZROBISZ W DOMU❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia kosmetyczne combo do pielęgnacji skóry, skupiając się na działaniu kojącym, odbudowującym i redukującym zaczerwienienia oraz podrażnienia."
+  },
+  "ws6R9rYkAUE": {
+    "title": "WSZYSTKO NA MAKSA! 😱 PORAZ PIERWSZY NA KANALE❗️ – *KOMBO* - MAX EFEKTY NA KAŻDEJ SKÓRZE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia pielęgnacyjne combo nowej generacji łączące maski w płachcie z serum i kremami, aby zmaksymalizować wnikanie składników aktywnych i nawilżenie skóry. Przedstawia dokładne zasady nakładania kosmetyków, wyjaśnia działanie poszczególnych produktów oraz wskazuje, które z nich sprawdzą się przy różnych typach cery."
+  },
+  "g8Zrc-QdHGc": {
+    "title": "CIEKAWY KOSMETYK Z APTEKI❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-02-06",
+    "status": "done",
+    "summary": "Autor omawia dermokosmetyk barierowy ochronny, analizuje jego skład, wskazania, właściwości nawilżające oraz działanie poszczególnych substancji aktywnych na skórę."
+  },
+  "Su1De83efdw": {
+    "title": "NEW YEAR AT ROSSMANN❗️- MAKEUP - WHAT IS WORTH BUYING?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor omawia w Rossmannie wybrane kosmetyki kolorowe i pielęgnacyjne, oceniając ich skład, działanie oraz to, czy są godne polecenia."
+  },
+  "yzMjhtydnto": {
+    "title": "ZNALAZŁEM W KOŃCU SWÓJ PUDER DO TWARZY, KTÓREGO SIĘ NIE BOJĘ! ",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu przedstawia swoje ulubione pudry do twarzy na koniec 2025 roku oraz szczegółowo omawia puder sypki marki Glam Shop, oceniając jego skład i działanie."
+  },
+  "OwHtZrP7xZI": {
+    "title": "ZIMOWE NOWOŚCI W ROSSMANN❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu omawia składy i przeznaczenie nowości kosmetycznych marki Your Kaja w sztyfcie: bronzer, róż i rozświetlacz, zwracając uwagę na ich składy oraz przydatność dla kobiet w ciąży i mam karmiących."
+  },
+  "z8jSvjYfxrE": {
+    "title": "DWA NAJLEPSZE KOREKTORY POD OCZY?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu omawia składy i dzieli się swoimi opiniami na temat dwóch korektorów marki Bell: Homework Hero oraz Just Free Skin."
+  },
+  "05Add9LfPa4": {
+    "title": "ZASZALELI Z TYMI NOWOŚCIAMI!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu omawia dwa kosmetyki do makijażu z linii Douglas Naturals: kredkę do oczu oraz puder transparentny."
+  },
+  "d00AEA-WYy4": {
+    "title": "Mamy kolejny POLSKI DOBRY PUDER DO TWARZY?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu omawia puder do twarzy Eveline Blur Me Baking & Setting Powder, analizując jego skład oraz właściwości i wydając swoją ocenę."
+  },
+  "T-HHVJjU2tc": {
+    "title": "Unikaj tego w ROSSMANN❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor omawia skład oraz działanie fixer'a do makijażu marki AA, oceniając go bardzo negatywnie ze względu na obecność alkoholu denaturowanego i mikroplastiku."
+  },
+  "NXlf9T3NQXE": {
+    "title": "The only foundation with COPPER PEPTIDE❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Analiza składu i recenzja rozświetlająco-kryjącego podkładu Lirene Lumi Love 01."
+  },
+  "t1DIh1Adutc": {
+    "title": "HIT W ROSSMANNIE, KTÓRY KUPISZ ZA 20 ZŁOTYCH W PROMOCJI!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu recenzuje bazę pod makijaż Bielenda Make-up Academie Gold 24K, analizuje jej skład i podaje rekomendację dotyczące stosowania."
+  },
+  "GD-mX3mH8BY": {
+    "title": "ROSSMANN, znowu kłamie! ",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor omawia bazę Lirene Shimmer Gold, analizuje jej skład i porównuje z wersją Rose, wskazując, która z nich jest bezpieczna i polecana."
+  },
+  "0gnKsejN03c": {
+    "title": "NOWY PUDER POD OCZY W BIEDRONCE❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Film zawiera recenzję i analizę składu satynowego pudru pod oczy z Biedronki marki Niuqi."
+  },
+  "O2qiu7XMU4Y": {
+    "title": "ROSSMANN - Do we have a good foundation/BB cream?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu analizuje skład i obiecywane działanie nawilżającego kremu koloryzującego BB z filtrem SPF 50 marki Lirene i wydaje ostateczną negatywną opinię o produkcie."
+  },
+  "dyXAQSoADNM": {
+    "title": "EVELINE VS GLAM SHOP - CZY TO JEST TO SAMO?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Autor filmu wyjaśnia różnicę między pudrem sypkim Glam Shop Natural a pudrem Eveline Wonder Show, prostując mity, że są to takie same produkty."
+  },
+  "nx24bq5WsQQ": {
+    "title": "KOSMETYKI, KTORE WARTO KUPOWAĆ!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-06",
+    "status": "done",
+    "summary": "Film zawiera recenzję dwóch palet cieni do powiek marki Bellapierre: Disco oraz Safari, wraz z analizą ich składu."
   }
 }

@@ -3448,6 +3448,189 @@
       "video_title": "THE BEST SKIN PROTECTION IN POLAND!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-02-06"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "alkohol denat",
+        "olejki"
+      ],
+      "rule": "Nie stosować bezpośrednio na skórę",
+      "why": "Alkohol denaturowany rozwala barierę hydrolipidową, a olejki mogą działać fotouczulająco i powodować przebarwienia lub plamy.",
+      "timestamp": "02:18",
+      "video_id": "gp4NaVHWN-o",
+      "video_title": "SKOLIM - ZAPACH, KTÓRY ZOSTAJE NA DŁUGO ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "colostrum",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Połączenie colostrum i tripeptydu miedziowego nie podlega zasadzie odparowywania i nie wymaga pośpiechu.",
+      "why": "Emulgenty w kremie genactive chronią przed utratą cieczki i pozwalają na odczekanie nawet do 2 minut.",
+      "timestamp": "05:00",
+      "video_id": "mgQyYxIquQ4",
+      "video_title": "UWAGA❗️PEPTYDY + COLOSTRUM W ODMŁADZANIU SKÓRY? ZRÓB TO W DOMU!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Edta",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie łączyć edta z peptydami miedziowymi.",
+      "why": "Chelator edta wchodzi w interakcję z peptydami miedziowymi.",
+      "timestamp": "06:56",
+      "video_id": "8rKzvGcUdUo",
+      "video_title": "TYLE SKŁADNIKÓW AKTYWNYCH W JEDNYM KOSMETYKU?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peeling",
+        "brudna skóra głowy"
+      ],
+      "rule": "Nie nakładać peelingu na brudną skórę głowy.",
+      "why": "Nakałdanie peelingu na brudną skórę głowy nie oczyszcza jej, lecz wywołuje stany zapalne, łupież i pogłębia zanieczyszczenia, ponieważ kwasy (AHA, BHA, PHA) nie mają szansy przeniknąć w głębsze warstwy i odblokować ujść gruczołów łojowych w zanieczyszczonym środowisku.",
+      "timestamp": "01:20",
+      "video_id": "iao6tf2ka28",
+      "video_title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie łączyć produktu z peptydami miedziowymi.",
+      "why": "Produkt zawiera dwa kluczowe peptydy, których z inną formą witaminy C niż tetra, oraz z peptydami miedziowymi nie można łączyć.",
+      "timestamp": "09:40",
+      "video_id": "KyeWn1ho234",
+      "video_title": "BIEDRONKA HIT❗️- I'LL TEACH YOU HOW TO USE IT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "tripeptid miedziowy",
+        "retinol"
+      ],
+      "rule": "Zakaz łączenia tripeptidu miedziowego z retinolem.",
+      "why": "Prowadzi do reakcji krzyżowo-kontaktowej, destabilizacji peptydu miedzi, rumienia, świądu, podrażnienia i zaczerwienienia.",
+      "timestamp": "04:05",
+      "video_id": "qIYoP29iqvM",
+      "video_title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "tripeptid miedziowy",
+        "kwasy"
+      ],
+      "rule": "Zakaz łączenia tripeptidu miedziowego z kwasami.",
+      "why": "Powoduje reakcję krzyżowo-kontaktową, destabilizację peptydu miedzi, rumień, podrażnienie, zaczerwienienie i świąd.",
+      "timestamp": "05:07",
+      "video_id": "qIYoP29iqvM",
+      "video_title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "tripeptid miedziowy",
+        "disodium edta"
+      ],
+      "rule": "Zakaz nakładania przed produktem chelatorów zawierających disodium edta.",
+      "why": "Występuje reakcja krzyżowo-kontaktowa i destabilizacja peptydu miedzi.",
+      "timestamp": "04:35",
+      "video_id": "qIYoP29iqvM",
+      "video_title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C"
+      ],
+      "rule": "Tonik nie może mieć w składzie żadnych peptydów.",
+      "why": "Autor wspomina, że tonik nie powinien zawierać peptydów w składzie.",
+      "timestamp": "02:12",
+      "video_id": "944nfQqC70c",
+      "video_title": "NOWOŚĆ ZIAJA❗️- KOMBO, KTÓRE ZROBISZ W DOMU❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kollagen",
+        "lipit ss serum"
+      ],
+      "rule": "Nie łączyć uzdrowisko lipid ss serum z tym combo.",
+      "why": "Uzdrowisko lipid ss serum nie lubi się z tym combo i się roluje.",
+      "timestamp": "08:37",
+      "video_id": "ws6R9rYkAUE",
+      "video_title": "WSZYSTKO NA MAKSA! 😱 PORAZ PIERWSZY NA KANALE❗️ – *KOMBO* - MAX EFEKTY NA KAŻDEJ SKÓRZE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "krem barierowy",
+        "peptydy miedziowe"
+      ],
+      "rule": "Krem może być łączoony z peptydami miedziowymi, bo nie ma disodium EDTA.",
+      "why": "Nie ma disodium EDTA w składzie.",
+      "timestamp": "08:15",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "krem barierowy",
+        "peptydy"
+      ],
+      "rule": "Może być łączony z peptydami.",
+      "why": "Może być w osobych rutynach z witaminą C lub ceramidami.",
+      "timestamp": "08:20",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "krem barierowy",
+        "retinole",
+        "kwasy"
+      ],
+      "rule": "Nie nakładać z retinolami ani kwasami.",
+      "why": "Bo nie na to nie nakłada się takich kremów.",
+      "timestamp": "08:26",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
     }
   ],
   "routines": [
@@ -6337,6 +6520,130 @@
       "timestamp": "00:58",
       "video_id": "vQGYcm9anR0",
       "video_title": "ROSSMANN - WHAT IS WORTH BUYING?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "odbudowa i ujędrnienie skóry",
+      "time_of_day": "rano",
+      "steps": [
+        "mgiełka nawilżająca",
+        "tripeptyd miedziowy",
+        "krem z colostrum"
+      ],
+      "notes": "Można odczekać 30 sekund i nałożyć kolejną porcję kremu dla domknięcia.",
+      "timestamp": "00:40",
+      "video_id": "mgQyYxIquQ4",
+      "video_title": "UWAGA❗️PEPTYDY + COLOSTRUM W ODMŁADZANIU SKÓRY? ZRÓB TO W DOMU!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "trądzik, zaczerwienienie, podrażnienia, suchość, uszkodzona bariera hydrolipidowa, starzenie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "na dzień",
+        "na noc"
+      ],
+      "notes": "Krem można stosować na dzień i na noc do każdego rodzaju skóry.",
+      "timestamp": "05:29",
+      "video_id": "NZ345sloAsQ",
+      "video_title": "THE BEST FACE CREAM IN POLAND",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "profilaktyka antystarzeniowa, regeneracja, nawilżenie, zmarszczki",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "tonik Bielenda"
+      ],
+      "notes": "Może być stosowany do każdego typu skóry potrzebującej nawilżenia i regeneracji.",
+      "timestamp": "09:52",
+      "video_id": "8rKzvGcUdUo",
+      "video_title": "TYLE SKŁADNIKÓW AKTYWNYCH W JEDNYM KOSMETYKU?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "brudna skóra głowy i nieprawidłowa pielęgnacja",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyścić skórę głowy szamponem, aby zmyć pot, kurz, brud i pozostałości preparatów",
+        "osuszyć skórę głowy ręcznikiem",
+        "nałożyć peeling do skóry głowy i pozostawić na czas określony przez producenta",
+        "zmyć peeling dokładnie wodą",
+        "wykonać mycie właściwe (szamponem) w celu usunięcia pozostałości martwego naskórka i substancji keratolicznych",
+        "zastosować serum lub wcierkę w zależności od potrzeb skóry głowy"
+      ],
+      "notes": "Nie należy nakładać peelingu na brudną skórę głowy, ponieważ bez wcześniejszego oczyszczenia szamponem produkt nie spełni swojej funkcji i może wywołać podrażnienia.",
+      "timestamp": "03:54",
+      "video_id": "iao6tf2ka28",
+      "video_title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "zmarszczki, utrata nawilżenia i elastyczności skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "aplikacja serum",
+        "wmasowanie w skórę twarzy, szyi i dekoltu"
+      ],
+      "notes": "Produkt daje natychmiastowy efekt blur oraz długoterminowe działanie antystarzeniowe i nawilżające.",
+      "timestamp": "08:21",
+      "video_id": "KyeWn1ho234",
+      "video_title": "BIEDRONKA HIT❗️- I'LL TEACH YOU HOW TO USE IT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "skóra wrażliwa, atopowa, podrażniona, skłonna do zaczerwienień",
+      "time_of_day": "wieczór",
+      "steps": [
+        "demakijaż",
+        "oczyszczenie skóry żelem, emulsją lub pianką",
+        "aplikacja toniku na skórę",
+        "aplikacja serum wodno-żelowego",
+        "aplikacja serum z witaminą C",
+        "aplikacja kremu na noc"
+      ],
+      "notes": "Kombo wyciszające, łagodzące i regenerujące na noc.",
+      "timestamp": "02:00",
+      "video_id": "944nfQqC70c",
+      "video_title": "NOWOŚĆ ZIAJA❗️- KOMBO, KTÓRE ZROBISZ W DOMU❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "odwodnienie skóry i zmaksymalizowanie działania składników aktywnych",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "demakijaż i umycie twarzy żelem lub pianką",
+        "obfite spryskanie skóry tonikiem lub esencją (skóra ma być mokra, nie wilgotna)",
+        "nałożenie 2 pompek serum z kolagenem i wklepanie do wchłonięcia w połowie (ok. 50%)",
+        "nałożenie maski w płachcie na serum na ok. 8 minut",
+        "zdjęcie maski i wklepanie nadmiaru esencji do ok. 90%",
+        "nałożenie serum z chlorofilem (wystarczy 1 pompka)",
+        "nałożenie kremu z mikroalgami"
+      ],
+      "notes": "Maska w płachcie przyspiesza wnikanie składników aktywnych, a kolagen działa jako transporter. Nie dopuszczać do całkowitego wyschnięcia maski.",
+      "timestamp": "01:07",
+      "video_id": "ws6R9rYkAUE",
+      "video_title": "WSZYSTKO NA MAKSA! 😱 PORAZ PIERWSZY NA KANALE❗️ – *KOMBO* - MAX EFEKTY NA KAŻDEJ SKÓRZE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "problem": "podrażnienia",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "aplikacja na suche miejsca na dłoniach, twarz i ciało"
+      ],
+      "notes": "Stosowany na dzień i na noc.",
+      "timestamp": "03:57",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-02-06"
     }
@@ -10542,6 +10849,249 @@
       "timestamp": "08:37",
       "video_id": "ZvyAOU8tEqg",
       "video_title": "THE BEST SKIN PROTECTION IN POLAND!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "próbki perfum",
+      "tip": "Przed zakupem pełnowymiarowego produktu można zamówić próbkę, aby ocenić zapach pod kątem siebie.",
+      "timestamp": "07:10",
+      "video_id": "gp4NaVHWN-o",
+      "video_title": "SKOLIM - ZAPACH, KTÓRY ZOSTAJE NA DŁUGO ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "stosowanie perfum",
+      "tip": "Produkt sprawdza się idealnie do ubrań oraz do szalika, dając długotrwały, otulający efekt.",
+      "timestamp": "02:15",
+      "video_id": "gp4NaVHWN-o",
+      "video_title": "SKOLIM - ZAPACH, KTÓRY ZOSTAJE NA DŁUGO ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "rozprowadzanie kremu",
+      "tip": "Autor rozciera produkt na dłoniach i wklepuje w skórę twarzy i szyi, zamiast mocno wciskać.",
+      "timestamp": "01:56",
+      "video_id": "mgQyYxIquQ4",
+      "video_title": "UWAGA❗️PEPTYDY + COLOSTRUM W ODMŁADZANIU SKÓRY? ZRÓB TO W DOMU!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "zapach colostrum",
+      "tip": "Zapach colostrum utrzymuje się około 2 minut, ale w połączeniu z serum bloomoon czuć bergamotkę.",
+      "timestamp": "08:16",
+      "video_id": "mgQyYxIquQ4",
+      "video_title": "UWAGA❗️PEPTYDY + COLOSTRUM W ODMŁADZANIU SKÓRY? ZRÓB TO W DOMU!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Wybór szamponu",
+      "tip": "Głównym zadaniem szamponu jest oczyszczanie skóry głowy z brudu, sebum i kosmetyków stylizacyjnych, a nie leczenie problemów takich jak wypadanie czy głębokie nawilżenie.",
+      "timestamp": "03:23",
+      "video_id": "rd9D4YNcgCo",
+      "video_title": "ROSSMANN - WHICH HAIR SHAMPOOS TO BUY?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Regeneracja włosów",
+      "tip": "Szampon nie ma prawa odbudowywać włosów, ponieważ włos jest martwy. Aby zadbać o zniszczone włosy, należy podciąć końcówki i stosować wcierki.",
+      "timestamp": "04:11",
+      "video_id": "rd9D4YNcgCo",
+      "video_title": "ROSSMANN - WHICH HAIR SHAMPOOS TO BUY?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Kolostrobaza",
+      "tip": "Kolostrobaza zawiera parafinę, która daje efekt udawany (okleja skórę i daje pozorne uczucie gładkości), nie regeneruje skóry i nie jest polecana.",
+      "timestamp": "00:39",
+      "video_id": "NZ345sloAsQ",
+      "video_title": "THE BEST FACE CREAM IN POLAND",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Wybór kremu z kolostrem",
+      "tip": "Warto sprawdzać skład produktów z kolostrem i wybierać te, które mają bogaty skład bez parafiny i blokerów przenikania.",
+      "timestamp": "11:22",
+      "video_id": "NZ345sloAsQ",
+      "video_title": "THE BEST FACE CREAM IN POLAND",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "stosowanie",
+      "tip": "Przed użyciem produkt należy wstrząsnąć.",
+      "timestamp": "02:24",
+      "video_id": "SmqFlHeIyl0",
+      "video_title": "OMG, CUDO",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "zapach w kosmetykach",
+      "tip": "Kosmetyki mogą być mocno perfumowane, co dla niektórych osób może być intensywne na twarzy.",
+      "timestamp": "06:40",
+      "video_id": "kgFnrvDoeM0",
+      "video_title": "KREM DO TWARZY ZA 10 ZŁOTYCH ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "dostępność produktów",
+      "tip": "Warto obserwować Rossmanna, ponieważ te produkty z serii Sensitive pojawią się w Polsce.",
+      "timestamp": "07:35",
+      "video_id": "ETzsazRWFpU",
+      "video_title": "ROSSMANN NAPRAWDĘ TO ZROBIŁ! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Wybór szamponu",
+      "tip": "Wybierając szampon do skóry głowy łojotokowej, szukaj składników regulujących pracę gruczołów łojowych, ale uważaj na zbyt silne stężenia, które mogłyby wysuszyć skórę.",
+      "timestamp": "01:08",
+      "video_id": "Uc2AMkIAGHw",
+      "video_title": "W KOŃCU PORZĄDNY HIT Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Działanie szamponu",
+      "tip": "Szampon ma oczyszczać, a nie prowokować gruczoły łojowe do nadprodukcji sebum i dbać o zachowanie mikrobiomu skóry głowy.",
+      "timestamp": "01:12",
+      "video_id": "Uc2AMkIAGHw",
+      "video_title": "W KOŃCU PORZĄDNY HIT Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "konsystencja toniku",
+      "tip": "Tonik ma totalnie wodnistą konsystencję, nie jest żelowy.",
+      "timestamp": "07:46",
+      "video_id": "8rKzvGcUdUo",
+      "video_title": "TYLE SKŁADNIKÓW AKTYWNYCH W JEDNYM KOSMETYKU?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "zapach",
+      "tip": "Zapach jest piękny i bardzo przyjemny.",
+      "timestamp": "08:10",
+      "video_id": "8rKzvGcUdUo",
+      "video_title": "TYLE SKŁADNIKÓW AKTYWNYCH W JEDNYM KOSMETYKU?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "peeling skóry głowy",
+      "tip": "Peeling należy nakładać wyłącznie na wstępnie oczyszczoną skórę głowy, a nie na brudną i zrogowaciałą.",
+      "timestamp": "03:28",
+      "video_id": "iao6tf2ka28",
+      "video_title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "osuszenie skóry głowy",
+      "tip": "Przed nałożeniem peelingu należy osuszyć skórę głowy ręcznikiem, a nie nakładać go na ociekającą wodą głowę.",
+      "timestamp": "04:18",
+      "video_id": "iao6tf2ka28",
+      "video_title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "profilaktyka",
+      "tip": "Lepiej zapobiegać niż leczyć i dbać o skórę głowy świadomie, zamiast popełniać błędy prowadzące do problemów ze skórą.",
+      "timestamp": "11:11",
+      "video_id": "iao6tf2ka28",
+      "video_title": "HALLO❗️TWOJA SKÓRA TO NIE POLE EKSPERYMENTÓW! ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Skóra tłusta",
+      "tip": "Skóra tłusta może po nim zapchać, więc stosuj ostrożnie.",
+      "timestamp": "10:28",
+      "video_id": "KyeWn1ho234",
+      "video_title": "BIEDRONKA HIT❗️- I'LL TEACH YOU HOW TO USE IT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Zapach",
+      "tip": "Jeśli nie kochasz lub nienawidzisz intensywnych zapachów, ten kosmetyk może nie być odpowiedni.",
+      "timestamp": "10:36",
+      "video_id": "KyeWn1ho234",
+      "video_title": "BIEDRONKA HIT❗️- I'LL TEACH YOU HOW TO USE IT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Analiza składowa",
+      "tip": "Dokładnie czytaj cały skład produktu, a nie tylko główny napis na opakowaniu, żeby uniknąć błędów w pielęgnacji.",
+      "timestamp": "00:20",
+      "video_id": "qIYoP29iqvM",
+      "video_title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "Holistyczna pielęgnacja",
+      "tip": "Pielęgnacja twarzy powinna być przyjemnością i opierać się na czerpaniu maksymalnych efektów ze sprawdzonych składników.",
+      "timestamp": "06:31",
+      "video_id": "qIYoP29iqvM",
+      "video_title": "A HIT AT ROSSMANN❗️- BUT USE IT WELL❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "aplikacja serum",
+      "tip": "Wystarczą trzy krople serum witaminy C na twarz, nie ma sensu obciążać skóry większą ilością.",
+      "timestamp": "05:51",
+      "video_id": "944nfQqC70c",
+      "video_title": "NOWOŚĆ ZIAJA❗️- KOMBO, KTÓRE ZROBISZ W DOMU❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "wilgotność skóry przy serum",
+      "tip": "Skóra twarzy przed nałożeniem serum musi być dobrze obficie spryskana tonikiem lub esencją, nie może być wilgotna, musi być mokra.",
+      "timestamp": "02:58",
+      "video_id": "ws6R9rYkAUE",
+      "video_title": "WSZYSTKO NA MAKSA! 😱 PORAZ PIERWSZY NA KANALE❗️ – *KOMBO* - MAX EFEKTY NA KAŻDEJ SKÓRZE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "czas trzymania maski w płachcie",
+      "tip": "Maksymalny czas trzymania maski to 8 minut, aby nie dopuścić do jej całkowitego wyschnięcia na twarzy.",
+      "timestamp": "06:37",
+      "video_id": "ws6R9rYkAUE",
+      "video_title": "WSZYSTKO NA MAKSA! 😱 PORAZ PIERWSZY NA KANALE❗️ – *KOMBO* - MAX EFEKTY NA KAŻDEJ SKÓRZE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "cena",
+      "tip": "Produkt można upolować za 35 lub 40 złotych.",
+      "timestamp": "01:15",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-06"
+    },
+    {
+      "topic": "sprawdzenie składu",
+      "tip": "Warto dokładnie sprawdzić skład na opakowaniu, żeby nie kupić wersji z parafiną lub plastikami.",
+      "timestamp": "02:22",
+      "video_id": "g8Zrc-QdHGc",
+      "video_title": "CIEKAWY KOSMETYK Z APTEKI❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-02-06"
     }
