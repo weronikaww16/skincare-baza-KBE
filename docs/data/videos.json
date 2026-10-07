@@ -2985,9 +2985,9 @@
     "title": "ROSSMANN - THE BEST NEW RELEASE OF 2026❗️",
     "channel": "Kacper Skin Ekspert",
     "date": "2026-10-05",
-    "attempts": 2,
+    "attempts": 3,
     "status": "failed",
-    "error": "Expecting value: line 11 column 9 (char 478)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "CZ4lh-MVoeA": {
     "title": "NOWOŚCI W ROSSMANN - I TO JAKIE! ",
@@ -3322,9 +3322,9 @@
     "title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
     "channel": "Kacper Skin Ekspert",
     "date": "2026-02-06",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "Expecting ':' delimiter: line 128 column 18 (char 6074)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "rd9D4YNcgCo": {
     "title": "ROSSMANN - WHICH HAIR SHAMPOOS TO BUY?",
@@ -3514,5 +3514,397 @@
     "date": "2026-01-06",
     "status": "done",
     "summary": "Film zawiera recenzję dwóch palet cieni do powiek marki Bellapierre: Disco oraz Safari, wraz z analizą ich składu."
+  },
+  "xEF1LhzPrmE": {
+    "title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "nM1YYZe2DzM": {
+    "title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-06",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "y8PHBszXPzw": {
+    "title": "MUSICIE TO ZOBACZYĆ❗️😮",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "6_xUHiIghZQ": {
+    "title": "NOWA PALETKA DO TWARZY - CZY WARTO?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "JrVSjKkZxt8": {
+    "title": "These two products are WORTH BUYING!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "kJ6GF8tATG0": {
+    "title": "PAESE - WHAT IS WORTH BUYING?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "wrR_ES9Hgwg": {
+    "title": "MOJE OŚWIADCZENIE❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "w08tRGXIoJ8": {
+    "title": "We have a huge GEM among MAKEUP cosmetics! 😍",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "VVxmTJr7JjY": {
+    "title": "4 PLN and such an effect?! The perfect eye primer – SHOCKING❗️😮",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor poleca tani i odżywczy krem okluzyjny pod oczy z masłem kakaowym, idealny dla mocno przesuszonej skóry, a także przestrzega przed jego wersją z koenzymem Q10."
+  },
+  "_2UbUOPqFZg": {
+    "title": "Ten produkt zmiażdżył konkurencję!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "MnusirTbY3M": {
+    "title": "SIEMANKO! - Mam dla Was cudowne szminki!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "MxyXWP5vX4c": {
+    "title": "Podkład kryjący z apteki?! KOCHANI… tego się NIE spodziewałem!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "N4rU406XZtw": {
+    "title": "WOW! One product = full coverage! Best BB CREAM of 2025?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "uJvT9GvRMiM": {
+    "title": "ZNALAZLEM DLA WAS PEREŁKĘ❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "paqBas6BsLI": {
+    "title": "MAKIJAŻ❗️- CO WARTO KUPOWAĆ, A CZEGO NIE?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu prezentuje wybrane kosmetyki z drogerii Hebe, oceniając ich składy, działanie oraz opłacalność zakupu dla różnych typów cery."
+  },
+  "wVsBltCgOhc": {
+    "title": "*KOMBO* 🥳  - MAX EFEKT JUŻ PO 1 UŻYCIU❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia combo kosmetyków o działaniu odbudowującym, antyoksydacyjnym i przeciwstarzeniowym, które poprawiają barierę hydrolipidową. Prezentuje konkretne produkty i ich łączenie w rutynie pielęgnacyjnej."
+  },
+  "lIFwhE-XwjY": {
+    "title": "MAX EFFECTS❗️*COMBO* - LIFTING for PLN 13 with ROSSMANN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia zaawansowane combo do pielęgnacji skóry zapewniające maksymalne efekty liftingu, regeneracji i nawilżenia. Prezentuje konkretne produkty, ich działanie, składniki oraz zasady ich stosowania."
+  },
+  "XVn0AXrD7KY": {
+    "title": "ROSSMANN - CO WARTO KUPOWAĆ, A CZEGO NIE KUPOWAĆ?! ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu omawia aktualne promocje kosmetyczne w Rossmannie, dzieląc się swoimi opiniami na temat składów i działania różnych serii produktów do pielęgnacji twarzy, włosów i ciała."
+  },
+  "p1KRHgLWI_I": {
+    "title": "MAX EFEKTY w 10 MINUT?! 😱 KOMBO ZIAJA + ISANA, które DZIAŁA!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia poranne lub wieczorne combo kosmetyczne przeznaczone do pielęgnacji skóry, skupiając się na budowaniu bariery hydrolipidowej i nawilżeniu. Przedstawia konkretne produkty drogeryjne z luksusowymi technologiami w przystępnych cenach, podając zasady ich stosowania."
+  },
+  "s7UT0MiJEk4": {
+    "title": "NIESPODZIANKA NA NOWY ROK",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor ogłasza serię rozdawnictw na swoim kanale o pielęgnacji skóry i przedstawia zasady udziału. W pierwszym rozdanym zestawie do wygrania są kosmetyki Blue Moon z miedziowym peptydem trójpeptydowym."
+  },
+  "EFVD3gbAavQ": {
+    "title": "MAX EFFECTS❗️COMBO - SKIN FIRMING + WRINKLES❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Film przedstawia rutynę pielęgnacyjną z użyciem mikроигiełek oraz produktów aktywnych. Autor wyjaśnia, jak prawidłowo aplikować kosmetyki z mikроигiełkami, aby uzyskać maksymalne efekty bez podrażnień."
+  },
+  "ddS320z5sc0": {
+    "title": "MAX EFEKTY❗️OSTATNIE KOMBO W 2025❗️- EFEKT JUŻ PO 1 UŻYCIU❗️- MAX DZIAŁANIE DLA KAŻDEGO❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor przedstawia zestaw kosmetyków (combo) przeznaczony do codziennej, głównie nocnej pielęgnacji skóry naczynkowej, wrażliwej, skłonnej do zaczerwienień, z tendencją do rozszerzonych porów. Wskazuje produkty polecane i odradzane ze względu na skład oraz omawia zasady nakładania i łączenia składników aktywnych."
+  },
+  "kwFHfM_iDXI": {
+    "title": "KOMBO ROKU 2025❗️- ATAK NA ZMARSZCZKI ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu przedstawia combo pielęgnacyjne bazujące na tripeptydzie miedziowym, dedykowane do odbudowy, nawilżenia, nawodnienia i odmłodzenia skóry. Omawia poszczególne produkty, ich działanie, składniki aktywne oraz zasady ich łączenia i stosowania."
+  },
+  "LN9vmuqUkYU": {
+    "title": "REMEDIUM NA ZMARSZCZKI ❗️- EFEKTY JUŻ PO 1 UŻYCIU + HIT Z BIERRONKI❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia combo kosmetyków do pielęgnacji skóry twarzy, szyi i dekoltu opartych na peptydach. Prezentuje konkretne produkty z Biedronki i aptek, analizuje ich skład oraz wyjaśnia zasady łączenia składników aktywnych."
+  },
+  "IRZU7m8T91Y": {
+    "title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "attempts": 1,
+    "status": "failed",
+    "error": "Expecting property name enclosed in double quotes: line 13 column 7 (char 604)"
+  },
+  "xjXfC0EXuUI": {
+    "title": "ZIAJA - MAX EFEKTY JUŻ PO 1 UŻYCIU❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu prezentuje poranne combo pielęgnacyjne składające się z trzech kosmetyków przeznaczonych do cery z przebarwieniami, z nierównym kolorytem oraz dla uzyskania efektu glossy skin. Omawiane są zasady łączenia składników aktywnych, metody aplikacji produktów oraz ich działanie na barierę hydrobipidową, redukcję melaniny i nawilżenie."
+  },
+  "pSzkkHQ_xnw": {
+    "title": "HIT 2025 ROKU, KTÓRY DZIAŁA CUDA❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia swój ulubiony produkt do pielęgnacji skóry głowy, który stosuje od dwóch lat. Skupia się na problemie wypadania włosów oraz stymulacji wzrostu nowych pasm. Wyjaśnia działanie składników aktywnych oraz prawidłową technikę aplikacji."
+  },
+  "DgwLsZRiZzU": {
+    "title": "UWAGA❗️ZIAJA STWORZYŁA CUD DLA KAŻDEGO ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia peeling do skóry głowy od polskiej marki Ziaja, analizuje jego skład, działanie poszczególnych składników oraz dzieli się instrukcją prawidłowego stosowania. Wskazuje, dla jakiego typu skóry głowy produkt jest odpowiedni."
+  },
+  "023709NLEM0": {
+    "title": "Jedna minuta, która ma znaczenie – Wesołych Świąt❗️❤️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": ""
+  },
+  "tDiBvdHN2p4": {
+    "title": "This face cream should be VIRAL!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia odżywczy krem lipidowy z ceramidami Pharmaceris A, analizuje jego skład oraz właściwości. Dzieli się swoimi wrażeniami z testowania produktu oraz wyjaśnia, dla kogo jest on przeznaczony."
+  },
+  "WahqFUJL0vI": {
+    "title": "THE FIRST SHAMPOO OF THIS KIND IN POLAND❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Film omawia znaczenie peptydów miedziowych w pielęgnacji skóry głowy, ich zalety, działanie oraz to, dlaczego powinny być stałym składnikiem takich kosmetyków. Autor prezentuje także konkretny szampon marki Tołpa, analizując jego skład i dzieląc się opinią na jego temat."
+  },
+  "pQSAJX4gCXY": {
+    "title": "RZECZY, O KTÓRYCH MUSISZ WIEDZIEĆ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Film omawia tematykę retinoidów, ich działanie, wskazania i przeciwwskazania do stosowania. Autor wyjaśnia różnice między poszczególnymi formami retinoidów oraz ostrzega przed ich używaniem w okresie ciąży i karmienia piersią, a także przy zniszczonej barierze hydrolipidowej."
+  },
+  "YWwgoUeW-x4": {
+    "title": "ONE OF THE BEST SHAMPOOS IN POLAND – YOU MUST SEE IT 😎",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia szampon z kwasem salicylowym od Sylveco z linii Dermo. Przedstawia jego skład, działanie, sposób użycia oraz potencjalne skutki uboczne dla konkretnych typów włosów."
+  },
+  "5U3JTEqhb84": {
+    "title": "Jedno SERUM, realne EFEKTY. Tak wygląda SKUTECZNA pielęgnacja TWARZY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu omawia wybrane serum do pielęgnacji twarzy, analizując jego skład, działanie, sposób stosowania oraz zasady łączenia z innymi składnikami aktywnymi. Przedstawia swoje rekomendacje i dzieli się opiniami na temat konkretnych produktów i marek."
+  },
+  "Idf-t4obVsM": {
+    "title": "BEST CHOICE ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu analizuje i poleca tonik do twarzy marki Pharmaceris, omawiając jego składniki aktywne, działanie oraz zasady stosowania w codziennej pielęgnacji."
+  },
+  "aTmJd7lq-oM": {
+    "title": "Rossmann: I BUY / I DON'T BUY – no mercy❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu przedstawia przegląd i ocenę różnych kosmetyków dostępnych w Rossmannie, omawiając ich składy, działanie oraz to, czy są warte zakupu."
+  },
+  "jkSm7n0xJ3A": {
+    "title": "ZIAJA REALLY DID IT❗️😮",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu przedstawia nowość marki Ziaja Pro: kwas hialuronowy w serum GAG liftingująco-nawilżająco-wypełniającym zmarszczki o pojemności 200 ml, porównuje go do mniejszej wersji oraz omawia jego skład i działanie na skórę."
+  },
+  "FKRavnxaEhs": {
+    "title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "W filmie autor omawia nowy produkt z linii Pro marki Ziaja przeznaczony do cery naczynkowej i z niedoskonałościami. Przedstawia jego działanie, składniki aktywne, opinie oraz zasady stosowania z innymi składnikami kosmetycznymi."
+  },
+  "CbjmTWc0nlg": {
+    "title": "EFFECTS AFTER JUST 1 USE❗️ You will forget about ineffective methods!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia combo dwóch produktów do pielęgnacji skóry, skupiając się na redukcji przebarwień i wyrównaniu kolorytu. Przedstawia serum z witaminą C oraz krem rozjaśniający, podając ich składy, działanie oraz zasady stosowania na noc."
+  },
+  "sVzY0Q0PrZs": {
+    "title": "ROSSMANN: A PRODUCT THAT MAKES SENSE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia w wcierce do skóry głowy proFormula Hemp Serum szereg składników aktywnych, ich działanie na porost włosów i nawilżenie, a także dzieli się swoimi wrażeniami z testu konsystencji."
+  },
+  "gKGcaVsjMLA": {
+    "title": "REWELACJA ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia puder sypki Glam Shop Natural, analizuje jego skład oraz ocenia działanie na skórze. W filmie pojawiają się również przemyślenia na temat bezpieczeństwa i higieny produktów kosmetycznych w drogeriach."
+  },
+  "0qQBlhKvQF0": {
+    "title": "GOOD TOOTHPASTE - WHICH ONE IS WORTH BUYING?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia polecane i odradzane przez siebie pasty do zębów, ze szczególnym uwzględnieniem składów bez fluoru, parabenów oraz SLS. Prezentuje konkretne produkty z marek Action i Biorepair, oceniając ich działanie i bezpieczeństwo."
+  },
+  "BiYRQ-6Xwm0": {
+    "title": "ZIAJA MA HIT, O KTÓRYM KAŻDY POWINIEN WIEDZIEĆ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia maskę do twarzy z zieloną oliwką marki Ziaja, analizując jej skład, działanie, sposób użycia oraz zasady stosowania masek glinkowych."
+  },
+  "p2z59LnrsSE": {
+    "title": "A PHARMACY HIT that TRANSFORMS YOUR SKIN - results visible quickly!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia serum olejowe z witaminą C tetra marki Pharmaceris N-Capilix, analizując jego skład, działanie oraz zasady stosowania w pielęgnacji skóry naczynkowej."
+  },
+  "wjSQtOX0avk": {
+    "title": "Sprawdziłem 5 kosmetyków. Wynik zaskakuje – wygrał tylko jeden!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne w portofolio marki Nacomi, ze szczególnym uwzględnieniem serum Cloud White Truffle K-Smoothing Cloud Serum. Dzieli się swoimi wrażeniami dotyczącymi składu, konsystencji oraz działania produktu."
+  },
+  "oKfhojoDC4A": {
+    "title": "ROSSMANN 2025: TOP Promotions and Products Worth Buying!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor filmu przedstawia hity i aktualne promocje w sklepie Rossmann. Omawia różne produkty do pielęgnacji skóry, w tym mydła, żele pod prysznic, odżywki do włosów, kremy i maseczki, oceniając ich składy i działanie."
+  },
+  "EsBafpWX8Ys": {
+    "title": "WE NEED TO TALK ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-01-07",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki, odrzuca snobizm kosmetyczny oraz wyjaśnia, dlaczego droższe nie zawsze oznacza lepsze. Porusza kwestie składów kosmetyków oraz krytykuje opłacone opinie i marketing."
+  },
+  "p6HwJV6MEUg": {
+    "title": "TOP 3 FACE POWDERS IN POLAND❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Autor filmu przedstawia podsumowanie trzech wybranych pudrów do twarzy, omawiając ich działanie, skład oraz wpływ na skórę."
+  },
+  "suLOcIfurog": {
+    "title": "Te PRODUKTY to HITY! 😍 - KUPISZ ZA MNIEJ NIŻ 20 ZŁOTYCH! ",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne z Hebe – balsam do ust oraz maseczkę do ust – oceniając ich składy i działanie."
+  },
+  "vGuCBNk4gb4": {
+    "title": "MIAŁO BYĆ INACZEJ ❗️HIT W ROSSMANN ❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Autor filmu omawia dwa produkty marki Eveline: puder rozświetlający Wonder Match oraz rozświetlacz sypki Wonder Show, analizując ich właściwości i zastosowanie."
+  },
+  "XpoFEUCiiJg": {
+    "title": "ONE OF THE BEST UNDER-EYE CONCEALERS IN POLAND❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Autor omawia skład i właściwości popularnego korektora marki Claresa z serii Care All Day."
+  },
+  "Roo54lcKzlk": {
+    "title": "ROSSMANN - MAKIJAŻ OCZU ZA 4 ZŁ?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Film przedstawia recenzję czarnej kredki do oczu Kajal Pencil Eyeliner nr 01 black marki Essence, omawiając jej właściwości, skład oraz dostępność."
+  },
+  "XLneguCao74": {
+    "title": "ROSSMANN - FACE POWDER WITH COPPER PEPTIDE❗️",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Autor omawia nowy puder sypki Eveline Wonder Show, analizuje jego skład oraz właściwości i zapowiada test na skórze w kolejnym materiale."
+  },
+  "Kt5SntjMOxo": {
+    "title": "WE HAVE A FABULOUS TRIO IN MAKEUP!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2025-12-07",
+    "status": "done",
+    "summary": "Krótkie podsumowanie i ocena kremowych sztyftów do konturowania, róży i rozświetlaczy marki Hebe."
   }
 }
