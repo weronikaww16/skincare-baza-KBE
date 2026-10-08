@@ -4022,6 +4022,147 @@
       "video_title": "ROSSMANN 2025: TOP Promotions and Products Worth Buying!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-07"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Unikać stosowania produktu zawierającego ten składnik w ciąży i podczas karmienia piersią",
+      "why": "Obecność fenoksyetanolu w składzie dyskwalifikuje produkt do stosowania przez kobiety w ciąży i matki karmiące",
+      "timestamp": "08:13",
+      "video_id": "fBH4leLq-uU",
+      "video_title": "ROSSMANN - A MUST-HAVE BEAUTY PRODUCT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-08"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (inne formy niż Tetraizopalmitynian askorbylu / Tetra)"
+      ],
+      "rule": "Nie wolno łączyć peptydów z żadną inną formą witaminy C poza tetraizopalmitynianem askorbylu (Tetra).",
+      "why": "Inne formy witaminy C wchodzą w negatywne interakcje z peptydami, niszczą ich działanie, wywołują podrażnienia, rumień oraz niszczą barierę hydrolipidową.",
+      "timestamp": "07:06",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "pochodna trójpeptydu miedziowego / peptydy miedziowe",
+        "Disodium EDTA"
+      ],
+      "rule": "Kategoryczny zakaz łączenia produktów z peptydami miedziowymi z kosmetykami zawierającymi chelator Disodium EDTA w jednej rutynie.",
+      "why": "Disodium EDTA całkowicie niszczy i destabilizuje cząsteczkę peptydu miedziowego, co prowadzi do podrażnienia skóry i uszkodzenia bariery naskórkowej.",
+      "timestamp": "07:54",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Catrice Glazing Face Mist",
+        "ceramidy",
+        "peptydy"
+      ],
+      "rule": "Mgiełkę można bezpiecznie łączyć w pielęgnacji z ceramidami i standardowymi peptydami.",
+      "why": "Składniki te dobrze współgrają i nie powodują niepożądanych reakcji.",
+      "timestamp": "07:52",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Catrice Glazing Face Mist",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Nie należy łączyć mgiełki z kosmetykami zawierającymi tripeptyd miedziowy.",
+      "why": "Mgiełka zawiera dużą ilość regulatorów pH, które w kontakcie z tripeptydem miedziowym mogą wywołać podrażnienia skóry.",
+      "timestamp": "07:56",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Catrice Glazing Face Mist",
+        "niacynamid",
+        "cynk"
+      ],
+      "rule": "Produkt można łączyć z serum z niacynamidem i cynkiem.",
+      "why": "Formuły nie kolidują ze sobą, wspierając regulację gruczołów łojowych.",
+      "timestamp": "08:23",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "peptydy sygnałowe",
+        "peptydy miedziowe"
+      ],
+      "rule": "Peptydy sygnałowe można łączyć z peptydami miedziowymi.",
+      "why": "Mają inne działanie i peptydy miedziowe wjeżdżają pierwsze przed serum właściwym.",
+      "timestamp": "01:05",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Centella Asiatica (z disodium EDTA)",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie łączyć serum z centellą z peptydami miedziowymi.",
+      "why": "Zawiera disodium EDTA helator, który nie jest odpowiedni i może powodować podrażnienia.",
+      "timestamp": "01:20",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "witamina C",
+        "peptydy"
+      ],
+      "rule": "Witamina C może być łączona z peptydami tylko w formie tetraisopalmitynianu askorbylu.",
+      "why": "Jest to jedyna forma witaminy C, która może być połączona z peptydami.",
+      "timestamp": "13:45",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "wit. C",
+        "krem peptydowy"
+      ],
+      "rule": "Witamina C sap może doprowadzić do destabilizacji kremów peptydowych.",
+      "why": "Niedopasowanie składników aktywnych może zaburzyć działanie produktów.",
+      "timestamp": "09:05",
+      "video_id": "IRZU7m8T91Y",
+      "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-01-08"
     }
   ],
   "routines": [
@@ -7371,6 +7512,73 @@
       "video_title": "A PHARMACY HIT that TRANSFORMS YOUR SKIN - results visible quickly!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-07"
+    },
+    {
+      "problem": "nieprzyjemny zapach potu i krostki po goleniu pod pachami",
+      "time_of_day": "noc",
+      "steps": [
+        "Umyć i osuszyć skórę pod pachami wieczorem",
+        "Zaaplikować kwasowy dezodorant w kulce na noc (przez 3 noce z rzędu w tygodniu)",
+        "Rano zmyć produkt ze skóry pod pachami",
+        "Nałożyć tradycyjny, naturalny dezodorant bez soli aluminium"
+      ],
+      "notes": "Produkt działa jak peeling kwasowy, dlatego aplikuje się go wyłącznie na noc, a rano zmywa.",
+      "timestamp": "02:08",
+      "video_id": "fBH4leLq-uU",
+      "video_title": "ROSSMANN - A MUST-HAVE BEAUTY PRODUCT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-08"
+    },
+    {
+      "problem": "odbudowa bariery hydrolipidowej, działanie przeciwzmarszczkowe i nawilżające",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Oczyszczenie skóry twarzy",
+        "Aplikacja toniku",
+        "Aplikacja 2-3 kropli Isana Kupfer Peptid Serum jako booster na wilgotną od toniku skórę",
+        "Natychmiastowe nałożenie na wilgotną skórę serum z czystym peptydem miedziowym lub innego serum peptydowego",
+        "Aplikacja kremu nawilżającego/okluzyjnego"
+      ],
+      "notes": "Produkt można bez problemu aplikować także pod oczy. Nie stosować u kobiet w ciąży i karmiących ze względu na fenoksyetanol.",
+      "timestamp": "09:12",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "problem": "sucha, ściągnięta lub zbyt pudrowa skóra w makijażu",
+      "time_of_day": "rano",
+      "steps": [
+        "Nałożenie kremu z filtrem SPF",
+        "Rozpylenie mgiełki i doklepanie jej w skórę (jako baza)",
+        "Aplikacja podkładu i pozostałego makijażu",
+        "Opcjonalne spryskanie gotowego makijażu mgiełką w celu zdjęcia pudrowości"
+      ],
+      "notes": "Mgiełkę można stosować również solo jako nawadniający tonik do twarzy.",
+      "timestamp": "03:06",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "problem": "rozświetlenie, nawilżenie i regeneracja",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczanie skóry twarzy (pianka, żel lub emulsja)",
+        "aplikacja toniku bez peptydów",
+        "aplikacja serum Pharmaceris Hyalu-Sensibiotic",
+        "aplikacja serum Ziaja Pro z witaminą C",
+        "zastosowanie pielęgnacji wokół oczu",
+        "zamknięcie pielęgnacji kremem Miya My Wonder Balm Call Me Later"
+      ],
+      "notes": "Produkty można stosować zarówno na twarz, jak i pod oczy.",
+      "timestamp": "02:45",
+      "video_id": "IRZU7m8T91Y",
+      "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-01-08"
     }
   ],
   "tips": [
@@ -12242,6 +12450,132 @@
       "video_title": "WE NEED TO TALK ❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-07"
+    },
+    {
+      "topic": "Kosmetyki męskie a damskie",
+      "tip": "Napis 'for men' na opakowaniu to wyłącznie chwyt marketingowy; kosmetyki nie dzielą się ze względu na płeć, różnią się zazwyczaj jedynie kompozycją zapachową i kobiety mogą z powodzeniem stosować ten produkt.",
+      "timestamp": "02:26",
+      "video_id": "fBH4leLq-uU",
+      "video_title": "ROSSMANN - A MUST-HAVE BEAUTY PRODUCT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-08"
+    },
+    {
+      "topic": "Złuszczanie pach",
+      "tip": "Regularne złuszczanie martwego naskórka kwasami pod pachami ułatwia wchłanianie naturalnych dezodorantów, zwiększa ich skuteczność i redukuje powstawanie krostek po goleniu.",
+      "timestamp": "04:03",
+      "video_id": "fBH4leLq-uU",
+      "video_title": "ROSSMANN - A MUST-HAVE BEAUTY PRODUCT FOR EVERYONE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-08"
+    },
+    {
+      "topic": "Składniki w ciąży i podczas karmienia piersią",
+      "tip": "Produkt zawierający w składzie fenoksyetanol (Phenoxyethanol) jest kategorycznie zakazany dla kobiet w ciąży oraz matek karmiących piersią.",
+      "timestamp": "06:29",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Wsparcie kuracji złuszczających i przeciwtrądzikowych",
+      "tip": "Serum peptydowe z pochodną miedzi świetnie sprawdza się jako produkt SOS regenerujący barierę hydrolipidową w trakcie kuracji retinolem lub kwasami.",
+      "timestamp": "06:01",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Stosowanie jako booster przenikania",
+      "tip": "Dzięki zawartości promotorów przejścia (np. 1,2-heksanodiol), serum Isana świetnie sprawdza się jako booster nałożony bezpośrednio przed serum z czystym peptydem miedziowym, ułatwiając jego głębszą penetrację.",
+      "timestamp": "09:13",
+      "video_id": "xEF1LhzPrmE",
+      "video_title": "ROSSMANN - THIS ANTI-WRINKLE HIT IS AFFORDABLE AND HIGHLY EFFECTIVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Przygotowanie do aplikacji mgiełki",
+      "tip": "Przed każdym użyciem należy energicznie wstrząsnąć butelką, aby wymieszać formułę.",
+      "timestamp": "03:34",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Ochrona oczu",
+      "tip": "W przypadku wrażliwych oczu należy zasłaniać je dłonią podczas rozpylania produktu na twarz.",
+      "timestamp": "02:37",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Bezpieczeństwo składników – polimery",
+      "tip": "Zapisy w składzie INCI takie jak Sodium Hyaluronate Crosspolymer czy polimery kolagenowe to bezpieczne polimery nawilżające, a nie szkodliwy mikroplastik.",
+      "timestamp": "04:33",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "Przeciwwskazania do stosowania mgiełki",
+      "tip": "Z uwagi na zawartość fenoksyetanolu produkt nie powinien być stosowany przez kobiety w ciąży oraz matki karmiące piersią.",
+      "timestamp": "05:46",
+      "video_id": "nM1YYZe2DzM",
+      "video_title": "ROSSMANN - BEAUTIFUL SKIN EFFECT IN 30 SECONDS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-07"
+    },
+    {
+      "topic": "stosowanie masek w płacie",
+      "tip": "Masek w płacie nie trzyma się godzinę. Należy trzymać je 8 minut i zdjąć.",
+      "timestamp": "02:00",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "topic": "stosowanie retinolu",
+      "tip": "Kremy z retinolem stosuje się 3 noce pod rząd w tygodniu, unikając kwasów i peelingów.",
+      "timestamp": "05:35",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "topic": "bariera hydrolipidowa",
+      "tip": "Najpierw należy odbudować barierę hydrolipidową, a dopiero potem stosować mocne składniki aktywne.",
+      "timestamp": "08:10",
+      "video_id": "4WdevUPSrpw",
+      "video_title": "ROSSMANN - WHAT TO BUY FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-02-08"
+    },
+    {
+      "topic": "stosowanie pod oczy",
+      "tip": "Serum Pharmaceris i Ziaja oraz kremy mogą być bezpiecznie aplikowane pod oczy.",
+      "timestamp": "07:15",
+      "video_id": "IRZU7m8T91Y",
+      "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-01-08"
+    },
+    {
+      "topic": "dobór kremów do cery tłustej",
+      "tip": "Skóry tłuste trądzikowe mogą stosować wybrane kremy bez peptydów, np. kremy normalizujące lub z linii Jojoba.",
+      "timestamp": "09:44",
+      "video_id": "IRZU7m8T91Y",
+      "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-01-08"
     }
   ]
 }
