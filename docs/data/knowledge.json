@@ -4163,6 +4163,47 @@
       "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-08"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy (retinol)",
+        "kwasy złuszczające (glikolowy, salicylowy, mlekowy, pirogronowy, traneksamowy, kojowy)"
+      ],
+      "rule": "W trakcie kuracji retinoidami nie należy stosować kwasów AHA, BHA oraz innych kwasów złuszczających.",
+      "why": "Retinoidy same w sobie złuszczają naskórek i stymulują odnowę komórkową, więc łączenie ich z dodatkowymi kwasami prowadzi do podrażnień.",
+      "timestamp": "11:25",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy (retinol)",
+        "peelingi enzymatyczne i ziarniste"
+      ],
+      "rule": "W trakcie kuracji retinoidami obowiązuje całkowity zakaz stosowania jakichkolwiek peelingów enzymatycznych czy ziarnistych.",
+      "why": "Retinoidy wywołują złuszczanie naskórka, przez co nie ma potrzeby ani wskazań do stosowania dodatkowych preparatów keratolitycznych.",
+      "timestamp": "11:25",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "retinoidy (retinol, retinaldehyd, tretinoina)"
+      ],
+      "rule": "Retinoidy są bezwzględnie zakazane dla kobiet w ciąży oraz matek karmiących piersią.",
+      "why": "Stosowanie retinoidów w okresie ciąży i laktacji stwarza ryzyko teratogenne i niebezpieczeństwo dla dziecka.",
+      "timestamp": "05:38",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
     }
   ],
   "routines": [
@@ -7579,6 +7620,19 @@
       "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-08"
+    },
+    {
+      "problem": "wprowadzenie retinolu / budowanie tolerancji skóry",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja serum z retinolem solo na suchą skórę"
+      ],
+      "notes": "Produkt ma bazę lipidowo-nawilżającą, dlatego można stosować go solo; w pozostałe dni autor zaleca intensywne nawadnianie, nawilżanie i regenerację bariery hydrolipidowej.",
+      "timestamp": "04:33",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
     }
   ],
   "tips": [
@@ -12576,6 +12630,33 @@
       "video_title": "EFEKTY W 5 MINUT❗️- MAX KOMBO DO TWARZY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-01-08"
+    },
+    {
+      "topic": "Bakuchiol a retinol",
+      "tip": "Bakuchiol nie jest retinoidem ani formą retinolu; nazywanie go 'roślinnym retinolem' to chwyt marketingowy. Bakuchiol nie przebudowuje skóry tak jak retinoidy, lecz działa nawilżająco i silnie antyoksydacyjnie.",
+      "timestamp": "02:33",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
+    },
+    {
+      "topic": "Ochrona przeciwsłoneczna przy retinoidach",
+      "tip": "Podczas stosowania retinoidów obowiązkowe jest codzienne nakładanie kremu z filtrem SPF 50, niezależnie od pogody i zachmurzenia.",
+      "timestamp": "11:04",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
+    },
+    {
+      "topic": "Regeneracja bariery hydrolipidowej",
+      "tip": "W dniach, kiedy nie stosuje się retinolu, należy zadbać o intensywne nawilżanie, nawadnianie i odbudowę bariery naskórkowej.",
+      "timestamp": "11:17",
+      "video_id": "QCAKgU1wUB4",
+      "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-09"
     }
   ]
 }

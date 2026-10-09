@@ -11963,6 +11963,58 @@
     "conflict": false
   },
   {
+    "key": "claresa denim cushion foundation",
+    "brand": "Claresa",
+    "name": "Denim Cushion Foundation",
+    "category": "podkład",
+    "ingredients": [
+      "akrylany",
+      "dimethicone",
+      "gliceryna",
+      "glikol butylenowy",
+      "glikol propylenowy",
+      "heksanodiol",
+      "izododekan",
+      "krzemionka",
+      "woda"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Skład określony jako skandaliczny; zawiera aż cztery akrylany, które mogą zapychać pory i niszczyć barierę hydrolipidową skóry kosztem jedynie pozornego wygładzenia.",
+        "video_id": "VUJZlF_R40I",
+        "video_title": "THE NEWEST FOUNDATION AVAILABLE IN-STORE?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-10-09",
+        "timestamp": "02:33"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "claresa el nature korektor",
+    "brand": "Claresa",
+    "name": "El Nature korektor",
+    "category": "korektor",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wspomniany jako produkt genialny pod względem składu.",
+        "video_id": "VUJZlF_R40I",
+        "video_title": "THE NEWEST FOUNDATION AVAILABLE IN-STORE?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-10-09",
+        "timestamp": "03:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "claresa hydrate me now serum base",
     "brand": "Claresa",
     "name": "Hydrate Me Now Serum Base",
@@ -15467,6 +15519,27 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-12-08",
         "timestamp": "01:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "eveline cushion",
+    "brand": "Eveline",
+    "name": "Cushion",
+    "category": "podkład",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Autor chwali go za genialny, minimalistyczny i bezpieczny skład pozbawiony akrylatów.",
+        "video_id": "VUJZlF_R40I",
+        "video_title": "THE NEWEST FOUNDATION AVAILABLE IN-STORE?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-10-09",
+        "timestamp": "00:20"
       }
     ],
     "verdict": "polecany",
@@ -23108,6 +23181,40 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-03-04",
         "timestamp": "09:59"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana serum retinol 0 1 retinol 0 5 bakuchiol",
+    "brand": "Isana",
+    "name": "Serum Retinol (0,1% Retinol + 0,5% Bakuchiol)",
+    "category": "serum",
+    "ingredients": [
+      "bakuchiol (0,5%)",
+      "ekstrakt z rozmarynu",
+      "fosfolipidy",
+      "gliceryna",
+      "olej ze słodkich migdałów",
+      "retinol (0,1%)",
+      "skwalan (3%)",
+      "witamina E (tokoferol)"
+    ],
+    "for": [
+      "osoby początkujące z retinoidami",
+      "skóra dojrzała",
+      "skóra trądzikowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny produkt na start dla osób początkujących w bardzo dobrej cenie; zawiera łagodne stężenie retinolu (0,1%), antyoksydacyjny bakuchiol, skwalan (3%) oraz bazę fosfolipidową i nawilżającą, która minimalizuje ryzyko podrażnień i wspiera barierę hydrolipidową.",
+        "video_id": "QCAKgU1wUB4",
+        "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-10-09",
+        "timestamp": "02:13"
       }
     ],
     "verdict": "polecany",
@@ -33597,6 +33704,31 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "nacomi retinol 0 25",
+    "brand": "Nacomi",
+    "name": "Retinol 0,25%",
+    "category": "serum",
+    "ingredients": [
+      "retinol 0,25%"
+    ],
+    "for": [
+      "skóra adaptowana do retinoidów"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wspomniany jako propozycja produktu o wyższym stężeniu po zakończeniu kuracji wstępnej łagodniejszym serum.",
+        "video_id": "QCAKgU1wUB4",
+        "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-10-09",
+        "timestamp": "10:40"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -44776,6 +44908,31 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "topa hpr 0 1",
+    "brand": "Tołpa",
+    "name": "HPR 0,1%",
+    "category": "serum",
+    "ingredients": [
+      "retinoid HPR 0,1%"
+    ],
+    "for": [
+      "skóra adaptowana do retinoidów"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wspomniany jako alternatywny produkt po przejściu etapu początkowego.",
+        "video_id": "QCAKgU1wUB4",
+        "video_title": "ROSSMANN - GET THIS WRINKLE-FIGHTING HIT BOGO NOW❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-10-09",
+        "timestamp": "10:43"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
