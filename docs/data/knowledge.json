@@ -4971,6 +4971,177 @@
       "video_title": "This face serum is AMAZING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-11"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "retinol",
+        "niacynamid",
+        "gliceryna"
+      ],
+      "rule": "Można łączyć retinol z niacynamidem i gliceryną w jednej rutynie.",
+      "why": "Składniki te harmonijnie współgrają, nie wchodzą w negatywne interakcje, a humektanty i antyoksydanty wzmacniają komfort skóry i wspierają jej nawilżenie bez osłabiania działania retinolu.",
+      "timestamp": "01:30",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "retinol",
+        "NMN booster NAD",
+        "Overnight Moisture Serum"
+      ],
+      "rule": "Jeśli łączysz retinol z boosterem NMN/NAD, nie nakładaj dodatkowo serum Overnight Moisture.",
+      "why": "Połączenie wszystkich trzech produktów w jednej rutynie byłoby przesadą i nadmiarem substancji aktywnych na raz.",
+      "timestamp": "06:53",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (w formach innych niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Nie należy łączyć peptydów z innymi formami witaminy C niż tetraizopalmitynian askorbylu w jednej rutynie.",
+      "why": "Peptydy nie tolerują innych form witaminy C niż tetraizopalmitynian askorbylu, co prowadzi do destabilizacji składników aktywnych.",
+      "timestamp": "05:06",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptyd miedziowy",
+        "Disodium EDTA"
+      ],
+      "rule": "Nie łączyć peptydu miedziowego z chelatorami takimi jak Disodium EDTA w jednej rutynie.",
+      "why": "Disodium EDTA jest chelatorem, który destabilizuje i neutralizuje działanie peptydu miedziowego.",
+      "timestamp": "05:12",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "peelingi / kwasy"
+      ],
+      "rule": "Podczas kuracji retinoidami nie wolno stosować żadnych peelingów (enzymatycznych, ziarnistych) ani kwasów złuszczających.",
+      "why": "Retinoidy same w sobie złuszczają naskórek; dodatkowe peelingi lub kwasy prowadzą do uszkodzenia i podrażnienia skóry.",
+      "timestamp": "06:45",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "retinol",
+        "kwasy złuszczające"
+      ],
+      "rule": "Przejście z kuracji retinolem na kwasy wymaga całkowitego odstawienia retinolu na 14 dni.",
+      "why": "Skóra potrzebuje 14 dni przerwy na odpoczynek i zakończenie procesów poretinoidalnych przed wprowadzeniem kwasów.",
+      "timestamp": "07:20",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Niacynamid",
+        "Retinoidy"
+      ],
+      "rule": "Serum z niacynamidem i humektantami warto stosować przy kuracji retinoidami.",
+      "why": "Produkt silnie nawadnia, łagodzi i działa jak booster przenikania dla innych substancji aktywnych.",
+      "timestamp": "00:59",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Serum Isana (niacynamid/gliceryna)",
+        "Witamina C",
+        "Peptydy",
+        "Ceramidy"
+      ],
+      "rule": "Serum można łączyć ze wszystkimi składnikami aktywnymi: witaminą C w każdej postaci, wszelkimi peptydami oraz ceramidami.",
+      "why": "Produkt nie zawiera Disodium EDTA, ma czystą formułę nawilżającą i stanowi świetną bazę przygotowującą skórę pod inne aktywy.",
+      "timestamp": "07:53",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "Fenoksyetanol"
+      ],
+      "rule": "Nie stosować w okresie ciąży oraz karmienia piersią.",
+      "why": "Produkt zawiera fenoksyetanol jako konserwant, przez co nie jest rekomendowany dla kobiet w ciąży i matek karmiących.",
+      "timestamp": "05:28",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (inne formy niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Kremu z peptydami nie wolno łączyć z innymi formami witaminy C niż tetraizopalmitynian askorbylu.",
+      "why": "Formy witaminy C inne niż tetraizopalmitynian askorbylu wchodzą w niepożądane reakcje z peptydami.",
+      "timestamp": "09:20",
+      "video_id": "EG5vruIvTb0",
+      "video_title": "WHICH FACE CREAM IS EFFECTIVE FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "pochodna trójpeptydu miedziowego",
+        "Disodium EDTA"
+      ],
+      "rule": "Nie stosować produktów z Disodium EDTA bezpośrednio przed ani po kremie z pochodną trójpeptydu miedziowego.",
+      "why": "Chelator Disodium EDTA niszczy działanie pochodnej peptydu miedziowego, co może wywołać podrażnienia, reakcję krzyżowo-kontaktową i uszkodzić barierę hydrolipidową.",
+      "timestamp": "09:37",
+      "video_id": "EG5vruIvTb0",
+      "video_title": "WHICH FACE CREAM IS EFFECTIVE FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "chelator",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie łączyć chelatorów zawartych w produkcie myjącym z peptydami miedziowymi.",
+      "why": "Chelator pozostawiony na twarzy lub niedokładnie zmyty zakazuje łączenia z peptydami miedzi, ponieważ dezaktywuje ich działanie.",
+      "timestamp": "06:34",
+      "video_id": "WDHL6jvoEAA",
+      "video_title": "AND HOW NOT TO BE SHOCKED?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
     }
   ],
   "routines": [
@@ -9041,6 +9212,82 @@
       "video_title": "This face serum is AMAZING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-11"
+    },
+    {
+      "problem": "sucha skóra, wrażliwa, pergaminowa przy wprowadzaniu retinolu",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Dokładne oczyszczenie skóry twarzy żelem (ewentualny wcześniejszy demakijaż i zmycie SPF).",
+        "Dokładne osuszenie skóry twarzy (bez nakładania toniku).",
+        "Nałożenie na suchą skórę Isana Overnight Moisture Serum i odczekanie do 100% wchłonięcia.",
+        "Natychmiastowe nałożenie Isana Serum z retinolem i bakuchiolem na wchłonięte serum nawilżające."
+      ],
+      "notes": "Po nałożeniu serum z retinolem nie nakłada się już żadnego kremu – emolienty zawarte w serum z retinolem domykają nawilżenie.",
+      "timestamp": "04:13",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "problem": "łączenie peptydów z witaminą C",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Rano: aplikacja serum z peptydami",
+        "Wieczorem: aplikacja serum z witaminą C (lub odwrotnie)"
+      ],
+      "notes": "Rozdzielenie składników na poranną i wieczorną pielęgnację zapobiega wzajemnej destabilizacji.",
+      "timestamp": "06:27",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "problem": "odwodnienie, wspomaganie przenikania składników aktywnych i regeneracja",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja serum Isana Overnight Moisture Serum",
+        "Aplikacja silniejszych składników aktywnych (np. peptydy miedziowe, ceramidy)",
+        "Natychmiastowe domknięcie pielęgnacji kremem okluzyjnym"
+      ],
+      "notes": "Serum przygotowuje i nasyca skórę nawodnieniem, dzięki czemu inne składniki aktywne mogą skupić się na działaniu naprawczym czy stymulującym.",
+      "timestamp": "08:21",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "problem": "zanieczyszczona skóra, rozszerzone pory, szorstka skóra",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "użycie pudru dwa razy w tygodniu",
+        "pozostawienie na twarzy na 3 minut",
+        "zmycie wodą"
+      ],
+      "notes": "Stosować dwa razy w tygodniu (np. w poniedziałek i czwartek) na 3 minut, cały czas masując. Puder ma formę sypką, należy pomieszać go z odrobiną wody bezpośrednio przed nałożeniem.",
+      "timestamp": "02:49",
+      "video_id": "bWFOLNjvqpo",
+      "video_title": "ROSSMANN - Krótko powiem, to jest HIT. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "problem": "oznaki zmęczenia wokół oczu",
+      "time_of_day": "rano",
+      "steps": [
+        "nałożenie płatków pod oczy",
+        "zdjęcie płatków po 8 minutach",
+        "wklepanie pozostałej esencji",
+        "nałożenie kremu pod oczy"
+      ],
+      "notes": "Autor stosuje płatki codziennie rano, po zarwanej nocy, uzyskując mocne nawilżenie, redukcję opuchlizny i rozjaśnienie skóry.",
+      "timestamp": "04:33",
+      "video_id": "XXuSylY9yac",
+      "video_title": "A REVELATIONAL UNDER-EYE TREATMENT YOU MUST TRY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
     }
   ],
   "tips": [
@@ -14983,6 +15230,195 @@
       "video_title": "This face serum is AMAZING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-11"
+    },
+    {
+      "topic": "toniki a retinoidy",
+      "tip": "Podczas kuracji retinoidami należy całkowicie zrezygnować z używania toników do twarzy.",
+      "timestamp": "04:26",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "odczekanie do wchłonięcia serum humektantowego",
+      "tip": "Serum nawilżające humektantowe (np. z gliceryną i niacynamidem) przed retinolem należy rozprowadzić i odczekać do pełnego, 100% wchłonięcia, a następnie od razu zaaplikować serum z retinolem, aby emolienty zamknęły wilgoć w skórze.",
+      "timestamp": "04:51",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "skóra tłusta i trądzikowa a combo z retinolem",
+      "tip": "Osoby ze skórą tłustą, trądzikową i łojotokową nie powinny stosować tego nawilżającego combo; dla nich stężenie 0,1% retinolu z emolientami i bazą nawilżającą jest zbyt słabe i lepiej sprawdzi się czysty retinoid zaaplikowany bezpośrednio na skórę.",
+      "timestamp": "09:27",
+      "video_id": "fDQr73D-qQA",
+      "video_title": "ROSSMANN❗️GET THESE 2 WRINKLE-FIGHTING HITS FOR 20 PLN❗️- MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Makijaż a świadoma pielęgnacja",
+      "tip": "Nie należy niweczyć efektów dobrej pielęgnacji kosmetykami do makijażu zawierającymi talk, Alcohol Denat., akrylany czy winyle, które zaburzają barierę hydrolipidową.",
+      "timestamp": "01:45",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Ochrona przeciwsłoneczna (SPF)",
+      "tip": "Stosowanie kremu z filtrem SPF jest bezwzględnym obowiązkiem, zwłaszcza przy kuracjach kwasowych i retinoidami, chroniąc przed fotostarzeniem, przebarwieniami i poparzeniami.",
+      "timestamp": "07:44",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Czas regeneracji bariery hydrolipidowej",
+      "tip": "Odbudowa uszkodzonej bariery hydrolipidowej nie trwa 3-4 dni, lecz wymaga dłuższego czasu i cierpliwości.",
+      "timestamp": "09:12",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Redukcja przebarwień",
+      "tip": "Przebarwienia tworzą się w skórze nawet przez pół roku, dlatego proces ich stabilizacji i rozjaśniania kosmetykami wymaga regularnego stosowania przez wiele miesięcy, a nie tygodni.",
+      "timestamp": "09:52",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Łojotok i zaskórniki",
+      "tip": "Regulacja pracy gruczołów łojowych i oczyszczenie porów to złożony proces trwający tygodniami; nie znikną po jedno- lub dwukrotnym użyciu kwasu salicylowego czy retinoidu.",
+      "timestamp": "11:09",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Redukcja zmarszczek",
+      "tip": "Działanie przeciwzmarszczkowe (np. peptydami) wymaga w pierwszej kolejności odbudowy bariery hydrolipidowej, a pierwsze efekty wygładzenia widoczne są po 2-3 miesiącach.",
+      "timestamp": "12:14",
+      "video_id": "gK2AeEWFnJI",
+      "video_title": "I WILL TEACH YOU HOW TO USE SKINCARE PRODUCTS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Domknięcie bazy humektantowej",
+      "tip": "Po nałożeniu czysto humektantowego serum należy bardzo szybko zamknąć je kremem, aby wilgoć i składniki aktywne nie odparowały z naskórka.",
+      "timestamp": "09:44",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Mit o komedogenności gliceryny",
+      "tip": "Gliceryna w takich stężeniach nie zatyka porów; na powstawanie zaskórników wpływa cały proces pielęgnacji, prawidłowy demakijaż, regularne złuszczanie oraz oczyszczanie skóry.",
+      "timestamp": "07:03",
+      "video_id": "7Y5BxKTCRVg",
+      "video_title": "ROSSMANN - THIS HIT IS NOW 20 PLN AND EVERYONE SHOULD HAVE IT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Bariera hydrolipidowa",
+      "tip": "Podstawą skutecznego działania przeciwzmarszczkowego i regenerującego jest w pierwszej kolejności odbudowa i zachowanie zdrowej bariery hydrolipidowej skóry.",
+      "timestamp": "05:04",
+      "video_id": "EG5vruIvTb0",
+      "video_title": "WHICH FACE CREAM IS EFFECTIVE FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Dobór kremów przeciwstarzeniowych",
+      "tip": "Krem przeciwzmarszczkowy nie musi zawierać peptydów, by działać odmładzająco – technologie oparte na mannozie i bogatych kompleksach lipidowych dają świetne rezultaty i są łatwiejsze w łączeniu z innymi kosmetykami.",
+      "timestamp": "12:38",
+      "video_id": "EG5vruIvTb0",
+      "video_title": "WHICH FACE CREAM IS EFFECTIVE FOR WRINKLES?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-12"
+    },
+    {
+      "topic": "Prawidłowe stosowanie maseczek glinkowych",
+      "tip": "Nigdy nie wolno dopuszczać do całkowitego zaschnięcia maseczki glinkowej na twarzy, ponieważ może to zniszczyć barierę hydrolipidową i wprowadzić zanieczyszczenia z powrotem w pory. Gdy maska zaczyna podsychać, należy zraszać ją wodą, tonikiem lub hydrolatem w atomizerze, a po około 8 minutach zmyć.",
+      "timestamp": "02:47",
+      "video_id": "YrpLyF8hY8w",
+      "video_title": "4 PLN FOR GOOD CARE? IT'S POSSIBLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "Częstotliwość stosowania glinki",
+      "tip": "Maseczkę glinkową najlepiej stosować 2 razy w tygodniu.",
+      "timestamp": "03:56",
+      "video_id": "YrpLyF8hY8w",
+      "video_title": "4 PLN FOR GOOD CARE? IT'S POSSIBLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "Sposób użycia pudru enzymatycznego",
+      "tip": "Puder należy wymieszać z odrobiną wody na oczyszczoną skórę twarzy, chwilę masować i zmyć.",
+      "timestamp": "06:48",
+      "video_id": "bWFOLNjvqpo",
+      "video_title": "ROSSMANN - Krótko powiem, to jest HIT. ",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "higiena masażera",
+      "tip": "Używanie masażera wbudowanego w krem może być nienihigieniczne i przenosić bakterie, dlatego warto kontrolować aplikowaną ilość kremu.",
+      "timestamp": "05:27",
+      "video_id": "KFtAFc2vhfo",
+      "video_title": "WILL THIS BE A GOOD FACE CREAM?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "zmywanie masek z glinką",
+      "tip": "Maseczek z glinką nie należy pozostawiać do wyschnięcia na twarzy; warto skrapiać je wodą termalną, ponieważ szybkie wysychanie przusza skórę.",
+      "timestamp": "04:13",
+      "video_id": "WDHL6jvoEAA",
+      "video_title": "AND HOW NOT TO BE SHOCKED?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "odczucie po zmyciu maseczki",
+      "tip": "Po zmyciu maseczki z glinką może pojawić się nieprzyjemne uczucie obklejenia lub zatłuszczenia skóry, które po zmyciu żelem całkowicie znika.",
+      "timestamp": "04:30",
+      "video_id": "WDHL6jvoEAA",
+      "video_title": "AND HOW NOT TO BE SHOCKED?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "dostępność produktu",
+      "tip": "Produkt jest bezproblemowo dostępny w Polsce w drogeriach oraz internetowo.",
+      "timestamp": "01:02",
+      "video_id": "XXuSylY9yac",
+      "video_title": "A REVELATIONAL UNDER-EYE TREATMENT YOU MUST TRY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
+    },
+    {
+      "topic": "stosowanie w ciąży i podczas karmienia",
+      "tip": "Produkt nie zawiera fenoksyetanolu i może być używany przez kobiety w ciąży i matki karmiące piersią.",
+      "timestamp": "04:02",
+      "video_id": "XXuSylY9yac",
+      "video_title": "A REVELATIONAL UNDER-EYE TREATMENT YOU MUST TRY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-11-13"
     }
   ]
 }
