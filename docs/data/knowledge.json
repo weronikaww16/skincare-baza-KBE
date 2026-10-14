@@ -5156,6 +5156,89 @@
       "video_title": "NEW AT ROSSMANN❗️- WHAT TO BUY AND WHAT NOT TO BUY?!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-14"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Disodium EDTA (z ampułek Isana Express Lift)",
+        "peptydy miedziowe / pochodne trójpeptydu miedziowego"
+      ],
+      "rule": "Nie łączyć ampułek Isana Express Lift z peptydami miedziowymi.",
+      "why": "Produkt zawiera Disodium EDTA będący chelatorem, który zaburza działanie peptydów miedziowych w procesie chelatacji.",
+      "timestamp": "03:39",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "ampułki Isana Express Lift",
+        "witamina C"
+      ],
+      "rule": "Ampułki Express Lift można bez problemu łączyć z witaminą C (np. w formie tetraizopalmitynianu askorbylu).",
+      "why": "Składniki formuły nie wchodzą w negatywne interakcje z witaminą C.",
+      "timestamp": "04:08",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "ampułki Isana Express Lift",
+        "peptydy sygnałowe / nośnikowe / GABA / Volufiline / ceramidy / lipidy"
+      ],
+      "rule": "Ampułki można łączyć z innymi peptydami (poza miedziowymi), kwasem GABA, kompleksem Volufiline oraz ceramidami i lipidami.",
+      "why": "Oligofruktozany z cykorii i humektanty z ampułek działają synergicznie z peptydami oraz wspomagają barierę hydrolipidową.",
+      "timestamp": "04:15",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Produkt nie jest przeznaczony dla kobiet w ciąży ani matek karmiących piersią.",
+      "why": "Ampułki zawierają w składzie konserwant fenoksyetanol.",
+      "timestamp": "03:31",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Hexanoyl Dipeptide-3 (koncentrat peptydowy Isana)",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Ampułki Isana Peptide Power po reformulacji można łączyć w jednej rutynie z peptydami miedziowymi.",
+      "why": "Kwas cytrynowy regulujący pH został przesunięty na sam koniec składu i występuje w ilości śladowej, dzięki czemu nie zaburza działania peptydu miedziowego.",
+      "timestamp": "02:05",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Hexanoyl Dipeptide-3",
+        "witamina C (kwas askorbinowy i pochodne inne niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Nie łączyć koncentratu z żadną formą witaminy C poza tetraizopalmitynianem askorbylu.",
+      "why": "Formy witaminy C inne niż tetraizopalmitynian askorbylu mogą wchodzić w niepożądane interakcje z peptydami.",
+      "timestamp": "08:10",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
     }
   ],
   "routines": [
@@ -9302,6 +9385,51 @@
       "video_title": "A REVELATIONAL UNDER-EYE TREATMENT YOU MUST TRY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-13"
+    },
+    {
+      "problem": "utrata jędrności, zmarszczki, wiotkość skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Ampułka Isana Express Lift",
+        "Ampułka Isana Power Peptide",
+        "Krem nawilżający"
+      ],
+      "notes": "Zaawansowane combo liftingujące dające spektakularne efekty. Można stosować jako 7-dniową kurację codziennie lub co drugi/trzeci dzień, powtarzając np. 2 kuracje w miesiącu z dwutygodniową przerwą.",
+      "timestamp": "05:07",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "problem": "odbudowa bariery hydrolipidowej, ujędrnienie i redukcja zmarszczek",
+      "time_of_day": "rano",
+      "steps": [
+        "peptyd miedziowy (lub jego pochodna)",
+        "ampułka Isana Beauty Konzentrat Peptide Power",
+        "krem nawilżający"
+      ],
+      "notes": "Aplikować zgodnie z zasadą od najlżejszej do najcięższej konsystencji; można stosować rano lub na noc, codziennie lub w 3-dniowych cyklach.",
+      "timestamp": "08:35",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
+    },
+    {
+      "problem": "intensywna regeneracja, nawilżenie i wzmocnienie bariery ochronnej",
+      "time_of_day": "wieczór",
+      "steps": [
+        "ampułka Isana Beauty Konzentrat Peptide Power",
+        "serum lub produkt z ceramidami",
+        "krem okluzyjny / odżywczy"
+      ],
+      "notes": "W przypadku łączenia z ceramidami ampułka nakładana jest w pierwszej kolejności z uwagi na lekką konsystencję.",
+      "timestamp": "11:15",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
     }
   ],
   "tips": [
@@ -15442,6 +15570,51 @@
       "video_title": "NEW AT ROSSMANN❗️- WHAT TO BUY AND WHAT NOT TO BUY?!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-14"
+    },
+    {
+      "topic": "Skóra tłusta a ampułki Express Lift",
+      "tip": "Osoby z cerą tłustą powinny aplikować ampułki Isana Express Lift wyłącznie na noc, ponieważ produkt daje lekką warstwę nabłyszczającą i lepkość, która w dzień może kolidować z makijażem.",
+      "timestamp": "06:26",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "topic": "Bezpieczne otwieranie ampułek",
+      "tip": "W opakowaniu ampułek Isana znajduje się dedykowany plastikowy otwieracz, dzięki któremu nie trzeba używać ręcznika ani obawiać się skaleczenia szkłem.",
+      "timestamp": "05:15",
+      "video_id": "cAe-X0WiOJY",
+      "video_title": "ROSSMANN❗️- WRINKLE HIT YOU CAN GET FOR 23 PLN❗️BUY 1 GET 1 FREE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-14"
+    },
+    {
+      "topic": "bezpieczne otwieranie ampułek",
+      "tip": "W aptece można kupić dedykowany otwieracz do szklanych ampułek za ok. 25 groszy, co zapobiega skaleczeniom i niszczeniu ubrań.",
+      "timestamp": "02:35",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
+    },
+    {
+      "topic": "zmarszczki przesuszeniowe a starzeniowe",
+      "tip": "Zmarszczki wynikające z odwodnienia i przesuszenia (odgniotki) można cofnąć w kilka dni intensywnym nawilżeniem i masłem shea, podczas gdy redukcja zmarszczek starzeniowych wymaga dłuższego czasu.",
+      "timestamp": "04:10",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
+    },
+    {
+      "topic": "przeciwwskazania w ciąży i podczas karmienia",
+      "tip": "Produkt zawiera fenoksyetanol, dlatego kobiety w ciąży oraz matki karmiące piersią nie powinny go stosować.",
+      "timestamp": "10:07",
+      "video_id": "1UwrsjUxo40",
+      "video_title": "COPPER PEPTIDES ARE JUST THE BEGINNING❗️😱ROSSMANN HAS A GROUNDBREAKING PEPTIDE FOR 9 PLN! RESULTS...",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-13"
     }
   ]
 }
