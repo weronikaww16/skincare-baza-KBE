@@ -6891,10 +6891,9 @@
   "frPqQg_S_S8": {
     "title": "The best shampoos at ROSSMANN! Don't waste your money! 🧴",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-20",
-    "attempts": 2,
-    "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor przeprowadza przegląd szamponów do włosów i skóry głowy dostępnych w drogerii Rossmann. Analizuje ich składy, omawia działanie substancji aktywnych i detergentów oraz wskazuje, które produkty sprawdzą się przy konkretnych problemach skóry głowy."
   },
   "eaEfy4Lmkok": {
     "title": "Rossmann's Big Hits 2025 🔥 What's Worth Buying? TOP Cosmetics That Sell Out in a Flash!",
@@ -7355,9 +7354,9 @@
     "title": "ROSSMANN - CO WARTO KUPOWAĆ, A CZEGO NIE?",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-21",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "Invalid control character at: line 583 column 33 (char 15938)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "vzVwovia-0M": {
     "title": "Ten HIT DO WŁOSÓW kupisz w HEBE za małe pieniądze!",
@@ -7393,5 +7392,310 @@
     "date": "2025-10-21",
     "status": "done",
     "summary": "Autor filmu przedstawia swoją opinię po ponad czterech miesiącach testowania serum do twarzy Cica Regen. Opowiada o plusach i minusach produktu, jego konsystencji, zapachu oraz o tym, jak zachowywał się w połączeniu z retinoidami i kwasami."
+  },
+  "w58kqZB7uac": {
+    "title": "BIELENDA HAS LOST IT?! FACE SERUM FOR 1 GROSZY❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-21",
+    "status": "done",
+    "summary": "Autor omawia akcję promocyjną na stronie internetowej Bielendy, w której za zakupy powyżej 99 zł można otrzymać serum za 1 grosz. Szczegółowo analizuje skład emulsyjnego serum z 15% dualną witaminą C z linii Bielenda SupremeLab, ocenia jego stabilność technologiczną, działanie oraz wyjaśnia, z jakimi składnikami i kosmetykami można je łączyć, a jakich połączeń bezwzględnie unikać."
+  },
+  "tfrqReaaWrY": {
+    "title": "AN INFLUENCER CREATED A GREAT FOUNDATION!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-21",
+    "status": "done",
+    "summary": "Autor analizuje skład nowego podkładu Blur Soft Mat od marki Glam Shop (Hani Knopińskiej) i ocenia jego formulację."
+  },
+  "po6hkddH21c": {
+    "title": "SURPRISE OF THE YEAR?! - MAX RESULTS AFTER JUST 1 USE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-21",
+    "status": "done",
+    "summary": "Autor recenzuje wyciszająco-wzmacniającą maskę do twarzy z serii Bielenda Professional. Oznajmia szczegółową analizę składu, zwracając uwagę na obecność nośników przenikania i bogatych składników łagodzących rumień. Przedstawia różne sposoby jej aplikacji, polecając ją zarówno jako klasyczną maskę, jak i lekki krem o konsystencji emul-żelu."
+  },
+  "omsbhwvr36c": {
+    "title": "THE NEWEST DRUGSTORE FOUNDATION?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-21",
+    "status": "done",
+    "summary": "Film zawiera analizę składu nowego podkładu do twarzy Second Skin z egzosomami marki GOSH, który autor ocenia bardzo negatywnie."
+  },
+  "xp-ffeFA1B4": {
+    "title": "WIELKIE KŁAMSTWO NA CAŁĄ POLSKĘ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "3LJ0tyWi0ic": {
+    "title": "Przełom w KOSMETYKACH DROGERYJNYCH!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki do skóry głowy przeciw wypadaniu włosów zawierające spinganinę marki Solverx. Dzieli się swoimi wrażeniami z testów szamponu i wcierki oraz wyjaśnia zasady ich stosowania."
+  },
+  "P45rXKFHECs": {
+    "title": "NOWOŚĆ W ROSSMANN - CZY WARTO KUPIĆ?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Film to recenzja produktu chłodzącego roll-on SPF 50 do twarzy i ciała od marki Ciaobella. Autor omawia zapach, skład, aplikację, działanie rozświetlające oraz to, do jakich typów skóry produkt pasuje."
+  },
+  "Pfpn53fgdJU": {
+    "title": "NOWOŚĆ NA ZMARSZCZKI.",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia nową serię kosmetyczną Tołpa Vitagenist, skupiając się na serum neuroregenerującym. Analizuje jego skład pod kątem zawartości peptydów, egzosomów i kwasu GABA oraz dzieli się swoimi wrażeniami z testów."
+  },
+  "gbm7hwbYkZ0": {
+    "title": "HIT, KTÓRY POWINIEN MIEĆ KAŻDY.",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu poleca produkt do mycia skóry twarzy, ciała i głowy dla osób ze skórą wrażliwą oraz w trakcie kwaso- i retinokuracji. Omawia jego skład, w tym kluczową lecytynę, oraz dzieli się swoimi pozytywnymi wrażeniami z testu."
+  },
+  "65hPNCwkMII": {
+    "title": "UWAGA❗️ROSSMANN WYPUŚCIŁ MEGA TANI CUD DO TWARZY ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia hydrożelową maskę aktywną odnowa marki Botaniqę, testując ją wielokrotnie i szczegółowo analizując jej skład. W filmie wyjaśnia działanie poszczególnych składników, ich synergia oraz przedstawia zalecenia dotyczące stosowania produktu."
+  },
+  "b7_XFHeLIC0": {
+    "title": "Skuteczne SERUM DO TWARZY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor przedstawia swoje pierwsze wrażenia na temat serum Madara Age Pro Intense, omawiając jego składniki, konsystencję, efekty nawilżenia i wygładzenia oraz dzieląc się opinią na temat ceny."
+  },
+  "BMTSEVpVe5o": {
+    "title": "REDUKCJA ZMARSZCZEK I REGENERACJA SKÓRY W DOMU?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu przedstawia dwa kosmetyczne komba do pielęgnacji skóry. Pierwsze z nich skupia się na mikronakłuwaniu i redukcji zmarszczek, a drugie na odżywieniu i nawodnieniu bariery hydrolipidowej."
+  },
+  "BhYWn0gLsuM": {
+    "title": "MOJA ROZMOWA Z DORADCĄ W DROGERII",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor opowiada o swojej wizycie w drogerii Müller i nieprzyjemnej sytuacji z ekspedientką, która próbowała mu sprzedać kosmetyk o kiepskim składzie i testowany na zwierzętach. W filmie omawia też błędy sprzedawców i daje porady, jak wybierać świadomie kosmetyki i nie ulegać manipulacji."
+  },
+  "Iv6mDHMBDtM": {
+    "title": "HIT POD OCZY Z APTEKI❓❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia krem pod oczy marki Snailmed, analizując jego skład, cenę oraz skuteczność działania. Wypowiada się krytycznie na temat obecności mikroplastiku oraz braku rewolucyjnych efektów w stosunku do ceny produktu."
+  },
+  "x51Ge9_1Sn8": {
+    "title": "KREM DO TWARZY, KTÓRY DZIAŁA CUDA!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia kosmetyk SVR Cicavit+ Krem kojąco-regenerujący, analizując jego skład, działanie, cenę oraz to, jak sprawdza się w pielęgnacji skóry i przy różnych problemach takich jak podrażnienia czy zaczerwienienia."
+  },
+  "7cRO59MMh7k": {
+    "title": "NIE UDAŁO SIĘ MNIE SPROWOKOWAĆ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia kwestie związane ze świadomą pielęgnacją skóry, odradzając używanie produktów z mikroplastikiem oraz krytykując niektóre marki i influencerów za brak szczerości w recenzjach."
+  },
+  "MMQGQUIFQAI": {
+    "title": "ROSSMANN - Co warto kupować?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu prezentuje nowości kosmetyczne marki Isana, głównie w wersji Rio de Janeiro oraz Melon, omawiając składy, działanie oraz to, czy dany produkt nadaje się do używania w Polsce."
+  },
+  "K-LWgJzjsXU": {
+    "title": "MIKROIGŁY W PIELĘGNACJI PRZECIWZMARSZCZKOWEJ - PRZEŁOM❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia mikроиглы (mikroigły) i technologię mikro-nakłuć w kosmetykach. Przedstawia produkt z mikroigłami, ich działanie, składniki oraz zasady stosowania w pielęgnacji przeciwstarzeniowej."
+  },
+  "hLjUNz4HspU": {
+    "title": "Jedyny w Polsce taki kosmetyk, który naprawdę działa!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia działanie wąkroty azjatyckiej w kosmetykach, wyjaśnia na co działa i dlaczego skład kosmetyku jest najważniejszy. Następnie recenzuje serum z wąkrotą azjatycką od marki Mary & May, porównując je do krytykowanych przez siebie produktów Skin1004."
+  },
+  "qRueUd7iRcY": {
+    "title": "Najlepszy kosmetyk w Polsce, który działa na wszystko!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu przychodzi z rekomendacją produktu do pielęgnacji skóry, który polecał już pięć lat temu. Omawia odgrzewany kotlecik, czyli produkt nawilżający, regenerujący i kojący skórę twarzy, rąk oraz ciała. Przedstawia jego składniki, działanie, konsystencję i powody, dla których warto go stosować."
+  },
+  "EO310B-pZXY": {
+    "title": "Kosmetyki w DEALZ, które warto kupować!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia cztery wybrane maski w płachcie z Rossmanna i Dealz kosztujące po 5 zł, analizując ich składy, działanie oraz to, jak wpływają na nawilżenie i rozjaśnienie skóry."
+  },
+  "2XSkt7XriuY": {
+    "title": "TO NISZCZY TWOJE KOSMETYKI❗️ - Nie wydawaj pieniędzy w BŁOTO!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Film jest lekcją na temat parafiny w kosmetykach. Autor tłumaczy, dlaczego produkty z parafiną są odradzane, jak wpływają na skórę i dlaczego nie odbudowują bariery hydrolipidowej."
+  },
+  "jAGxOQ6NU48": {
+    "title": "NAJLEPSZY DEZODORANT W POLSCE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia problem detoksykacji z aluminium i jej wpływ na zapach potu. Następnie przedstawia rekomendację naturalnego dezodorantu kremowego i wyjaśnia zasady jego stosowania."
+  },
+  "Exk5Gd1tXy8": {
+    "title": "Tak dobrego SPF50 to jeszcze NIE MIAŁEM❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia mineralny filtr SPF 50 w sztyfcie marki Madara, dzieli się swoimi wrażeniami z jego testowania, analizuje skład oraz pokazuje, jak poprawnie go aplikować."
+  },
+  "SOU5akO2vXg": {
+    "title": "UWAGA❗️HIT NA ZMARSZCZKI W ROSSMANN ZA 3 ZŁOTE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Film z kanału o pielęgnacji skóry poświęcony jest analizie składu oraz stosowaniu maseczki Kimoco S.O.S. Nasolabial Folds Mask. Autor omawia poszczególne składniki aktywne produktu, podaje instrukcje nakładania maseczek punktowych oraz dzieli się ogólnymi poradami dotyczącymi pielęgnacji."
+  },
+  "g-TxhRmB0tM": {
+    "title": "NOWOŚCI W ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia nowości produktowe do włosów z portfolio marki OnlyBio, które pojawiły się w drogeriach Rossmann, analizując ich składy i oceniając wybrane tonery, szampony, odżywki oraz olejki."
+  },
+  "Lt8aPIyaEXI": {
+    "title": "𝐓𝐘 𝐃𝐄𝐂𝐘𝐃𝐔𝐉𝐄𝐒𝐙❗️ - Nawilżenie skóry, Odmładzanie Skóry , Czy Ukojenie Skóry?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu porównuje trzy maski do twarzy marki Benton: Centella Cica, Aloe Soothing oraz Snail Bee High Content. Omawia ich składy, działanie, przeciwwskazania oraz typy skóry, do których pasują."
+  },
+  "FLIWqYHDaVQ": {
+    "title": "HIT NA ZMARSZCZKI ZA 6 ZŁOTYCH W ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor prezentuje produkt do pielęgnacji szyi z Rossmanna i szczegółowo omawia jego skład, działanie oraz zasady stosowania, chwaląc go za spektakularne efekty nawilżenia i wygładzenia."
+  },
+  "QS_goMavTV0": {
+    "title": "Ta nowość z ROSSMANN JEST SUPER!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu przedstawia recenzję nowej maseczki w płachcie marki Isana i omawia jej działanie oraz składniki."
+  },
+  "gcKFA5xJ60M": {
+    "title": "Nadchodzi CUD DO ROSSMANNA!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia nowy produkt z niemieckiego rynku – krem z retinalem od Isany, analizuje jego skład oraz wyjaśnia zasady wprowadzania retinoidów do pielęgnacji."
+  },
+  "4840Ol7ingA": {
+    "title": "MEGA NOWOŚCI W HEBE ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne marki Lamel dostępne w drogerii Hebe, skupiając się na trzech produktach do ust i policzków typu Jelly, analizując ich składy, kolory i działanie na skórze."
+  },
+  "NIkaq2YlgnE": {
+    "title": "SEKRET PIĘKNEJ SKÓRY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Film omawia zabieg zwany sluggingiem, czyli nakładanie szczelnej okluzji na skórę. Autor tłumaczy, komu ten zabieg służy, jak go poprawnie wykonywać oraz jakich błędów unikać."
+  },
+  "wdDxWF1lE9w": {
+    "title": "Nauka używania kosmetyków!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Film zawiera lekcję prawidłowego stosowania kosmetyków i podstaw pielęgnacji skóry. Autor omawia m.in. oczyszczanie, demakijaż, złuszczanie oraz stosowanie konkretnych składników aktywnych, takich jak witamina C, peptydy miedziowe, niacynamid i retinol."
+  },
+  "9qW_9dBe4Xc": {
+    "title": "Kochani, teraz to MAMY TECHNOLOGIĘ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne marki Nacomi z linii Next Level przeznaczone do pielęgnacji skóry głowy, analizując ich składy INCI oraz działanie poszczególnych składników."
+  },
+  "GyEUVJjMHZY": {
+    "title": "NAJLEPSZE KOSMETYKI KTÓRE POLECAM!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "6CiK1mF4blg": {
+    "title": "MAX EFEKTY W 5 MINUT❗️ EFEKT ŻELAZKA NA SKÓRZE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia maskę w płachcie z Hebe marki Mediheal. Recenzuje jej skład, działanie, sposób użycia oraz dzieli się ogólnymi poradami dotyczącymi pielęgnacji skóry."
+  },
+  "AlTNHGdIogM": {
+    "title": "SZALEŃSTWO!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "N4BnXNEnVnQ": {
+    "title": "A REVELATION FOR EVERYONE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia bezwodne peelingi chemiczno-enzymatyczne w saszetkach, skupiając się na produkcie Beta Sky Girl Enchill i porównując go z innym produktem w portfolio tej samej marki. Wyjaśnia działanie składników aktywnych, sposób aplikacji oraz rekomendacje dotyczące stosowania w zależności od pory roku i potrzeb skóry."
+  },
+  "dxLX-VtT6gM": {
+    "title": "Dlaczego kosmetyki nie działają? CAŁA PRAWDA!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu omawia skutki i mity związane z pielęgnacją skóry, wskazując na różnicę między natychmiastowym a długoterminowym działaniem kosmetyków. Podkreśla znaczenie bariery hydrolipidowej i cierpliwości w procesie regeneracji oraz doboru odpowiednich produktów do typu skóry."
+  },
+  "UOakA65v9o0": {
+    "title": "MEGA HIT with ROSSMANN❗",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia maskę w płachcie Teatree x Cica marki Mediheal, analizuje jej skład oraz działanie nawilżające i łagodzące. Prezentuje również opinie na temat jej skuteczności oraz sposoby i rutyny pielęgnacyjne."
+  },
+  "TwxNxbnM6wo": {
+    "title": "POWERFUL CARE AT ROSSMANN FOR 6 PLN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "-Q0-7fGeVlQ": {
+    "title": "EFEKTY JUŻ PO 1 UŻYCIU❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor filmu przedstawia combo czterech produktów do kompleksowej regeneracji skóry na urlopie, gdy jest ona zaczerwieniona, podrażniona i przesiąknięta słońcem. Omawia konkretne kosmetyki, ich działanie, składniki oraz kolejność nakładania w rutynie pielęgnacyjnej."
+  },
+  "XHBDl2ecT_M": {
+    "title": "REVELATION",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-22",
+    "status": "done",
+    "summary": "Autor omawia maskę do twarzy z ceramidami marki Bielenda Skin Clinic, analizując jej skład, działanie oraz to, jak stosować ją w pielęgnacji dziennej i nocnej. Przedstawia zalety oraz potencjalne wady produktu, zwracając uwagę na jego wpływ na różne typy skóry."
   }
 }
