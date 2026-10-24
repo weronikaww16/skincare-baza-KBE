@@ -9042,6 +9042,260 @@
       "video_title": "TOŁPA IS GOING CRAZY IN SPRING WITH GOOD COSMETICS?!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-23"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "witamina C tetra",
+        "peptydy"
+      ],
+      "rule": "Witaminę C w formie tetra (tetraizopalmitynian askorbylu) można bezpiecznie łączyć z peptydami.",
+      "why": "Forma tetra nie wykazuje niepożądanych interakcji z peptydami, w przeciwieństwie do czystego kwasu askorbinowego czy innych form.",
+      "timestamp": "05:03",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C inna niż tetra"
+      ],
+      "rule": "Nie należy łączyć peptydów z formami witaminy C innymi niż tetra.",
+      "why": "Inne formy witaminy C mogą wchodzić w niekorzystne interakcje z peptydami i osłabiać ich działanie.",
+      "timestamp": "06:13",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "trójpeptyd miedziowy",
+        "Disodium EDTA"
+      ],
+      "rule": "Nie wolno łączyć produktów z trójpeptydem miedziowym z chelatorem Disodium EDTA.",
+      "why": "Chelator wchodzi w niepożądane interakcje z jonami miedzi w peptydzie.",
+      "timestamp": "08:38",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "wosk pszczeli / produkty pochodzenia pszczelego",
+        "alergia na produkty pszczele"
+      ],
+      "rule": "Osoby uczulone na składniki pochodzenia pszczelego mają kategoryczny zakaz stosowania produktów z woskiem pszczelim.",
+      "why": "Ryzyko wystąpienia silnej reakcji alergicznej.",
+      "timestamp": "02:58",
+      "video_id": "DTJy2b9eazw",
+      "video_title": "7 EFFECTIVE FACE CREAMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "ekstrakt z nagietka",
+        "alergia na nagietek"
+      ],
+      "rule": "Nie stosować produktów z nagietkiem w przypadku uczulenia na tę roślinę.",
+      "why": "Ryzyko wystąpienia reakcji uczuleniowej.",
+      "timestamp": "05:28",
+      "video_id": "DTJy2b9eazw",
+      "video_title": "7 EFFECTIVE FACE CREAMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Rosalgin Active+ (azeloglicyna)",
+        "kwasy",
+        "peelingi",
+        "retinoidy"
+      ],
+      "rule": "W trakcie kuracji Rosalgin Active+ obowiązuje zakaz stosowania innych kwasów, peelingów oraz retinoidów.",
+      "why": "Produkt sam w sobie pełni funkcję aktywnego, keratolitycznego złuszczania dla cer skrajnie wrażliwych.",
+      "timestamp": "03:29",
+      "video_id": "R7axy30L0tA",
+      "video_title": "REWELACJA",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "serum Keep Pure",
+        "peptydy"
+      ],
+      "rule": "Nie należy łączyć serum Keep Pure z produktami zawierającymi peptydy.",
+      "why": "Serum zawiera bardzo dużo silnych substancji aktywnych i ziół (m.in. bukwica, żywokost); u autora połączenie z peptydami wywołało silne zaczerwienienie skóry.",
+      "timestamp": "07:09",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "serum Keep Pure",
+        "ceramidy"
+      ],
+      "rule": "Serum Keep Pure świetnie komponuje się i współgra z ceramidami.",
+      "why": "Serum działa najlepiej solo lub domknięte kremem odbudowującym z ceramidami.",
+      "timestamp": "07:03",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy miedziowe",
+        "filtry SPF bez EDTA"
+      ],
+      "rule": "Peptydy miedziowe można łączyć z kremami z filtrem, o ile nie zawierają one chelatorów takich jak Disodium EDTA.",
+      "why": "Brak chelatorów (np. Disodium EDTA) w formule kremu SPF sprawia, że nie dochodzi do niepożądanych interakcji z jonami miedzi.",
+      "timestamp": "00:49",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Disodium EDTA",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie wolno łączyć kremu SPF zawierającego Disodium EDTA z peptydami miedziowymi.",
+      "why": "Disodium EDTA jest chelatorem wiążącym jony metali, przez co dezaktywuje peptydy miedziowe.",
+      "timestamp": "02:59",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "Tołpa Dermo Face Sebio+ SPF 50+"
+      ],
+      "rule": "Nie łączyć kremu fotoochronnego Tołpa Sebio+ z peptydami.",
+      "why": "Autor zaznacza bezpośredni zakaz łączenia tej formulacji z produktami peptydowymi.",
+      "timestamp": "08:19",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "Tołpa Bionic Dual Glow SPF 50 (witamina C)"
+      ],
+      "rule": "Nie łączyć kremu Tołpa Bionic Dual Glow z żadnymi peptydami.",
+      "why": "Formuła kremu (w tym obecność witaminy C) wyklucza łączenie jej z peptydami.",
+      "timestamp": "08:55",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "kwas askorbinowy"
+      ],
+      "rule": "Nie łączyć peptydów z kwasem askorbinowym w jednej rutynie.",
+      "why": "Kwas askorbinowy (eterylowany kwas askorbinowy) destabilizuje peptydy i sprawia, że nie działają.",
+      "timestamp": "03:40",
+      "video_id": "kO0a5IpL3V4",
+      "video_title": "REVIEWING A NEW ROSSMANN FIND❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "alfa-albutyna",
+        "peptyd miedziowy"
+      ],
+      "rule": "Nie wolno łączyć alfa-albutyny z peptydem miedziowym.",
+      "why": "Maska zawiera alfa-albutynę, której nie można łączyć z peptydem miedziowym (warto łączyć z innymi peptydami).",
+      "timestamp": "07:27",
+      "video_id": "iEaN5ZVTpBo",
+      "video_title": "AWESOME❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "filtrat ze śluzu ślimaka"
+      ],
+      "rule": "Można łączyć peptydy z filtratem ze śluzu ślimaka i innymi składnikami aktywnymi zawartymi w płatku.",
+      "why": "Składniki te wzajemnie potęgują działanie ujędrniające, regenerujące i przeciwzmarszczkowe.",
+      "timestamp": "06:01",
+      "video_id": "_WRa5wh0YhA",
+      "video_title": "ROSSMANN - A HIT FOR THE LION'S WRINKLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Bielenda Chrono Age",
+        "witamina C"
+      ],
+      "rule": "Serię Bielenda Chrono Age można łączyć ze wszystkimi formami witaminy C.",
+      "why": "Chrono Age sama zawiera witaminę C (etylowany kwas askorbinowy), więc nie ma kolidujących przeciwwskazań.",
+      "timestamp": "01:30",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Bielenda Chrono Age",
+        "peptydy"
+      ],
+      "rule": "Nie wolno łączyć serii Bielenda Chrono Age z żadnymi peptydami.",
+      "why": "Chrono Age zawiera etylowany kwas askorbinowy, który w jednej rutynie z peptydami prowadzi do deststabilizacji i wyłączenia działania peptydów.",
+      "timestamp": "06:20",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "tetraizopalmitynian askorbylu",
+        "askorbylo-glukozyd"
+      ],
+      "rule": "Formy witaminy C inne niż czysty kwas askorbinowy można bezpiecznie stosować z peptydami (w oddzielnych porach dnia).",
+      "why": "Te formy witaminy C nie reagują z peptydami tak destrukcyjnie, jeśli rozdzieli się je na rano i wieczór.",
+      "timestamp": "07:40",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
     }
   ],
   "routines": [
@@ -15855,6 +16109,122 @@
       "video_title": "TOŁPA IS GOING CRAZY IN SPRING WITH GOOD COSMETICS?!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-23"
+    },
+    {
+      "problem": "rumień, trądzik różowaty i nadreaktywność skóry wrażliwej",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja preparatu Pharmaceris Rosalgin Active+ na noc"
+      ],
+      "notes": "Stosować przez 3 noce pod rząd w tygodniu, rezygnując w tym czasie z innych produktów złuszczających.",
+      "timestamp": "03:29",
+      "video_id": "R7axy30L0tA",
+      "video_title": "REWELACJA",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "regulacja wydzielania sebum, nawilżenie, trądzik",
+      "time_of_day": "rano",
+      "steps": [
+        "Tonik",
+        "Serum Keep Pure (na wilgotną skórę)",
+        "Krem SPF 50 lub makijaż"
+      ],
+      "notes": "Serum ma lekką, żelową formułę, wchłania się bez lepkiej warstwy, idealne pod filtr i makijaż.",
+      "timestamp": "08:19",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "regeneracja, nawodnienie i odbudowa bariery naskórkowej",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Tonik",
+        "Serum Keep Pure (na wilgotną skórę)",
+        "Krem ceramidowy"
+      ],
+      "notes": "Połączenie z kremem ceramidowym na noc zapewnia dogłębne nawilżenie i regenerację.",
+      "timestamp": "08:24",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "redukcja oznak zmęczenia wokół oczu",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożenie hydrożelowej maski na okolice oczu na 8 minut",
+        "zdjęcie maski i wklepanie esencji",
+        "nałożenie kremu pod oczy bez peptydów (np. Bielenda Chrono Age)"
+      ],
+      "notes": "Można stosować regularnie, aby uzyskać efekt rozświetlenia, nawilżenia i nawodnienia.",
+      "timestamp": "07:30",
+      "video_id": "kO0a5IpL3V4",
+      "video_title": "REVIEWING A NEW ROSSMANN FIND❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "nawilżenie, zmęczenie, rozświetlenie skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożenie toniku",
+        "nałożenie maski na 8 minut",
+        "zdjęcie maski i wklepanie nadmiaru esencji",
+        "SPF 50 (jeśli rano)",
+        "serum lub krem"
+      ],
+      "notes": "Można stosować przy każdym typie skóry, po 8 minutach skóra wygląda jak po botoksie.",
+      "timestamp": "08:43",
+      "video_id": "iEaN5ZVTpBo",
+      "video_title": "AWESOME❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "zmarszczki i odwodnienie czoła",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Nałożyć płatek na czoło w wieczornej pielęgnacji raz w tygodniu na 10 minut.",
+        "Zdjąć płatek po 10 minutach i kontynuować pielęgnację."
+      ],
+      "notes": "Stosować raz w tygodniu przez minimum 3 miesiące, aby zauważyć znaczne spłycenie zmarszczek.",
+      "timestamp": "06:57",
+      "video_id": "_WRa5wh0YhA",
+      "video_title": "ROSSMANN - A HIT FOR THE LION'S WRINKLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "poszarzała skóra, brak blasku, zmarszczki",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "serum z witaminą C",
+        "krem Bielenda Chrono Age"
+      ],
+      "notes": "Tetra, miodowa mydlarnia, Pharmaceris N-Capilix lub emulsyjny kwas askorbinowy jako serum pod Chrono Age daje mocniejszy glow i rozjaśnienie.",
+      "timestamp": "04:10",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "problem": "trądzik, wrażliwa skóra na kwas askorbinowy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "krem Bielenda Chrono Age"
+      ],
+      "notes": "Uwaga na skórę trądzikową – etylowany kwas askorbinowy w Chrono Age może zaostrzać zmiany trądzikowe lub wywołać nietolerancję.",
+      "timestamp": "09:00",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
     }
   ],
   "tips": [
@@ -26774,6 +27144,213 @@
       "video_title": "ŚCIEMA.",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-23"
+    },
+    {
+      "topic": "Alergia na produkty pszczele",
+      "tip": "Osoby uczulone na składniki pochodzenia pszczelego nie powinny stosować serum Bielenda Supremelab Honey Jelly Peptide.",
+      "timestamp": "02:13",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Aplikacja serum olejowego",
+      "tip": "W przypadku bogatych serów olejowych (jak Skyger Born To Be Rich) wystarczy nałożyć jedną kroplę – dwie krople mogą być już zbyt dużą ilością.",
+      "timestamp": "05:14",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Pora stosowania serum relaksującego",
+      "tip": "Produkty o intensywnym, wyciszającym i odprężającym zapachu (np. neuro-serum Be Me) najlepiej aplikować na noc, ponieważ w ciągu dnia mogą zbyt mocno usypiać/relaksować.",
+      "timestamp": "05:30",
+      "video_id": "Rly6TlMaWEY",
+      "video_title": "9 EFFECTIVE FACE SERUMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Skóra tłusta i trądzikowa a tłuste maści okluzyjne",
+      "tip": "Ciężkie, tłuste produkty okluzyjne (np. Enilome Dermo Maść, Clobaza) zapychają pory na całej twarzy przy cerze tłustej lub trądzikowej, ale mogą być bezpiecznie stosowane w małej ilości pod oczy jako okluzja.",
+      "timestamp": "02:32",
+      "video_id": "DTJy2b9eazw",
+      "video_title": "7 EFFECTIVE FACE CREAMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Ochrona przed mrozem i zimą",
+      "tip": "Mocno okluzyjne, bezwodne lub tłuste maści i kremy lipidowe są idealnym zabezpieczeniem skóry przed silnym mrozem i wiatrem, np. podczas wyjazdów na narty.",
+      "timestamp": "02:13",
+      "video_id": "DTJy2b9eazw",
+      "video_title": "7 EFFECTIVE FACE CREAMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Aplikacja pod oczy produktów z olejem laurowym",
+      "tip": "Należy uważać z nakładaniem mazidła z olejem laurowym w okolicach oczu, ponieważ składnik ten może podrażniać tę strefę.",
+      "timestamp": "07:37",
+      "video_id": "DTJy2b9eazw",
+      "video_title": "7 EFFECTIVE FACE CREAMS FOR EVERYONE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-23"
+    },
+    {
+      "topic": "Aplikacja mineralnego SPF w sprayu u dzieci",
+      "tip": "Produktu w sprayu nie należy rozpylać bezpośrednio na skórę dziecka – najpierw rozpyl go na dłoń, a dopiero potem równomiernie wklep w skórę.",
+      "timestamp": "06:07",
+      "video_id": "R7axy30L0tA",
+      "video_title": "REWELACJA",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "dobór kosmetyków do wieku",
+      "tip": "Kosmetyki należy dobierać wyłącznie do potrzeb i problemów skóry, a nie do metryki wieku. Oznaczenia wiekowe (np. 50+, 70+) to jedynie chwyty marketingowe.",
+      "timestamp": "03:31",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "aplikacja serum żelowego",
+      "tip": "Żelowe serum nawilżające najlepiej aplikować bezpośrednio na jeszcze wilgotną skórę zwilżoną tonikiem.",
+      "timestamp": "06:51",
+      "video_id": "PM_4mlMcLr0",
+      "video_title": "A REVELATION",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Świadoma pielęgnacja",
+      "tip": "W świadomej pielęgnacji chodzi o realne, długoterminowe efekty, które poprawiają kondycję skóry, a nie o chwilowy, pozorny efekt gładkości wywołany oblepieniem twarzy tworzywami sztucznymi (mikroplastikiem).",
+      "timestamp": "04:02",
+      "video_id": "IgIATa50iYE",
+      "video_title": "NEW BIELENDA PRODUCTS AT ROSSMANN! - HIT or MISS?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Kosmetyki dla kobiet w ciąży i matek karmiących",
+      "tip": "Kobiety w ciąży i matki karmiące powinny unikać produktów zawierających fenoksyetanol (Phenoxyethanol).",
+      "timestamp": "05:30",
+      "video_id": "IgIATa50iYE",
+      "video_title": "NEW BIELENDA PRODUCTS AT ROSSMANN! - HIT or MISS?",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Kosmetyki z platform typu Temu",
+      "tip": "Nie należy kupować kosmetyków na platformach takich jak Temu, ponieważ produkty te nie podlegają regulacjom UE, ich składy bywają zmyślone, producenci nie istnieją, a w razie uszkodzenia skóry konsument pozbawiony jest jakiejkolwiek ochrony prawnej.",
+      "timestamp": "01:53",
+      "video_id": "GqH9210skWs",
+      "video_title": "RETINOL DO TWARZY ZA 6 ZŁOTYCH",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Zdjęcia 'przed i po' na platformach sprzedażowych",
+      "tip": "Nie należy wierzyć w spektakularne zdjęcia wygładzenia zmarszczek i liftingu w ofertach tanich produktów – są to zmanipulowane grafiki stworzone w Photoshopie.",
+      "timestamp": "05:16",
+      "video_id": "GqH9210skWs",
+      "video_title": "RETINOL DO TWARZY ZA 6 ZŁOTYCH",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Składniki w ciąży i laktacji",
+      "tip": "Kobiety w ciąży oraz matki karmiące powinny unikać produktów zawierających w składzie fenoksyetanol (Phenoxyethanol).",
+      "timestamp": "00:30",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Dobór faktora SPF przy kwasach",
+      "tip": "Podczas kuracji kwasami w okresie letnim należy stosować wysoką ochronę SPF 50; SPF 30 jest wystarczający przy łagodniejszych peelingach enzymatycznych.",
+      "timestamp": "04:45",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Zielony pigment a zaczerwienienia",
+      "tip": "Kremy z zielonym pigmentem mogą dawać po aplikacji lekko blady odcień, jednak skutecznie neutralizują rumień i dobrze sprawdzają się pod makijaż.",
+      "timestamp": "08:34",
+      "video_id": "Za6nqPCwDHQ",
+      "video_title": "Mega❗1 + 1 FREE AT ROSSMANN❗ - What's worth buying?!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "zakup kosmetyków",
+      "tip": "Nie kupuj tanich kosmetyków z Chin ani produktów o nieznanym składzie i bez danych producenta, ponieważ mogą szkodzić skórze.",
+      "timestamp": "00:00",
+      "video_id": "OAaS5KZT2Ns",
+      "video_title": "BEST FOUNDATION IN THE WORLD? 😱",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "stosowanie kremów pod oczy",
+      "tip": "Pod maskę na okolice oczu zawierającą peptydy (lub zamiast nich) można stosować kremy pod oczy bez peptydów, np. Bielenda Chrono Age, Awokado, Folacin, Sylveco, Avene Sensitive, Bepanthen Sensiderm czy Bielenda Chrono Age SPF.",
+      "timestamp": "09:00",
+      "video_id": "kO0a5IpL3V4",
+      "video_title": "REVIEWING A NEW ROSSMANN FIND❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Czas trzymania maski",
+      "tip": "Maskę trzyma się na twarzy przez 8 minut, a następnie zdejmuje i wklepuje nadmiar esencji.",
+      "timestamp": "08:43",
+      "video_id": "iEaN5ZVTpBo",
+      "video_title": "AWESOME❗",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "stosowanie w ciąży i podczas karmienia",
+      "tip": "Produkt jest zabroniony dla kobiet w ciąży i matek karmiących.",
+      "timestamp": "06:51",
+      "video_id": "_WRa5wh0YhA",
+      "video_title": "ROSSMANN - A HIT FOR THE LION'S WRINKLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "łączenie z innymi produktami",
+      "tip": "Płatek można łączyć z peptydem miedzianym lub innymi peptydami nakładanymi później, aby podbić efekt.",
+      "timestamp": "08:08",
+      "video_id": "_WRa5wh0YhA",
+      "video_title": "ROSSMANN - A HIT FOR THE LION'S WRINKLE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Składniki w Chrono Age",
+      "tip": "Seria Chrono Age zawiera kurkumę, białamorwę i etylowany kwas askorbinowy, które wymagają podrasowania dla szybkich efektów.",
+      "timestamp": "02:50",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
+    },
+    {
+      "topic": "Reakcja krzyżowo-kontakowa",
+      "tip": "Zaczerwienienie, rumień, swędzenie czy podrażnienie skóry to reakcja krzyżowo-kontaktowa oznaczająca źle dobrane kosmetyki lub składniki.",
+      "timestamp": "07:10",
+      "video_id": "cSaGn7rJsSI",
+      "video_title": "EFFECTS AFTER JUST ONE USE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-24"
     }
   ]
 }
