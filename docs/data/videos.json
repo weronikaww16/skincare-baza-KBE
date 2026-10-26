@@ -8075,9 +8075,9 @@
     "title": "PRZEŁOM W PIELĘGNACJI SKÓRY!",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "pjv2YZdbGOs": {
     "title": "HIT NA ZMARSZCZKI",
@@ -8195,9 +8195,9 @@
     "title": "THE BEST FACE COSMETICS IN POLAND!",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "tynRQzNrdPw": {
     "title": "CZEKAŁEM NA TEN DZIEŃ!",
@@ -8238,9 +8238,9 @@
     "title": "THE BEST EYE CREAMS IN POLAND!",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "KjsbEk8QkUc": {
     "title": "NEW AT ROSSMANN - Is it worth buying?",
@@ -8288,9 +8288,9 @@
     "title": "NAJGORSZE KOSMETYKI W POLSCE",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "Expecting value: line 1 column 1 (char 0)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "JZkDCzluFiY": {
     "title": "NAJGORSZE KREMY W ROSSMANN",
@@ -8361,5 +8361,287 @@
     "date": "2025-10-25",
     "status": "done",
     "summary": "Autor filmu dzieli się swoimi wrażeniami po powrocie do sprawdzonych kosmetyków polskiej marki Miodowa Mydlarnia. Szczegółowo omawia dwie maski do twarzy: Green Power oraz Miód i Truskawki, przedstawiając ich działanie, składniki oraz zasady stosowania."
+  },
+  "mYTPxn3fBVg": {
+    "title": "11 SKINCARE PRODUCTS THAT ACTUALLY WORK ON WRINKLES❗️YOU DON'T HAVE TO SPEND A FORTUNE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-26",
+    "status": "done",
+    "summary": "Autor omawia najskuteczniejsze, poparte badaniami naukowymi składniki aktywne o działaniu przeciwzmarszczkowym i ujędrniającym bez marketingowych mitów. Wskazuje kluczową rolę ochrony przeciwsłonecznej, stymulacji kolagenu oraz odbudowy bariery hydrolipidowej. Wśród polecanych substancji wymienia m.in. adenozynę, filtry SPF, peptydy, stabilną witaminę C Tetra, retinal, peptydy miedziowe, wolufilinę, wybrane egzosomy i ceramidy."
+  },
+  "sMdKIq4epKo": {
+    "title": "A MUST-HAVE FOR EVERYONE FOR 30 ZŁOTY❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-25",
+    "status": "done",
+    "summary": "Autor recenzuje i analizuje skład naturalnego dezodorantu w sztyfcie marki Opcja Natura z bergamotą. Omawia poszczególne składniki formuły na bazie magnezu, zasady doboru dezodorantów bez sody oraz proces detoksykacji skóry pod pachami po odstawieniu antyperspirantów z aluminium."
+  },
+  "QXjWuQ_CVss": {
+    "title": "REVELATION",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "zbs-ZEep1Bk": {
+    "title": "CARE YOU WILL ENJOY",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia serum z naturalnymi egzosomami z gorzkiego melona marki Miya i przedstawia gotowe połączenia pielęgnacyjne dla różnych typów skóry. Wyjaśnia działanie egzosomów, zasady ich łączenia z innymi substancjami aktywnymi oraz kolejność aplikacji w rutynie pielęgnacyjnej."
+  },
+  "MQP8BKv5Lqc": {
+    "title": "NAJGORSZE I NAJLEPSZE NOWOŚCI W ROSSMANN",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "_7Q-5EwboD8": {
+    "title": "BREAKTHROUGH - WRINKLE REDUCTION AT HOME?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu przedstawia skuteczne i bezpieczne połączenia kosmetyków w codzienne lub nocne rutyny pielęgnacyjne. Omawia działanie wybranych produktów na różne typy skóry, kładąc nacisk na nawilżenie, ujędrnienie i stymulację kolagenu."
+  },
+  "pqSz_K9a09Q": {
+    "title": "ROSSMANN - CO WARTO KUPOWAĆ, A CZEGO UNIKAĆ?!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu pokazuje i recenzuje wybrane kosmetyki z niemieckiego Rossmanna marek takich jak Isana, Sunozon, Catrice, Alterra i La Roche-Posay. Omawia składy, działanie oraz ocenia, które produkty są warte uwagi, a które odradza ze względu na składniki."
+  },
+  "2BhgfHvvaSA": {
+    "title": "OFFICIAL COSMETIC BREAKTHROUGH?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu przedstawia recenzję i analizę składu collagenowego stymulatora młodości Bielenda. Omawia działanie poszczególnych składników, konsystencję, zapach oraz dzieli się swoimi wrażeniami po trzymiesięcznym stosowaniu tego serum."
+  },
+  "erMt7g31VOs": {
+    "title": "HEBE - WHAT TO BUY AND WHAT NOT TO BUY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu dokonuje przeglądu kosmetyków do pielęgnacji twarzy, ciała i włosów dostępnych w drogerii Hebe, oceniając ich składy, działanie oraz opłacalność cenową, a także wskazując produkty polecane i odradzane."
+  },
+  "GMaMnS2Zho4": {
+    "title": "NEW CREAM AT ROSSMANN - IS IT WORTH HAVING?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia krem z filtrem Catch a Tiger, analizuje jego skład, konsystencję oraz testuje go pod kątem nakładania na podkład. Dochodzi do wniosku, że produkt dobrze chroni przed słońcem, ale nie nadaje się pod makijaż."
+  },
+  "CK1TTSiPSts": {
+    "title": "NOWOŚCI W ROSSMANN! - Co warto kupować, a czego nie?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu analizuje skład wybranych nowości od marki Bielenda Skin Clinic, oceniając ich przydatność do różnych typów skóry oraz wskazując produkty, których nie poleca."
+  },
+  "JpqQYzTkPGg": {
+    "title": "ROSSMANN - NOWE PROMOCJE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki do pielęgnacji skóry i włosów dostępne na promocji w Rossmannie, oceniając ich składy i działanie oraz wskazując, które warto kupić, a które omijać."
+  },
+  "Sx1E7H9I6lE": {
+    "title": "NEW AT ROSSMANN❗️EXOSOMES A HIT AGAINST WRINKLES?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu omawia nowe serum z egzosomami od marki Miya. Przedstawia jego skład, sposób działania na skórę, potencjalne połączenia w rutynie pielęgnacyjnej oraz swoją wstępną opinię po kilkukrotnym zastosowaniu."
+  },
+  "sN3lXv__mAw": {
+    "title": "ROSSMANN - I FINALLY BOUGHT IT!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia czekoladową serię kosmetyków marki Fluff do pielęgnacji twarzy, oceniając jej składy, zapachy oraz działanie nawilżające dla różnych typów cery."
+  },
+  "9ECAj5aJ2AU": {
+    "title": "SKOLIM STWORZYŁ CUDO!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu przedstawia recenzję perfum BebeCita marki ScoliM, opisując ich skład, trwałość oraz wrażenia zapachowe. Ocenia produkt bardzo pozytywnie, podkreślając jego wyjątkowość i brak negatywnych opinii."
+  },
+  "HiJMDe5sp3Y": {
+    "title": "PROMOCJE W ROSSMANN - Co kupować?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor przegląda aktualne promocje kosmetyczne w Rossmannie, omawia konkretne marki (Resibo, OnlyBio, Yope, AA, Uzdrovisco, Bielenda, Isana, Miya), analizuje ich składy i wydaje rekomendacje."
+  },
+  "xxqxhvK5d0I": {
+    "title": "MY SKINCARE LINE LAUNCH! 🥹",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne marki Cat Skin i Mayro, prezentując serię Mela Correcting oraz produkty BHL Repair Serum i Neuro Anti-Aging Serum. Szczegółowo opisuje działanie składników aktywnych, takich jak punarnava, kanabidiol czy kwas gamma-aminomasłowy, wskazując wskazania i przeciwwskazania do ich stosowania w pielęgnacji."
+  },
+  "sgvLdxMTJeA": {
+    "title": "BIG NEW ARRIVALS AT ROSSMANN",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne w drogerii Rossmann, analizując składy produktów takich marek jak Fluff, Bielenda, Isana, Miya, Tołpa i Delia. Ocenia składy pod kątem obecności mikroplastiku i skuteczności działania."
+  },
+  "AhR1AtQpgR4": {
+    "title": "I will teach you how to use cosmetics!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Pierwsza część filmu na temat prawidłowego używania kosmetyków i nauki o pielęgnacji skóry. Autor omawia m.in. maseczki, peptydy oraz witaminę C."
+  },
+  "HyWCHgOx0Wo": {
+    "title": "SPRING NEW PRODUCTS AT ROSSMANN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne w drogerii, oceniając ich składy, działanie oraz to, dla jakich typów skóry się nadają. Dzieli się opiniami na temat m.in. kremów SPF, serum, pianek do mycia i balsamów."
+  },
+  "pydmKJLKURk": {
+    "title": "NIGDY NIE WIERZ W TE BZDURY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor wypowiada się o bzdurnych metodach i mitach kosmetologicznych w internecie, omawiając m.in. płukanie włosów i skóry głowy sokiem z cytryny, olejowanie skóry głowy, stosowanie masek i odżywek na noc, stosowanie retinolu versus kwasów oraz plastry na zmarszczki."
+  },
+  "LVmpHSlhv4c": {
+    "title": "NEW PRODUCTS ARE COMING TO ROSSMANN! 😍",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor pokazuje nowości kosmetyczne, które pojawiły się w Rossmannie, omawia ich składy, działanie oraz to, które produkty warto kupić, a które odradza ze względu na mikroplastik lub inne szkodliwe substancje."
+  },
+  "OsqpkDOBG3k": {
+    "title": "WILL THIS BE A COSMETIC MIRACLE?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor zapowiada testowanie nowego kosmetyku do pielęgnacji skóry z problemem trądziku różowatego, omawia jego skład, działanie oraz zasady łączenia ze składnikami aktywnymi i zachęca do oczekiwania na ostateczną recenzję."
+  },
+  "oDrRw28bIHo": {
+    "title": "WHICH PRODUCT WINS?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu porównuje dwa podobne produkty apteczne do pielęgnacji skóry z kwasem azelainowym: Acnederm oraz Hascoderm Lipogel. Omawia ich stężenia, bazy, szybkość przenikania, odczucia podczas stosowania oraz wskazuje, który z nich okazuje się lepszym wyborem."
+  },
+  "zW03qi_8Uh0": {
+    "title": "TURBO ACTION ❗️A HIT THAT EVERYONE SHOULD KNOW!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "W filmie autor omawia alternatywę dla retinolu na lato – delikatny tonik złuszczający odpowiedni dla każdego typu skóry. Przedstawia dokładny skład produktu, zasady stosowania, potencjalne reakcje skóry oraz zalecenia dotyczące ochrony przeciwsłonecznej."
+  },
+  "Yd4pZLkJC9Q": {
+    "title": "ROSSMANN - THINGS ARE GOING TO HAPPEN! 😍",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu prezentuje nadchodzące nowości oraz promocje w drogerii Rossmann w kategorii pielęgnacji twarzy i ciała. Omawia składy konkretnych produktów, ocenia je oraz doradza, które z nich warto kupić, a które lepiej omijać."
+  },
+  "P2a9zc1iFFU": {
+    "title": "TRUE OR FALSE?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia triki pielęgnacyjne z internetu, ze szczególnym uwzględnieniem stosowania maści Linomag pod oczy przed korektorem. Wyjaśnia działanie składników, potencjalne ryzyka wysuszenia i zmarszczek oraz podaje prawidłowy sposób aplikacji."
+  },
+  "lMZSPIEf2vs": {
+    "title": "ROSSMANN -  Ten kosmetyk powinien być doceniony!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu omawia limitowaną maseczkę do twarzy marki Isana, skupiając się na jej składzie, działaniu oraz wskazówkach dotyczących pielęgnacji skóry."
+  },
+  "2w8SXzh7iGA": {
+    "title": "Effective eye cream in Poland?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu recenzuje drogeryjny krem pod oczy z Hebe, analizując jego skład, technologię egzosomalną oraz skuteczność redukcji zmarszczek i cieni pod oczami. Omawia również zasady łączenia konkretnych składników aktywnych w pielęgnacji."
+  },
+  "qWlLJna6kFo": {
+    "title": "JESTEM ZDROWY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu opowiada o swoich doświadczeniach z lekami, leczeniu, rezygnacji z nich oraz o tym, jak obecnie dba o swoje zdrowie."
+  },
+  "m7OYFJI0aeU": {
+    "title": "Seriously, no one knows this cream?!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia krem Poldermin hydro przeznaczony do pielęgnacji skóry suchej, ze skłonnością do atopowego zapalenia skóry, łuszczycy czy egzem. Analizuje jego skład pod kątem nawilżenia, regeneracji oraz odbudowy bariery hydrolipidowej i podaje zasady jego stosowania."
+  },
+  "QTR-fjYMiko": {
+    "title": "ROSSMANN - CO KUPOWAĆ?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu prezentuje produkty kosmetyczne dostępne w drogerii, które pomagają w odbudowie barier hydrolipidowych skóry. Omawia składy poszczególnych kremów, masek i serów oraz wyjaśnia, jak działają na nawilżenie i regenerację naskórka."
+  },
+  "jKAFVs7m0q0": {
+    "title": "EVERYONE SHOULD HAVE THIS HIT!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki do pielęgnacji skóry głowy i włosów, skupiając się na produktach przeciw wypadaniu włosów. Analizuje składy, przedstawia efekty stosowania oraz dzieli się swoimi poradami i rutynami."
+  },
+  "oav3AMV2H-Q": {
+    "title": "PRAWDA KTÓREJ SIĘ NIE SPODZIEWASZ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu z kanału o świadomej pielęgnacji konsumenckiej omawia kwestię stosowania tripeptydu miedziowego w kosmetykach. Ostrzega przed produktami o stężeniu wyższym niż 0,2% oraz wyjaśnia mechanizm działania i zasadność stosowania niższych stężeń."
+  },
+  "VmrwW2TwzCs": {
+    "title": "NAJWIĘKSZY SCAM W ROSSMANN",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia wybrane kosmetyki dostępne w drogerii Rossmann, analizując ich składy pod kątem zawartości substancji szkodliwych, takich jak mikroplastik czy alkohol denaturowany, oraz wydając opinie na temat ich stosowania w pielęgnacji skóry."
+  },
+  "bWcn57KfBiM": {
+    "title": "BEAUTIFUL LEATHER FOR 2 ZLOTY",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia maskę do twarzy Isana z awokado i pro retinolem w cenie 2,19 zł. Przedstawia jej skład, analizuje obecność retinolu oraz dzieli się swoimi wrażeniami z użytkowania."
+  },
+  "Qg0cI8NFxI0": {
+    "title": "TESTING NEW PRODUCT FROM ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor testuje i ocenia nową serię kosmetyków Cera Lipidium od Bielenda, w tym krem z filtrem SPF 50 i serum Makosh. Omawia składy, działanie poszczególnych produktów oraz zasady ich łączenia w rutynie pielęgnacyjnej."
+  },
+  "Ji16Zin7S_g": {
+    "title": "THE REAL MIRACLE OF ROSSMANN",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor omawia produkt ISANA Retinol Buster, wyjaśnia jego skład i działanie oraz prostuje nieporozumienie dotyczące obecności retinolu. Podaje również zasady stosowania i rekomenduje go dla określonych typów skóry."
+  },
+  "InTaePOf7H4": {
+    "title": "THE WORST COSMETICS IN ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu prezentuje produkty kosmetyczne dostępne w drogerii, analizując ich składy i dzieląc się opiniami na temat tego, które z nich warto kupić, a których unikać z powodu potencjalnie szkodliwych substancji, takich jak mikroplastik czy SLS."
+  },
+  "Qt961l7kJA4": {
+    "title": "ROSSMANN - The best SPF creams!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-26",
+    "status": "done",
+    "summary": "Autor filmu prezentuje najlepsze bezpieczne kremy z filtrem SPF z Rossmanna, które nie zawierają mikroplastiku, rakotwórczych filtrów penetrujących oraz nie są testowane na zwierzętach. Omawia składy poszczególnych produktów, ich działanie, a także wskazuje, dla jakich rodzajów skóry są one odpowiednie."
   }
 }
