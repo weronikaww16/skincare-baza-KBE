@@ -8074,10 +8074,9 @@
   "Sop3wIm7o4U": {
     "title": "PRZEŁOM W PIELĘGNACJI SKÓRY!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-25",
-    "attempts": 2,
-    "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia i szczegółowo analizuje skład silnie nawilżającego i łagodzącego serum Pharmaceris A Sensibiotic. Wskazuje jego zalety, szerokie możliwości łączenia z innymi substancjami aktywnymi oraz poleca je dla każdego typu cery, zwłaszcza podrażnionej i wrażliwej."
   },
   "pjv2YZdbGOs": {
     "title": "HIT NA ZMARSZCZKI",
@@ -8194,10 +8193,9 @@
   "Sro3erSGGnc": {
     "title": "THE BEST FACE COSMETICS IN POLAND!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-25",
-    "attempts": 2,
-    "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Film prezentuje zestawienie najlepszych kuracji i boosterów do twarzy w Polsce o intensywniejszym działaniu niż klasyczne sera. Autor omawia ich składy, zasady łączenia ze składnikami aktywnymi oraz bezpieczeństwo stosowania m.in. w ciąży."
   },
   "tynRQzNrdPw": {
     "title": "CZEKAŁEM NA TEN DZIEŃ!",
@@ -8238,7 +8236,7 @@
     "title": "THE BEST EYE CREAMS IN POLAND!",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 2,
+    "attempts": 3,
     "status": "failed",
     "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
@@ -8288,7 +8286,7 @@
     "title": "NAJGORSZE KOSMETYKI W POLSCE",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-25",
-    "attempts": 2,
+    "attempts": 3,
     "status": "failed",
     "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
@@ -8380,7 +8378,7 @@
     "title": "REVELATION",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-26",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
     "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
@@ -8395,7 +8393,7 @@
     "title": "NAJGORSZE I NAJLEPSZE NOWOŚCI W ROSSMANN",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-26",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
     "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
@@ -8643,5 +8641,305 @@
     "date": "2025-10-26",
     "status": "done",
     "summary": "Autor filmu prezentuje najlepsze bezpieczne kremy z filtrem SPF z Rossmanna, które nie zawierają mikroplastiku, rakotwórczych filtrów penetrujących oraz nie są testowane na zwierzętach. Omawia składy poszczególnych produktów, ich działanie, a także wskazuje, dla jakich rodzajów skóry są one odpowiednie."
+  },
+  "EKpuN9Jj43c": {
+    "title": "LUXURY EYE CARE FOR 20 ZŁOTY AT BIEDRONKA❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-27",
+    "status": "done",
+    "summary": "Autor recenzuje hydrożelowe płatki pod oczy ze złotem marki Be Beauty z Biedronki, chwaląc ich zaawansowany skład bogaty w peptydy i składniki nawilżające. Obala mit, że skuteczna pielęgnacja okolic oczu musi być droga, oraz tłumaczy, jak prawidłowo stosować płatki hydrożelowe, aby nie doprowadzić do przesuszenia skóry."
+  },
+  "tVKN4A9gSOU": {
+    "title": "A GOOD SKIN TINT?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-27",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "bzvJlxelABs": {
+    "title": "ROSSMANN❗️NEW FACE CREAM FOR 30 ZLOTYS?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-26",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "qnEyJ4MmvIk": {
+    "title": "WIELKI CUD Z APTEKI KTÓRY MUSISZ POZNAĆ!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "qNvGVlV_46I": {
+    "title": "ROSSMANN - What to buy for wrinkles?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu prezentuje topowe produkty anti-aging dostępne w drogerii Rossmann w różnych cenach. Omawia składy, działanie, bezpieczeństwo oraz zasady stosowania i łączenia poszczególnych kosmetyków."
+  },
+  "89E1RK89qiU": {
+    "title": "MAGICZNY KREM DO TWARZY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu omawia produkt kosmetyczny marki Korana – Krem Egiptu Magia Nocy. Przedstawia jego skład, działanie, konsystencję oraz dzieli się swoimi wrażeniami z regularnego stosowania."
+  },
+  "KlnNlhbpN-s": {
+    "title": "REWELACJA!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu przedstawia polski produkt do pielęgnacji skóry o intensywnym działaniu z propolisem i kwasem hialuronowym. Omawia jego działanie, skład, sposób stosowania oraz wyjaśnia zasady łączenia z innymi substancjami."
+  },
+  "V7klmPjV_Ns": {
+    "title": "ROSSMANN CANCELED A BIG PROMOTION AT THE LAST MINUTE! 😡",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia odwołanie promocji Rossmanna -50% na pielęgnację twarzy i makijaż w ostatniej chwili. Wyraża swoje niezadowolenie z zaistniałej sytuacji, braku profesjonalizmu oraz dezinformacji ze strony firmy."
+  },
+  "SQdy81WFqkc": {
+    "title": "OD JUTRA W ROSSMANN -50% ZNIŻKI! - ODWOŁALI.",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor informuje widzów o nadchodzącej promocji w Rossmannie, podczas której od jutra do 8 marca produkty z kategorii pielęgnacji twarzy oraz makijażu będą tańsze o 50%. Promocja dotyczy pielęgnacji twarzy i makijażu, ale nie obejmuje pielęgnacji ciała ani włosów."
+  },
+  "zQzZEKyiKTQ": {
+    "title": "I'VE HAD ENOUGH - It needs to be said!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor zapowiada zmiany na swoim kanale, które będą polegały na szerszej edukacji w zakresie pielęgnacji skóry. Ostrzega przed szkodliwymi składnikami w kosmetykach oraz podkreśla znaczenie racjonalnego podejścia do zakupów i sprawdzania składów produktów."
+  },
+  "68OuCt8Q85M": {
+    "title": "HEBE - WHAT IS WORTH BUYING AND WHAT NOT?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu z kanału o pielęgnacji skóry przegląda asortyment drogerii Hebe, oceniając składy i opłacalność konkretnych produktów różnych marek. Wskazuje kosmetyki warte zakupu oraz te, których lepiej unikać ze względu na kontrowersyjne składniki."
+  },
+  "rSHDkFBgQuY": {
+    "title": "CHODŹ NA ZAKUPY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu wybrał się do Kauflandu na zakupy kosmetyczne, prezentując nowości z różnych marek (takich jak Glysolid, Bevola, Garnier, Catrice, Schaebens, NaturalMe, Mediheal, Ziaja), a następnie w domu omówił i przetestował zakupione produkty."
+  },
+  "E9kW50CKnZ4": {
+    "title": "BIG NEW ARRIVALS AT ROSSMANN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "attempts": 1,
+    "status": "failed",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  "tyvuahp5ss8": {
+    "title": "MIYA COSMETICS - HOT NEW PRODUCTS!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor przedstawia przegląd najnowszych produktów marki Miya, omawiając ich składy, działanie oraz to, dla kogo są odpowiednie."
+  },
+  "N4IRwbdj2oE": {
+    "title": "Big hits against wrinkles in Poland!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu przedstawia kompletne kosmetyczne combo do nocnej pielęgnacji skóry suchej, dojrzałej i wymagającej mocnej regeneracji. Omawia konkretne produkty, zasady ich łączenia, składniki aktywne oraz technologię niosomów."
+  },
+  "ZifteCmLTLM": {
+    "title": "ATTENTION❗️THE MIRACLE FROM THE PHARMACY THAT EVERYONE MUST HAVE❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia maskę do włosów i skóry głowy WAX, analizuje jej skład, działanie, sposób stosowania oraz dzieli się swoimi wrażeniami z użytkowania."
+  },
+  "e7IK9UQfYns": {
+    "title": "A COSMETIC THAT HAS NEVER BEEN AVAILABLE IN THE DRUG STORE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "abd5nqL6ALE": {
+    "title": "DR MAREK SKOCZYLAS IS A CHAMPION.",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu recenzuje krem do twarzy polskiej marki Skoczylas, omawiając jego skład, działanie, konsystencję oraz to, jak wpłynął na jego skórę podczas pobytu w szpitalu. Podkreśla świetny stosunek jakości do ceny oraz regenerujące właściwości produktu."
+  },
+  "XwiOXIBZev8": {
+    "title": "TRAFIŁEM DO SZPITALA W OSTATNIEJ CHWILI",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor dziękuje za wsparcie podczas pobytu w szpitalu i liczne wiadomości. Opowiada o swoich problemach zdrowotnych, nagłej interwencji, wynikach badań oraz zmianie dawkowania leków."
+  },
+  "JuPKKdm102U": {
+    "title": "DECYZJA LEKARZA 👍",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu dzieli się aktualizacją ze szpitala, informując, że jego wątroba została uratowana i jutro wychodzi do domu. Zapowiada, że przez najbliższe trzy miesiące będzie przechodził duże zmiany i leczenie w domu."
+  },
+  "RCH1XhY1PLE": {
+    "title": "DIAGNOZA",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu opowiada o swoim czwartym dniu pobytu w szpitalu i problemach z wątrobą wynikających z leków. Dzieli się informacjami o zmianie leczenia, badaniach krwi oraz swoich przemyśleniach na temat powrotu do domu."
+  },
+  "u6lIIRy_C3k": {
+    "title": "BYŁ U MNIE LEKARZ 😡",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor nagrywa aktualizację z szpitala, informując o zmianie wkłucia do kroplówki, braku opisu lekarza oraz prosząc widzów o podzielenie się w komentarzach swoimi doświadczeniami z czasem oczekiwania."
+  },
+  "Vxzt-kPSV4k": {
+    "title": "TRZECI DZIEŃ W SZPITALU",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu opowiada o swoim pobycie w szpitalu, powtórzonych tomografiach komputerowych oraz braku precyzyjnych informacji od personelu medycznego na temat dalszych badań i leczenia."
+  },
+  "LCvJdwCTuUQ": {
+    "title": "CZEKANIE W SZPITALU JEST NAJGORSZE",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor nagrywa film z szpitala, dzieląc się swoimi przemyśleniami oraz brakiem konkretnych informacji od lekarzy na temat swojego stanu zdrowia. Opowiada również o sytuacji z psem Perełką oraz dziękuje widzom za ogromne wsparcie i komentarze."
+  },
+  "lkXRSJzU3rw": {
+    "title": "DRUGI DZIEŃ W SZPITALU",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor nagrywa film ze szpitala, dzieląc się swoimi przemyśleniami na temat pobytu tam, oczekiwania na wyniki i badania oraz dziękując widzom za wsparcie."
+  },
+  "CyTKgrEZaVg": {
+    "title": "SZPITAL",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor nagrywa film z łóżka szpitalnego, wyjaśniając, że w dniu dzisiejszym nie będzie planowanego live'a z powodu pogorszenia stanu zdrowia i hospitalizacji."
+  },
+  "9AEHpRUJrcw": {
+    "title": "NEW PRODUCTS AT ROSSMANN - ARE THEY WORTH BUYING?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu recenzuje nowe produkty do ciała marki Onlybio z serii Pistacja. Omawia żel pod prysznic i peeling, dzieląc się swoimi wrażeniami na temat ich zapachu, konsystencji oraz działania."
+  },
+  "jf0pgu0rFzE": {
+    "title": "YOU CAN BUY THIS HIT IN THE PHARMACY FOR 5 ZLOTY",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "attempts": 1,
+    "status": "failed",
+    "error": "Expecting property name enclosed in double quotes: line 20 column 7 (char 722)"
+  },
+  "ViixlIYPndo": {
+    "title": "BOTOX EFFECT ON THE SKIN AT HOME!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu omawia kosmetyk przeznaczony do pielęgnacji skóry, skupiając się na jego składzie, działaniu oraz sposobach stosowania. Przedstawia właściwości produktu, zalety i wady oraz dzieli się swoimi wrażeniami z jego używania."
+  },
+  "LRKeyQxg-Us": {
+    "title": "TURBO ACTION AGAINST WRINKLES❗️ - EFFECTS AFTER JUST 1 USE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu przedstawia wielowarstwową pielęgnację skóry, skupiając się na idealnym połączeniu retinoidów z kwasem hialuronowym, peptydami i ceramidami. Omawia konkretne kosmetyki oraz zasady ich łączenia, aby zmaksymalizować regenerację i nawilżenie."
+  },
+  "decItrbkXWY": {
+    "title": "Najgorsze kosmetyki w Polsce!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu analizuje składy popularnych i drogich kosmetyków pielęgnacyjnych, wykazując w nich obecność składników takich jak alkohol denaturowany, parafina czy mikoplastiki. Wskazuje, że wiele z tych produktów daje jedynie złudny efekt wygładzenia skóry (efekt placebo) poprzez niszczenie bariery hydrolipidowej i odradza ich zakupy."
+  },
+  "rlWqBeY14tk": {
+    "title": "ATTENTION❗️AVA HAS CREATED A MIRACLE FOR WRINKLES FOR LESS THAN 20 ZLOTY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki do pielęgnacji skóry, skupiając się na ich składzie, działaniu oraz stosowaniu kwasu hialuronowego i jego stymulatorów. Wskazuje, które produkty są warte uwagi, a które uważa za chwyt marketingowy."
+  },
+  "-UVh0_3sn5o": {
+    "title": "FORGET ABOUT IT FOR THE REST OF YOUR LIFE",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia problem wypadania włosów, skupiając się na podstawach i typach łysienia. Ostrzega przed bezmyślnym kupowaniem suplementów i kosmetyków bez badań oraz wyjaśnia działanie składników hamujących wypadanie włosów."
+  },
+  "4d06iCIQzEE": {
+    "title": "EFFECTS AFTER JUST 1 USE ❗️ - FORGET ABOUT AESTHETIC MEDICINE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu przedstawia i recenzuje produkt o działaniu nawilżającym i regenerującym w formie płatków nasączonych esencją, omówia jego składniki aktywne, zasady łączenia składników w pielęgnacji oraz prezentuje autorską rutynę pielęgnacyjną."
+  },
+  "KX5GZ4t01XY": {
+    "title": "NACOMI - One of the honest companies in Poland!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia działanie peptydów w pielęgnacji skóry oraz ich łączenie z innymi składnikami. Przedstawia również konkretny produkt z peptydami, wyjaśniając jego skład, działanie oraz sposób stosowania."
+  },
+  "IUMsge4qz6g": {
+    "title": "Czy krem za 3 zł z ROSSMANN może być skuteczny?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia krem do twarzy Ziaja masło kakaowe, analizując jego skład, działanie, cenę oraz to, dla jakich typów skóry i problemów jest odpowiedni. Wskazuje, że krem ten przeszedł zmianę składu na lepsze i obecnie jest bardzo dobrym, niedrogim produktem do skóry normalnej i suchej."
+  },
+  "LfWnRgZkInE": {
+    "title": "FACE CREAM - WHICH TO BUY?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia osiem efektywnie działających, aktywnych kremów do twarzy o właściwościach odbudowujących, regenerujących i wzmacniających barierę hydrolipidową. Prezentuje konkretne produkty, ich ceny, składy, działanie oraz zasady stosowania na dzień i na noc."
+  },
+  "IfkHOMl16lI": {
+    "title": "One of the best cosmetics in Poland!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki do pielęgnacji skóry, skupiając się na ich składzie, działaniu oraz stosunku jakości do ceny. Wyróżnia dwa konkretne produkty marek MBR i SkyGlow, analizując ich składy i działanie."
+  },
+  "Sckx_O6kT9w": {
+    "title": "THIS COMPANY DESERVES APPLAUSE",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor omawia dwa produkty kosmetyczne marki Mokosh w postaci masek do twarzy: wygładzająco-oczyszczającą oraz liftingującą, analizując ich skład, działanie, sposób nakładania oraz dopasowanie do różnych typów skóry."
+  },
+  "IegfhnRuhSk": {
+    "title": "UWAGA! - STWORZONO CUD KOSMETYCZNY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu omawia dwa produkty kosmetyczne z kategorii filtrów SPF w sztyfcie: produkt marki Asoa oraz produkt marki Dr Irena Eris. W filmie przedstawiono ich właściwości, składy, sposób nakładania oraz opinie na temat działania na skórze."
+  },
+  "lGXa_PUello": {
+    "title": "WINTER NEW ARRIVALS AT ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu przedstawia przegląd nowości kosmetycznych z drogerii Rossmann, omawiając składy, działanie oraz wydając opinie na temat produktów do pielęgnacji twarzy, ciała i włosów."
+  },
+  "it7nYNRQDEg": {
+    "title": "HITS FROM THE PHARMACY FOR UP TO 20 PLN",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-27",
+    "status": "done",
+    "summary": "Autor filmu prezentuje tanie produkty apteczne do pielęgnacji skóry o dobrej jakości w cenie do 20 zł, omawiając ich składy, działanie oraz wskazania dla różnych typów cery i problemów skórnych."
   }
 }
