@@ -8935,12 +8935,11 @@
     "summary": "Autor filmu prezentuje tanie produkty apteczne do pielęgnacji skóry o dobrej jakości w cenie do 20 zł, omawiając ich składy, działanie oraz wskazania dla różnych typów cery i problemów skórnych."
   },
   "FFmphT0dQn8": {
-    "title": "ROSSMANN - TEN HIT NA ZMARSZCZKI KUPISZ TERAZ ZA 16 ZŁOTYCH❗️",
+    "title": "ROSSMANN - THIS WRINKLE-FIGHTING HIT IS NOW ONLY 16 ZŁOTY❗️",
     "channel": "Kacper Skin Ekspert",
     "date": "2026-10-28",
-    "attempts": 2,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "status": "done",
+    "summary": "Film omawia nową wersję serum do twarzy Isana Intensiv Serum Lift Triple po zmianie składu i wycofaniu z niego wysuszającego alkoholu Denat. Autor szczegółowo analizuje składniki produktu, w tym kompleks pochodnych witaminy A oraz bakuchiol, polecając go szczególnie osobom początkującym i o cerze wrażliwej."
   },
   "ML1e5UKoyqg": {
     "title": "BIEDRONKA - GET THIS FOUNDATION FOR 25 PLN❗️",
@@ -9057,10 +9056,9 @@
   "EmIK9V0QhAQ": {
     "title": "DR MARKA SKOCZYLAS cosmetics❗️ - ARE THEY WORTH BUYING?",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-28",
-    "attempts": 2,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film zawiera analizę składów kosmetyków marki Skoczylas stworzonych przez dr. Marka Skoczylasa. Autor szczegółowo omawia formulacje produktów do ciała, włosów oraz twarzy, oceniając ich bezpieczeństwo, jakość i stosunek ceny do składu."
   },
   "gTav7qRqpFM": {
     "title": "ZNOWU TO SAMO…",
@@ -9178,9 +9176,9 @@
     "title": "PREMIERE❗️- I CREATED MY OWN ADVENT CALENDAR❗️",
     "channel": "Kacper Skin Ekspert",
     "date": "2026-10-29",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "7ZDcCZZ4eck": {
     "title": "KACPER - CRIMINAL.",
@@ -9225,12 +9223,11 @@
     "summary": "Autor omawia i recenzuje dwa produkty pielęgnacyjne marki Bristol Labs, które są trudno dostępne w Polsce, lecz można je znaleźć w niektórych sklepach TK Maxx lub w Wielkiej Brytanii. Przedstawia ich minimalistyczne składy, lekkie formuły oraz działanie przeciwstarzeniowe i rozświetlające."
   },
   "6qvu68784go": {
-    "title": "REWELACJA!",
+    "title": "REVELATION!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor recenzuje drogeryjne hydrożelowe płatki pod oczy marki Essence, zachwalając ich silne działanie nawilżające, wygładzające i efekt 'wyprasowania' skóry. Ostrzega przed ich wersją chłodzącą, która wywołała u niego podrażnienia, oraz szczegółowo omawia składniki aktywne produktu i zasady ich łączenia w pielęgnacji."
   },
   "8rszAZtxa4g": {
     "title": "ZIAJA SURPRISES us more and more!",
@@ -9242,10 +9239,9 @@
   "erFcRL_kHGs": {
     "title": "POPŁAKAŁEM SIĘ ZE SZCZĘŚCIA",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Twórca dzieli się emocjonalną wiadomością o pozyskaniu unikalnego i bardzo trudnodostępnego surowca peptydowego do nowego kosmetyku marki Kacper Skin. Opowiada o wcześniejszym niepowodzeniu związanym z brakiem surowca oraz o powrocie do procesu tworzenia i produkcji silnego reduktora zmarszczek."
   },
   "CnRnKMkrnl4": {
     "title": "NEW STARS FROM THE STARS! - Are they worth buying?",
@@ -9271,10 +9267,9 @@
   "P6dWPs-PFJI": {
     "title": "TANIE vs DROGIE - Zamiennik serum za 300 złotych!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Twórca prezentuje tani i skuteczny odpowiednik kultowego, drogiego olejku do twarzy z marki Kiehl's. Omawia naturalny olejek do twarzy marki Pyunkang Yul, analizując jego bogaty skład, wielokierunkowe działanie regenerujące oraz właściwe sposoby aplikacji."
   },
   "wwVdoHAQjK0": {
     "title": "MAGICAL AND EFFECTIVE FACE SERUM?",
@@ -9293,18 +9288,16 @@
   "w_L9etzi1eA": {
     "title": "THIS COSMETIC SHOULD GO VIRAL!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor rozpoczyna serię poświęconą kosmetykom koreańskim, przestrzegając przed produktami z mikroplastikami i mutagenami oraz nieuzasadnionym zawyżaniem cen przez sprzedawców. Szczegółowo recenzuje dwufazowe serum w mgiełce Mary & May Rose Collagen Mist Serum, analizując jego skład INCI, liczne nośniki substancji aktywnych oraz zasady łączenia go w codziennej pielęgnacji."
   },
   "kdfsYmFP52Y": {
     "title": "PRAWDZIWY HIT Z APTEKI ZA 10 ZŁ❗️",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor prezentuje apteczny hit za mniej niż 10 zł – maść propolisową 3% z cholesterolem marki Farmina. Omawia jej prosty skład, szerokie właściwości regenerujące, przeciwzapalne i rozjaśniające, a także podpowiada, jak łączyć ją w pielęgnacji i na co uważać przy alergiach."
   },
   "zFCZA_kjrBI": {
     "title": "ATTENTION❗️ZIAJA HAS CREATED A SKIN RESCUE❗️",
@@ -9314,12 +9307,11 @@
     "summary": "Autor omawia idealne combo produktów do pielęgnacji skóry, łączące trzy aktywne preparaty zapewniające nawilżenie, stymulację produkcji kolagenu i regenerację. Przedstawia schematy stosowania dla różnych typów cery oraz wyjaśnia zasady łączenia składników aktywnych."
   },
   "TPMWcvk8Tao": {
-    "title": "DZIĘKUJĘ",
+    "title": "THANK YOU",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor podsumowuje sprzedaż kosmetyków swojej marki Kacper Skin, dziękując widzom za zaufanie oraz zapowiadając kolejne premiery w 2025 roku. Przedstawia ranking produktów od największych bestsellerów do najmniej popularnych, omawiając ich składy i zastosowanie."
   },
   "Bj3LhTVBFl8": {
     "title": "NATURAL IRON FOR WRINKLES UNDER THE EYES!",
@@ -9353,17 +9345,16 @@
     "title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
     "channel": "Kacper Skin Ekspert",
     "date": "2025-10-29",
-    "attempts": 1,
+    "attempts": 2,
     "status": "failed",
     "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "K5vUPuOua-w": {
-    "title": "KOSMETYK, KTÓRY POKOCHA KAŻDY.",
+    "title": "A COSMETIC THAT EVERYONE WILL LOVE.",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia produkt do demakijażu SVR Sensifine 9 Ingredients, analizuje jego skład oraz działanie. Dzieli się opinią o braku podrażnień i wysokiej skuteczności produktu."
   },
   "RUyaKfnFMes": {
     "title": "WIZYTA W ROSSMANN! - CO WARTO KUPOWAĆ, A CZEGO NIE KUPOWAĆ?",
@@ -9375,10 +9366,9 @@
   "YsZyMARJSZk": {
     "title": "VISIT TO HEBE❗️- WHAT IS WORTH BUYING AND WHAT NOT TO BUY?",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-10-29",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu prezentuje spacer po drogerii Hebe, omawiając składy, działanie oraz oceniając wybrane kosmetyki do pielęgnacji twarzy, ciała i włosów różnych marek."
   },
   "PcobLefAIMg": {
     "title": "ROSSMANN - WHAT TO BUY AND WHAT NOT TO BUY?!",
@@ -9442,5 +9432,160 @@
     "date": "2025-10-29",
     "status": "done",
     "summary": "Autor omawia kosmetyki z Rossmanna i wskazuje, które produkty warto kupić, a których unikać ze względu na składy i działanie. Przedstawia rekomendacje dotyczące perfum, podkładów, kremów i produktów do pielęgnacji ust."
+  },
+  "wNuNFEHjS3k": {
+    "title": "BIEDRONKA❗️- EFFECTIVE FACE CREAM UNDER 30 PLN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-30",
+    "status": "done",
+    "summary": "Autor omawia ujędrniający krem do twarzy z linii Lirene Collagen Glow, który po wycofaniu z Rossmanna pojawił się w dyskontach Biedronka w przystępnej cenie. Analizuje skład INCI wariantu 60+, tłumaczy różnice między wersjami wiekowymi oraz zasady łączenia produktu z innymi składnikami aktywnymi."
+  },
+  "kKSamyb-72o": {
+    "title": "AFFORDABLE NEW MAKEUP FIND!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-10-30",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "IbOG0JXiLEY": {
+    "title": "BIEDRONKA❗️- RUN AND GRAB THIS TREASURE FOR 10 ZŁOTY!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-10-29",
+    "status": "done",
+    "summary": "Autor recenzuje rozświetlającą maseczkę w płacie marki Be Beauty dostępną w sieci Biedronka. Szczegółowo omawia jej skład, działanie składników aktywnych takich jak witamina C SAP czy kurkuma, oraz przedstawia zasady jej bezpiecznego stosowania w porannej rutynie."
+  },
+  "-5m_P9IuF44": {
+    "title": "ATTENTION❗️ZIAJA HAS CREATED A HIT FOR 30 PLN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor prezentuje domowe combo pielęgnacyjne łączące produkt w żelu oraz maseczkę w saszetce. Omawia składniki aktywne, działanie, zasady stosowania oraz efekty detoksykacji, rozjaśnienia i wygładzenia skóry."
+  },
+  "lQJixhcdC_s": {
+    "title": "A COSMETIC THAT CHANGES EVERYTHING❗️ - The best in Poland!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film porusza temat szkodliwości aluminium (chlorohydratu) w kosmetykach, zwłaszcza dezodorantach i antyperspirantach. Autor odradza stosowanie produktów z aluminium oraz prezentuje polecany przez siebie bezpieczny dezodorant."
+  },
+  "3c2lysIkPLI": {
+    "title": "THE BEST AND WORST COSMETICS FROM ROSSMANN❗️ - What to buy and what not to buy?",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia kosmetyki dostępne w drogeriach Rossmann, dzieląc je na te warte zakupu ze względu na dobry skład oraz na te, których należy unikać ze względu na szkodliwe substancje i testowanie na zwierzętach."
+  },
+  "DRoop6pokeo": {
+    "title": "ROSSMANN - CO KUPOWAĆ, A CZEGO UNIKAĆ?!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film zawiera ogólne rekomendacje dotyczące produktów kosmetycznych dostępnych w Rossmannie. Autor omawia, które marki i produkty kupuje, a które odradza ze względu na składy, etykę czy testy na zwierzętach."
+  },
+  "a55-L2IWkCQ": {
+    "title": "ZIAJA - EFFECTIVE CREAM FOR 20 PLN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia krem przeciwzmarszczkowy na noc marki Ziaja Med, analizując jego skład, działanie, konsystencję oraz to, dla jakich typów skóry będzie odpowiedni."
+  },
+  "Uy5HmBGaEtQ": {
+    "title": "A CREAM THAT HAS HELPED MANY PEOPLE❗️- YOU CAN BUY IT AT THE PHARMACY❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu omawia ajurwedyjski krem Kailas na problemy skórne, analizuje jego składniki aktywne oraz wskazuje, jakie problemy skórne wspomaga jego stosowanie i z czym można go łączyć."
+  },
+  "v_3U78wXjHs": {
+    "title": "KONIEC Z TYMI BZDURAMI",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu odnosi się do kwestii recenzji kosmetyków na polskim YouTube, prezentując dowody w postaci paragonów i list zakupów, aby udowodnić swoją wiarygodność i niezależność od marek kosmetycznych."
+  },
+  "WMrHU0lB5bk": {
+    "title": "ATTENTION❗️ZIAJA DID WHAT WE WERE WAITING FOR❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film zawiera szczegółową, oczekiwaną przez widzów recenzję hydrożelowej maski do twarzy i ciała od marki Ziaja. Autor omawia skład produktu, jego konsystencję, zapach oraz skuteczność w pielęgnacji skóry."
+  },
+  "F8lHmq70_1w": {
+    "title": "WORST cosmetics at Rossmann! Don't buy these! ❌",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu przedstawia przegląd kosmetyków dostępnych w drogerii Rossmann, oceniając ich składy, działanie oraz to, czy warto je kupować. Wskazuje produkty odradzane ze względu na zawartość mikroplastiku, alkoholu denat., parabenów czy SLS."
+  },
+  "MFoXI17SZAk": {
+    "title": "THE BEST FACE CREAM FROM THE PHARMACY❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu omawia jeden ze swoich ulubionych i niedrogich kremów aptecznych, analizując jego skład oraz działanie na skórę. Dokładnie prześwietla każdy składnik aktywny produktu i dzieli się swoimi wrażeniami z jego stosowania."
+  },
+  "DkwnGqf_CKQ": {
+    "title": "ATTENTION❗️ZIAJA HAS CREATED A WRINKLE FILLER FOR 15 PLN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia zaawansowane technologie peptydowe w pielęgnacji skóry wokół oczu na przykładzie konkretnego produktu marki Ziaja. Przedstawia jego skład, działanie, konsystencję oraz zasady łączenia z innymi składnikami aktywnymi."
+  },
+  "7XRxW-NeTXw": {
+    "title": "THE BEST PRODUCTS from ROSSMANN! They're worth buying!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu prezentuje przegląd produktów pielęgnacyjnych dostępnych w drogerii Rossmann, omawia ich składy, działanie oraz dzieli się swoimi rekomendacjami zakupowymi."
+  },
+  "jsH2__Tzo0A": {
+    "title": "ATTENTION❗️ZIAJA HAS CREATED A HIT AGAINST WRINKLES❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia krem przeciwzmarszczkowy na noc z serii anno d'oro od marki Ziaja. Analizuje jego skład, technologię peptydową, działanie na zmarszczki oraz zasady włączania go do rutyny pielęgnacyjnej."
+  },
+  "WasAuCu_s-4": {
+    "title": "The WORST products from Rossmann. Don't buy these! ❌",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film prezentuje przegląd popularnych kosmetyków z Rossmanna i zawiera ostrzeżenia przed produktami zawierającymi szkodliwe składniki, mikrodrobiny plastiku oraz testowanymi na zwierzętach. Autor analizuje składy i odradza zakupy wielu marek."
+  },
+  "SZjnBudOX5o": {
+    "title": "A WALK THROUGH THE HEBE DRUG STORE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu prezentuje kosmetyki dostępne w drogerii Hebe, ocenia ich składy, działanie oraz opłacalność, polecając konkretne produkty do pielęgnacji twarzy, ciała i włosów."
+  },
+  "RyNSHlrjxEY": {
+    "title": "ROSSMANN TOUR!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor prezentuje i ocenia wybrane kosmetyki dostępne w drogeriach Rossmann, omawiając ich składy, działanie oraz to, dla jakiej cery są odpowiednie."
+  },
+  "AZj7mvAD34c": {
+    "title": "BYŁEM U LEKARZA",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor filmu opowiada o swojej środowej wizycie u lekarza, podczas której dowiedział się o zmianach w leczeniu i konieczności zmniejszenia dawki nutridrinków. Dzieli się również swoimi przemyśleniami na temat samopoczucia i dziękuję widzom za wsparcie."
+  },
+  "UdSFq990jGs": {
+    "title": "SPACER PO ROSSMANN!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Film prezentuje zestawienie hitów kosmetycznych i produktów z drogerii Rossmann. Autor omawia składy, działanie oraz rekomendacje konkretnych kosmetyków do pielęgnacji twarzy, ciała i włosów."
+  },
+  "EKoA99a5aGw": {
+    "title": "ODEBRAŁEM WYNIKI BADAŃ",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-10-30",
+    "status": "done",
+    "summary": "Autor omawia swoje wyniki badań lekarskich, reakcje na leki oraz ogólny stan zdrowia i samopoczucie po odstawieniu alkoholu. Dzieli się również przemyśleniami na temat suplementów oraz codziennej pielęgnacji i stylu życia."
   }
 }
