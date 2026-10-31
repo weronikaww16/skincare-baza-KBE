@@ -12197,6 +12197,177 @@
       "video_title": "SPACER PO ROSSMANN!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-30"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "ekstrakt z miodu",
+        "produkty pochodzenia pszczelego"
+      ],
+      "rule": "Osoby z alergią na produkty pochodzenia pszczelego nie mogą stosować tego kosmetyku.",
+      "why": "Kosmetyk zawiera ekstrakt z miodu, który może wywołać reakcję alergiczną u osób uczulonych.",
+      "timestamp": "04:36",
+      "video_id": "XRksvbNimAw",
+      "video_title": "ROSSMANN - THERE’S NEVER BEEN A COSMETIC LIKE THIS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-31"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "kremy Be Beauty (bez witaminy C i EDTA)",
+        "peptydy",
+        "ceramidy"
+      ],
+      "rule": "Kremy te można bez przeszkód łączyć w pielęgnacji twarzy z peptydami i ceramidami.",
+      "why": "Formuły nie zawierają witaminy C ani EDTA, które mogłyby wchodzić w niepożądane interakcje.",
+      "timestamp": "09:05",
+      "video_id": "3VNIOUQgZmU",
+      "video_title": "BIEDRONKA❗️- SUCH TREASURES, A TOTAL SHOCK AT THIS STORE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-30"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Kosmetyki z fenoksyetanolem nie są zalecane dla kobiet w ciąży oraz matek karmiących piersią.",
+      "why": "Obecność fenoksyetanolu w składzie obu kremów dyskwalifikuje je dla kobiet w ciąży i karmiących.",
+      "timestamp": "05:07",
+      "video_id": "3VNIOUQgZmU",
+      "video_title": "BIEDRONKA❗️- SUCH TREASURES, A TOTAL SHOCK AT THIS STORE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-30"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Pharmaceris A Sensireneal (bez Disodium EDTA)",
+        "peptydy miedziowe"
+      ],
+      "rule": "Krem można łączyć z peptydami miedziowymi w jednej rutynie pielęgnacyjnej.",
+      "why": "Formuła kremu nie zawiera Disodium EDTA, który mógłby wchodzić w niepożądane interakcje z jonami miedzi.",
+      "timestamp": "10:27",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "krem przeciwzmarszczkowy",
+        "keratolityki (retinoidy, kwasy)"
+      ],
+      "rule": "Nie łączyć bezpośrednio w jednej aplikacji z keratolitykami (kwasami i retinoidami).",
+      "why": "Kwasy i retinoidy należy stosować solo, bez nakładania w tym samym kroku aktywnych preparatów barierowych.",
+      "timestamp": "13:17",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "parabeny",
+        "donory formaldehydu (DMDM hydantoina, bromonitropropanodiol)",
+        "akrylany (mikroplastiki)"
+      ],
+      "rule": "Należy unikać starych składów zawierających parabeny, donory formaldehydu oraz mikroplastiki.",
+      "why": "Są to substancje niepożądane i potencjalnie szkodliwe w pielęgnacji, obecne w dawnej formulacji tego produktu.",
+      "timestamp": "05:00",
+      "video_id": "CGWIILcXfEc",
+      "video_title": "UWAGA❗️ZIAJA STWORZYŁA HIT ZA NIECAŁE 2 ZŁ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "krem Ziaja Med Siemię Lniane",
+        "peptydy miedziowe",
+        "peptydy",
+        "witamina C",
+        "ceramidy"
+      ],
+      "rule": "Krem Ziaja Med Siemię Lniane można łączyć z dowolnymi składnikami aktywnymi w rutynie pielęgnacyjnej.",
+      "why": "Krem ma neutralną bazę regenerującą, nie wchodzi w niepożądane interakcje z substancjami aktywnymi i doskonale domyka pielęgnację.",
+      "timestamp": "10:22",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Nie stosować u kobiet w ciąży oraz matek karmiących piersią.",
+      "why": "Ze względu na zawartość fenoksyetanolu w składzie produkt nie jest rekomendowany dla kobiet w ciąży i w okresie laktacji.",
+      "timestamp": "11:40",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "solanka sopocka",
+        "retinoidy"
+      ],
+      "rule": "Przy kuracji retinoidami po nałożeniu maski z solanką może pojawić się chwilowe pieczenie.",
+      "why": "Solanka i skoncentrowane składniki aktywne w kontakcie z uwrażliwioną retynizacją skórą mogą powodować delikatne podszczypywanie przez pierwsze 30 sekund.",
+      "timestamp": "07:11",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas ursolowy",
+        "witaminy C"
+      ],
+      "rule": "Kwasu ursolowego nie można łączyć z witaminą C",
+      "why": "Poza tetraisopalmitynianem askorbylu i askorbylu, kwasu ursolowego ogólnie nie można łączyć z witaminą C.",
+      "timestamp": "03:26",
+      "video_id": "6nHdnh_FT08",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas ursolowy",
+        "peptydy miedziowe"
+      ],
+      "rule": "Kwasu ursolowego nie można łączyć z peptydami miedziowymi",
+      "why": "Autor zaznacza, że nie można łączyć tego kwasu z peptydami miedziowymi, chociaż inne peptydy mogą być połączone.",
+      "timestamp": "03:31",
+      "video_id": "6nHdnh_FT08",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Catrice Illuminating Primer",
+        "rutyna niepielęgnacyjna z peptydami"
+      ],
+      "rule": "Nie wolno łączyć tej bazy z rutyną pielęgnacyjną z peptydami.",
+      "why": "Ponieważ produkt zawiera witaminę C i kwas askorbinowy.",
+      "timestamp": "01:35",
+      "video_id": "v6we9MNnvk8",
+      "video_title": "The best Makeup 2024 roku!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
     }
   ],
   "routines": [
@@ -20885,6 +21056,136 @@
       "video_title": "ODEBRAŁEM WYNIKI BADAŃ",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-30"
+    },
+    {
+      "problem": "suche, spierzchnięte i odwodnione usta",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Zrobienie delikatnego peelingu ust (np. odrobiny cukru z miodem) w celu usunięcia martwego naskórka",
+        "Zmycie i spłukanie peelingu z ust",
+        "Aplikacja serum nawilżającego (np. z kwasem hialuronowym lub peptydami)",
+        "Zamknięcie nawilżenia okluzyjną pomadką emolientową lub regenerującą maską do ust"
+      ],
+      "notes": "Zwykła pomadka nie zadziała na martwy naskórek, ponieważ składniki aktywne nie przenikną w głąb i nie zregenerują mikrouszkodzeń bez wcześniejszego złuszczenia.",
+      "timestamp": "06:29",
+      "video_id": "XRksvbNimAw",
+      "video_title": "ROSSMANN - THERE’S NEVER BEEN A COSMETIC LIKE THIS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-31"
+    },
+    {
+      "problem": "pielęgnacja i oczyszczanie skóry głowy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Umycie skóry głowy jeden raz szamponem",
+        "Odsączenie skóry głowy ręcznikiem",
+        "Nałożenie niewielkiej ilości peelingu do skóry głowy (Scalp Renewal Peel) i spienienie",
+        "Pozostawienie peelingu na 2-3 minuty",
+        "Spłukanie peelingu wodą",
+        "Ponowne umycie skóry głowy szamponem",
+        "Aplikacja wcierki (Exosome Scalp Booster) na czystą skórę głowy (około 3 psiknięcia) i wmasowanie palcami"
+      ],
+      "notes": "Peeling stosować raz w tygodniu. Wcierkę aplikować po każdym myciu głowy – wystarczą około 3 psiknięcia, aby nie obciążyć skóry.",
+      "timestamp": "11:11",
+      "video_id": "3Ni2G4T7Tc0",
+      "video_title": "PREMIERE❗️- I CREATED MY OWN ADVENT CALENDAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-29"
+    },
+    {
+      "problem": "skóra tłusta i trądzikowa z zaburzoną barierą hydrolipidową",
+      "time_of_day": "rano",
+      "steps": [
+        "Aplikacja kremu Pharmaceris A Sensireneal",
+        "Krem z filtrem SPF lub makijaż"
+      ],
+      "notes": "Krem ma niekomedogenną i nieaknegenną, lekką formułę, która szybko się wchłania i nie roluje pod kolejnymi warstwami.",
+      "timestamp": "10:56",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "problem": "cera naczynkowa, trądzikowa, tłusta, podrażniona lub w trakcie kuracji kwasami/retinoidami",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Oczyszczenie skóry",
+        "Nałożenie maseczki na 15-20 minut (w przypadku cer tłustych/trądzikowych 10-15 minut)",
+        "Zmycie maseczki wodą",
+        "Dalsza pielęgnacja: tonik",
+        "Serum",
+        "Krem"
+      ],
+      "notes": "Stosować 1 do 2 razy w tygodniu.",
+      "timestamp": "06:13",
+      "video_id": "CGWIILcXfEc",
+      "video_title": "UWAGA❗️ZIAJA STWORZYŁA HIT ZA NIECAŁE 2 ZŁ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "problem": "odbudowa bariery hydrolipidowej przy kuracji kwasami lub retinolem (skóra tłusta, trądzikowa, problematyczna)",
+      "time_of_day": "wieczór",
+      "steps": [
+        "oczyszczenie skóry",
+        "serum ceramidowe lub peptydowe",
+        "krem Ziaja Med Siemię Lniane"
+      ],
+      "notes": "Stosować w noce wolne od retinolu i kwasów w celu intensywnej regeneracji naskórka.",
+      "timestamp": "11:08",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "problem": "sucha, atopowa, dojrzała lub odwodniona skóra",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "serum aktywne",
+        "krem Ziaja Med Siemię Lniane jako domknięcie okluzyjne"
+      ],
+      "notes": "Na dzień sprawdza się jako krem okluzyjny na zimę (lub pod makijaż, jeśli tolerowane są cięższe formuły), a na noc do głębokiej odbudowy.",
+      "timestamp": "10:46",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "problem": "odwodnienie, brak blasku, potrzeba rewitalizacji",
+      "time_of_day": "rano",
+      "steps": [
+        "Oczyszczenie twarzy żelem/pianką",
+        "Nałożenie żelowej maseczki nawilżającej Ziaja Sopot Spa na 10–15 minut",
+        "Dokładne zmycie maseczki wodą",
+        "Tonizacja skóry mgiełką nawilżającą",
+        "Aplikacja serum do twarzy",
+        "Aplikacja kremu pod oczy",
+        "Nałożenie kremu łagodzącego/nawilżającego na twarz i szyję"
+      ],
+      "notes": "Rutyna pokazana na początku filmu zapewniająca natychmiastowy efekt glass skin i głębokiego nawilżenia.",
+      "timestamp": "00:04",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "problem": "zmarszczki",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "mycie",
+        "nałożenie serum z kwasem ursolowym",
+        "nałożenie balsamu do ciała lub kremu"
+      ],
+      "notes": "Można stosować w dzień i w nocy, pod okluzję, a przy ciele po umyciu pod balsam.",
+      "timestamp": "04:56",
+      "video_id": "6nHdnh_FT08",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
     }
   ],
   "tips": [
@@ -34900,6 +35201,213 @@
       "video_title": "ODEBRAŁEM WYNIKI BADAŃ",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-10-30"
+    },
+    {
+      "topic": "PDRN w kosmetykach do ust",
+      "tip": "Autor uznaje PDRN w balsamach do ust za chwyt marketingowy – składnik ten osiada na powierzchni i daje tylko powierzchowne nawilżenie bez wnikania w głąb naskórka.",
+      "timestamp": "01:46",
+      "video_id": "XRksvbNimAw",
+      "video_title": "ROSSMANN - THERE’S NEVER BEEN A COSMETIC LIKE THIS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-31"
+    },
+    {
+      "topic": "Domowy peeling do ust",
+      "tip": "Nie trzeba kupować drogich peelingów do ust; wystarczy wymieszać parę drobinek cukru z odrobiną miodu, delikatnie wymasować usta i zmyć.",
+      "timestamp": "06:31",
+      "video_id": "XRksvbNimAw",
+      "video_title": "ROSSMANN - THERE’S NEVER BEEN A COSMETIC LIKE THIS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-31"
+    },
+    {
+      "topic": "Termin ważności po otwarciu (PAO)",
+      "tip": "Maska Eveline posiada symbol PAO wynoszący 12 miesięcy, co daje pełny rok na zużycie produktu od momentu pierwszego otwarcia.",
+      "timestamp": "08:14",
+      "video_id": "XRksvbNimAw",
+      "video_title": "ROSSMANN - THERE’S NEVER BEEN A COSMETIC LIKE THIS❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-31"
+    },
+    {
+      "topic": "Stosowanie uniwersalnych kremów",
+      "tip": "Mimo że kremy są dedykowane do twarzy i ciała, autor rekomenduje stosować je przede wszystkim do ciała i dłoni, a do twarzy wybierać produkty o bardziej zaawansowanym działaniu przeciwstarzeniowym.",
+      "timestamp": "02:04",
+      "video_id": "3VNIOUQgZmU",
+      "video_title": "BIEDRONKA❗️- SUCH TREASURES, A TOTAL SHOCK AT THIS STORE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-30"
+    },
+    {
+      "topic": "Drogie balsamy do ciała vs tanie kremy",
+      "tip": "Nie warto przepłacać setek złotych za luksusowe balsamy do ciała obiecujące odmłodzenie i lifting, ponieważ często bazują na tanich formulacjach z drogim marketingiem, podczas gdy drogeryjne kremy za kilka złotych oferują równie dobrą bazę odżywczą.",
+      "timestamp": "08:14",
+      "video_id": "3VNIOUQgZmU",
+      "video_title": "BIEDRONKA❗️- SUCH TREASURES, A TOTAL SHOCK AT THIS STORE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-30"
+    },
+    {
+      "topic": "wydajność i dozowanie kosmetyków",
+      "tip": "Kosmetyki skoncentrowane należy nakładać w niewielkich ilościach – są bardzo wydajne, dzięki czemu jedno opakowanie starcza na dłużej i daje optymalne rezultaty bez marnowania produktu.",
+      "timestamp": "08:49",
+      "video_id": "3Ni2G4T7Tc0",
+      "video_title": "PREMIERE❗️- I CREATED MY OWN ADVENT CALENDAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-29"
+    },
+    {
+      "topic": "sposób aplikacji wcierki w miniaturze",
+      "tip": "W przypadku miniatury z innym atomizerem wystarczą 3 psiknięcia bezpośrednio na całą skórę głowy, a następnie delikatny masaż opuszkami palców.",
+      "timestamp": "12:57",
+      "video_id": "3Ni2G4T7Tc0",
+      "video_title": "PREMIERE❗️- I CREATED MY OWN ADVENT CALENDAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-10-29"
+    },
+    {
+      "topic": "Wybór odpowiedniej wersji produktu",
+      "tip": "Należy zwracać uwagę na pełną nazwę i oznaczenie kompleksu Sensibiom na kartoniku, ponieważ w niektórych aptekach wciąż dostępna bywa starsza wersja produktu o gorszym składzie.",
+      "timestamp": "12:25",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Regeneracja bariery hydrolipidowej",
+      "tip": "Czas oczekiwania na widoczną poprawę stanu skóry zależy od stopnia uszkodzenia bariery hydrolipidowej – im większe zniszczenia, tym dłużej trwa proces naprawczy.",
+      "timestamp": "07:10",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Warstwowa aplikacja lekkich kremów nawilżających",
+      "tip": "Lekki krem o wodnistej formule można nakładać warstwowo (nawet kilka warstw), dając skórze efekt 'glass skin' bez uczucia obciążenia czy lepkości.",
+      "timestamp": "13:30",
+      "video_id": "dmXrVvjKuoU",
+      "video_title": "A FACE CREAM THAT IS BREAKTHROUGH ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Bezpieczny zakup nowego składu",
+      "tip": "Maseczkę najlepiej zamawiać bezpośrednio na oficjalnej stronie Ziaja lub w sklepach firmowych Ziaja, aby mieć pewność zakupu nowego, bezpiecznego składu, a nie starych zapasów magazynowych z innych drogerii.",
+      "timestamp": "06:58",
+      "video_id": "CGWIILcXfEc",
+      "video_title": "UWAGA❗️ZIAJA STWORZYŁA HIT ZA NIECAŁE 2 ZŁ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Fenoksyetanol w ciąży",
+      "tip": "Kosmetyki zawierające fenoksyetanol (Phenoxyethanol) nie są zalecane dla kobiet w ciąży oraz matek karmiących piersią.",
+      "timestamp": "12:04",
+      "video_id": "CGWIILcXfEc",
+      "video_title": "UWAGA❗️ZIAJA STWORZYŁA HIT ZA NIECAŁE 2 ZŁ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Analiza serii Ziaja Med Siemię Lniane",
+      "tip": "Warto dokładnie sprawdzać składy w obrębie jednej linii kosmetycznej – krem i żel do mycia mają świetny skład, podczas gdy serum i krem z filtrem z tej samej serii zawierają mikroplastik.",
+      "timestamp": "03:36",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Sposób aplikacji kremu ultra odżywczego",
+      "tip": "Mimo że producent wspomina o możliwości stosowania produktu jako maseczki, lepiej pozostawić go na całą noc na twarzy, by w pełni wykorzystać składniki i nie marnować produktu.",
+      "timestamp": "05:23",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Oleje roślinne a zapychanie porów",
+      "tip": "Olej canola i olej słonecznikowy nie zapchają skóry problematycznej czy tłustej, jeśli jest ona w trakcie złuszczania retinoidami lub kwasami, ponieważ potrzebuje wtedy składników budulcowych.",
+      "timestamp": "06:40",
+      "video_id": "Tje_XBV6oH4",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED THE BEST FACE CREAM❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Dobór kosmetyków do wieku",
+      "tip": "Nie należy sugerować się oznaczeniami wiekowymi na opakowaniach (np. 30+), lecz dobierać kosmetyki ściśle według aktualnych potrzeb i problemów skóry.",
+      "timestamp": "04:27",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Czas trzymania maseczki",
+      "tip": "Maseczkę należy zmyć po 10–15 minutach; przetrzymywanie jej dłużej nie da lepszych rezultatów, a może wywołać podrażnienie.",
+      "timestamp": "10:27",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Zmywanie maseczki",
+      "tip": "Maseczki nie wolno zostawiać na skórze jako serum ani jako maski całonocnej ze względu na wysokie stężenie składników i solanki, które wymagają spłukania.",
+      "timestamp": "09:48",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "Próba uczuleniowa",
+      "tip": "Osoby ze skórą alergiczną powinny nałożyć odrobinę produktu na mały fragment skóry (np. za uchem lub na szyi), zmyć po 15 minutach i odczekać 24 godziny w celu sprawdzenia reakcji.",
+      "timestamp": "12:12",
+      "video_id": "M5i2mmFquUU",
+      "video_title": "ATTENTION❗️ZIAJA CREATED A MIRACLE FOR PENALTIES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "stosowanie pod oczy",
+      "tip": "Serum z kwasem ursolowym można stosować pod oczy w niewielkich ilościach.",
+      "timestamp": "11:18",
+      "video_id": "6nHdnh_FT08",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "zamykanie preparatu",
+      "tip": "Po nałożeniu serum należy nałożyć krem lub balsam, aby zamknąć składniki aktywne w skórze i zapobiec ich odparowywaniu.",
+      "timestamp": "12:20",
+      "video_id": "6nHdnh_FT08",
+      "video_title": "ATTENTION❗️ZIAJA HAS CREATED A MIRACLE FOR WRINKLES❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "rozwój marki i świadomość konsumencka",
+      "tip": "W roku 2025 w grudniu pojawi się kalendarz adwentowy Katsuya Skin, który wymaga 24 produktów w portfolio.",
+      "timestamp": "02:53",
+      "video_id": "gYY4oks0GAw",
+      "video_title": "ZMIANY I POSTANOWIENIA NA 2025 ROK!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
+    },
+    {
+      "topic": "badania kosmetyków",
+      "tip": "Każdy kosmetyk Katsuya Skin przechodzi długotrwałe badania aparaturowe oraz w niezależnych laboratoriach.",
+      "timestamp": "03:41",
+      "video_id": "gYY4oks0GAw",
+      "video_title": "ZMIANY I POSTANOWIENIA NA 2025 ROK!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2025-10-31"
     }
   ]
 }
