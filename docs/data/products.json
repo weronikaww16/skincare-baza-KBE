@@ -1236,6 +1236,27 @@
     "conflict": false
   },
   {
+    "key": "a wings of color star secret lip mask",
+    "brand": "A-Wings of Color",
+    "name": "Star Secret Lip Mask",
+    "category": "maska",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Pachnie herbatką malinową, zdejmuje tint z ust lub po prostu podbija połysk.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:27"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "aa 5 repair aktywny lifting zota kuracja",
     "brand": "AA",
     "name": "5 Repair (Aktywny Lifting, Złota Kuracja)",
@@ -5850,6 +5871,29 @@
     "conflict": false
   },
   {
+    "key": "aa wings of color paletka bronzor puder nawilzajacy rozswietlacz roz",
+    "brand": "AA Wings of Color",
+    "name": "paletka (bronzor, puder nawilżający, rozświetlacz, róż)",
+    "category": "paleta do makijażu twarzy",
+    "ingredients": [],
+    "for": [
+      "skóra potrzebująca nawilżenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "nie ma talku, plastików, rakotwórczych składników, bezpieczny skład",
+        "video_id": "ZmHJOojbvyo",
+        "video_title": "THE ROSSMANN PALLET that everyone is looking for!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:40"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "aa wings of color paletki seria golden hour",
     "brand": "AA Wings of Color",
     "name": "Paletki (seria Golden Hour)",
@@ -6083,6 +6127,29 @@
     "conflict": false
   },
   {
+    "key": "aa wings of color the secret the lip mask",
+    "brand": "AA Wings of Color",
+    "name": "The Secret The Lip Mask",
+    "category": "maska do ust",
+    "ingredients": [],
+    "for": [
+      "usta suche"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Nawilża, błyszczy, nie klei się, długo trzyma się na ustach i ma przyjemny zapach.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "16:12"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "aa wings of color tusz do rzes seria golden hour",
     "brand": "AA Wings of Color",
     "name": "Tusz do rzęs (seria Golden Hour)",
@@ -6147,6 +6214,29 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "aa wings of color zota paletka bronzor puder nawilzajacy rozswietlacz roz",
+    "brand": "AA Wings of Color",
+    "name": "złota paletka (bronzor, puder nawilżający, rozświetlacz, róż)",
+    "category": "paleta do makijażu twarzy",
+    "ingredients": [],
+    "for": [
+      "każdy rodzaj skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "brak talku, plastiku i rakotwórczych składników; bezpieczny skład i świetny efekt na twarzy",
+        "video_id": "ZmHJOojbvyo",
+        "video_title": "THE ROSSMANN PALLET that everyone is looking for!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:12"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -7004,6 +7094,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-16",
         "timestamp": "06:29"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "alkemi maska z peptydami biomimetycznymi",
+    "brand": "Alkemi",
+    "name": "Maska z peptydami biomimetycznymi",
+    "category": "maska",
+    "ingredients": [
+      "peptydy biomimetyczne"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "przesuszona",
+      "skóra odwodniona",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma cudowną konsystencję i rewelacyjny skład, świetnie nawilża, odbudowuje barierę hydrolipidową, działa antyoksydacyjnie i przeciw zmarszczkowa.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:24"
       }
     ],
     "verdict": "polecany",
@@ -11691,6 +11809,31 @@
     "conflict": false
   },
   {
+    "key": "asoa glow up tonik ceramidowy",
+    "brand": "ASOA",
+    "name": "Glow Up Tonik Ceramidowy",
+    "category": "tonik",
+    "ingredients": [
+      "ceramidy"
+    ],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, obojętny tonik wspierający barierę",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:55"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "asoa krem z filtrem chemicznym spf 50 pa",
     "brand": "ASOA",
     "name": "Krem z filtrem chemicznym SPF 50+ PA++++",
@@ -13503,9 +13646,12 @@
       "tymianek"
     ],
     "for": [
+      "dorośli",
       "dzieci",
+      "dzieci od 3. miesiąca życia",
       "przeziębienia u dzieci",
-      "przeziębienie"
+      "przeziębienie",
+      "przy przeziębieniu i katarze"
     ],
     "mentions": [
       {
@@ -13543,6 +13689,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "05:21"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Skoncentrowana formuła o świetnym składzie, działa odprężająco, relaksująco oraz wspomaga udrażnianie dróg oddechowych przy katarze.",
+        "video_id": "Ts1Uzm99ExE",
+        "video_title": "Cheap and good! - WHAT IS WORTH BUYING AT ROSSMANN DRUG STORE?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:15"
       }
     ],
     "verdict": "polecany",
@@ -15585,6 +15740,33 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "basiclab krem ceramidowy eliksir nmf",
+    "brand": "BasicLab",
+    "name": "Krem ceramidowy / Eliksir NMF",
+    "category": "krem",
+    "ingredients": [
+      "NMF",
+      "ceramidy"
+    ],
+    "for": [
+      "skóra przesuszona",
+      "zaburzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zapewnia intensywną regenerację i stymulację skóry wokół oczu w połączeniu z płatkami.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:09"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -19379,6 +19561,44 @@
     "conflict": false
   },
   {
+    "key": "bell ubelicious bake loose powder",
+    "brand": "Bell",
+    "name": "Ubelicious Bake Loose Powder",
+    "category": "puder sypki",
+    "ingredients": [
+      "alkohol cetylowy",
+      "aromat",
+      "barwnik",
+      "dimetikon",
+      "etylheksylogliceryna",
+      "fenoksyetanol",
+      "fenylotrimetikon",
+      "kaolin",
+      "krzem",
+      "krzemionka",
+      "nylon-12",
+      "talk",
+      "wanilina"
+    ],
+    "for": [
+      "nie dla kobiet w ciąży",
+      "nie dla matek karmiących"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor ocenia produkt jako tragiczny ze względu na talk na pierwszym miejscu w składzie, obecność plastiku (nylon-12) oraz fenoksyetanolu.",
+        "video_id": "bzM_al8qNao",
+        "video_title": "A NEW FACE POWDER?!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-01",
+        "timestamp": "01:38"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bell ubelicious glow highlighter",
     "brand": "Bell",
     "name": "Ubelicious Glow Highlighter",
@@ -21275,6 +21495,27 @@
     "conflict": false
   },
   {
+    "key": "bielenda ai infused",
+    "brand": "Bielenda",
+    "name": "AI Infused",
+    "category": "inne",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Fatalny skład, marketing oparty o AI bez wartościowej pielęgnacji.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:30"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda ayurveda olejek w piance do pielegnacji ciaa",
     "brand": "Bielenda",
     "name": "Ayurveda Olejek w piance do pielęgnacji ciała",
@@ -21384,6 +21625,29 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "bielenda baza pod makijaz",
+    "brand": "Bielenda",
+    "name": "Baza pod makijaż",
+    "category": "inne",
+    "ingredients": [
+      "plastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera plastik.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:12"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -21873,6 +22137,48 @@
     "conflict": false
   },
   {
+    "key": "bielenda blue matcha kremy do twarzy",
+    "brand": "Bielenda",
+    "name": "Blue Matcha Kremy do twarzy",
+    "category": "krem",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Złe składy kwalifikujące produkt do wyrzucenia.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:12"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda blue matcha krople korygujace",
+    "brand": "Bielenda",
+    "name": "Blue Matcha Krople korygujące",
+    "category": "serum",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Niski poziom składników, niekorzystna formuła.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:13"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda blue matcha mousse foundation",
     "brand": "Bielenda",
     "name": "Blue Matcha Mousse Foundation",
@@ -21908,6 +22214,48 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda blue matcha pianka do mycia i tonik",
+    "brand": "Bielenda",
+    "name": "Blue Matcha Pianka do mycia i tonik",
+    "category": "pianka / tonik",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Super składy, bezpieczne i skuteczne w użyciu.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda blue matcha serum w sztyfcie",
+    "brand": "Bielenda",
+    "name": "Blue Matcha Serum w sztyfcie",
+    "category": "serum",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Formuła do zaakceptowania (ok).",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:15"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -22653,6 +23001,32 @@
     "conflict": false
   },
   {
+    "key": "bielenda chrono age caa seria",
+    "brand": "Bielenda",
+    "name": "Chrono Age (cała seria)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [
+      "glass skin",
+      "odmłodzenie",
+      "rozświetlenie",
+      "skóra dojrzała"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Przełomowa technologia odmładzająca i detoksykująca cerę, dająca efekt glass skin, rozświetlenia i nawodnienia.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:21"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda chrono age 24 h odbudowujace serum na noc przeciwzmarszczkowe",
     "brand": "Bielenda",
     "name": "Chrono Age 24 H Odbudowujące serum na noc przeciwzmarszczkowe",
@@ -22869,6 +23243,95 @@
     "conflict": false
   },
   {
+    "key": "bielenda chrono age serum do twarzy",
+    "brand": "Bielenda",
+    "name": "Chrono Age Serum do twarzy",
+    "category": "serum",
+    "ingredients": [
+      "etyloaskorbinowy kwas",
+      "kurkuma",
+      "miłorząb japoński",
+      "morfina biała",
+      "witamina C"
+    ],
+    "for": [
+      "nierówny koloryt",
+      "skóra z oznakami starzenia",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Silne działanie odmładzające, redukujące zmarszczki, uelastyczniające i przeciwutleniające.",
+        "video_id": "SqRrfOVuP28",
+        "video_title": "Effective from the first use! - A combo that works!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:27"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda chrono2 age krem 50",
+    "brand": "Bielenda",
+    "name": "ChronO2 Age krem 50+",
+    "category": "krem",
+    "ingredients": [
+      "antyoksydanty",
+      "ekstrakt z morwy białej",
+      "ekstrakt z skórki pomelo",
+      "peptydy"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra wymagająca regeneracji i odżywienia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma lekką konsystencję, świetnie się wchłania, daje efekt rozświetlenia, regeneracji i nawilżenia. Zawiera silne technologie przeciwstarzeniowe i odtruwające skórę.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda chrono2 age krem 60",
+    "brand": "Bielenda",
+    "name": "ChronO2 Age krem 60+",
+    "category": "krem",
+    "ingredients": [
+      "kompleks antyoksydacyjny",
+      "składniki detoksykacyjne i regenerujące"
+    ],
+    "for": [
+      "skóra dojrzała",
+      "skóra z tendencją do wysypek",
+      "skóra zanieczyszczona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Działa tak samo fenomenalnie jak wersja 50+, ma lekko lżejszą konsystencję, silnie odżywia, dotlenia i odmładza skórę.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda chronoaegis",
     "brand": "Bielenda",
     "name": "Chronoaegis",
@@ -23068,6 +23531,27 @@
     ],
     "verdict": "polecany",
     "conflict": true
+  },
+  {
+    "key": "bielenda coconut milk seria",
+    "brand": "Bielenda",
+    "name": "Coconut Milk (seria)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetne technologie i wysoka skuteczność pielęgnacyjna.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:01"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
   },
   {
     "key": "bielenda coconut milk mgieka do twarzy",
@@ -23478,6 +23962,27 @@
     "conflict": false
   },
   {
+    "key": "bielenda eco sorbet seria",
+    "brand": "Bielenda",
+    "name": "Eco Sorbet (seria)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo skuteczna, efektywna seria z dobrymi składnikami aktywnymi.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda eco sorbet malinowa woda micelarna",
     "brand": "Bielenda",
     "name": "Eco Sorbet malinowa woda micelarna",
@@ -23547,6 +24052,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "09:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda ecosorbet malinowy serum do twarzy",
+    "brand": "Bielenda",
+    "name": "Ecosorbet Malinowy Serum do twarzy",
+    "category": "serum",
+    "ingredients": [
+      "ekstrakt z malin",
+      "trehaloza"
+    ],
+    "for": [
+      "skóra naczynkowa",
+      "skóra odwodniona",
+      "skóra poszarzała"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Mocno nawilżające, antyoksydacyjne, wygładzające i rozświetlające serum żelowe. Szybko się wchłania i pięknie pachnie malinami.",
+        "video_id": "SqRrfOVuP28",
+        "video_title": "Effective from the first use! - A combo that works!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:39"
       }
     ],
     "verdict": "polecany",
@@ -23773,6 +24306,27 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-28",
         "timestamp": "06:12"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda fioletowa seria liftingujaca z hebe",
+    "brand": "Bielenda",
+    "name": "Fioletowa seria liftingująca (z Hebe)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Bardzo zły skład nienadający się do pielęgnacji.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:32"
       }
     ],
     "verdict": "odradzany",
@@ -24156,6 +24710,55 @@
     ],
     "verdict": "odradzany",
     "conflict": true
+  },
+  {
+    "key": "bielenda glaze glow caa seria",
+    "brand": "Bielenda",
+    "name": "Glaze Glow (cała seria)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [
+      "rozświetlenie"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Cudowna składowo seria bez mikroplastików (mimo błędnego opisu na stronie drogerii).",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:02"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda glaze glow krem do twarzy nawilzajaco rozswietlajacy",
+    "brand": "Bielenda",
+    "name": "Glaze Glow (krem do twarzy nawilżająco-rozświetlający)",
+    "category": "krem",
+    "ingredients": [
+      "acetylowany kwas hialuronowy",
+      "beta-glukan",
+      "ceramid milk",
+      "ceramidy"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Mimo dobrego składu roluje się i maże pod podkładem, daje krótkotrwałe nawilżenie (około 3 godziny), a następnie powoduje uczucie ściągnięcia oraz zaostrzył podrażnienia przy skrzydełkach nosa.",
+        "video_id": "Ts1Uzm99ExE",
+        "video_title": "Cheap and good! - WHAT IS WORTH BUYING AT ROSSMANN DRUG STORE?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:30"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
   },
   {
     "key": "bielenda glaze glow serum krem pod oczy krem do twarzy mleczny tonik",
@@ -25753,6 +26356,37 @@
     "conflict": false
   },
   {
+    "key": "bielenda krem pod oczy professional hrono age",
+    "brand": "Bielenda",
+    "name": "Krem pod oczy Professional Hrono Age",
+    "category": "krem pod oczy",
+    "ingredients": [
+      "kompleks antyoksydacyjny",
+      "kompleks detoksykacyjny",
+      "kurkuma",
+      "miłorząb japoński",
+      "morwa biała"
+    ],
+    "for": [
+      "oznaki starzenia się skóry wokół oczu",
+      "potrzeba drenażu i ujędrnienia",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zaawansowana technologia kosmetyczna z bogatym składem roślinnym, która silnie ujędrnia, stymuluje produkcję kolagenu, elastyny i kwasu hialuronowego oraz blokuje pogłębianie się zmarszczek.",
+        "video_id": "3zRm1dymkPg",
+        "video_title": "REDUKCJA ZMĘCZENIA POD OCZAMI! - EFEKT JUŻ PO 1 UŻYCIU!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda krem regenerujacy z masazerem sica porcelanowy kwiatek",
     "brand": "Bielenda",
     "name": "Krem regenerujący z masażerem Sica Porcelanowy Kwiatek",
@@ -26114,6 +26748,29 @@
     "conflict": false
   },
   {
+    "key": "bielenda lip oil tinted tinty do ust",
+    "brand": "Bielenda",
+    "name": "Lip Oil Tinted (tinty do ust)",
+    "category": "inne",
+    "ingredients": [],
+    "for": [
+      "usta"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Super składy, produkt warty docenienia.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda luxury body oils olejki do ciaa",
     "brand": "Bielenda",
     "name": "Luxury Body Oils (olejki do ciała)",
@@ -26265,6 +26922,36 @@
     "conflict": false
   },
   {
+    "key": "bielenda make up academie veg flumi",
+    "brand": "Bielenda",
+    "name": "Make-Up Academie Veg Flumi",
+    "category": "podkład",
+    "ingredients": [
+      "sok z truskawki"
+    ],
+    "for": [
+      "dojrzała",
+      "normalna",
+      "odwodniona",
+      "przetłuszczona",
+      "skóra sucha",
+      "zmęczona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje efekt promiennego blasku, nie obciąża skóry, nie zatyka porów, daje efekt make-up no make-up i utrzymuje się przez cały dzień.",
+        "video_id": "uDpYEg6oZ9Y",
+        "video_title": "Foundation for 10 PLN at ROSSMANN, and it creates layers on the face!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:46"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda make up academie veg flumi fluid mineralny rozswietlajacy 02 z sokiem z truskawki",
     "brand": "Bielenda",
     "name": "Make-Up Academie Veg Flumi Fluid mineralny rozświetlający 02 z sokiem z truskawki",
@@ -26402,6 +27089,33 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "06:30"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda make up academie vege flumi fluid mineralny rozswietlajacy z sokiem z truskawki",
+    "brand": "Bielenda",
+    "name": "Make-Up Academie Vege Flumi (fluid mineralny rozświetlający z sokiem z truskawki)",
+    "category": "podkład",
+    "ingredients": [
+      "sok z truskawki"
+    ],
+    "for": [
+      "skóra dojrzała",
+      "skóra sucha",
+      "skóra wymagająca blasku i rozświetlenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład, trwałość przez cały dzień, ładne wykończenie glow kontrolowane pudrem, nie podkreśla zmarszczek oraz ma bardzo przystępną cenę.",
+        "video_id": "Ts1Uzm99ExE",
+        "video_title": "Cheap and good! - WHAT IS WORTH BUYING AT ROSSMANN DRUG STORE?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:47"
       }
     ],
     "verdict": "polecany",
@@ -27064,6 +27778,29 @@
     "conflict": false
   },
   {
+    "key": "bielenda podkad serum spf 50",
+    "brand": "Bielenda",
+    "name": "Podkład serum SPF 50",
+    "category": "SPF",
+    "ingredients": [
+      "plastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera plastik w składzie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:10"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda prof supremelab maso balsam d tw 40g",
     "brand": "Bielenda",
     "name": "Prof. SupremeLab masło-balsam d/tw. 40g",
@@ -27395,6 +28132,72 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda renew your skin maseczka niebieska",
+    "brand": "Bielenda",
+    "name": "Renew Your Skin Maseczka niebieska",
+    "category": "maska",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Niezmiennie świetny skład i działanie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:53"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda renew your skin maseczka rozowa",
+    "brand": "Bielenda",
+    "name": "Renew Your Skin Maseczka różowa",
+    "category": "maska",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Poprawiony skład, usunięto z niej mikroplastik.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:48"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda renew your skin maseczka zielona",
+    "brand": "Bielenda",
+    "name": "Renew Your Skin Maseczka zielona",
+    "category": "maska",
+    "ingredients": [
+      "kancerogeny",
+      "mutageny"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera kancerogeny i mutageny.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:55"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -29207,6 +30010,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-15",
         "timestamp": "03:00"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:25"
       }
     ],
     "verdict": "polecany",
@@ -29352,6 +30164,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "01:36"
+      },
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera rakotwórczy antyutleniacz BHT, a przezroczyste opakowanie uniemożliwia stabilność retinolu.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:40"
       }
     ],
     "verdict": "odradzany",
@@ -29365,7 +30186,10 @@
     "ingredients": [
       "witamina C"
     ],
-    "for": [],
+    "for": [
+      "antyoksydacja",
+      "rozjaśnienie"
+    ],
     "mentions": [
       {
         "verdict": "polecany",
@@ -29375,6 +30199,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-15",
         "timestamp": "02:54"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład rozjaśniający i antyoksydacyjny.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:34"
       }
     ],
     "verdict": "polecany",
@@ -30216,6 +31049,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "05:08"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda tonik z kurkuma nmf",
+    "brand": "Bielenda",
+    "name": "Tonik z kurkumą (NMF)",
+    "category": "tonik",
+    "ingredients": [
+      "NMF",
+      "kurkuma"
+    ],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Obojętny preparat do tonizacji",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:52"
       }
     ],
     "verdict": "polecany",
@@ -31411,6 +32270,31 @@
     "conflict": false
   },
   {
+    "key": "bielenda professional supremelab barrier renew barierowo ratunkowe maseko balsam z kompleksem bioaktywnych ceramidow",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Barierowo-ratunkowe masełko-balsam z kompleksem bioaktywnych ceramidów",
+    "category": "krem",
+    "ingredients": [
+      "bioaktywne ceramidy",
+      "masła",
+      "oleje"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Tłuste, ciężkie i natłuszczające, ale nie daje rano wyraźnego efektu 'wow' i wypada słabiej w regeneracji niż krem na noc.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:48"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "bielenda professional supremelab barrier renew barierowy eliksir hydro odzywczy z kompleksem nmf",
     "brand": "Bielenda Professional Supremelab",
     "name": "Barrier Renew Barierowy eliksir hydro-odżywczy z kompleksem NMF",
@@ -31509,6 +32393,50 @@
     "conflict": false
   },
   {
+    "key": "bielenda professional supremelab barrier renew eliksir odzywczo nawilzajacy z kompleksem nmf",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Eliksir odżywczo-nawilżający z kompleksem NMF",
+    "category": "serum",
+    "ingredients": [
+      "kompleks NMF"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Jeden z nielicznych produktów z serii drogeryjnej o naprawdę dobrym składzie i działaniu.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:33"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda professional supremelab barrier renew emulsja do mycia",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Emulsja do mycia",
+    "category": "żel do mycia",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkt ma bezpieczny i dobry skład.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:31"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda professional supremelab barrier renew esencja ceramidowa",
     "brand": "Bielenda Professional Supremelab",
     "name": "Barrier Renew Esencja ceramidowa",
@@ -31526,6 +32454,93 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-16",
         "timestamp": "01:33"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda professional supremelab barrier renew esencja lipidowa",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Esencja lipidowa",
+    "category": "tonik",
+    "ingredients": [
+      "kancerogenne chelatatory"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera szkodliwe, kancerogenne chelatatory.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:23"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda professional supremelab barrier renew intensywnie odzywczy krem na noc z ceramidami",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Intensywnie odżywczy krem na noc z ceramidami",
+    "category": "krem",
+    "ingredients": [
+      "NMF",
+      "antyoksydanty",
+      "ceramidy",
+      "disodium EDTA",
+      "lanolina",
+      "oleje"
+    ],
+    "for": [
+      "skóra atopowa",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra tłusta podczas kuracji retinoidami lub mocnymi kwasami",
+      "zaburzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Genialny bogaty krem regenerujący barierę hydrolipidową; mimo nazwy 'na noc' świetnie sprawdza się też w małej ilości na dzień",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:02"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład bogaty w lipidy, lanolinę i antyoksydanty; skutecznie regeneruje barierę hydrolipidową, zapobiega TEWL, dobrze się wchłania i świetnie sprawdza się także na dzień oraz pod makijaż.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda professional supremelab barrier renew krem na dzien serum do twarzy krem z filtrem krem pod oczy",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Krem na dzień / Serum do twarzy / Krem z filtrem / Krem pod oczy",
+    "category": "krem",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor określa te produkty jako bezwartościowe i mające zły skład w porównaniu do kremu na noc.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:03"
       }
     ],
     "verdict": "odradzany",
@@ -31596,6 +32611,27 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "bielenda professional supremelab barrier renew tonik do twarzy",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Barrier Renew Tonik do twarzy",
+    "category": "tonik",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma dobry skład w przeciwieństwie do większości pozostałych kosmetyków z tej linii w drogeriach.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:38"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -32777,6 +33813,151 @@
     "conflict": false
   },
   {
+    "key": "bielenda skin clinic professional maseczka z kolagenem",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z kolagenem",
+    "category": "maska",
+    "ingredients": [
+      "kolagen",
+      "plastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera plastik.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:26"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional maseczka z kwasem hialuronowym i ceramidami",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z kwasem hialuronowym i ceramidami",
+    "category": "maska",
+    "ingredients": [
+      "ceramidy",
+      "kwas hialuronowy"
+    ],
+    "for": [
+      "nawilżenie",
+      "regeneracja"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Jedyna maska z tej linii, która ma dobry, bezpieczny skład.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:36"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional maseczka z niacynamidem",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z niacynamidem",
+    "category": "maska",
+    "ingredients": [
+      "niacynamid"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Słaba formuła z dodatkiem plastiku.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:34"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional maseczka z peptydami sygnaowymi",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z peptydami sygnałowymi",
+    "category": "maska",
+    "ingredients": [
+      "peptydy sygnałowe",
+      "plastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera plastik w składzie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:23"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional maseczka z retinolem",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z retinolem",
+    "category": "maska",
+    "ingredients": [
+      "retinol"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zły skład, obecność niepożądanych składników syntetycznych.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:32"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional maseczka z witamina c",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Maseczka z witaminą C",
+    "category": "maska",
+    "ingredients": [
+      "plastik",
+      "witamina C"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Obecność plastiku w formule.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:29"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda skin clinic professional peptydy sygnaowe serum",
     "brand": "Bielenda Skin Clinic Professional",
     "name": "Peptydy Sygnałowe Serum",
@@ -32909,6 +34090,79 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-22",
         "timestamp": "02:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional serum z kwasem hialuronowym i peptydami miedzi",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Serum z kwasem hialuronowym i peptydami miedzi",
+    "category": "serum",
+    "ingredients": [
+      "kwas hialuronowy",
+      "peptydy miedzi"
+    ],
+    "for": [
+      "nawilżenie"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład wspierający nawilżenie i regenerację.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:22"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional serum z niacynamidem i kwasem laktobionowym",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Serum z niacynamidem i kwasem laktobionowym",
+    "category": "serum",
+    "ingredients": [
+      "kwas laktobionowy",
+      "niacynamid"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetne połączenie składników aktywnych o dobrym składzie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:30"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic professional serum z peptydami sygnaowymi",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Serum z peptydami sygnałowymi",
+    "category": "serum",
+    "ingredients": [
+      "peptydy sygnałowe"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobry skład i działanie przeciwstarzeniowe.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:27"
       }
     ],
     "verdict": "polecany",
@@ -33421,6 +34675,29 @@
     "conflict": false
   },
   {
+    "key": "bielenda supremelab emulsja z bioaktywnymi ceramidami do mycia twarzy",
+    "brand": "Bielenda SupremeLab",
+    "name": "Emulsja z bioaktywnymi ceramidami do mycia twarzy",
+    "category": "żel do mycia",
+    "ingredients": [
+      "bioaktywne ceramidy"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry, bezpieczny skład do oczyszczania twarzy.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:46"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda supremelab emulsyjne serum shot odzywczo witalizujace 15 dualnej witaminy c energy boost",
     "brand": "Bielenda SupremeLab",
     "name": "Emulsyjne serum shot odżywczo-witalizujące 15% dualnej witaminy C (Energy Boost)",
@@ -33456,6 +34733,31 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda supremelab esencja tonik z bioaktywnymi ceramidami",
+    "brand": "Bielenda SupremeLab",
+    "name": "Esencja tonik z bioaktywnymi ceramidami",
+    "category": "tonik",
+    "ingredients": [
+      "Tetrasodium EDTA",
+      "Trisodium EDTA",
+      "bioaktywne ceramidy"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera rakotwórcze chelatory (Tetrasodium EDTA, Trisodium EDTA).",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:34"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -33519,6 +34821,82 @@
     "conflict": false
   },
   {
+    "key": "bielenda supremelab nmf eliksir",
+    "brand": "Bielenda SupremeLab",
+    "name": "NMF Eliksir",
+    "category": "serum",
+    "ingredients": [
+      "NMF"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej",
+      "skóra odwodniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Posiada dobry skład bez mikroplastików.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:17"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda supremelab nmf krem na noc z ceramidami",
+    "brand": "Bielenda SupremeLab",
+    "name": "NMF Krem na noc z ceramidami",
+    "category": "krem",
+    "ingredients": [
+      "ceramidy"
+    ],
+    "for": [
+      "regeneracja skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry skład wspierający barierę naskórkową.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:21"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda supremelab nmf tonik z kurkuma",
+    "brand": "Bielenda SupremeLab",
+    "name": "NMF Tonik z kurkumą",
+    "category": "tonik",
+    "ingredients": [
+      "kurkuma"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry skład wspomagający regenerację skóry.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:19"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda supremelab royal barrier honey jelly peptide serum",
     "brand": "Bielenda SupremeLab",
     "name": "Royal Barrier Honey Jelly Peptide Serum",
@@ -33560,6 +34938,29 @@
     "conflict": false
   },
   {
+    "key": "bielenda supremelab seria nmf pozostae produkty z rossmanna",
+    "brand": "Bielenda SupremeLab",
+    "name": "Seria NMF (pozostałe produkty z Rossmanna)",
+    "category": "inne",
+    "ingredients": [
+      "mikroplastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawierają mikroplastiki w składzie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:22"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda supremelab serum z azeloglicyna",
     "brand": "Bielenda SupremeLab",
     "name": "Serum z azeloglicyną",
@@ -33583,6 +34984,55 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-05-30",
         "timestamp": "02:43"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda supremelab zote maseko natuszczajace regenerujace",
+    "brand": "Bielenda SupremeLab",
+    "name": "Żółte masełko natłuszczające regenerujące",
+    "category": "krem",
+    "ingredients": [],
+    "for": [
+      "odbudowa bariery hydrolipidowej",
+      "regeneracja"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobry skład wspomagający regenerację.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:42"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda wega fluid podkad",
+    "brand": "Bielenda WEGA",
+    "name": "fluid podkład",
+    "category": "podkład",
+    "ingredients": [
+      "peptydy miedziowe"
+    ],
+    "for": [
+      "skóra potrzebująca nawilżenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "daje mega nawilżenie, odświeżenie i trzyma się na twarzy przez calutki dzień",
+        "video_id": "ZmHJOojbvyo",
+        "video_title": "THE ROSSMANN PALLET that everyone is looking for!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:39"
       }
     ],
     "verdict": "polecany",
@@ -39394,7 +40844,8 @@
       "każdy typ skóry (poza ciążą i karmieniem)",
       "skóra mieszana",
       "skóra normalna",
-      "skóra tłusta"
+      "skóra tłusta",
+      "wszystkie typy skóry"
     ],
     "mentions": [
       {
@@ -39459,6 +40910,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-31",
         "timestamp": "06:58"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Ma średnie krycie, możliwość budowania, naturalne wykończenie, nie zatyka porów i zawiera kwas hialuronowy oraz aloes.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:06"
       }
     ],
     "verdict": "polecany",
@@ -39751,12 +41211,35 @@
     "conflict": false
   },
   {
+    "key": "catrice shake fix glow",
+    "brand": "Catrice",
+    "name": "Shake Fix Glow",
+    "category": "fixer",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny fixer, wchłania się i zdejmuje nadmierną pudrowość twarzy.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "12:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "catrice shake fix glow spray",
     "brand": "Catrice",
     "name": "Shake Fix Glow Spray",
     "category": "fixer",
     "ingredients": [],
-    "for": [],
+    "for": [
+      "skóra twarzy"
+    ],
     "mentions": [
       {
         "verdict": "polecany",
@@ -39766,6 +41249,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-31",
         "timestamp": "14:15"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "świetny fixer, bardzo mocno utrwala makijaż, nie ma alkoholu, plastiku ani rakotwórczych składników",
+        "video_id": "ZmHJOojbvyo",
+        "video_title": "THE ROSSMANN PALLET that everyone is looking for!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:01"
       }
     ],
     "verdict": "polecany",
@@ -40045,6 +41537,34 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "05:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "catrice the vitamin c fresh glow primer",
+    "brand": "Catrice",
+    "name": "The Vitamin C Fresh Glow Primer",
+    "category": "baza",
+    "ingredients": [
+      "witamina C"
+    ],
+    "for": [
+      "dojrzała",
+      "odwodniona",
+      "potrzebująca blasku",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma przyjemną kremową konsystencję, nawilża, daje efekt rozświetlenia, przedłuża trwałość makijażu o godzinę i zawiera witaminę C.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:04"
       }
     ],
     "verdict": "polecany",
@@ -40354,6 +41874,29 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "catrice zestaw z witamina c",
+    "brand": "Catrice",
+    "name": "zestaw z witaminą C",
+    "category": "baza",
+    "ingredients": [
+      "witamina C"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Rozświetlająca baza z witaminą C nałożona jako baza pod makijaż.",
+        "video_id": "uDpYEg6oZ9Y",
+        "video_title": "Foundation for 10 PLN at ROSSMANN, and it creates layers on the face!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:22"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -42071,6 +43614,29 @@
     "conflict": false
   },
   {
+    "key": "claresa key tulec illuminating powder",
+    "brand": "Claresa",
+    "name": "Key Tulec Illuminating Powder",
+    "category": "puder",
+    "ingredients": [],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rozświetlający puder o satynowym składzie, dający delikatną drobinkę i efekt zdrowej skóry.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "13:28"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "claresa la la love 3in1",
     "brand": "Claresa",
     "name": "La La Love 3in1",
@@ -43715,6 +45281,27 @@
     "conflict": false
   },
   {
+    "key": "color caramel krem bb",
+    "brand": "Color Caramel",
+    "name": "Krem BB",
+    "category": "krem",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje fajne nawilżenie, nie wchodzi w zmarszczki przez cały dzień, super trzyma się na buzi i ładnie się wtapia.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:03"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "colorgram pin point eyeshadow palette",
     "brand": "Colorgram",
     "name": "Pin Point Eyeshadow Palette",
@@ -45085,6 +46672,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "demak up seria kawowa edycja limitowana kawowa",
+    "brand": "Demak'Up",
+    "name": "seria kawowa, edycja limitowana kawowa",
+    "category": "gąbka",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Autor używa gąbki do aplikacji podkładu i pudru.",
+        "video_id": "uDpYEg6oZ9Y",
+        "video_title": "Foundation for 10 PLN at ROSSMANN, and it creates layers on the face!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:29"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -48710,6 +50318,61 @@
     "conflict": false
   },
   {
+    "key": "emotopic preparat s o s medical",
+    "brand": "Emotopic",
+    "name": "Preparat S.O.S. Medical",
+    "category": "krem",
+    "ingredients": [
+      "ceramidy",
+      "humektanty",
+      "olej canola",
+      "olej konopny"
+    ],
+    "for": [
+      "atopowe zapalenie skóry",
+      "podrażnienia",
+      "sucha skóra"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Działa kojąco przy atopowym zapaleniu skóry, zawiera ceramidy i olej konopny, ma lekką i przyjemną konsystencję.",
+        "video_id": "POdYcsL0CiI",
+        "video_title": "EFFECTIVE FACE CREAMS THAT REALLY WORK!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "13:38"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "emotopic dr irena eris preparat s o s do twarzy i ciaa",
+    "brand": "Emotopic (Dr Irena Eris)",
+    "name": "Preparat S.O.S. do twarzy i ciała",
+    "category": "krem",
+    "ingredients": [],
+    "for": [
+      "skóra podrażniona",
+      "skóra sucha",
+      "skóra wymagająca intensywnej regeneracji"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Doskonale łączy się z koncentratem Tołpa Rosacal AR, zapewniając rewelacyjne efekty nawilżenia, regeneracji i ukojenia skóry.",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:59"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "enilome doz skin protect dermo masc",
     "brand": "Enilome (DOZ)",
     "name": "Skin Protect Dermo Maść",
@@ -50462,6 +52125,15 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "01:10"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Daje fajny efekt na ustach, trzyma się dobrze, robi delikatną różową czerwień i wręcz wżera się w usta.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:27"
       }
     ],
     "verdict": "polecany",
@@ -52411,6 +54083,44 @@
     "conflict": false
   },
   {
+    "key": "eveline cosmetics cloud touch",
+    "brand": "Eveline Cosmetics",
+    "name": "Cloud Touch",
+    "category": "puder",
+    "ingredients": [
+      "Dimethicone",
+      "etyloheksylogliceryna",
+      "fenoksyetanol",
+      "krzemionka",
+      "mika",
+      "octan tokoferylu (witamina E)",
+      "olej jojoba",
+      "triglicerydy"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra mieszana",
+      "skóra odwodniona",
+      "skóra problematyczna",
+      "skóra sucha",
+      "skóra trądzikowa",
+      "skóra tłusta"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje naturalne, w 90% satynowe wykończenie bez płaskiego matu i bez efektu bielenia skóry. Posiada dopracowaną technologicznie formułę ze składnikami ochronnymi, nie wysusza skóry i utrzymuje się przez 7-8 godzin.",
+        "video_id": "DNK8mqoIbyM",
+        "video_title": "ROSSMANN - RUN AND GET THIS GREAT FACE POWDER FOR 30 ZŁOTY❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-01",
+        "timestamp": "00:56"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "eveline cosmetics cloud touch blurr me",
     "brand": "Eveline Cosmetics",
     "name": "Cloud Touch / Blurr Me",
@@ -53156,6 +54866,27 @@
     "conflict": false
   },
   {
+    "key": "faceboom boom bombastik",
+    "brand": "FaceBoom",
+    "name": "Boom BombaSTIK",
+    "category": "inne",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zupełnie nieudana formuła nadająca się do kosza.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:22"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "faceboom boombastic krio maska w pacie",
     "brand": "FaceBoom",
     "name": "Boombastic Krio Maska w płacie",
@@ -53215,6 +54946,29 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-25",
         "timestamp": "02:07"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "faceboom flow krem z filtrem spf",
+    "brand": "FaceBoom",
+    "name": "Flow Krem z filtrem SPF",
+    "category": "SPF",
+    "ingredients": [],
+    "for": [
+      "ochrona przeciwsłoneczna"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjna ochrona, wysokie PPD, świetny żelkowy zapach i skuteczność.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:44"
       }
     ],
     "verdict": "polecany",
@@ -53477,6 +55231,126 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "faceboom skin dopamine hydrozelowy krem wodny",
+    "brand": "FaceBoom",
+    "name": "Skin Dopamine Hydrożelowy krem wodny",
+    "category": "krem",
+    "ingredients": [
+      "mikroplastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera mikroplastik w składzie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:21"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "faceboom skin dopamine krem z filtrem spf",
+    "brand": "FaceBoom",
+    "name": "Skin Dopamine Krem z filtrem SPF",
+    "category": "SPF",
+    "ingredients": [],
+    "for": [
+      "ochrona przeciwsłoneczna"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo wysoka ochrona przeciwsłoneczna, wysokie PPD i świetne wykończenie.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:44"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "faceboom skin dopamine serum z ceramidami",
+    "brand": "FaceBoom",
+    "name": "Skin Dopamine Serum z ceramidami",
+    "category": "serum",
+    "ingredients": [
+      "ceramidy"
+    ],
+    "for": [
+      "bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry skład regenerujący.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "faceboom skin dopamine serum z witamina c",
+    "brand": "FaceBoom",
+    "name": "Skin Dopamine Serum z witaminą C",
+    "category": "serum",
+    "ingredients": [
+      "witamina C"
+    ],
+    "for": [
+      "antyoksydacja",
+      "rozjaśnienie"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobra, bezpieczna formuła antyoksydacyjna.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:17"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "faceboom skin dopamine serum zuszczajace",
+    "brand": "FaceBoom",
+    "name": "Skin Dopamine Serum złuszczające",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "złuszczanie"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Właściwie skomponowana formuła kwasowa.",
+        "video_id": "Yo6XxKHErgE",
+        "video_title": "No bullshit! The whole truth about Bielenda cosmetics - Through Kacpi's eyes!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:19"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -60276,6 +62150,27 @@
     "conflict": false
   },
   {
+    "key": "hebbe puder rozswietlajacy",
+    "brand": "Hebbe",
+    "name": "Puder rozświetlający",
+    "category": "puder",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje bardzo mocne rozświetlenie, ale można je kontrolować, ma śladową ilość i świetnie rozświetla buzię.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:58"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "hebe anti aging repair cream",
     "brand": "Hebe",
     "name": "Anti-Aging Repair Cream",
@@ -62212,6 +64107,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "10:06"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "hollister aura london",
+    "brand": "Hollister",
+    "name": "Aura London",
+    "category": "perfumy",
+    "ingredients": [
+      "czerwone owoce",
+      "wiśnia"
+    ],
+    "for": [
+      "fani wiśniowych zapachów"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Słodki, bardzo wiśniowy zapach z dodatkiem czerwonych owoców, trwały.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:20"
       }
     ],
     "verdict": "polecany",
@@ -64828,6 +66749,42 @@
     "conflict": false
   },
   {
+    "key": "isana double vitamin c maska w pacie",
+    "brand": "Isana",
+    "name": "Double Vitamin C Maska w płacie",
+    "category": "maska",
+    "ingredients": [
+      "L-Ascorbic Acid",
+      "Sodium Ascorbyl Phosphate (SAP)",
+      "ekstrakt z portulaki",
+      "gliceryna",
+      "hialuronian sodu",
+      "kofeina",
+      "niacynamid",
+      "pantenol"
+    ],
+    "for": [
+      "oznaki zmęczenia",
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra poszarzała",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo tania, genialny skład: stabilna witamina C SAP, kofeina, niacynamid, portulaka; daje natychmiastowe rozświetlenie, rewitalizację i nawilżenie",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "isana duschgel",
     "brand": "Isana",
     "name": "Duschgel",
@@ -65070,6 +67027,40 @@
     "conflict": false
   },
   {
+    "key": "isana express lift ampuki",
+    "brand": "Isana",
+    "name": "Express Lift (ampułki)",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "skóra dojrzała",
+      "skóra potrzebująca liftingu",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Można bezpiecznie łączyć w jednej pielęgnacji z koncentratem Tołpy przed nałożeniem kremu.",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "12:00"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Dobre serum w ampułce o działaniu napinającym i liftingującym, idealne pod płatki.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:41"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "isana express lift peptide power beauty konzentrat ampuki",
     "brand": "Isana",
     "name": "Express Lift / Peptide Power Beauty-Konzentrat (ampułki)",
@@ -65169,6 +67160,43 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-21",
         "timestamp": "05:03"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana express lift konzentrat",
+    "brand": "Isana",
+    "name": "Express Lift Konzentrat",
+    "category": "serum",
+    "ingredients": [
+      "butylene glycol",
+      "fruktoza",
+      "gliceryna",
+      "glicyna",
+      "glukonian wapnia",
+      "inozytol",
+      "mocznik",
+      "niacynamid",
+      "oligofruktozany z cykorii",
+      "prowitamina B5 (pantenol)"
+    ],
+    "for": [
+      "skóra sucha i odwodniona",
+      "skóra w trakcie intensywnych kuracji retinoidami lub kwasami",
+      "skóra z utratą jędrności i elastyczności",
+      "skóra ze zmarszczkami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, innowacyjny skład z oligofruktozanami z cykorii, realne i długoterminowe działanie liftingujące, ujędrniające oraz nawilżające w bardzo niskiej cenie promocyjnej.",
+        "video_id": "ksnh-eK6zsw",
+        "video_title": "FACE LIFTING FOR 14 PLN❗️😱 - You can buy this cosmetic at ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:07"
       }
     ],
     "verdict": "polecany",
@@ -67623,6 +69651,43 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-14",
         "timestamp": "01:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana konzentrat express lift ampuki",
+    "brand": "Isana",
+    "name": "Konzentrat Express Lift (Ampułki)",
+    "category": "serum",
+    "ingredients": [
+      "białka",
+      "fruktoza",
+      "gliceryna",
+      "glicyna",
+      "inozytol",
+      "kwas mlekowy",
+      "mocznik",
+      "niacynamid",
+      "oligofruktozany z cykorii",
+      "pantenol",
+      "wapń"
+    ],
+    "for": [
+      "skóra dojrzała",
+      "skóra zmęczona",
+      "utrata jędrności"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład bez peptydów (nie gryzie się z witaminą C), zawiera oligofruktozany z cykorii dające efekt liftingu i siatki napinającej",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:20"
       }
     ],
     "verdict": "polecany",
@@ -72170,6 +74235,7 @@
       "witamina E"
     ],
     "for": [
+      "skóra dojrzała",
       "skóra trądzikowa",
       "skóra wymagająca regeneracji",
       "skóra wymagająca uelastycznienia i natłuszczenia",
@@ -72212,6 +74278,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-17",
         "timestamp": "05:01"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Świetne uzupełnienie w ampułkach, które w połączeniu podbija działanie odmładzające i regenerujące.",
+        "video_id": "ksnh-eK6zsw",
+        "video_title": "FACE LIFTING FOR 14 PLN❗️😱 - You can buy this cosmetic at ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "12:36"
       }
     ],
     "verdict": "polecany",
@@ -72254,6 +74329,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-12-10",
         "timestamp": "06:46"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana power peptide ampuki",
+    "brand": "Isana",
+    "name": "Power Peptide ampułki",
+    "category": "serum",
+    "ingredients": [
+      "peptydy"
+    ],
+    "for": [
+      "skóra wiotka",
+      "zmarszczki pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetna ampułka peptydowa pod oczy tworząca mokrą bazę pod płatki okluzyjne.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:35"
       }
     ],
     "verdict": "polecany",
@@ -77025,6 +79126,31 @@
     "conflict": false
   },
   {
+    "key": "kacper beauty expert kacper skin hialuron bomb mist",
+    "brand": "Kacper Beauty Expert (Kacper Skin)",
+    "name": "Hialuron Bomb Mist",
+    "category": "tonik",
+    "ingredients": [
+      "kwas hialuronowy"
+    ],
+    "for": [
+      "skóra odwodniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry nawilżający tonik/mgiełka bez składników kolidujących z rutyną",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:36"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kacper ski n mayo ro kacper ski n mayo ro advent kalendarz",
     "brand": "Kacper Ski n & Mayo ro",
     "name": "Kacper Ski n & Mayo ro Advent Kalendarz",
@@ -78355,6 +80481,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "09:29"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Mgiełka hialuronowa scalająca makijaż, daje komfort i efekt rozświetlonej skóry.",
+        "video_id": "uDpYEg6oZ9Y",
+        "video_title": "Foundation for 10 PLN at ROSSMANN, and it creates layers on the face!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "12:30"
       }
     ],
     "verdict": "polecany",
@@ -78862,10 +80997,12 @@
     "ingredients": [
       "ceramidy",
       "fenoksyetanol",
+      "grupa ceramidowa",
       "kompleks ceramidowy",
       "kwas hialuronowy",
       "olej z owoców cytrusowych",
-      "pantenol"
+      "pantenol",
+      "sfingolipidy"
     ],
     "for": [
       "bariera hydrolipidowa",
@@ -78876,7 +81013,9 @@
       "odbudowa bariery",
       "skóra odwodniona",
       "skóra podrażniona",
+      "skóra potrzebująca odbudowy bariery hydrolipidowej",
       "skóra potrzebująca regeneracji barierowej",
+      "skóra starzejąca się",
       "skóra wrażliwa",
       "skóra z uszkodzoną barierą hydrolipidową"
     ],
@@ -78925,6 +81064,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "08:41"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Autorskie serum żelowe z ceramidami. Cera nie jest zapychana, a produkt szybko się wchłania i nie zostawia tłustej warstwy.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:11"
       }
     ],
     "verdict": "polecany",
@@ -81927,6 +84075,32 @@
     "conflict": false
   },
   {
+    "key": "klaresta puder",
+    "brand": "Klaresta",
+    "name": "puder",
+    "category": "puder",
+    "ingredients": [
+      "puder",
+      "rozświetlacz"
+    ],
+    "for": [
+      "skóra do rozświetlenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "świetny rozświetlacz, ma dobry skład",
+        "video_id": "XcYj5y_ugLE",
+        "video_title": "NAJLEPSZY KREM BB W ROSSMANN? Test taniego kremu BB!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:44"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kolejny next level nmn booster",
     "brand": "kolejny",
     "name": "Next Level NMN Booster",
@@ -82124,6 +84298,32 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "00:36"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "kyltr puder",
+    "brand": "Kyltr",
+    "name": "puder",
+    "category": "puder",
+    "ingredients": [
+      "puder",
+      "rozświetlacz sypki"
+    ],
+    "for": [
+      "skóra wymagająca rozświetlenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "to rozświetlacz, daje piękne rozświetlenie, nie daje oddzielającego się białego paska, świetny skład",
+        "video_id": "XcYj5y_ugLE",
+        "video_title": "NAJLEPSZY KREM BB W ROSSMANN? Test taniego kremu BB!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:58"
       }
     ],
     "verdict": "polecany",
@@ -86788,11 +88988,19 @@
     "name": "10 Peptydów Serum do twarzy",
     "category": "serum",
     "ingredients": [
-      "10 peptydów"
+      "10 peptydów",
+      "peptydy",
+      "pochodna tripeptydu miedziowego"
     ],
     "for": [
       "anti-aging",
       "efekt fillera",
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra naczynkowa",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra wrażliwa",
       "wygładzenie"
     ],
     "mentions": [
@@ -86804,6 +89012,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-31",
         "timestamp": "15:57"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Ma emulsyjną konsystencję, zawiera 9 czystych peptydów + 1 pochodną peptydów miedziowych oraz substancje wpływające na odbudowę bariery hydrolipidowej.",
+        "video_id": "YicCiFwDCNs",
+        "video_title": "EFFECTS AFTER JUST 1 USE ❗️ Effective and affordable care for everyone ❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:32"
       }
     ],
     "verdict": "polecany",
@@ -87326,6 +89543,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-04-03",
         "timestamp": "05:52"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "lirene 10 peptydow",
+    "brand": "Lirene",
+    "name": "10 Peptydów",
+    "category": "serum",
+    "ingredients": [
+      "peptydy"
+    ],
+    "for": [
+      "utrata elastyczności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobre serum peptydowe do nałożenia pod płatki w celu wzmocnienia efektu ujędrniającego.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:42"
       }
     ],
     "verdict": "polecany",
@@ -88867,6 +91110,31 @@
     "conflict": false
   },
   {
+    "key": "lirene folacyna anti aging krem",
+    "brand": "Lirene",
+    "name": "Folacyna Anti-Aging Krem",
+    "category": "krem",
+    "ingredients": [
+      "folacyna"
+    ],
+    "for": [
+      "skóra dojrzała"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobra opcja do domknięcia combo pielęgnacyjnego",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:32"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "lirene glowing rose",
     "brand": "Lirene",
     "name": "Glowing Rose",
@@ -89505,6 +91773,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "lirene matt peach",
+    "brand": "Lirene",
+    "name": "Matt Peach",
+    "category": "SPF",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Ładnie się wchłania, ma SPF 15, fajnie wygląda na skórze, ale bardziej matuje czarna ninja niż ta baza.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:05"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -91955,6 +94244,27 @@
     "conflict": false
   },
   {
+    "key": "magda piechonka a wings of color",
+    "brand": "Magda Piechonka",
+    "name": "A-Wings of Color",
+    "category": "bronzer",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajny produkt, autor nie boi się go używać i stosuje swoją metodę konturowania delikatnego twarzy.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:04"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "majru blue moon",
     "brand": "Majru",
     "name": "Blue Moon",
@@ -92026,6 +94336,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-04-03",
         "timestamp": "02:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "majru maso konopne cbd 30",
+    "brand": "Majru",
+    "name": "Masło Konopne CBD 30%",
+    "category": "krem",
+    "ingredients": [
+      "kannabidiol (CBD)",
+      "olejek konopny"
+    ],
+    "for": [
+      "atopowe zapalenie skóry",
+      "skóra podrażniona przez zimno",
+      "suche plamy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Mocne działanie przeciwzapalne i silnie regenerujące, świetne na atopie, podrażnienia i suchość spowodowaną zimnem.",
+        "video_id": "POdYcsL0CiI",
+        "video_title": "EFFECTIVE FACE CREAMS THAT REALLY WORK!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:28"
       }
     ],
     "verdict": "polecany",
@@ -92657,6 +94995,60 @@
     "conflict": false
   },
   {
+    "key": "manuka health manuka rescue balm",
+    "brand": "Manuka Health",
+    "name": "Manuka Rescue Balm",
+    "category": "krem",
+    "ingredients": [
+      "miód manuka"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej",
+      "regeneracja skóry",
+      "sucha skóra"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zawiera 30% miodu manuka, silnie regeneruje, odbudowuje barierę hydrolipidową, nawilża i łagodzi podrażnienia.",
+        "video_id": "POdYcsL0CiI",
+        "video_title": "EFFECTIVE FACE CREAMS THAT REALLY WORK!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:58"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "marcoline zawadzki galacticum",
+    "brand": "Marcoline Zawadzki",
+    "name": "Galacticum",
+    "category": "perfumy",
+    "ingredients": [
+      "nuty korzenne",
+      "nuty słodko-owocowe"
+    ],
+    "for": [
+      "fani słodkich zapachów",
+      "obie płcie"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zapach uniseks o wysokiej koncentracji olejków, połączenie nut słodko-owocowych z korzennymi, bardzo trwały.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:49"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "marion color esperto odzywka ochadzajaca kolor do wosow brazowych",
     "brand": "Marion",
     "name": "Color Esperto Odżywka ochładzająca kolor do włosów brązowych",
@@ -92729,6 +95121,45 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-11-11",
         "timestamp": "07:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "marion regenerujaca maseczka do twarzy",
+    "brand": "Marion",
+    "name": "Regenerująca maseczka do twarzy",
+    "category": "maska",
+    "ingredients": [
+      "alkohol z grupy tłuszczowych",
+      "ekstrakt z lnu",
+      "ekstrakt z marchewki",
+      "ekstrakt z moreli",
+      "emulgator",
+      "fenoksyetanol",
+      "gliceryna",
+      "hialuronian sodu",
+      "masło shea",
+      "nośnik przenikania",
+      "regulator pH",
+      "triglicerydy",
+      "tripelargonin",
+      "witamina E",
+      "woda"
+    ],
+    "for": [
+      "twarz"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkowana przez Marion, świetny skład oparty na ekstraktach z marchewek i moreli.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:08"
       }
     ],
     "verdict": "polecany",
@@ -97907,14 +100338,27 @@
     "category": "serum",
     "ingredients": [
       "ekstrakt z irysa",
+      "ekstrakt z reishi",
       "ektoina",
       "glikoaminoglikany",
+      "guk w skrócie",
       "kwas hialuronowy",
       "kwas poliglutaminowy",
+      "olej abisyński",
+      "phenoxyethanol",
       "skwalan"
     ],
     "for": [
-      "skóra odwodniona"
+      "dojrzała",
+      "odwodniona",
+      "pozbawiona sprężystości",
+      "problematyczna",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra tłusta",
+      "utrata wody z naskórka",
+      "zmarszczki",
+      "łojotokowa"
     ],
     "mentions": [
       {
@@ -97925,6 +100369,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-02-06",
         "timestamp": "00:00"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Bogaty skład, działa długoterminowo, nawilża, wygładza, daje efekt plumpingu i nie powoduje problemów na skórze.",
+        "video_id": "FM31nBs1Yiw",
+        "video_title": "Effective face serum - It works!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:37"
       }
     ],
     "verdict": "polecany",
@@ -101659,6 +104112,36 @@
     "conflict": false
   },
   {
+    "key": "miya plumping serum",
+    "brand": "Miya",
+    "name": "Plumping Serum",
+    "category": "serum",
+    "ingredients": [
+      "ekstrakt z błękitnego irysa",
+      "ekstrakt z grzybów reishi",
+      "ektoina",
+      "kompleks PGA",
+      "olej abisyński"
+    ],
+    "for": [
+      "skóra odwodniona",
+      "skóra wymagająca ujędrnienia i nawilżenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje efekt plumpingu, czyli wypełnienia skóry, silnego odżywienia, wygładzenia i nawilżenia.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:34"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "miya produkty do demakijazu i oczyszczania",
     "brand": "Miya",
     "name": "Produkty do demakijażu i oczyszczania",
@@ -102015,6 +104498,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-27",
         "timestamp": "03:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "miya serum z bakuchiolem",
+    "brand": "Miya",
+    "name": "Serum z bakuchiolem",
+    "category": "serum",
+    "ingredients": [
+      "bakuchiol"
+    ],
+    "for": [
+      "utrata jędrności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjny produkt pod płatki pod oczy, dający silny efekt ujędrnienia, przebudowy i odmłodzenia.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:55"
       }
     ],
     "verdict": "polecany",
@@ -102907,6 +105416,42 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "06:57"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "miya cosmetics beauty lab serum liftingujace z retinolem roslinnym 2 5",
+    "brand": "Miya Cosmetics",
+    "name": "BEAUTY.lab Serum liftingujące z retinolem roślinnym 2,5%",
+    "category": "serum",
+    "ingredients": [
+      "bakuchiol",
+      "ekstrakt z bławatka",
+      "ekstrakt ze stewii",
+      "hydrolat z kwiatów pomarańczy",
+      "inulina",
+      "kompleks ceramidów 2%",
+      "olejek z kamelii japońskiej",
+      "oliwa z oliwek"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "okolice oczu",
+      "skóra dojrzała",
+      "skóra naczynkowa",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wzorowy skład, formuła wchłania się w 5 sekund bez tłustej i lepkiej warstwy, silnie nawilża, ujędrnia, napina oraz natychmiast wyrównuje koloryt cery. Produkt jest w pełni bezpieczny dla kobiet w ciąży i karmiących.",
+        "video_id": "bUe0rvyWf5A",
+        "video_title": "EFEKT JUŻ PO 1 UŻYCIU - SKUTECZNA PIELĘGNACJA DLA KAŻDEGO!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:39"
       }
     ],
     "verdict": "polecany",
@@ -104557,6 +107102,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "08:26"
+      },
+      {
+        "verdict": "neutralny",
+        "reason": "Produkt został jedynie zaprezentowany jako bogatsza wersja kremu Stelatopia, będąca w trakcie wnikliwych testów przez autora.",
+        "video_id": "Ts1Uzm99ExE",
+        "video_title": "Cheap and good! - WHAT IS WORTH BUYING AT ROSSMANN DRUG STORE?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:50"
       }
     ],
     "verdict": "polecany",
@@ -104582,6 +107136,44 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-21",
         "timestamp": "05:26"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "mustela stelatopia",
+    "brand": "Mustela",
+    "name": "Stelatopia+",
+    "category": "krem",
+    "ingredients": [
+      "destylat oleju słonecznikowego",
+      "gliceryna",
+      "kwas cytrynowy",
+      "masło shea",
+      "olej avocado",
+      "prebiotyk BioEcolia",
+      "sukroza stearate",
+      "trigliceryd",
+      "triglicerydy C10-18",
+      "witamina E"
+    ],
+    "for": [
+      "cała rodzina od 1 dnia życia",
+      "skóra podrażniona",
+      "skóra sucha",
+      "skłonność do atopii",
+      "zaburzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma świetny skład z certyfikowanym organicznym destylatem oleju słonecznikowego i prebiotykiem, szybko się wchłania i skutecznie regeneruje.",
+        "video_id": "4SbReyWofNs",
+        "video_title": "ALARM ❗️A cosmetic breakthrough in Poland for skin requiring strong regeneration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:10"
       }
     ],
     "verdict": "polecany",
@@ -104623,8 +107215,12 @@
     ],
     "for": [
       "dla dzieci i dorosłych",
+      "skóra atopowa",
       "skóra bardzo sucha",
       "skóra dzieci i dorosłych z atopią",
+      "skóra podczas kuracji retinolem",
+      "skóra sucha",
+      "skóra swędząca",
       "skłonna do atopii"
     ],
     "mentions": [
@@ -104645,6 +107241,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "06:31"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobry skład, brak zapachu, błyskawiczne wchłanianie, silne działanie odżywcze, nawilżające i kojące z długotrwałym efektem zapobiegającym suchości.",
+        "video_id": "Ts1Uzm99ExE",
+        "video_title": "Cheap and good! - WHAT IS WORTH BUYING AT ROSSMANN DRUG STORE?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:10"
       }
     ],
     "verdict": "polecany",
@@ -106150,6 +108755,36 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-06-28",
         "timestamp": "08:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "nacomi ginger ific pleasures",
+    "brand": "Nacomi",
+    "name": "Ginger-ific pleasures",
+    "category": "zestaw pielęgnacyjny",
+    "ingredients": [
+      "emolienty",
+      "nawilżające",
+      "probiotyki",
+      "substancje nawilżające"
+    ],
+    "for": [
+      "nastolatki",
+      "osoby starsze",
+      "skóra wymagająca nawilżenia i ładnego zapachu"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zestaw ma bezpieczny, wzorowy skład, zawiera emulsje nawilżające i probiotyki, działa długoterminowo i nie niszczy barier HL.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:49"
       }
     ],
     "verdict": "polecany",
@@ -108905,6 +111540,36 @@
     "conflict": false
   },
   {
+    "key": "nakomi next level serum z 15 witamina c",
+    "brand": "Nakomi Next Level",
+    "name": "Serum z 15% witaminą C",
+    "category": "serum",
+    "ingredients": [
+      "15% witaminy C",
+      "SAP",
+      "askorbylo-glukozyd",
+      "kwas askorbinowy"
+    ],
+    "for": [
+      "skóra naczynkowa",
+      "skóra szara",
+      "skóra zmęczona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Potrójne uderzenie witaminy C, które daje natychmiastowy efekt rozświetlenia, rozjaśnienia i glow.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:47"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "nam bronzery w sztyfcie",
     "brand": "Nam",
     "name": "bronzery w sztyfcie",
@@ -109495,6 +112160,29 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-09-10",
         "timestamp": "04:50"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "naturalme luxurymi serum",
+    "brand": "NaturalMe",
+    "name": "Luxurymi serum",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "skóra pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetnie sprawdza się zaaplikowane pod płatki pod oczy.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:49"
       }
     ],
     "verdict": "polecany",
@@ -110275,6 +112963,27 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-27",
         "timestamp": "06:43"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "naturel ment luxury serum",
+    "brand": "Naturel Ment",
+    "name": "Luxury Serum",
+    "category": "serum",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobrze komponuje się w rutynie z koncentratem Tołpy (aplikowane jako pierwsze).",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "13:19"
       }
     ],
     "verdict": "polecany",
@@ -113958,6 +116667,228 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-28",
         "timestamp": "02:12"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi energetyzujaca maska na tkaninie w pachcie",
+    "brand": "Niu Qi",
+    "name": "Energetyzująca maska na tkaninie w płachcie",
+    "category": "maska",
+    "ingredients": [
+      "allantoina",
+      "betaina",
+      "ekstrakt z kawy",
+      "ekstrakt z żeń-szenia",
+      "fenoksyetanol",
+      "gliceryna",
+      "heksanediol",
+      "hialuronian sodu",
+      "woda",
+      "woda morska"
+    ],
+    "for": [
+      "skóra zmęczona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry skład wzorowy, ekstrakt z kawy i żeń-szenia.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi maseczka z gebinowa woda morska i woda kokosowa",
+    "brand": "Niu Qi",
+    "name": "Maseczka z głębinową wodą morską i wodą kokosową",
+    "category": "maska",
+    "ingredients": [
+      "ferment rzodkwi",
+      "gliceryna",
+      "glukonolakton",
+      "hialuronian sodu",
+      "hydrolat z róży damasceńskiej",
+      "nośnik przenikania",
+      "woda",
+      "woda kokosowa",
+      "woda morska"
+    ],
+    "for": [
+      "twarz"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry skład regenerujący z hydrolatem z róży damasceńskiej.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:52"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi odswiezajaco nawilzajaca maska na tkaninie w pachcie ogorek i matcha",
+    "brand": "Niu Qi",
+    "name": "Odświeżająco-nawilżająca maska na tkaninie w płachcie - ogórek i matcha",
+    "category": "maska",
+    "ingredients": [
+      "betaina",
+      "ekstrakt z herbaty matcha",
+      "ekstrakt z kamelii japońskiej",
+      "ekstrakt z ogórka",
+      "gliceryna",
+      "konserwant",
+      "woda",
+      "woda morska"
+    ],
+    "for": [
+      "skóra mieszana",
+      "skóra problematyczna"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zawiera ekstrakt z ogórka i herbaty matcha, dobra nawilżająca maska.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:46"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi patki pod oczy",
+    "brand": "Niu Qi",
+    "name": "Płatki pod oczy",
+    "category": "płatki pod oczy",
+    "ingredients": [
+      "kofeina",
+      "nośnik przenikania allantoin",
+      "nośnik przenikania ekstrakt z kawy",
+      "nośnik przenikania zagęstnik regulator pH",
+      "polian ekstrakt",
+      "propanediol",
+      "woda"
+    ],
+    "for": [
+      "okolica pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobre składy, powtarzające się formuły w różnych kształtach, wysoka wartość w stosunku do ceny kalendarza.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:51"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi relaksujaca sol do kapieli o zapachu karty waniliowej",
+    "brand": "Niu Qi",
+    "name": "Relaksująca sól do kąpieli o zapachu karty waniliowej",
+    "category": "sól do kąpieli",
+    "ingredients": [
+      "detergent",
+      "ekstrakt z wanilii",
+      "gliceryna",
+      "olej ze słodkich migdałów",
+      "sodu kokosiar",
+      "sól"
+    ],
+    "for": [
+      "ciało",
+      "kąpiel"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wzorowy skład, opłacalny produkt w zestawie.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:40"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi rozswietlajaca maseczka peel off",
+    "brand": "Niu Qi",
+    "name": "Rozświetlająca maseczka peel-off",
+    "category": "maska",
+    "ingredients": [
+      "alkohol denat",
+      "poliwynyl alkohol"
+    ],
+    "for": [
+      "twarz"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera alkohol polivinilowy i alkohol denat, który powoduje zastyganie maski, przez co autor odradza ją i kieruje do kosza.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:12"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "niu qi rozswietlajacy balsam do ciaa",
+    "brand": "Niu Qi",
+    "name": "Rozświetlający balsam do ciała",
+    "category": "balsam do ciała",
+    "ingredients": [
+      "alkohol z grupy tłuszczowych",
+      "emolient",
+      "fenoksyetanol",
+      "gliceryna",
+      "krzemionka",
+      "masło shea",
+      "nośnik przenikania zagęstnik",
+      "olej ze słodkich migdałów",
+      "woda"
+    ],
+    "for": [
+      "ciało",
+      "zima"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zimowy balsam do ciała o dobrym składzie.",
+        "video_id": "1jk2MGFUfF0",
+        "video_title": "HIT ZA 30 ZŁOTYCH W BIEDRONCE? OTWÓRZMY RAZEM!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:28"
       }
     ],
     "verdict": "polecany",
@@ -120356,6 +123287,32 @@
     "conflict": true
   },
   {
+    "key": "paese oat silk powder olive powder",
+    "brand": "PAESE",
+    "name": "Oat Silk Powder (Olive Powder)",
+    "category": "puder",
+    "ingredients": [],
+    "for": [
+      "dojrzała",
+      "odwodniona",
+      "potrzebująca blasku",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Puder nawilżający, absorbujący sebum, daje całodzienny komfort nawilżenia bez płaskiego matu i nie ciemni podkładu.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "paese olive powder",
     "brand": "Paese",
     "name": "Olive Powder",
@@ -120668,6 +123625,33 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "paese puder oliwkowy",
+    "brand": "PAESE",
+    "name": "puder oliwkowy",
+    "category": "puder",
+    "ingredients": [
+      "baza pudrowa",
+      "pigmenty mineralne"
+    ],
+    "for": [
+      "skóra wymagająca matowienia i nawilżenia",
+      "skóra z problemami kolorystycznymi"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "wyrównuje koloryt, pochłania sebum, daje ładne krycie, nie jest konfliktowy",
+        "video_id": "XcYj5y_ugLE",
+        "video_title": "NAJLEPSZY KREM BB W ROSSMANN? Test taniego kremu BB!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:54"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -121569,6 +124553,33 @@
     "conflict": false
   },
   {
+    "key": "penta lozi floral george",
+    "brand": "Penta Loži",
+    "name": "Floral George",
+    "category": "perfumy",
+    "ingredients": [
+      "kwiaty",
+      "owoce"
+    ],
+    "for": [
+      "obie płcie",
+      "osoby lubiące spokojne, świeże zapachy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Jedyny zapach z tej firmy z ładnym, świeżo-owocowo-kwiatowym zapachem (początkowo owoce, potem kwiaty), trwały.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:22"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "perfecta beauty sleep oil in gel zelowe patki pod oczy lub na linie mimiczne",
     "brand": "Perfecta",
     "name": "Beauty Sleep Oil-In-Gel żelowe płatki pod oczy lub na linie mimiczne",
@@ -121601,6 +124612,45 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "00:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "perfecta belleza eye smile line patch oil in gel",
+    "brand": "Perfecta",
+    "name": "Belleza Eye & Smile Line Patch Oil In Gel",
+    "category": "maska",
+    "ingredients": [
+      "ekstrakt z geranium",
+      "ekstrakt z hibiskusa",
+      "ekstrakt z jabłka",
+      "ekstrakt z krokusa",
+      "ekstrakt z opuncji",
+      "ekstrakt z papai",
+      "gliceryna",
+      "olej arganowy",
+      "olej rycynowy",
+      "olej z awokado",
+      "oliwa z oliwek",
+      "palmitynian retinylu",
+      "witamina E"
+    ],
+    "for": [
+      "utrata jędrności",
+      "wiotka skóra wokół oczu i ust",
+      "zmarszczki pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wzorowy, bezpieczny skład oparty w 70% na naturalnych olejach i ekstraktach roślinnych; w połączeniu z serum daje spektakularny efekt wyprasowania zmarszczek i liftingu; bardzo niska cena w promocji (2 zł).",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:38"
       }
     ],
     "verdict": "polecany",
@@ -121837,6 +124887,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "perfecta pozostae patki z serii belleza poza oil in gel i aloesowymi hydrozelowymi",
+    "brand": "Perfecta",
+    "name": "Pozostałe płatki z serii Belleza (poza Oil in Gel i aloesowymi hydrożelowymi)",
+    "category": "maska",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Nieinteresujący skład, który zdaniem autora nic nie wnosi do pielęgnacji i może być szkodliwy.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:43"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -122735,6 +125806,35 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris emotopic preparat sos medical do twarzy i ciaa",
+    "brand": "Pharmaceris",
+    "name": "Emotopic Preparat SOS Medical do twarzy i ciała",
+    "category": "krem",
+    "ingredients": [
+      "ceramidy",
+      "peptydy"
+    ],
+    "for": [
+      "atopia",
+      "podrażnienia",
+      "regeneracja skóry",
+      "uszkodzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjna technologia oparta na połączeniu ceramidów i peptydów; intensywnie regeneruje, odbudowuje barierę hydrolipidową i koi zmiany atopowe.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:32"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris f",
     "brand": "Pharmaceris",
     "name": "F",
@@ -123283,6 +126383,33 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris n c capilix olejowa forma witaminy c tetra",
+    "brand": "Pharmaceris",
+    "name": "N C-Capilix Olejowa Forma Witaminy C Tetra",
+    "category": "serum",
+    "ingredients": [
+      "tetraizopalmitynian askorbylu",
+      "witamina C"
+    ],
+    "for": [
+      "każdy typ skóry z głównym ukierunkowaniem na skórę dojrzałą, suchą, odwodnioną i naczynkową",
+      "skóra naczynkowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zawiera witaminę C w formie tetraizopalmitynianu askorbylu, działa rozświetlająco, wygładzająco i nawilżająco.",
+        "video_id": "YicCiFwDCNs",
+        "video_title": "EFFECTS AFTER JUST 1 USE ❗️ Effective and affordable care for everyone ❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:03"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris n capilix serum z witamina c tetra",
     "brand": "Pharmaceris",
     "name": "N-Capilix Serum z witaminą C tetra",
@@ -123531,6 +126658,31 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris pharmaceris a tonik w mgiece",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris A Tonik w mgiełce",
+    "category": "tonik",
+    "ingredients": [],
+    "for": [
+      "skóra po opalaniu",
+      "skóra podrażniona",
+      "skóra zaczerwieniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetnie wycisza podrażnienia, nawilża, gasi zaczerwienienia i działa błyskawicznie; sprawdził się u autora rewelacyjnie m.in. po ekspozycji na słońce.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:05"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris pharmaceris f mineralny dermo fluid matujacy spf 30",
     "brand": "Pharmaceris",
     "name": "Pharmaceris F Mineralny dermo-fluid matujący SPF 30",
@@ -123603,6 +126755,27 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris pharmaceris h peeling",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris H Peeling",
+    "category": "peeling",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor ocenia ten produkt jako 'do śmieci'.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:48"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris pharmaceris h sebopurin",
     "brand": "Pharmaceris",
     "name": "Pharmaceris H Sebopurin",
@@ -123639,6 +126812,81 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris pharmaceris h szampon",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris H Szampon",
+    "category": "szampon",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor określa produkt krótko jako 'do śmieci'.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:48"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "pharmaceris pharmaceris h wcierka stymulujaca wzrost wosow",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris H Wcierka stymulująca wzrost włosów",
+    "category": "wcierka do skóry głowy",
+    "ingredients": [
+      "kompleks peptydowy"
+    ],
+    "for": [
+      "pobudzenie wzrostu włosów",
+      "skóra głowy po przeszczepie",
+      "wypadanie włosów"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetna technologia z kompleksem peptydowym; pobudza i przywraca prawidłowe funkcjonowanie mieszków włosowych, przyspiesza odrastanie włosów, łagodzi i nawilża skórę głowy (pomogła autorowi po przeszczepie).",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:51"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pharmaceris pharmaceris n c capilix serum z witamina c tetra",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris N C-Capilix Serum z witaminą C tetra",
+    "category": "serum",
+    "ingredients": [
+      "witamina C tetra"
+    ],
+    "for": [
+      "prewencja anti-aging",
+      "regeneracja i przebudowa skóry",
+      "skóra naczynkowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje silną prewencję anti-aging, stymuluje produkcję kolagenu, elastyny, kwasu hialuronowego i fibroblastów; wspomaga regenerację i wycisza naczynka (ma formułę olejową).",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "06:08"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris pharmaceris p",
     "brand": "Pharmaceris",
     "name": "Pharmaceris P",
@@ -123666,6 +126914,34 @@
     "conflict": false
   },
   {
+    "key": "pharmaceris pharmaceris sensibiotic hyaluro serum",
+    "brand": "Pharmaceris",
+    "name": "Pharmaceris Sensibiotic Hyaluro Serum",
+    "category": "serum",
+    "ingredients": [
+      "kwas hialuronowy"
+    ],
+    "for": [
+      "podczas kuracji kwasami",
+      "podczas kuracji retinoidami",
+      "skóra podrażniona",
+      "zaburzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Znakomicie koi, łagodzi, dba o barierę lipidową i mikrobiom skóry, przyspiesza regenerację po kwasach i retinoidach; ma minimalistyczną formułę, którą łatwo łączyć z innymi produktami.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:16"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pharmaceris podkad pod oczy",
     "brand": "Pharmaceris",
     "name": "podkład pod oczy",
@@ -123689,6 +126965,29 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pharmaceris podkady mineralne",
+    "brand": "Pharmaceris",
+    "name": "Podkłady mineralne",
+    "category": "podkład",
+    "ingredients": [
+      "mikroplastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Formuła produktu została zepsuta obecnością mikroplastiku w składzie.",
+        "video_id": "cdkZHtBTUcw",
+        "video_title": "Bez ściemy! - Cała prawda o kosmetykach Pharmaceris! - Okiem Kacpiego!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:16"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -124010,6 +127309,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-12-10",
         "timestamp": "01:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pharmaceris serum sensibiotic",
+    "brand": "Pharmaceris",
+    "name": "Serum Sensibiotic",
+    "category": "serum",
+    "ingredients": [
+      "składniki przeciwzapalne i przeciwstarzeniowe",
+      "symbiotyki"
+    ],
+    "for": [
+      "skóra naczynkowa",
+      "skóra odwodniona",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wycisza rumień, podrażnienia i zaczerwienienia oraz bardzo dobrze regeneruje barierę hydrolipidową.",
+        "video_id": "vNF-Fh8BGug",
+        "video_title": "EFFECTIVE FACE CREAM IN POLAND!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:37"
       }
     ],
     "verdict": "polecany",
@@ -130472,6 +133799,38 @@
     "conflict": false
   },
   {
+    "key": "sephora puder",
+    "brand": "Sephora",
+    "name": "puder",
+    "category": "puder",
+    "ingredients": [],
+    "for": [
+      "skóra nawilżona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "puder nawilżający, utrwala podkład bez nadawania mocnego matu i nie dopigmentowuje zbytnio buzi",
+        "video_id": "ZmHJOojbvyo",
+        "video_title": "THE ROSSMANN PALLET that everyone is looking for!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:15"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Puder jest rozświetlający, nie matujący, daje efekt lustrzanej skóry i dobrze się stapia.",
+        "video_id": "uDpYEg6oZ9Y",
+        "video_title": "Foundation for 10 PLN at ROSSMANN, and it creates layers on the face!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:59"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "sephora care better rouge",
     "brand": "Sephora Care",
     "name": "Better Rouge",
@@ -131400,6 +134759,58 @@
     "conflict": false
   },
   {
+    "key": "simply nature by clesh krem serum pod oczy filler",
+    "brand": "Simply Nature by Clesh",
+    "name": "Krem-serum pod oczy filler",
+    "category": "serum",
+    "ingredients": [
+      "antyoksydanty",
+      "peptydy"
+    ],
+    "for": [
+      "kurze łapki",
+      "zmarszczki wokół oczu"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Mocno napakowane peptydami i antyoksydantami, baza o formule serum świetnie współgra z płatkami.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:33"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "simply nature by clochee antyoksydacyjny tonik",
+    "brand": "Simply Nature by Clochee",
+    "name": "Antyoksydacyjny tonik",
+    "category": "tonik",
+    "ingredients": [
+      "antyoksydanty"
+    ],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Obojętny tonik bez peptydów i kwasów, odpowiedni jako baza do combo z witaminą C",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:32"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "simply nature by clochee filler",
     "brand": "Simply Nature by Clochee",
     "name": "Filler",
@@ -132072,6 +135483,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-23",
         "timestamp": "04:35"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "skinimal mgieka z kwasem hialuronowym",
+    "brand": "Skinimal",
+    "name": "Mgiełka z kwasem hialuronowym",
+    "category": "tonik",
+    "ingredients": [
+      "kwas hialuronowy"
+    ],
+    "for": [
+      "skóra odwodniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Uniwersalny, obojętny preparat nawilżający",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:42"
       }
     ],
     "verdict": "polecany",
@@ -134548,6 +137984,29 @@
     "conflict": false
   },
   {
+    "key": "solverx serum pod oczy",
+    "brand": "Solverx",
+    "name": "Serum pod oczy",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "skóra pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Produkt z drogerii Hebe w trakcie aktywnego testowania przez autora, planowany do użycia z płatkami.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:41"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "solverx tonik do twarzy h r reset",
     "brand": "Solverx",
     "name": "Tonik do twarzy H.R. Reset",
@@ -136594,6 +140053,50 @@
     "conflict": false
   },
   {
+    "key": "stars from the stars blur",
+    "brand": "Stars from the Stars",
+    "name": "Blur",
+    "category": "puder",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Raz z nimi jest dobrze, raz źle; potrafi lekko przesuszyć, ale jest pudrem matującym i ładnie ujednolica kolor buzi.",
+        "video_id": "koGPl498ek0",
+        "video_title": "MAKEUP THAT CONQUERS BEAUTY! - No exaggeration!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "04:47"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "stars from the stars blur be with you",
+    "brand": "Stars from the Stars",
+    "name": "Blur Be With You!",
+    "category": "puder",
+    "ingredients": [],
+    "for": [
+      "skóra tłusta"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry jakościowo, mocno nawilża skórę i reguluje pracę gruczołów łojowych, chociaż mocno matuje i może lekko ściągać.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:19"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "stars from the stars blur it up lip balm",
     "brand": "Stars from the Stars",
     "name": "Blur It Up Lip Balm",
@@ -137420,6 +140923,29 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-15",
         "timestamp": "07:44"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "stars from the stars moon kissed baked highlighter 02 apricot champange",
+    "brand": "Stars from the Stars",
+    "name": "Moon Kissed Baked Highlighter (02 Apricot Champange)",
+    "category": "rozświetlacz",
+    "ingredients": [],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma bardzo subtelne, ładne, złotawe wykończenie bez podkreślania porów czy efektu \"krechy\", długo się trzyma.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "12:32"
       }
     ],
     "verdict": "polecany",
@@ -138803,6 +142329,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-22",
         "timestamp": "05:20"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Wspomniany jako przykład kremu silniej i szybciej regenerującego skórę.",
+        "video_id": "bafJJDS1dZs",
+        "video_title": "ROSSMANN - A hit for years that everyone should know! :)",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:49"
       }
     ],
     "verdict": "polecany",
@@ -138842,6 +142377,7 @@
     "category": "krem",
     "ingredients": [
       "acetyl glucosamine",
+      "glukozyd",
       "masło shea",
       "ramnoza",
       "składnik F-glucoside"
@@ -138850,6 +142386,7 @@
       "kobiety w ciąży i karmiące",
       "kuracje retinoidami i kwasami",
       "podrażnienia",
+      "regeneracja bariery hydrolipidowej",
       "skóra podrażniona",
       "zaburzona bariera lipidowa"
     ],
@@ -138871,6 +142408,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-28",
         "timestamp": "06:09"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Działa kojąco i regenerująco, ma bezpieczny skład z glukozydem i ramnozą, dobrze odbudowuje barierę hydrolipidową.",
+        "video_id": "POdYcsL0CiI",
+        "video_title": "EFFECTIVE FACE CREAMS THAT REALLY WORK!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:33"
       }
     ],
     "verdict": "polecany",
@@ -138972,6 +142518,7 @@
       "rumień",
       "skóra podrażniona",
       "skóra skłonna do zaczerwienień i uciążliwego wrażenia",
+      "skóra sucha",
       "skóra sucha i atopowa",
       "skóra wymagająca szybkiej regeneracji",
       "skóra z uszkodzoną barierą",
@@ -139015,6 +142562,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-27",
         "timestamp": "08:25"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Świetny krem regenerujący do domknięcia pielęgnacji",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:35"
       }
     ],
     "verdict": "polecany",
@@ -141830,6 +145386,27 @@
     "conflict": false
   },
   {
+    "key": "topa dermo face rosacal seria klasyczna bez ar",
+    "brand": "Tołpa",
+    "name": "Dermo Face Rosacal (seria klasyczna, bez AR)",
+    "category": "krem",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Klasyczna seria Rosacal (bez dopisku AR) ma zdaniem autora bezwartościowy skład i w całości nadaje się do wyrzucenia.",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:08"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "topa dermo face rosacal ar",
     "brand": "Tołpa",
     "name": "Dermo Face Rosacal AR",
@@ -141853,6 +145430,39 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "03:15"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "topa dermo face rosacal ar koncentrat przeciw zmianom rumieniowym",
+    "brand": "Tołpa",
+    "name": "Dermo Face Rosacal AR Koncentrat przeciw zmianom rumieniowym",
+    "category": "serum",
+    "ingredients": [
+      "EGF",
+      "fosfolipidy",
+      "hesperydyna",
+      "jony srebra",
+      "rutozydy"
+    ],
+    "for": [
+      "skóra naczynkowa",
+      "skóra podrażniona po kwasach",
+      "skóra w trakcie kuracji retinoidami",
+      "skóra wrażliwa i zaczerwieniona",
+      "skóra z trądzikiem różowatym"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Kompleksowo skomponowany produkt o świetnym składzie w cenie do 40 zł w Hebe; skutecznie gasi rumień, wzmacnia naczynka, odbudowuje barierę hydrolipidową i działa przeciwzapalnie oraz przeciwstarzeniowo.",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:42"
       }
     ],
     "verdict": "polecany",
@@ -145905,6 +149515,35 @@
     "conflict": false
   },
   {
+    "key": "trend it up cooling caffeine under eye primer",
+    "brand": "trend it up",
+    "name": "Cooling Caffeine Under Eye Primer",
+    "category": "serum / primer pod oczy",
+    "ingredients": [
+      "kofeina",
+      "olej słonecznikowy",
+      "trójglicerydy",
+      "witamina E (antyoksydant)"
+    ],
+    "for": [
+      "oznaki zmęczenia",
+      "skóra wokół oczu wymagająca rozświetlenia i nawilżenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkt o minimalistycznym i skutecznym składzie, daje długoterminowe efekty redukcji zmarszczek, rozświetlenia, rozpromienienia oraz silnego nawilżenia i odżywienia skóry wokół oczu.",
+        "video_id": "3zRm1dymkPg",
+        "video_title": "REDUKCJA ZMĘCZENIA POD OCZAMI! - EFEKT JUŻ PO 1 UŻYCIU!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:30"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "tresemme szampony i odzywki",
     "brand": "TRESemme",
     "name": "Szampony i odżywki",
@@ -146600,6 +150239,31 @@
     "conflict": false
   },
   {
+    "key": "under twenty anti acne cover bb cream",
+    "brand": "Under Twenty",
+    "name": "Anti Acne Cover BB Cream",
+    "category": "krem BB",
+    "ingredients": [],
+    "for": [
+      "problematyczna",
+      "skóra tłusta",
+      "trądzikowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetnie stapia się ze skórą, nie wysusza, daje świetliste wykończenie, jest trwały i nieskazitelny.",
+        "video_id": "mTYCW0UTIqc",
+        "video_title": "The best makeup cosmetics in Poland!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:50"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "under twenty bb cream matujacy",
     "brand": "Under Twenty",
     "name": "BB Cream matujący",
@@ -146721,6 +150385,43 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "00:56"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "under twenty krem bb under twenty",
+    "brand": "under twenty",
+    "name": "krem BB under twenty",
+    "category": "krem",
+    "ingredients": [
+      "cynk",
+      "ekstrakt z jagody",
+      "ekstrakt z maliny",
+      "ekstrakt z truskawki",
+      "hydroksy",
+      "hydrolaty z róży damasceńskiej",
+      "nosnik pszenny",
+      "olej słonecznikowy"
+    ],
+    "for": [
+      "skóra normalna",
+      "skóra problematyczna",
+      "skóra sucha",
+      "skóra trądzikowa",
+      "skóra łojotokowa",
+      "wszystkie typy skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "niedrogi, matujący, wyrównuje koloryt, niweluje widoczność porów, nie wysusza skóry, zawiera bogaty skład",
+        "video_id": "XcYj5y_ugLE",
+        "video_title": "NAJLEPSZY KREM BB W ROSSMANN? Test taniego kremu BB!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "00:36"
       }
     ],
     "verdict": "polecany",
@@ -150424,6 +154125,30 @@
     "conflict": false
   },
   {
+    "key": "weleda koncentrat olejkowy",
+    "brand": "Weleda",
+    "name": "Koncentrat olejkowy",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "skóra sucha",
+      "skóra wymagająca odżywienia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Doskonały w połączeniu z ampułkami Isana do domknięcia nawilżenia i regeneracji.",
+        "video_id": "ksnh-eK6zsw",
+        "video_title": "FACE LIFTING FOR 14 PLN❗️😱 - You can buy this cosmetic at ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "13:43"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "weleda skin food olejek rozany ampuki",
     "brand": "weleda",
     "name": "Skin Food (olejek różany, ampułki)",
@@ -150443,6 +154168,29 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "05:04"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "weleda skin repair ampuki kapsuki",
+    "brand": "Weleda",
+    "name": "Skin Repair (ampułki/kapsułki)",
+    "category": "serum",
+    "ingredients": [],
+    "for": [
+      "skóra wymagająca odbudowy i regeneracji"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobrze współpracuje w schemacie warstwowym z koncentratem Tołpy i kremem barierowym.",
+        "video_id": "YHW6XJdF50I",
+        "video_title": "Czy warto kupić ten kosmetyk?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "11:49"
       }
     ],
     "verdict": "polecany",
@@ -150474,6 +154222,40 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-27",
         "timestamp": "10:11"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "weleda skin repair intensive",
+    "brand": "Weleda",
+    "name": "Skin Repair Intensive",
+    "category": "amplitudki | olejek",
+    "ingredients": [
+      "nosnik przenikania substancji aktywnych",
+      "olej z dzikiej róży",
+      "olej z moreli",
+      "olej ze słodkich migdałów",
+      "zapach i kompozycje zapachowe"
+    ],
+    "for": [
+      "kobiet w ciąży i matek karmiących",
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra przuszona",
+      "skóra sucha",
+      "skóra wymagająca regeneracji"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Znakomity produkt bez alkoholu denaturowanego, dający natychmiastowy efekt odżywionej, wygładzonej skóry, z rozjaśnieniem i odbudową bariery hydrolipidowej.",
+        "video_id": "R8Uoe4Ro3uc",
+        "video_title": "A HIT THAT GIVES THE EFFECT OF BOTOX❗️ - Try it while it's available!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:56"
       }
     ],
     "verdict": "polecany",
@@ -151729,6 +155511,33 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "yisha zestaw z peelingiem i kula do kapieli",
+    "brand": "Yisha",
+    "name": "Zestaw z peelingiem i kulą do kąpieli",
+    "category": "zestaw pielęgnacyjny",
+    "ingredients": [
+      "kokos"
+    ],
+    "for": [
+      "aromaterapia",
+      "fani kokosa",
+      "relaks"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkty polskie, wzorcowe składowo, bez mikroplastiku, parabenów, rakotwórców i mutagenów.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "05:55"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -154756,8 +158565,12 @@
     "brand": "Yope",
     "name": "Zimowy poranek",
     "category": "balsam do ciała",
-    "ingredients": [],
-    "for": [],
+    "ingredients": [
+      "soja"
+    ],
+    "for": [
+      "wzbogacenie prezentu"
+    ],
     "mentions": [
       {
         "verdict": "polecany",
@@ -154767,6 +158580,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "04:45"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "100% czysta, naturalna świeca sojowa o przepięknym zapachu, bez parabenów i substancji szkodliwych dla płuc.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:53"
       }
     ],
     "verdict": "polecany",
@@ -155075,6 +158897,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-04-02",
         "timestamp": "04:55"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "yosine anna krupa exotic",
+    "brand": "Yosine",
+    "name": "Anna Krupa Exotic",
+    "category": "perfumy",
+    "ingredients": [
+      "nuty waniliowe"
+    ],
+    "for": [
+      "fani nut waniliowych"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zapach z wysoką koncentracją olejków, z nutami waniliowymi, kaszmirowo-kremowymi, utrzymuje się cały dzień.",
+        "video_id": "3R1PBUDF58c",
+        "video_title": "Ostatni dzwonek po prezenty w ROSSMANN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:02"
       }
     ],
     "verdict": "polecany",
@@ -156849,6 +160696,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "03:44"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja antyoksydacja tonik pomaranczowy",
+    "brand": "Ziaja",
+    "name": "Antyoksydacja / Tonik pomarańczowy",
+    "category": "tonik",
+    "ingredients": [
+      "witamina C"
+    ],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Witamina C pełni tam rolę regulatora pH, więc produkt jest bezpieczny do tego combo",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:58"
       }
     ],
     "verdict": "polecany",
@@ -158633,6 +162505,31 @@
     "conflict": false
   },
   {
+    "key": "ziaja krem do twarzy spf 15",
+    "brand": "Ziaja",
+    "name": "Krem do twarzy SPF 15",
+    "category": "SPF",
+    "ingredients": [
+      "filtrowie SPF 15"
+    ],
+    "for": [
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Posiada akceptowalny skład, ale obecne wersje nie zawierają już mikrodrobin ani donorów formaldehydu.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:20"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "ziaja krem jiaja maso kakaowe",
     "brand": "Ziaja",
     "name": "Krem jiaja masło kakaowe",
@@ -158703,6 +162600,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-21",
         "timestamp": "07:38"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja krem kojacy",
+    "brand": "Ziaja",
+    "name": "Krem kojący",
+    "category": "krem",
+    "ingredients": [
+      "ceramidy",
+      "fitosterole",
+      "olej canola"
+    ],
+    "for": [
+      "minimalizm",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma bardzo dobry skład i jest polecany do delikatnej pielęgnacji.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:20"
       }
     ],
     "verdict": "polecany",
@@ -158819,6 +162744,55 @@
     "conflict": false
   },
   {
+    "key": "ziaja krem okluzyjny dla dzieci",
+    "brand": "Ziaja",
+    "name": "Krem okluzyjny dla dzieci",
+    "category": "krem",
+    "ingredients": [],
+    "for": [
+      "domknięcie pielęgnacji",
+      "sucha skóra"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, bogaty krem okluzyjny idealny do domknięcia substancji aktywnych na koniec pielęgnacji.",
+        "video_id": "xNWLizXJvaM",
+        "video_title": "YOU CAN BUY LIFTING AND UNDER-EYE IRON FOR 2 PLN AT ROSSMANN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "03:58"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja krem oliwkowy",
+    "brand": "Ziaja",
+    "name": "Krem oliwkowy",
+    "category": "krem",
+    "ingredients": [
+      "oliwka"
+    ],
+    "for": [
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Posiada w składzie mydła lub inne składniki zanieczyszczające.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:50"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "ziaja krem ulga na dzien i na noc ujedrniajacy",
     "brand": "Ziaja",
     "name": "Krem Ulga (na dzień i na noc ujędrniający)",
@@ -158865,6 +162839,59 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-27",
         "timestamp": "08:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja krem z koenzymem q10 i pseudorekinolem",
+    "brand": "Ziaja",
+    "name": "Krem z koenzymem Q10 i pseudorekinolem",
+    "category": "krem",
+    "ingredients": [
+      "koenzym Q10",
+      "retinil",
+      "witamina A"
+    ],
+    "for": [
+      "skóra dojrzała"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Zawiera palmitynian retinylu (słabsza forma witaminy A) działającą nawilżająco i odbudowująco.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:30"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "ziaja krem z koenzymem q10 i witamina e",
+    "brand": "Ziaja",
+    "name": "Krem z koenzymem Q10 i witaminą E",
+    "category": "krem",
+    "ingredients": [
+      "koenzym Q10",
+      "witamina E"
+    ],
+    "for": [
+      "skóra dojrzała"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Posiada cudowny skład, nawilża i odbudowuje barierę hydrolipidową.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "07:45"
       }
     ],
     "verdict": "polecany",
@@ -159327,6 +163354,98 @@
     "conflict": false
   },
   {
+    "key": "ziaja maseczka do twarzy miod manuka",
+    "brand": "Ziaja",
+    "name": "Maseczka do twarzy Miód Manuka",
+    "category": "maska",
+    "ingredients": [
+      "Calcium Pantothenate",
+      "Sodium Ascorbyl Phosphate (witamina C)",
+      "ekstrakt z miodu manuka",
+      "fenoksyetanol",
+      "fermenty cynkowe (Saccharomyces/Zinc Ferment)",
+      "gliceryna",
+      "krzemionka",
+      "ksylitol",
+      "maltodekstryna",
+      "niacynamid",
+      "octan tokoferylu (witamina E)",
+      "pirydoksyna HCl",
+      "sacharoza"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra tłusta i trądzikowa",
+      "skóra w trakcie kuracji kwasami, retinoidami lub izotretynoiną (Izotek)",
+      "skóra z zaburzoną barierą hydrolipidową"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, bogaty skład z humektantami, fermentami cynkowymi, miodem manuka i witaminami przy bardzo niskiej cenie. Mimo oznaczenia do skóry tłustej sprawdza się przy każdym typie cery.",
+        "video_id": "SUD3KFXMyyE",
+        "video_title": "Ten HIT KUPISZ W ROSSMANN za 2 złote!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "01:47"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja maseczka do twarzy miod mniszek lekarski",
+    "brand": "Ziaja",
+    "name": "Maseczka do twarzy Miód Mniszek Lekarski",
+    "category": "maska",
+    "ingredients": [
+      "mikroplastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Produkt zawiera mikroplastik w składzie.",
+        "video_id": "SUD3KFXMyyE",
+        "video_title": "Ten HIT KUPISZ W ROSSMANN za 2 złote!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:23"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja maseczka do twarzy miod tapioka",
+    "brand": "Ziaja",
+    "name": "Maseczka do twarzy Miód Tapioka",
+    "category": "maska",
+    "ingredients": [
+      "ekstrakt z miodu",
+      "tapioka"
+    ],
+    "for": [
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobra, bezpieczna wersja maseczki o skutecznym działaniu, odpowiednia dla każdego typu skóry.",
+        "video_id": "SUD3KFXMyyE",
+        "video_title": "Ten HIT KUPISZ W ROSSMANN za 2 złote!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "02:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "ziaja maseczka do twarzy z kwasem hialuronowym",
     "brand": "ziaja",
     "name": "Maseczka do twarzy z kwasem hialuronowym",
@@ -159528,6 +163647,29 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "01:28"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja maseczki do twarzy",
+    "brand": "Ziaja",
+    "name": "Maseczki do twarzy",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "skóra twarzy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wydano świetne maseczki do twarzy z dobrym składem.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "08:05"
       }
     ],
     "verdict": "polecany",
@@ -160946,6 +165088,31 @@
     "conflict": false
   },
   {
+    "key": "ziaja pasta do zebow",
+    "brand": "Ziaja",
+    "name": "Pasta do zębów",
+    "category": "pasta do zębów",
+    "ingredients": [
+      "fluor"
+    ],
+    "for": [
+      "zeby"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera kancerogenne składniki takie jak SLS, parabeny i inne substancje odradzane przez autora.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:15"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "ziaja peeling do skory gowy nawilzajacy",
     "brand": "Ziaja",
     "name": "Peeling do skóry głowy nawilżający",
@@ -161487,6 +165654,31 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja pyn do pukania jamy ustnej",
+    "brand": "Ziaja",
+    "name": "Płyn do płukania jamy ustnej",
+    "category": "płyn do płukania",
+    "ingredients": [
+      "fluor"
+    ],
+    "for": [
+      "jamy ustne"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Ma dobry skład, chociaż niektóre wersje posiadają fluor.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:25"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -162907,6 +167099,32 @@
     "conflict": false
   },
   {
+    "key": "ziaja zel pod prysznic",
+    "brand": "Ziaja",
+    "name": "Żel pod prysznic",
+    "category": "żel do mycia",
+    "ingredients": [
+      "SLS",
+      "mikroplastik"
+    ],
+    "for": [
+      "ciało"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera SLS i mikroplastik.",
+        "video_id": "5rg7V52vbTc",
+        "video_title": "NO JOKE - THE WHOLE TRUTH ABOUT ZIAJA COSMETICS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:50"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "ziaja zel pod prysznic pomarancza pomaranczowa",
     "brand": "Ziaja",
     "name": "Żel pod prysznic Pomarańcza Pomarańczowa",
@@ -163049,6 +167267,35 @@
     "conflict": false
   },
   {
+    "key": "ziaja med hipoalergiczny krem ultra pielegnujacy do buzi i raczek dla dzieci od 1 dnia zycia",
+    "brand": "Ziaja Med",
+    "name": "Hipoalergiczny krem ultra-pielęgnujący do buzi i rączek dla dzieci od 1. dnia życia",
+    "category": "krem",
+    "ingredients": [
+      "emolienty"
+    ],
+    "for": [
+      "skóra atopowa",
+      "skóra podrażniona",
+      "skóra sucha",
+      "skóra tłusta i trądzikowa wyłącznie podczas kuracji retinoidami lub mocnymi kwasami",
+      "skóra z uszkodzoną barierą hydrolipidową"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, w 100% emolientowy krem apteczny w cenie do 20 zł, który tworzy szczelną okluzję, zapobiega transepidermalnej utracie wody (TEWL) i błyskawicznie naprawia barierę hydrolipidową.",
+        "video_id": "bUe0rvyWf5A",
+        "video_title": "EFEKT JUŻ PO 1 UŻYCIU - SKUTECZNA PIELĘGNACJA DLA KAŻDEGO!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "10:41"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "ziaja med krem liany krem do twarzy ultra odzywczy",
     "brand": "Ziaja med",
     "name": "Krem liany - krem do twarzy ultra odżywczy",
@@ -163103,6 +167350,30 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-12-10",
         "timestamp": "00:48"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja med krem okluzyjny od 1 dnia zycia dla dzieci",
+    "brand": "Ziaja Med",
+    "name": "Krem okluzyjny od 1. dnia życia dla dzieci",
+    "category": "krem",
+    "ingredients": [],
+    "for": [
+      "pielęgnacja nocna",
+      "skóra przesuszona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobry krem okluzyjny na noc; nie nadaje się pod makijaż na dzień, bo jest zbyt tłusty",
+        "video_id": "0CphXreiKco",
+        "video_title": "EFFECTS AFTER JUST 1 USE - YOU WILL BE SHOCKED!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2025-11-01",
+        "timestamp": "09:41"
       }
     ],
     "verdict": "polecany",
