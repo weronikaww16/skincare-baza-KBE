@@ -9875,10 +9875,9 @@
   "9snSvE6nbV0": {
     "title": "ROSSMANN - NEW ARRIVALS ARE HERE❗️- WHAT'S WORTH BUYING?",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-01",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-03",
+    "status": "done",
+    "summary": "Autor filmu przedstawia nowości kosmetyczne dostępne w Rossmannie, omawiając ich skład, działanie, cenę oraz rekomendując je do określonych typów skóry."
   },
   "bAKlcZU_vrI": {
     "title": "RESULT AFTER JUST 1 USE! A cosmetic for everyone!",
@@ -9888,20 +9887,18 @@
     "summary": "Film poświęcony jest recenzji i rekomendacji nawilżającego toniku-esencji bezwacikowej marki Uzdrovisco z czarnym tulipanem. Autor szczegółowo omawia skład, mechanizm działania, zastosowane technologie oraz zasady łączenia produktu z innymi składnikami aktywnymi podczas kuracji retynolem."
   },
   "U0T76F_yvYw": {
-    "title": "THE ONLY FACE CREAM OF ITS KIND IN POLAND!",
+    "title": "JEDYNY TAKI KREM DO TWARZY W POLSCE!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-11-03",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Autor omawia innowacyjny preparat SOS do twarzy i ciała z apteki, przeznaczony do pielęgnacji skóry wrażliwej, atopowej, przesuszonej i skłonnej do podrażnień. Prezentuje jego skład, działanie oraz zasady łączenia z innymi składnikami aktywnymi w pielęgnacji."
   },
   "Q2zABqdCxY8": {
     "title": "I WILL TEACH YOU HEALTHY CARE!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-11-03",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Film przedstawia analizę błędów w świadomej pielęgnacji skóry. Autor omówił zasady stosowania różnych kwasów, peelingów, retinolu oraz maseczek, zwracając uwagę na dobór produktów do konkretnych typów cery i unikanie szkodliwych połączeń składników."
   },
   "GZT4NpMjDIE": {
     "title": "KNOWLEDGE IN A NUTSHELL - Peptides and vitamin C in cosmetics.",
@@ -9948,10 +9945,9 @@
   "NDhCjxmLyuk": {
     "title": "Najlepszy KALENDARZ ADWENTOWY W 2024 ROKU dla każdego - Wypróbuj póki jest dostępny!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2025-11-03",
-    "attempts": 1,
-    "status": "failed",
-    "error": "Expecting property name enclosed in double quotes: line 227 column 7 (char 5920)"
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Autor otwiera kalendarz adwentowy marki Sylveco i prezentuje oraz ocenia zawarte w nim produkty kosmetyczne. Omawia składy poszczególnych kremów, serów, żeli i peelingów oraz dzieli się swoimi wrażeniami."
   },
   "t4-98Q89aGk": {
     "title": "VISIBLE EFFECTS AFTER JUST 1 USE - YOU HAVE TO SEE IT!",
@@ -10085,5 +10081,49 @@
     "date": "2025-11-03",
     "status": "done",
     "summary": "Autor omawia innowacyjny składnik w pielęgnacji skóry – hialuronian retinolu – oraz prezentuje serum mikrozastrzyk z tej serii marki Soraya. Tłumaczy, czym ten składnik różni się od klasycznego retinolu i jak bezpiecznie włączyć go do codziennej rutyny pielęgnacyjnej."
+  },
+  "ivu0ZWL0fLE": {
+    "title": "ROSSMANN❗️- LEĆ PO TEN GENIALNY KOREKTOR ZA 16 ZŁOTYCH❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-03",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+  },
+  "V8mqnrgiAGY": {
+    "title": "WHICH FACE POWDER IS BETTER?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-03",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+  },
+  "0Y_7b6boY-s": {
+    "title": "Najlepszy krem do twarzy w ACTION za 7 złotych!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Autor filmu przedstawia recenzję taniego kremu do twarzy od marki The Skin Dr. Ocenia jego konsystencję, działanie i skład, omawiając, dla jakich typów skóry będzie on odpowiedni oraz jak go stosować w codziennej pielęgnacji."
+  },
+  "nhPcFo8-DKM": {
+    "title": "HALLO❗️Mamy idealny krem BB w Polsce!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Autor testuje tanie kosmetyki kolorowe z Hebe, m.in. krem BB, bazę, puder, rozświetlacz i fixer w sprayu, oceniając ich działanie i skład."
+  },
+  "O8v2VL_BNgw": {
+    "title": "EYE LIFTING FOR 20 PLN - Something incredible!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "W filmie autor omawia liftingujące serum pod oczy polskiej marki Nacomi, analizując jego składniki aktywne, działanie oraz stosunek jakości do ceny. Dzieli się swoimi wrażeniami z wielomiesięcznego stosowania produktu i podpowiada, jak włączyć go do codziennej pielęgnacji."
+  },
+  "mzy7vRAJJ34": {
+    "title": "Effective and pleasant face cream in Poland!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2025-11-04",
+    "status": "done",
+    "summary": "Autor omawia mit o stosowaniu kremów z filtrem (SPF) wyłącznie latem oraz konieczność ochrony przeciwsłonecznej przez cały rok. Analizuje działanie oraz potencjalne zagrożenia filtrów chemicznych i mineralnych, a na koniec rekomenduje konkretny krem z filtrem chemicznym."
   }
 }
