@@ -6109,6 +6109,33 @@
     "conflict": false
   },
   {
+    "key": "aa wings of color hazel light wypiekany puder do twarzy",
+    "brand": "AA Wings of Color",
+    "name": "Hazel Light wypiekany puder do twarzy",
+    "category": "puder",
+    "ingredients": [
+      "fenoksyetanol"
+    ],
+    "for": [
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje piękne, satynowo-jedwabiste, promienne wykończenie z efektem bluru i Photoshopu. Jest typowo nawilżający i pielęgnujący dla skóry, ma bardzo dobry skład bez talku i mikroplastików, jednak przez zawartość fenoksyetanolu nie nadaje się dla kobiet w ciąży i karmiących.",
+        "video_id": "V8mqnrgiAGY",
+        "video_title": "WHICH FACE POWDER IS BETTER?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-04",
+        "timestamp": "00:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "aa wings of color healthy wear translucent pinkish powder",
     "brand": "AA Wings of Color",
     "name": "Healthy Wear Translucent Pinkish Powder",
@@ -53891,6 +53918,42 @@
     "conflict": false
   },
   {
+    "key": "essence silky blur concealer",
+    "brand": "Essence",
+    "name": "Silky Blur Concealer",
+    "category": "korektor",
+    "ingredients": [
+      "barwniki",
+      "emolient",
+      "eteryloheksylogliceryna",
+      "fenoksyetanol",
+      "gliceryna",
+      "humektant",
+      "krzemionka",
+      "stabilizator",
+      "woda",
+      "wosk",
+      "zagęstnik"
+    ],
+    "for": [
+      "cienie pod oczami",
+      "każdy typ skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Kosztuje 16 zł, ma świetny skład, dobre krycie i daje matowo-nawilżające wykończenie.",
+        "video_id": "ivu0ZWL0fLE",
+        "video_title": "ROSSMANN❗️- RUN TO GET THIS BRILLIANT $4 CONCEALER❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-04",
+        "timestamp": "01:14"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "essence silky blur hydrating longwear concealer",
     "brand": "essence",
     "name": "silky blur hydrating longwear concealer",
@@ -54486,6 +54549,27 @@
     "conflict": false
   },
   {
+    "key": "eveline blur me puder w kamieniu",
+    "brand": "Eveline",
+    "name": "Blur Me puder w kamieniu",
+    "category": "puder",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor zrezygnował z jego zakupu i odradza go, ponieważ według opinii produkt tworzy różową twarz.",
+        "video_id": "V8mqnrgiAGY",
+        "video_title": "WHICH FACE POWDER IS BETTER?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-04",
+        "timestamp": "04:07"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "eveline celebrite skin paletka",
     "brand": "Eveline",
     "name": "Celebrite Skin Paletka",
@@ -54680,6 +54764,29 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-12-08",
         "timestamp": "00:09"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "eveline cloud touch puder do twarzy",
+    "brand": "Eveline",
+    "name": "Cloud Touch puder do twarzy",
+    "category": "puder",
+    "ingredients": [],
+    "for": [
+      "osoby szukające efektu wygładzenia i delikatnego zmatowienia bez przesuszenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zapewnia efekt Photoshopa i mocnego rozmycia (blur), dając satynowe wykończenie z nieco większym zmatowieniem niż Hazel Light. Nie przesusza, nie tworzy efektu mąki, przedłuża trwałość makijażu i ma bardzo dobry, pielęgnujący skład pozbawiony talku czy mikroplastików.",
+        "video_id": "V8mqnrgiAGY",
+        "video_title": "WHICH FACE POWDER IS BETTER?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-04",
+        "timestamp": "00:28"
       }
     ],
     "verdict": "polecany",

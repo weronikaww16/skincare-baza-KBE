@@ -10083,20 +10083,18 @@
     "summary": "Autor omawia innowacyjny składnik w pielęgnacji skóry – hialuronian retinolu – oraz prezentuje serum mikrozastrzyk z tej serii marki Soraya. Tłumaczy, czym ten składnik różni się od klasycznego retinolu i jak bezpiecznie włączyć go do codziennej rutyny pielęgnacyjnej."
   },
   "ivu0ZWL0fLE": {
-    "title": "ROSSMANN❗️- LEĆ PO TEN GENIALNY KOREKTOR ZA 16 ZŁOTYCH❗️",
+    "title": "ROSSMANN❗️- RUN TO GET THIS BRILLIANT $4 CONCEALER❗️",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-03",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-04",
+    "status": "done",
+    "summary": "Autor omawia korektor marki Essence, przedstawia jego składy, techniki nakładania i ocenia go pod kątem działania matującego i nawilżającego."
   },
   "V8mqnrgiAGY": {
     "title": "WHICH FACE POWDER IS BETTER?",
     "channel": "Kacper Beauty Make-Up",
-    "date": "2026-11-03",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-04",
+    "status": "done",
+    "summary": "Film przedstawia porównanie i recenzję dwóch drogeryjnych pudrów do twarzy: AA Wings of Color Hazel Light oraz Eveline Cloud Touch pod kątem ich właściwości, wykończenia oraz składu."
   },
   "0Y_7b6boY-s": {
     "title": "Najlepszy krem do twarzy w ACTION za 7 złotych!",
@@ -10125,5 +10123,13 @@
     "date": "2025-11-04",
     "status": "done",
     "summary": "Autor omawia mit o stosowaniu kremów z filtrem (SPF) wyłącznie latem oraz konieczność ochrony przeciwsłonecznej przez cały rok. Analizuje działanie oraz potencjalne zagrożenia filtrów chemicznych i mineralnych, a na koniec rekomenduje konkretny krem z filtrem chemicznym."
+  },
+  "1Gu25u5Mljg": {
+    "title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-04",
+    "attempts": 1,
+    "status": "failed",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   }
 }
