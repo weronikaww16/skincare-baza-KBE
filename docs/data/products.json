@@ -24306,17 +24306,26 @@
     "name": "Coconut Milk",
     "category": "krem",
     "ingredients": [
+      "beta-glukan",
       "ekstrakt z kokosa",
+      "hialuronian sodu",
+      "kwas mlekowy",
+      "mleczan sodu",
       "mleczko kokosowe",
       "olej kokosowy",
+      "oligosacharydy",
       "prebiotyki",
       "probiotyki",
       "probityki",
-      "substancje lipidowe"
+      "substancje lipidowe",
+      "sól",
+      "woda kokosowa"
     ],
     "for": [
       "bezproblemowa",
+      "każdy typ skóry",
       "skóra normalna",
+      "skóra odwodniona i nawilżana w głębszych warstwach",
       "skóra tłusta (ostrożnie)",
       "skóra wymagająca nawilżenia, regeneracji i ukojenia",
       "sucha",
@@ -24349,6 +24358,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-17",
         "timestamp": "04:31"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Mocno nawilżający krem bezpieczny dla każdego typu skóry, zapewniający uczucie gładkości i miękkości oraz tzw. coconut effect.",
+        "video_id": "VRNHerI6pvI",
+        "video_title": "BIEDRONKA❗️ - YOU CAN BUY THIS EFFECTIVE FACE CREAM FOR 10 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-04",
+        "timestamp": "01:37"
       }
     ],
     "verdict": "polecany",
@@ -28377,6 +28395,55 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda multi active balancing protecting face concentrate multi aktywny rownowazaco ochronny koncentrat do twarzy",
+    "brand": "Bielenda",
+    "name": "Multi-Active Balancing & Protecting Face Concentrate (Multi-aktywny równoważąco-ochronny koncentrat do twarzy)",
+    "category": "serum",
+    "ingredients": [
+      "Disodium EDTA",
+      "Lactobacillus",
+      "arginina PCA",
+      "beta-glukan",
+      "fenoksyetanol",
+      "gliceryna",
+      "glikoaminoglikany",
+      "glikol propylenowy",
+      "glukonian wapnia",
+      "glukonolakton",
+      "hialuronian sodu",
+      "kwas hialuronowy",
+      "kwas mlekowy",
+      "maltodekstryna",
+      "mleczan sodu",
+      "mocznik (urea)",
+      "oczar wirginijski",
+      "oligosacharydy alfa-glukanu",
+      "prolina",
+      "woda"
+    ],
+    "for": [
+      "skóra dysfunkcyjna",
+      "skóra naczynkowa",
+      "skóra podczas kuracji retinoidami lub kwasami",
+      "skóra podrażniona i reaktywna",
+      "trądzik różowaty",
+      "uszkodzona bariera hydrolipidowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo bogaty skład o wysokim stężeniu składników biologicznie czynnych, doskonałe działanie wyciszające rumień, regenerujące barierę skóry oraz atrakcyjna cena w stosunku do jakości.",
+        "video_id": "lUMNoH_U7vc",
+        "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-05",
+        "timestamp": "02:18"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -34998,6 +35065,31 @@
     "conflict": false
   },
   {
+    "key": "bielenda skin clinic professional serum z ceramidami",
+    "brand": "Bielenda Skin Clinic Professional",
+    "name": "Serum z ceramidami",
+    "category": "serum",
+    "ingredients": [
+      "ceramidy"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wspomniany dla porównania – produkt oparty na innej koncepcji odbudowy bariery lipidowej za pomocą ceramidów.",
+        "video_id": "lUMNoH_U7vc",
+        "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-05",
+        "timestamp": "09:14"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "bielenda skin clinic professional serum z kwasem hialuronowym i peptydami miedzi",
     "brand": "Bielenda Skin Clinic Professional",
     "name": "Serum z kwasem hialuronowym i peptydami miedzi",
@@ -35635,6 +35727,31 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda supremelab eliksir nmf",
+    "brand": "Bielenda Supremelab",
+    "name": "Eliksir NMF",
+    "category": "serum",
+    "ingredients": [
+      "NMF (Natural Moisturizing Factor)"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wspomniany porównawczo jako produkt oparty o naturalny czynnik nawilżający (NMF) o innej dynamice działania.",
+        "video_id": "lUMNoH_U7vc",
+        "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-05",
+        "timestamp": "09:18"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -54990,6 +55107,37 @@
     "conflict": false
   },
   {
+    "key": "eveline multi peptide colloidal gold serum lifting",
+    "brand": "Eveline",
+    "name": "Multi Peptide & Colloidal Gold Serum Lifting",
+    "category": "serum",
+    "ingredients": [
+      "koloidalne złoto",
+      "kwas hialuronowy",
+      "peptydy",
+      "pullulan"
+    ],
+    "for": [
+      "skóra dojrzała",
+      "skóra wymagająca nawilżenia",
+      "utrata jędrności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Skład się nie zmienił od 3 lat, działa ujędrniająco, nawilżająco i przeciwzmarszczkowo. Dobry stosunek ceny do jakości.",
+        "video_id": "1Gu25u5Mljg",
+        "video_title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-05",
+        "timestamp": "03:34"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "eveline olive powder",
     "brand": "Eveline",
     "name": "Olive Powder",
@@ -55076,6 +55224,37 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-12-08",
         "timestamp": "01:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "eveline serum nawilzajace 100 nawilzona skora",
+    "brand": "Eveline",
+    "name": "Serum Nawilżające 100% Nawilżona Skóra",
+    "category": "serum",
+    "ingredients": [
+      "kwas hialuronowy",
+      "trehaloza",
+      "witamina B5"
+    ],
+    "for": [
+      "odwodniona",
+      "skóra normalna",
+      "sucha",
+      "szara",
+      "wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobry booster nawilżenia i przenikania innych składników aktywnych, świetny skład i niska cena.",
+        "video_id": "1Gu25u5Mljg",
+        "video_title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-05",
+        "timestamp": "09:56"
       }
     ],
     "verdict": "polecany",
@@ -130936,6 +131115,38 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "pierre rene idylla natural foundation",
+    "brand": "Pierre Rene",
+    "name": "Idylla Natural Foundation",
+    "category": "podkład",
+    "ingredients": [
+      "ekstrakt z rozmarynu",
+      "ekstrakt z rumianku",
+      "gliceryna",
+      "lecytyna",
+      "masło shea",
+      "naturalne antyoksydanty",
+      "olej jojoba",
+      "witamina E"
+    ],
+    "for": [
+      "dla kobiet i mężczyzn ceniących piękno i zdrowie skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Luxusowy produkt, który zmienia codzienny makijaż w pielęgnacyjny rytuał piękna, nawilża, chroni cerę i dba o równowagę hydrolipidową.",
+        "video_id": "OZ1jwDiWvtU",
+        "video_title": "WE HAVE THE NEWEST FOUNDATION THAT DESERVES TO GO VIRAL!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-05",
+        "timestamp": "00:21"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {

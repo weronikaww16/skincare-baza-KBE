@@ -13778,6 +13778,34 @@
       "video_title": "EYE LIFTING FOR 20 PLN - Something incredible!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-04"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Disodium EDTA (w koncentracie)",
+        "peptydy miedziowe"
+      ],
+      "rule": "Nie należy łączyć koncentratu Bielenda z peptydami miedziowymi w jednej rutynie pielęgnacyjnej.",
+      "why": "Koncentrat zawiera chelator Disodium EDTA, który wyklucza łączenie z peptydami miedziowymi.",
+      "timestamp": "05:57",
+      "video_id": "lUMNoH_U7vc",
+      "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "witamina C (czysta kwas L-askorbinowa)",
+        "peptydy"
+      ],
+      "rule": "Zakaz łączenia czystej witaminy C z peptydami w jednej rutynie.",
+      "why": "Wszystkie inne formy witaminy C poza tetradestabilizują peptydy i doprowadzają do reakcji krzyżowo-kontaktowej oraz zeroinowania bariery hydrolipidowej.",
+      "timestamp": "08:44",
+      "video_id": "1Gu25u5Mljg",
+      "video_title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
     }
   ],
   "routines": [
@@ -23307,6 +23335,34 @@
       "video_title": "EYE LIFTING FOR 20 PLN - Something incredible!",
       "channel": "Kacper Skin Ekspert",
       "date": "2025-11-04"
+    },
+    {
+      "problem": "skóra podrażniona, dysfunkcyjna, kuracje retinoidami lub kwasami",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja koncentratu jako pierwszy krok (booster) na oczyszczoną skórę",
+        "Kolejne produkty aktywne lub krem dobrany według konsystencji"
+      ],
+      "notes": "Jeśli zależy nam głównie na ukojeniu, produkt wjeżdża jako pierwszy; jeśli ma być dodatkiem, nakłada się go po głównym składniku aktywnym. Wystarczy stosować 2–3 razy w tygodniu.",
+      "timestamp": "07:54",
+      "video_id": "lUMNoH_U7vc",
+      "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "problem": "odwodnienie i nawilżenie skóry",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożenie kremu Coconut Milk rano",
+        "nałożenie kremu Coconut Milk wieczorem"
+      ],
+      "notes": "Krem można stosować rano i wieczorem, idealnie sprawdza się pod makijaż.",
+      "timestamp": "02:20",
+      "video_id": "VRNHerI6pvI",
+      "video_title": "BIEDRONKA❗️ - YOU CAN BUY THIS EFFECTIVE FACE CREAM FOR 10 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-04"
     }
   ],
   "tips": [
@@ -38724,6 +38780,60 @@
       "timestamp": "08:35",
       "video_id": "ivu0ZWL0fLE",
       "video_title": "ROSSMANN❗️- RUN TO GET THIS BRILLIANT $4 CONCEALER❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-04"
+    },
+    {
+      "topic": "Trwałość produktu (PAO)",
+      "tip": "Produkt po otwarciu zachowuje przydatność przez 4 miesiące (PAO 4M).",
+      "timestamp": "06:19",
+      "video_id": "lUMNoH_U7vc",
+      "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "topic": "Przeciwwskazania w ciąży i laktacji",
+      "tip": "Ze względu na obecność fenoksyetanolu w składzie produkt nie jest rekomendowany dla kobiet w ciąży oraz karmiących piersią.",
+      "timestamp": "06:08",
+      "video_id": "lUMNoH_U7vc",
+      "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "topic": "Cechy skóry dysfunkcyjnej",
+      "tip": "Skóra dysfunkcyjna to skóra z naruszoną lub pozbawioną barierą hydrolipidową, która reaguje histerycznie na zmiany temperatur, mycie czy kosmetyki poprzez nagłe zaczerwienienie i pieczenie.",
+      "timestamp": "00:53",
+      "video_id": "lUMNoH_U7vc",
+      "video_title": "WE ALL WANT RESULTS LIKE THIS❗️- A PRODUCT THAT REALLY WORKS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "topic": "Zakupy w Biedronce",
+      "tip": "W Biedronce można kupić dwa produkty kosmetyczne taniej o 90% na drugi produkt.",
+      "timestamp": "01:33",
+      "video_id": "1Gu25u5Mljg",
+      "video_title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-05"
+    },
+    {
+      "topic": "Wieczko w słoiczku",
+      "tip": "Krem ma wieczko w słoiczku, co stanowi materiał dowodowy w razie reklamacji, że produkt nie był otwierany.",
+      "timestamp": "05:50",
+      "video_id": "VRNHerI6pvI",
+      "video_title": "BIEDRONKA❗️ - YOU CAN BUY THIS EFFECTIVE FACE CREAM FOR 10 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-04"
+    },
+    {
+      "topic": "Wznawianie produkcji kosmetyków",
+      "tip": "Jeżeli nie zmienia się składu i receptury kosmetyku, można wznowić produkcję i sprzedaż na podstawie wcześniejszych badań.",
+      "timestamp": "09:40",
+      "video_id": "VRNHerI6pvI",
+      "video_title": "BIEDRONKA❗️ - YOU CAN BUY THIS EFFECTIVE FACE CREAM FOR 10 PLN❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-04"
     }
