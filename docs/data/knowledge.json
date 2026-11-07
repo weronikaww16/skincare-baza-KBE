@@ -13806,6 +13806,36 @@
       "video_title": "BIEDRONKA❗️- I BOUGHT 2 COSMETICS FOR UNDER 20 PLN❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-05"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "podkład",
+        "witamina C"
+      ],
+      "rule": "Należy uważać przy nakładaniu podkładu na kosmetyki z witaminą C, z wyjątkiem formy tetraizopalmitynianu askorbylu.",
+      "why": "Niestabilne formy witaminy C (np. kwas askorbinowy, etylowany kwas askorbinowy, SAP) mogą wchodzić w reakcję i powodować oksydację pigmentów w podkładzie.",
+      "timestamp": "06:48",
+      "video_id": "3kMoEldZIUQ",
+      "video_title": "BIEDRONKA - GET THIS FOUNDATION FOR 15 PLN ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-07"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "podkład",
+        "ceramidy",
+        "peptydy",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Podkład można bez przeszkód łączyć w pielęgnacji z ceramidami, peptydami i tripeptydem miedziowym.",
+      "why": "Składniki te świetnie ze sobą współgrają, podkład nie traci właściwości i zachowuje estetyczny wygląd na skórze.",
+      "timestamp": "09:46",
+      "video_id": "3kMoEldZIUQ",
+      "video_title": "BIEDRONKA - GET THIS FOUNDATION FOR 15 PLN ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-07"
     }
   ],
   "routines": [
@@ -38890,6 +38920,24 @@
       "video_title": "ROSSMANN - THE BEST ADVENT CALENDAR ❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-05"
+    },
+    {
+      "topic": "Aplikacja podkładu",
+      "tip": "Podkład najlepiej aplikować wilgotną gąbeczką, ponieważ przy nakładaniu dłońmi zastyga i utrwala się bardzo szybko, dając mniej czasu na roztarcie.",
+      "timestamp": "01:46",
+      "video_id": "3kMoEldZIUQ",
+      "video_title": "BIEDRONKA - GET THIS FOUNDATION FOR 15 PLN ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-07"
+    },
+    {
+      "topic": "Poprawki w ciągu dnia",
+      "tip": "Jeśli podkład po wielu godzinach lekko się zetrze (np. na nosie), nie należy rozcierać go na sucho; lepiej nanieść na dłoń odrobinę mgiełki nawilżającej i wklepać w starte miejsce, co przywróci mu jednolity wygląd.",
+      "timestamp": "09:14",
+      "video_id": "3kMoEldZIUQ",
+      "video_title": "BIEDRONKA - GET THIS FOUNDATION FOR 15 PLN ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-07"
     }
   ]
 }
