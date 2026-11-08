@@ -16564,6 +16564,98 @@
     "conflict": false
   },
   {
+    "key": "be beauty ekspresowa maska do wosow czerwona piramidka",
+    "brand": "Be Beauty",
+    "name": "Ekspresowa maska do włosów (czerwona piramidka)",
+    "category": "maska",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Mimo poprawnego składu nie sprawdziła się u autora i nie przypadła mu do gustu.",
+        "video_id": "rX9CiVi60VM",
+        "video_title": "BIEDRONKA❗️- TWO MUST-HAVES FOR EVERYONE FOR 5.99 PLN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-08",
+        "timestamp": "01:38"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty ekspresowa maska do wosow suchych niebieska piramidka",
+    "brand": "Be Beauty",
+    "name": "Ekspresowa maska do włosów suchych (niebieska piramidka)",
+    "category": "maska",
+    "ingredients": [
+      "alkohol tłuszczowy",
+      "ekstrakt z ryżu",
+      "inulina",
+      "kwas mlekowy",
+      "masło shea",
+      "olej arganowy",
+      "pantenol",
+      "witamina E (tokoferol)"
+    ],
+    "for": [
+      "kobiety w ciąży i karmiące piersią",
+      "przesuszona skóra głowy",
+      "sucha skóra głowy",
+      "włosy suche"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobry, bezpieczny skład wzmacniający barierę hydrolipidową skóry głowy oraz nawilżający i wygładzający włosy; niska cena.",
+        "video_id": "rX9CiVi60VM",
+        "video_title": "BIEDRONKA❗️- TWO MUST-HAVES FOR EVERYONE FOR 5.99 PLN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-08",
+        "timestamp": "01:46"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty ekspresowa maska do wosow zniszczonych zota zota piramidka",
+    "brand": "Be Beauty",
+    "name": "Ekspresowa maska do włosów zniszczonych (złota/żółta piramidka)",
+    "category": "maska",
+    "ingredients": [
+      "alkohole tłuszczowe",
+      "anhyroksylitol",
+      "gliceryna",
+      "ksylitol",
+      "ksylityloglukozyd",
+      "kwas mlekowy",
+      "niacynamid",
+      "octan tokoferylu (witamina E)",
+      "olej arganowy",
+      "olej tsubaki"
+    ],
+    "for": [
+      "odbudowa bariery hydrolipidowej skóry głowy",
+      "sucha skóra głowy",
+      "włosy zniszczone"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Wzorowy, bogaty skład regenerujący barierę hydrolipidową i silnie nawadniający skórę głowy oraz wygładzający zniszczone włosy; bardzo wydajna.",
+        "video_id": "rX9CiVi60VM",
+        "video_title": "BIEDRONKA❗️- TWO MUST-HAVES FOR EVERYONE FOR 5.99 PLN!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-08",
+        "timestamp": "04:54"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "be beauty fluid matujacy",
     "brand": "Be Beauty",
     "name": "Fluid matujący",
@@ -131695,6 +131787,42 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "07:55"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pierre rene compact powder",
+    "brand": "Pierre Rene",
+    "name": "Compact Powder",
+    "category": "puder",
+    "ingredients": [
+      "etyloheksylogliceryna",
+      "fenoksyetanol",
+      "gliceryna",
+      "krzemian",
+      "krzemionka",
+      "mika",
+      "niacynamid",
+      "octan tokoferylu",
+      "olejek",
+      "palmitoyl tripeptide-1",
+      "pochodna lizyny",
+      "puder jedwabny",
+      "stearynian cynku",
+      "witamina E"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Skład oceniony jako wzorowy; puder ma właściwości pielęgnacyjne, nawilżające i wygładzające, choć ze względu na fenoksyetanol nie jest zalecany dla kobiet w ciąży i karmiących piersią.",
+        "video_id": "r2eKx9tD0AU",
+        "video_title": "ANOTHER BIG MAKEUP HIT!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-07",
+        "timestamp": "02:06"
       }
     ],
     "verdict": "polecany",
