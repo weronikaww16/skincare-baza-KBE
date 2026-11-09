@@ -13836,6 +13836,20 @@
       "video_title": "BIEDRONKA - GET THIS FOUNDATION FOR 15 PLN ❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-07"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "produkty pszczele",
+        "aloes"
+      ],
+      "rule": "Osoby uczulone na produkty pszczele lub aloes nie powinny stosować tych kosmetyków",
+      "why": "Składniki te mogą wywołać reakcję alergiczną u osób nadwrażliwych.",
+      "timestamp": "01:21",
+      "video_id": "-enWJ8xyjRk",
+      "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-09"
     }
   ],
   "routines": [
@@ -23408,6 +23422,22 @@
       "video_title": "BIEDRONKA❗️- TWO MUST-HAVES FOR EVERYONE FOR 5.99 PLN!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-08"
+    },
+    {
+      "problem": "sucha, podrażniona skóra głowy lub nadmierne przetłuszczanie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Umycie skóry głowy szamponem",
+        "Aplikacja odżywki na skórę głowy i włosy na maksymalnie do 20 minut",
+        "Dokładne spłukanie wodą",
+        "Aplikacja wcierek lub innych produktów bez spłukiwania"
+      ],
+      "notes": "Składniki aktywne penetrują najsilniej w pierwszych minutach; na długofalowe rezultaty kuracji należy odczekać co najmniej dwa tygodnie.",
+      "timestamp": "06:16",
+      "video_id": "-enWJ8xyjRk",
+      "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-09"
     }
   ],
   "tips": [
@@ -38989,6 +39019,33 @@
       "video_title": "BIEDRONKA❗️- TWO MUST-HAVES FOR EVERYONE FOR 5.99 PLN!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-08"
+    },
+    {
+      "topic": "Regeneracja zniszczonych włosów",
+      "tip": "Martwego, zniszczonego włosa nie da się naprawić od środka – można jedynie wizualnie poprawić jego stan i wygładzić go do momentu ścięcia.",
+      "timestamp": "03:10",
+      "video_id": "-enWJ8xyjRk",
+      "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-09"
+    },
+    {
+      "topic": "Maksymalny czas trzymania odżywki",
+      "tip": "Nie należy trzymać odżywek na skórze głowy dłużej niż 20 minut, ponieważ po tym czasie skóra jest już nasycona substancjami aktywnymi.",
+      "timestamp": "06:16",
+      "video_id": "-enWJ8xyjRk",
+      "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-09"
+    },
+    {
+      "topic": "Ekspresowe kondycjonowanie",
+      "tip": "W przypadku braku czasu na zabieg na skórę głowy wystarczy rozprowadzić produkt na długości włosów na 10 sekund i spłukać.",
+      "timestamp": "10:17",
+      "video_id": "-enWJ8xyjRk",
+      "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-09"
     }
   ]
 }

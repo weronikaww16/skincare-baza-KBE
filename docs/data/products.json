@@ -16181,6 +16181,40 @@
     "conflict": false
   },
   {
+    "key": "barwa odzywka miodowa do wosow suchych i zniszczonych",
+    "brand": "Barwa",
+    "name": "Odżywka miodowa (do włosów suchych i zniszczonych)",
+    "category": "odżywka",
+    "ingredients": [
+      "cetearyl alcohol",
+      "ekstrakt z miodu",
+      "gliceryna",
+      "masło shea",
+      "mleczko pszczele",
+      "oliwa z oliwek",
+      "propolis"
+    ],
+    "for": [
+      "sucha i wrażliwa skóra głowy",
+      "sucha skóra głowy",
+      "suche i zniszczone włosy",
+      "łuszcząca się skóra głowy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo krótki, ale aktywny skład humektantowo-emolientowy bez fenoksyetanolu i silikonów. Znakomicie nawilża i regeneruje suchą, łuszczącą się skórę głowy oraz wygładza włosy.",
+        "video_id": "-enWJ8xyjRk",
+        "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-09",
+        "timestamp": "02:30"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "barwa odzywka octowa do wosow naturalnych i matowych",
     "brand": "barwa",
     "name": "Odżywka octowa do włosów naturalnych i matowych",
@@ -16211,6 +16245,45 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-08-26",
         "timestamp": "01:42"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "barwa odzywka propolis i opian",
+    "brand": "Barwa",
+    "name": "Odżywka Propolis i Łopian",
+    "category": "odżywka",
+    "ingredients": [
+      "bioflawonoidy",
+      "biotyna",
+      "ekstrakt z propolisu",
+      "ekstrakt z łopianu",
+      "ekstrakt z żeń-szenia",
+      "kwas linolowy",
+      "masło shea",
+      "olej jojoba",
+      "olej rycynowy",
+      "oliwa z oliwek",
+      "pantenol",
+      "pirydoksyna HCl"
+    ],
+    "for": [
+      "cienkie włosy",
+      "przetłuszczająca się skóra głowy",
+      "wypadanie włosów",
+      "łupież"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bogaty skład regulujący wydzielanie sebum i działający przeciwłupieżowo. Wzmacnia mieszki włosowe i przyspiesza wzrost włosów, nie obciążając skóry głowy przy odpowiedniej ilości.",
+        "video_id": "-enWJ8xyjRk",
+        "video_title": "MAX RESULTS FOR EVERYONE❗️- HITS UNDER 15 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-09",
+        "timestamp": "07:22"
       }
     ],
     "verdict": "polecany",
