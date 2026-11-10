@@ -62519,14 +62519,30 @@
     "name": "Maść witaminowa",
     "category": "maść",
     "ingredients": [
+      "alantoina",
+      "aloe vera",
+      "digliceryd",
+      "ekstrakt z aloesu",
+      "kwas linolowy",
+      "octan tokoferylu",
+      "palmitynian retinylu",
+      "pantenol",
+      "stearynian alkoholu",
+      "tokoferol",
       "witamina A",
       "witamina E",
       "witamina F"
     ],
     "for": [
       "każdy rodzaj skóry",
+      "otarcia",
       "pod makijaż",
-      "skóra potrzebująca regeneracji"
+      "podrażnienia",
+      "skóra potrzebująca regeneracji",
+      "skóra sucha",
+      "skóra wrażliwa",
+      "stany wymagające regeneracji i nawilżenia",
+      "łuszczenie"
     ],
     "mentions": [
       {
@@ -62537,9 +62553,18 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-28",
         "timestamp": "08:16"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Regeneruje, nawilża, chroni barierę hydrolipidową, nie zapycha i jest bardzo tania (około 13 zł).",
+        "video_id": "_syCSzEczrQ",
+        "video_title": "SHOCK❗️- THE BEST PHARMACY FACIAL TREASURE FOR $3❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-09",
+        "timestamp": "01:17"
       }
     ],
-    "verdict": "neutralny",
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -131866,6 +131891,51 @@
     "conflict": false
   },
   {
+    "key": "pierre rene byszczyk do ust",
+    "brand": "Pierre Rene",
+    "name": "błyszczyk do ust",
+    "category": "pomadka",
+    "ingredients": [
+      "aroma",
+      "benzyl alcohol",
+      "benzyl benzoate",
+      "ci 15850",
+      "ci 19140",
+      "ci 77491",
+      "ci 77499",
+      "ci 77891",
+      "eugenol",
+      "geraniol",
+      "helianthus annuus seed wax",
+      "hydrogenated castor oil",
+      "linalool",
+      "octyldodecanol",
+      "octyldodecyl stearoyl stearate",
+      "pentaerythrityl tetraisostearate",
+      "polibutene",
+      "ricinus communis seed oil",
+      "silica dimethyl silylate",
+      "sodium hyaluronate",
+      "tocopheryl acetate"
+    ],
+    "for": [
+      "suche usta"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Skład jest niezwykle czysty, autor nie ma do niego żadnych negatywnych uwag, produkt ma działanie nawilżające i emolientowe.",
+        "video_id": "1e6F1392-eI",
+        "video_title": "GREAT WONDERS WORTH SEEING!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-10",
+        "timestamp": "00:18"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "pierre rene compact powder",
     "brand": "Pierre Rene",
     "name": "Compact Powder",
@@ -132027,6 +132097,56 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2026-07-27",
         "timestamp": "06:58"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pierre rene lip duo",
+    "brand": "Pierre René",
+    "name": "Lip Duo",
+    "category": "konturówka do ust",
+    "ingredients": [
+      "CETEARYL BEHENATE",
+      "CI 15850",
+      "CI 16035",
+      "CI 19140",
+      "CI 42090",
+      "CI 77491",
+      "CI 77492",
+      "CI 77499",
+      "CI 77742",
+      "CI 77891",
+      "ETHYLHEXYL PALMITATE",
+      "HYDROGENATED JOJOBA OIL",
+      "ISOAMYL LAURATE",
+      "ISODODECANE",
+      "KAOLIN",
+      "MICA",
+      "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+      "POLYBUTENE",
+      "SILICA",
+      "SODIUM HYALURONATE",
+      "SUCROSE TETRASTEARATE TRIACETATE",
+      "SYNTHETIC FLUORPHLOGOPITE",
+      "SYNTHETIC WAX",
+      "TRIHYDROXYSTEARIN",
+      "TRIMETHYLSILOXYSILICATE"
+    ],
+    "for": [
+      "kobiety w ciąży",
+      "matki karmiące piersią"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Skład jest wzorowy, zawiera emolienty zapobiegające utracie wody i stabilizatory, zapewnia nawilżenie i nie zawiera szkodliwych substancji.",
+        "video_id": "SKa4iptcDrk",
+        "video_title": "BIG HITS FOR EVERYONE!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-10",
+        "timestamp": "01:16"
       }
     ],
     "verdict": "polecany",
@@ -132226,6 +132346,46 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-07-27",
         "timestamp": "02:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "pierre rene stick blush me",
+    "brand": "Pierre René",
+    "name": "Stick Blush Me",
+    "category": "róż do policzków",
+    "ingredients": [
+      "alkohol benzylowy",
+      "aromat",
+      "ekstrakt roślinny",
+      "glinka",
+      "kaolin",
+      "kwas dehydrooctowy",
+      "mika",
+      "octan tokoferylu",
+      "olej rycynowy",
+      "olej z oliwek",
+      "tokoferol",
+      "trigliceryd",
+      "witaminy E",
+      "wosk candelilla",
+      "woski"
+    ],
+    "for": [
+      "kobiet w ciąży",
+      "matki karmiące piersią"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Skład jest fenomenalny i wzorowy, brak fenoksyetanolu, bezpieczny dla kobiet w ciąży i karmiących piersią.",
+        "video_id": "xEYHz8EKfAA",
+        "video_title": "RÓŻE, KTÓRE WARTO KUPOWAĆ!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-10",
+        "timestamp": "01:10"
       }
     ],
     "verdict": "polecany",
