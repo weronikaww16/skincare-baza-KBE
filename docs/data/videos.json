@@ -10195,12 +10195,11 @@
     "summary": "Autor omawia dwie tanie odżywki marki Barwa bazujące na składnikach pszczelich, przeznaczone zarówno do pielęgnacji długości włosów, jak i skóry głowy. Analizuje ich składy, mechanizmy działania oraz podpowiada, jak poprawnie je aplikować w celu regeneracji bariery naskórkowej, ograniczenia przetłuszczania i wzmocnienia cebulek."
   },
   "z_n1TmgzCkc": {
-    "title": "ROSSMANN❗️- LUKSUS DO TWARZY ZA JEDYNE 30 ZŁOTYCH❗️",
+    "title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-10",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-11",
+    "status": "done",
+    "summary": "Autor recenzuje i poleca wielofunkcyjny mleczny tonik polskiej marki Dermika z linii Imperial. Szczegółowo omawia jego składniki aktywne, działanie na barierę hydrolipidową i właściwości przeciwstarzeniowe oraz porównuje go do drogiej emulsji luksusowej marki."
   },
   "1e6F1392-eI": {
     "title": "GREAT WONDERS WORTH SEEING!",
@@ -10229,5 +10228,12 @@
     "date": "2026-11-09",
     "status": "done",
     "summary": "Autor omawia zmiany w portfolio kosmetyków marki Gorvita oraz dokładnie analizuje skład i działanie maści witaminowej. Film skupia się na właściwościach poszczególnych składników aktywnych oraz możliwościach stosowania produktu w codziennej pielęgnacji."
+  },
+  "Yk_6LcykpLg": {
+    "title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-11",
+    "status": "done",
+    "summary": "Autor przypomina i szczegółowo omawia skondensowany wypełniacz zmarszczek Ziaja Remodeling 60+, analizując jego skład i wszechstronne działanie. Wyjaśnia, jak poprawnie aplikować produkt, z czym go łączyć, a jakich połączeń oraz dla kogo bezwzględnie unikać."
   }
 }

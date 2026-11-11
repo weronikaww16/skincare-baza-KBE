@@ -48858,6 +48858,52 @@
     "conflict": false
   },
   {
+    "key": "dermika imperial wrinkleless skin care wielofunkcyjny mleczny tonik hipoalergiczny",
+    "brand": "Dermika",
+    "name": "Imperial Wrinkleless Skin Care Wielofunkcyjny mleczny tonik hipoalergiczny",
+    "category": "tonik",
+    "ingredients": [
+      "Lactobacillus ferment",
+      "beta-sitosterol",
+      "biotyna",
+      "ekzosomy",
+      "estry masła shea",
+      "ferment ryżowy",
+      "fosfolipidy",
+      "gliceryna",
+      "hialuronian sodu",
+      "kwas hialuronowy",
+      "kwas mlekowy",
+      "olej canola",
+      "olej sojowy",
+      "polinukleotydy",
+      "skwalan",
+      "trehaloza",
+      "witamina E"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra naczynkowa",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra tłusta i trądzikowa (przy odpowiednim złuszczaniu)"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Przystępna cena (ok. 30-40 zł), znakomity skład z polinukleotydami, ekzosomami i fermentem ryżowym, silne działanie nawadniające, regenerujące barierę hydrolipidową oraz dające efekt satin glow / glass skin.",
+        "video_id": "z_n1TmgzCkc",
+        "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-11",
+        "timestamp": "02:07"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "dermika krem z serii kawiorowej",
     "brand": "Dermika",
     "name": "Krem z serii kawiorowej",
@@ -137467,6 +137513,30 @@
     "conflict": false
   },
   {
+    "key": "sensai kanebo emulsja super moist",
+    "brand": "Sensai Kanebo",
+    "name": "Emulsja Super Moist",
+    "category": "emulsja",
+    "ingredients": [],
+    "for": [
+      "skóra odwodniona",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Bardzo wysoka cena (około 400 zł) przy okropnym, beznadziejnym składzie oraz testowaniu na zwierzętach.",
+        "video_id": "z_n1TmgzCkc",
+        "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-11",
+        "timestamp": "01:36"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "sensum mare algodaily bogaty krem regenerujacy",
     "brand": "Sensum Mare",
     "name": "AlgoDaily Bogaty krem regenerujący",
@@ -171024,6 +171094,46 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "04:52"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja remodeling hialuronowy zel liftingujacy skondensowany wypeniacz zmarszczek",
+    "brand": "Ziaja",
+    "name": "Remodeling hialuronowy żel liftingujący skondensowany wypełniacz zmarszczek",
+    "category": "serum",
+    "ingredients": [
+      "ekstrakt z czerwono-złotego szafranu",
+      "ekstrakt ze słodkich migdałów (proteiny ze słodkich migdałów)",
+      "etyloheksylogliceryna",
+      "fenoksyetanol",
+      "gliceryna",
+      "glikol butylenowy",
+      "heksapeptyd-9",
+      "hialuronian sodu"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra narażona na smog i zanieczyszczenia (działanie anti-pollution)",
+      "skóra podrażniona i wrażliwa",
+      "skóra problematyczna i trądzikowa",
+      "skóra tłusta",
+      "skóra w trakcie kuracji retinoidami i kwasami",
+      "zaburzona bariera hydrolipidowa",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, minimalistyczny i bezzapachowy skład, bardzo niska cena, silne działanie stymulujące kolagen i elastynę, regenerujące barierę hydrolipidową oraz nawilżające.",
+        "video_id": "Yk_6LcykpLg",
+        "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-11",
+        "timestamp": "01:18"
       }
     ],
     "verdict": "polecany",

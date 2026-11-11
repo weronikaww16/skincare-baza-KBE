@@ -13868,6 +13868,77 @@
       "video_title": "SHOCK❗️- THE BEST PHARMACY FACIAL TREASURE FOR $3❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-09"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "heksapeptyd-9 (peptydy)",
+        "witamina C (poza formą tetra)"
+      ],
+      "rule": "Nie łączyć produktu z witaminą C inną niż witamina C tetra.",
+      "why": "Inne formy witaminy C mogą doprowadzić do destabilizacji peptydów, reakcji krzyżowej i uszkodzenia bariery hydrolipidowej.",
+      "timestamp": "07:33",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "heksapeptyd-9",
+        "peptydy miedziowe",
+        "ceramidy",
+        "lipidy",
+        "ektoina"
+      ],
+      "rule": "Produkt można bezpiecznie łączyć z peptydami miedziowymi, ceramidami, lipidami oraz ektoiną.",
+      "why": "Składniki te wzajemnie wzmacniają działanie stymulujące kolagen, nawilżające i regenerujące barierę hydrolipidową.",
+      "timestamp": "07:27",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Produkt zakazany dla kobiet w ciąży oraz matek karmiących piersią.",
+      "why": "Obecność fenoksyetanolu w składzie dyskwalifikuje produkt do stosowania w okresie ciąży i laktacji.",
+      "timestamp": "07:00",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "polinukleotydy",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Polinukleotydy warto łączyć z tripeptydem miedziowym w jednej pielęgnacji.",
+      "why": "Takie połączenie wykazuje potężną stymulację skóry i daje zdecydowanie szybsze rezultaty regeneracyjne.",
+      "timestamp": "03:14",
+      "video_id": "z_n1TmgzCkc",
+      "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "fenoksyetanol"
+      ],
+      "rule": "Produkty zawierające fenoksyetanol nie są rekomendowane dla kobiet w ciąży i karmiących piersią.",
+      "why": "Autor zaznacza obecność fenoksyetanolu jako powód wykluczający produkt dla kobiet w ciąży i w okresie laktacji.",
+      "timestamp": "06:54",
+      "video_id": "z_n1TmgzCkc",
+      "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
     }
   ],
   "routines": [
@@ -23470,6 +23541,22 @@
       "video_title": "SHOCK❗️- THE BEST PHARMACY FACIAL TREASURE FOR $3❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-09"
+    },
+    {
+      "problem": "zmarszczki, utrata jędrności, zaburzona bariera hydrolipidowa, regeneracja",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Tonik (pozostawienie wilgotnej skóry)",
+        "Niewielka kropla żelu Ziaja Remodeling (wklepana w wilgotną skórę)",
+        "Opcjonalnie: serum z peptydem miedziowym lub witaminą C tetra",
+        "Krem okluzyjny domykający pielęgnację"
+      ],
+      "notes": "Można stosować codziennie, także w okolicy pod oczami i na powieki, o ile nie powoduje pieczenia ani łzawienia.",
+      "timestamp": "07:10",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
     }
   ],
   "tips": [
@@ -39087,6 +39174,60 @@
       "video_title": "SHOCK❗️- THE BEST PHARMACY FACIAL TREASURE FOR $3❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-09"
+    },
+    {
+      "topic": "Świadome zakupy",
+      "tip": "Zużywaj najpierw posiadane zapasy kosmetyków i kupuj nowe produkty tylko wtedy, kiedy rzeczywiście ich potrzebujesz.",
+      "timestamp": "00:48",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "topic": "Aplikacja i rolowanie produktu",
+      "tip": "Nakładaj wyłącznie minimalną ilość produktu (kropelkę wielkości opuszka palca) na wilgotną od toniku skórę. Nałożenie zbyt dużej ilości spowoduje rolowanie się kwasu hialuronowego.",
+      "timestamp": "08:08",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "topic": "Zwiększenie wchłaniania peptydów miedziowych",
+      "tip": "Aby zwiększyć penetrację i biodostępność trójpeptydu miedziowego, nałóż żel z Ziaji jako pierwszy krok (promotor przenikania), a dopiero na niego peptyd miedziowy.",
+      "timestamp": "08:36",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "topic": "Przeciwwskazania",
+      "tip": "Produkt nie nadaje się dla osób z alergią na migdały (zawiera ekstrakt ze słodkich migdałów) oraz kobiet w ciąży i karmiących (ze względu na fenoksyetanol).",
+      "timestamp": "10:04",
+      "video_id": "Yk_6LcykpLg",
+      "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "topic": "Wykorzystanie toniku przed upływem terminu PAO",
+      "tip": "Gdy zbliża się koniec okresu PAO (6 miesięcy), a w butelce wciąż jest dużo toniku, warto nasączać nim skompresowane płachty i robić domowe maseczki w płachcie.",
+      "timestamp": "09:09",
+      "video_id": "z_n1TmgzCkc",
+      "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
+    },
+    {
+      "topic": "Stosowanie bogatych mlecznych toników przy skórze trądzikowej",
+      "tip": "Osoby ze skórą tłustą i trądzikową mogą stosować odżywcze, mleczne toniki pod warunkiem regularnego i sumiennego dbania o złuszczanie naskórka, aby zapobiec zapychaniu porów.",
+      "timestamp": "08:20",
+      "video_id": "z_n1TmgzCkc",
+      "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-11"
     }
   ]
 }
