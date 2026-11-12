@@ -13939,6 +13939,76 @@
       "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-11"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "palmitynian retinolu (Gorvita Retinol H)",
+        "tripeptyd miedziowy"
+      ],
+      "rule": "Można łączyć produkt w jednej rutynie pielęgnacyjnej z tripeptydem miedziowym.",
+      "why": "Składniki bardzo dobrze się uzupełniają we wspieraniu regeneracji skóry.",
+      "timestamp": "10:12",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "palmitynian retinolu (Gorvita Retinol H)",
+        "wolufilina"
+      ],
+      "rule": "Można bezpiecznie stosować razem z wolufiliną.",
+      "why": "Składniki świetnie współpracują ze sobą w pielęgnacji.",
+      "timestamp": "10:17",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "palmitynian retinolu (Gorvita Retinol H)",
+        "witamina C (tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Można łączyć produkt z tetraizopalmitynianem askorbylu (witamina C tetra).",
+      "why": "Formuła produktu bardzo dobrze współgra z tą formą witaminy C.",
+      "timestamp": "10:20",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "palmitynian retinolu (Gorvita Retinol H)",
+        "ceramidy"
+      ],
+      "rule": "Doskonałe połączenie wspierające barierę skórną.",
+      "why": "Substancje łagodzące i lipidowe w połączeniu z ceramidami idealnie odbudowują barierę hydrolipidową.",
+      "timestamp": "10:22",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "palmitynian retinolu",
+        "fenoksyetanol"
+      ],
+      "rule": "Produkt nie może być stosowany przez kobiety w ciąży oraz matki karmiące piersią.",
+      "why": "Przeciwwskazanie dla kobiet w ciąży i karmiących ze względu na obecność pochodnej witaminy A oraz fenoksyetanolu.",
+      "timestamp": "01:05",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
     }
   ],
   "routines": [
@@ -39228,6 +39298,33 @@
       "video_title": "ROSSMANN❗️- LUXURY FOR YOUR FACE FOR ONLY 30 ZŁOTY❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-11"
+    },
+    {
+      "topic": "Palmitynian retinolu a retinol",
+      "tip": "Napis 'Retinol H' na opakowaniu może mylić; produkt zawiera palmitynian retinolu, który nie działa przeciwstarzeniowo, liftingująco ani przeciwtrądzikowo jak czysty retinol, retinal czy HPR, lecz działa lipidowo i regenerująco.",
+      "timestamp": "05:27",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "topic": "Stosowanie pod oczy",
+      "tip": "Produkt można stosować pod oczy podczas kuracji retinoidami jako lżejszą alternatywę dla ciężkich, wazelinowych maści okluzyjnych, o ile nie podrażnia spojówek.",
+      "timestamp": "08:46",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "topic": "Aplikacja pod makijaż",
+      "tip": "Produkt sprawdza się pod makijaż – należy odczekać około 3 minuty od nałożenia, aby zdążył się wchłonąć.",
+      "timestamp": "10:01",
+      "video_id": "Le_jnO0OhhA",
+      "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
     }
   ]
 }

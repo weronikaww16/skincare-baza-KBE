@@ -62646,6 +62646,47 @@
     "conflict": false
   },
   {
+    "key": "gorvita retinol h masc z witamina a",
+    "brand": "Gorvita",
+    "name": "Retinol H Maść z witaminą A",
+    "category": "krem",
+    "ingredients": [
+      "alantoina",
+      "alkohol tłuszczowy",
+      "fenoksyetanol",
+      "gliceryna",
+      "palmitynian retinolu",
+      "pantenol",
+      "stearynian glicerolu",
+      "trójgliceryd kaprylowo-kaprynowy",
+      "woda"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "naruszona bariera hydrolipidowa",
+      "skóra dojrzała",
+      "skóra naczynkowa",
+      "skóra problematyczna",
+      "skóra sucha",
+      "skóra trądzikowa",
+      "skóra tłusta",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, lekki skład oparty na humektantach i emolientach, który wchłania się jak krem do twarzy zamiast tworzyć tłustą maść; skutecznie regeneruje i odbudowuje barierę hydrolipidową bez ciężkiej okluzji.",
+        "video_id": "Le_jnO0OhhA",
+        "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-12",
+        "timestamp": "01:36"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "gorzvita masc propolisowa",
     "brand": "Gorzvita",
     "name": "Maść propolisowa",
