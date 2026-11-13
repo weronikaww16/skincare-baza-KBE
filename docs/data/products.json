@@ -17224,6 +17224,43 @@
     "conflict": false
   },
   {
+    "key": "be beauty maska fioletowa",
+    "brand": "Be Beauty",
+    "name": "Maska fioletowa",
+    "category": "maska",
+    "ingredients": [
+      "Sika Centella Asiatica",
+      "alantoina",
+      "glikol kaprylowy",
+      "glukonian cynku",
+      "guma ksantanowa",
+      "hydrolizowany kolagen",
+      "inulina",
+      "kolagen",
+      "kwas cytrynowy",
+      "pantenol",
+      "sorbitol"
+    ],
+    "for": [
+      "barier hydropidowa zaburzona",
+      "każdy typ skóry",
+      "skóra potrzebująca nawilżenia i regeneracji"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetna, skuteczna formuła, dobrze nawilża, wygładza i regeneruje skórę, dając natychmiastowy efekt.",
+        "video_id": "iCtrwUvrTQ4",
+        "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-12",
+        "timestamp": "01:03"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "be beauty maska w pachcie peptide care",
     "brand": "Be Beauty",
     "name": "Maska w płachcie Peptide Care",
@@ -17546,6 +17583,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-21",
         "timestamp": "01:25"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty zote patki peptydowe pod oczy",
+    "brand": "Be Beauty",
+    "name": "Złote płatki peptydowe pod oczy",
+    "category": "płatki pod oczy",
+    "ingredients": [
+      "peptydy"
+    ],
+    "for": [
+      "skóra wokół oczu wymagająca regeneracji",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dostępne w Biedronce za ok. 14 zł, zawierają peptydy i zapewniają silne nawilżenie oraz wygładzenie.",
+        "video_id": "sXSyP_VZCR0",
+        "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-13",
+        "timestamp": "02:38"
       }
     ],
     "verdict": "polecany",
@@ -31710,6 +31773,29 @@
     "conflict": false
   },
   {
+    "key": "bielenda smart aging krem pod oczy",
+    "brand": "Bielenda",
+    "name": "Smart Aging Krem pod oczy",
+    "category": "krem pod oczy",
+    "ingredients": [
+      "mikroplastik"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Autor uważa go za beznadziejny, ponieważ zawiera mikroplastik.",
+        "video_id": "sXSyP_VZCR0",
+        "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-13",
+        "timestamp": "03:51"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "bielenda smart aging naprawcze przeciwzmarszczkowe serum do twarzy szyi i dekoltu",
     "brand": "Bielenda",
     "name": "Smart Aging Naprawcze Przeciwzmarszczkowe Serum do twarzy, szyi i dekoltu",
@@ -31782,6 +31868,36 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "bielenda smart aging serum",
+    "brand": "Bielenda",
+    "name": "Smart Aging Serum",
+    "category": "serum",
+    "ingredients": [
+      "olej z pestek winogron",
+      "resweratrol",
+      "smart peptyd",
+      "woda różana"
+    ],
+    "for": [
+      "skóra wokół oczu",
+      "utrata jędrności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo silne serum antystarzeniowe i antyoksydacyjne, nie podrażnia okolicy oka, stymuluje kolagen i fibroblasty, pozostawia satynowe wykończenie.",
+        "video_id": "sXSyP_VZCR0",
+        "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-13",
+        "timestamp": "03:26"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -62654,16 +62770,21 @@
       "alantoina",
       "alkohol tłuszczowy",
       "fenoksyetanol",
+      "gliceryl stearate",
       "gliceryna",
       "palmitynian retinolu",
+      "palmitynian retinylu",
       "pantenol",
       "stearynian glicerolu",
+      "triglicerydy",
       "trójgliceryd kaprylowo-kaprynowy",
       "woda"
     ],
     "for": [
       "każdy typ skóry",
       "naruszona bariera hydrolipidowa",
+      "odbudowa bariery lipidowej",
+      "regeneracja skóry wokół oczu",
       "skóra dojrzała",
       "skóra naczynkowa",
       "skóra problematyczna",
@@ -62681,6 +62802,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-11-12",
         "timestamp": "01:36"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Tani produkt apteczny (ok. 11-15 zł), który mimo nazwy maści ma lekką formułę kremu, nie obciąża skóry pod oczami, działa silnie barierowo i lipidowo.",
+        "video_id": "sXSyP_VZCR0",
+        "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-13",
+        "timestamp": "07:13"
       }
     ],
     "verdict": "polecany",

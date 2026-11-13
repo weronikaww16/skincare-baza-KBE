@@ -14009,6 +14009,20 @@
       "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-12"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy",
+        "witamina C (w innej formie niż tetra)"
+      ],
+      "rule": "Podczas stosowania kombo z peptydami pod oczy na całej twarzy nie wolno nakładać innej formy witaminy C niż forma tetra.",
+      "why": "Produkty w kombo zawierają peptydy, które kolidują z tradycyjnymi formami witaminy C.",
+      "timestamp": "02:03",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
     }
   ],
   "routines": [
@@ -23627,6 +23641,39 @@
       "video_title": "ZIAJA❗️- HIT NA ZMARSZCZKI ZA 20 ZŁOTYCH❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-11"
+    },
+    {
+      "problem": "zmarszczki, wiotkość i odwodnienie skóry wokół oczu",
+      "time_of_day": "rano lub wieczór",
+      "steps": [
+        "Dokładne oczyszczenie skóry twarzy żelem, emulsją lub pianką (wieczorem po demakijażu)",
+        "Aplikacja złotych płatków peptydowych Be Beauty na 8 minut, po czym wklepanie pozostałości esencji do ok. 80% wchłonięcia",
+        "Wklepanie śladowej ilości serum Bielenda Smart Aging pod oczy aż do całkowitego wchłonięcia (ok. 20 sekund)",
+        "Niezwłoczna aplikacja maści/kremu GorVita Retinol H pod oczy w celu domknięcia nawilżenia i ochrony barierowej"
+      ],
+      "notes": "Kombo można stosować codziennie lub 2-3 razy w tygodniu. Nie jest przeznaczone dla kobiet w ciąży i karmiących piersią.",
+      "timestamp": "01:50",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
+    },
+    {
+      "problem": "nawilżenie i regeneracja skóry",
+      "time_of_day": "wieczór",
+      "steps": [
+        "umyć twarz",
+        "nałożyć maskę na 8 minut",
+        "mokre zdjąć, wklepać esencję",
+        "zakończyć kremem pielęgnacyjnym",
+        "opcjonalnie nałożyć serum przed kremem"
+      ],
+      "notes": "Maseczkę można stosować wieczorem, a rano twarz jest sucha. Ważne, aby nakładać ją na mokro i zdejmować mokrą.",
+      "timestamp": "03:45",
+      "video_id": "iCtrwUvrTQ4",
+      "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
     }
   ],
   "tips": [
@@ -39323,6 +39370,60 @@
       "timestamp": "10:01",
       "video_id": "Le_jnO0OhhA",
       "video_title": "PHARMACY❗️- I DISCOVERED A FACE CREAM FOR LESS THAN 20 PLN❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "topic": "Specyfika skóry wokół oczu",
+      "tip": "Skóra pod oczami jest 10-krotnie cieńsza niż na reszcie twarzy, nie posiada gruczołów łojowych i przez pergaminową strukturę nie wybacza przesuszeń.",
+      "timestamp": "00:54",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
+    },
+    {
+      "topic": "Aplikacja kosmetyków pod oczy",
+      "tip": "Kosmetyki pod oczy należy wyłącznie delikatnie wklepywać opuszkami palców ruchem góra-dół; rozcieranie i tarcie naciąga skórę i pogłębia zmarszczki.",
+      "timestamp": "04:41",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
+    },
+    {
+      "topic": "Kolejność nakładania produktów",
+      "tip": "Produkt okluzyjno-barierowy (GorVita Retinol H) należy zaaplikować natychmiast po wchłonięciu serum, nie czekając kilku minut.",
+      "timestamp": "07:05",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
+    },
+    {
+      "topic": "Przeciwwskazania",
+      "tip": "Zestawienie tych produktów pod oczy nie powinno być stosowane przez kobiety w ciąży oraz matki karmiące piersią.",
+      "timestamp": "09:55",
+      "video_id": "sXSyP_VZCR0",
+      "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-13"
+    },
+    {
+      "topic": "Czas trzymania maseczki",
+      "tip": "Maseczek w płachcie lub płatków pod oczy nie należy trzymać dłużej niż 8 minut, ponieważ dłuższe trzymanie nie przyniesie lepszych efektów, a składniki aktywne mogą wyparować i wysuszyć skórę.",
+      "timestamp": "03:57",
+      "video_id": "iCtrwUvrTQ4",
+      "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-12"
+    },
+    {
+      "topic": "Sposób nakładania i zdejmowania",
+      "tip": "Maseczki w płachcie należy nakładać na mokrą skórę i zdejmować mokre, wklepując pozostałości esencji.",
+      "timestamp": "04:10",
+      "video_id": "iCtrwUvrTQ4",
+      "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-12"
     }
