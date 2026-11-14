@@ -10256,5 +10256,27 @@
     "date": "2026-11-12",
     "status": "done",
     "summary": "Autor filmu omawia cztery rodzaje maseczek z Biedronki, skupiając się na fioletowej maseczce Be Beauty. Analizuje jej skład, sposób używania oraz skuteczność na tle innych produktów z tej serii."
+  },
+  "z9_7W64c_tQ": {
+    "title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-14",
+    "status": "done",
+    "summary": "Film przedstawia recenzję i szczegółową analizę składu kremu na noc Lirene Skin Renewal PDRN Lifting Activator. Autor omawia innowacyjne składniki aktywne, zasady łączenia produktu w rutynie pielęgnacyjnej oraz rozprawia się z mitami dotyczącymi silikonów i oznaczeń wiekowych na kosmetykach."
+  },
+  "q53IhHj7a5w": {
+    "title": "BEAUTIFUL PALETTE! - BUT IS IT WORTH USING IN YOUR MAKEUP?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-14",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+  },
+  "_hr0ZpUgiWA": {
+    "title": "NEW MASCARA?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-14",
+    "status": "done",
+    "summary": "Film zawiera analizę składu świątecznej edycji tuszu do rzęs marki Catrice. Autor krytycznie ocenia recepturę produktu i konfrontuje ją ze składanymi przez producenta obietnicami."
   }
 }

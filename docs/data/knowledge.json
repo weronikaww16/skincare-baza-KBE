@@ -14023,6 +14023,36 @@
       "video_title": "MAX UNDER-EYE RESULTS AFTER JUST ONE USE❗️- FORGET ABOUT EXPENSIVE NONSENSE❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-13"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Krem Lirene PDRN Lifting Activator (peptydy, bioretinoid)",
+        "witamina C w formach innych niż Tetra (Ascorbyl Tetraisopalmitate)"
+      ],
+      "rule": "Nie łączyć produktu z witaminą C inną niż jej pochodna tetraizopalmitynianu askorbylu (Tetra).",
+      "why": "Produkt zawiera bogaty kompleks peptydów oraz bioretinoid (uczep owłosiony), które wchodzą w niepożądane interakcje z tradycyjnymi formami witaminy C.",
+      "timestamp": "09:48",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "Krem Lirene PDRN Lifting Activator",
+        "tripeptyd miedziowy",
+        "ceramidy",
+        "lipidy"
+      ],
+      "rule": "Krem można bez przeszkód łączyć w pielęgnacji z tripeptydem miedziowym, ceramidami oraz lipidami.",
+      "why": "Składniki te wspierają procesy naprawcze skóry i działają komplementarnie z formułą kremu.",
+      "timestamp": "10:16",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
     }
   ],
   "routines": [
@@ -23674,6 +23704,20 @@
       "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-12"
+    },
+    {
+      "problem": "ujędrnienie, regeneracja i działanie przeciwstarzeniowe",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja serum z tripeptydem miedziowym",
+        "Aplikacja kremu Lirene Skin Renewal PDRN Lifting Activator"
+      ],
+      "notes": "Krem jest przeznaczony wyłącznie na noc. Może być bezpiecznie stosowany również w trakcie trwania kuracji czystym retinolem.",
+      "timestamp": "10:40",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
     }
   ],
   "tips": [
@@ -39426,6 +39470,42 @@
       "video_title": "BIEDRONKA❗️CHEAP AND EFFECTIVE BEAUTY PRODUCTS WORTH BUYING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-12"
+    },
+    {
+      "topic": "PDRN w kosmetykach",
+      "tip": "PDRN zawarty w kosmetykach do pielęgnacji domowej to jedynie chwyt marketingowy – osadza się na powierzchni, nie wnika w głąb skóry i nie odbudowuje bariery naskórkowej.",
+      "timestamp": "03:58",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
+    },
+    {
+      "topic": "Oznaczenia wiekowe na kosmetykach",
+      "tip": "Wiek umieszczony na opakowaniu kosmetyku to wyłącznie zabieg marketingowy; pielęgnację należy dobierać ściśle do aktualnych potrzeb skóry, a nie do metryki.",
+      "timestamp": "03:20",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
+    },
+    {
+      "topic": "Dimetikon i zapychane pory",
+      "tip": "Dimetikon nie jest składnikiem komedogennym i nie zapycha porów – stanowi stabilny emolient chroniący przed ucieczką wody. Główną przyczyną powstawania zanieczyszczeń jest brak lub nieprawidłowe złuszczanie naskórka.",
+      "timestamp": "05:55",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
+    },
+    {
+      "topic": "Uczep owłosiony jako bioretinoid",
+      "tip": "Ekstrakt z uczepu owłosionego (Bidens Pilosa) łączy się z receptorami retinoidowymi RAR i RXR, stymulując produkcję kolagenu, jednak nie powoduje podrażnień ani złuszczania naskórka typowego dla czystych retinoidów.",
+      "timestamp": "02:02",
+      "video_id": "z9_7W64c_tQ",
+      "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-14"
     }
   ]
 }

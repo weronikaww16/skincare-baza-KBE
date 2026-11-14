@@ -43404,6 +43404,40 @@
     "conflict": false
   },
   {
+    "key": "catrice tusz do rzes edycja swiateczna",
+    "brand": "Catrice",
+    "name": "Tusz do rzęs (edycja świąteczna)",
+    "category": "tusz do rzęs",
+    "ingredients": [
+      "Aqua",
+      "Butylene Glycol",
+      "Glyceryl Stearate",
+      "PVP",
+      "Phenoxyethanol",
+      "Sodium Dehydroacetate",
+      "VP/Eicosene Copolymer",
+      "guma akacjowa",
+      "kwas palmitynowy",
+      "kwas stearynowy",
+      "syntetyczny wosk",
+      "wosk"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Produkt ma według autora bardzo zły skład, zawiera tworzywa sztuczne (polimery), które czopują mieszki włosowe i mogą prowadzić do wypadania rzęs, a także fenoksyetanol dyskwalifikujący go dla kobiet w ciąży i karmiących. Obietnice pielęgnacji i wzmocnienia są bezpodstawne.",
+        "video_id": "_hr0ZpUgiWA",
+        "video_title": "NEW MASCARA?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-14",
+        "timestamp": "00:05"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "catrice ultra last 2h prime and fine multitalent fixierspray",
     "brand": "Catrice",
     "name": "Ultra Last 2h / Prime and Fine Multitalent FixierSpray",
@@ -95780,6 +95814,44 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "lirene skin renewal pdrn lifting activator aktywnie regenerujacy krem napinajacy na noc",
+    "brand": "Lirene",
+    "name": "Skin Renewal PDRN Lifting Activator Aktywnie Regenerujący Krem Napinający na noc",
+    "category": "krem",
+    "ingredients": [
+      "dimetikon",
+      "ekstrakt z uczepu owłosionego (Bidens Pilosa Extract / bioretinoid)",
+      "ginsenozydy",
+      "kwas foliowy",
+      "masło murumuru",
+      "masło shea",
+      "melatonina",
+      "multipeptydy",
+      "prekursor NAD+ (NMN)",
+      "skwalan",
+      "witamina E (tokoferol, octan tokoferylu)"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra starzejąca się ze zmarszczkami",
+      "skóra tłusta i trądzikowa (przy odpowiednim złuszczaniu)",
+      "skóra wymagająca regeneracji i odbudowy bariery hydrolipidowej"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Znakomity, bogaty skład oparty na bioretinoidzie, prekursorze NAD+ (NMN), peptydach, melatoninie i kwasie foliowym; jedyny produkt z całej serii mający wartościowy skład.",
+        "video_id": "z9_7W64c_tQ",
+        "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-14",
+        "timestamp": "01:19"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
