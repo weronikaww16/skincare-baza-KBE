@@ -14053,6 +14053,34 @@
       "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-14"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Bis-tripeptide-1 copper acetate (peptyd miedziowy)",
+        "witamina C (inna niż tetraizopalmitynian askorbylu)"
+      ],
+      "rule": "Nie łączyć produktów z peptydami miedziowymi z formami witaminy C innymi niż tetraizopalmitynian askorbylu.",
+      "why": "Tetraizopalmitynian askorbylu to jedyna forma witaminy C, która nie wchodzi w niepożądane reakcje z peptydami miedziowymi.",
+      "timestamp": "05:22",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Bis-tripeptide-1 copper acetate (peptyd miedziowy)",
+        "Disodium EDTA"
+      ],
+      "rule": "Nie łączyć maski z kosmetykami zawierającymi Disodium EDTA.",
+      "why": "Disodium EDTA to chelator, który niszczy peptydy miedziowe, może wywołać reakcję krzyżowo-kontaktową, uszkodzić barierę hydrolipidową i trwale uwrażliwić skórę.",
+      "timestamp": "05:37",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
     }
   ],
   "routines": [
@@ -23718,6 +23746,36 @@
       "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-14"
+    },
+    {
+      "problem": "skóra tłusta, problematyczna, trądzikowa",
+      "time_of_day": "wieczór",
+      "steps": [
+        "nałożenie maski na 15 minut",
+        "spłukanie maski wodą",
+        "wykonanie dalszej standardowej pielęgnacji"
+      ],
+      "notes": "Sposób dla osób obawiających się obciążenia skóry bogatą formułą przez całą noc.",
+      "timestamp": "06:01",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "problem": "skóra sucha, dojrzała, odwodniona",
+      "time_of_day": "wieczór",
+      "steps": [
+        "aplikacja serum",
+        "nałożenie maski jako sleeping mask",
+        "domknięcie kremem okluzyjnym, ceramidowym lub peptydowym (bez EDTA i bez kwasowej witaminy C)"
+      ],
+      "notes": "Stosować 1-2 razy w tygodniu na całą noc.",
+      "timestamp": "06:27",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
     }
   ],
   "tips": [
@@ -39506,6 +39564,24 @@
       "video_title": "THE NEW FACE CREAM EVERYONE IS ABOUT TO BE TALKING ABOUT❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-14"
+    },
+    {
+      "topic": "Stosowanie przy kuracji retinoidami",
+      "tip": "Maska może być stosowana w inne dni podczas kuracji retinoidami, pod warunkiem że skóra nie przechodzi ostrej, agresywnej retynizacji (silnego pieczenia, podrażnienia i łuszczenia).",
+      "timestamp": "02:12",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "topic": "Ciąża i karmienie piersią",
+      "tip": "Produkt jest bezwzględnie zakazany dla kobiet w ciąży i karmiących piersią ze względu na obecność retinolu (witaminy A) w składzie.",
+      "timestamp": "08:08",
+      "video_id": "79Oaw9Cf2go",
+      "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
     }
   ]
 }

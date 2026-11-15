@@ -42882,6 +42882,37 @@
     "conflict": false
   },
   {
+    "key": "catrice on the starpath c01 shooting stars paleta do oczu i policzkow",
+    "brand": "Catrice",
+    "name": "On The Starpath C01 Shooting Stars (paleta do oczu i policzków)",
+    "category": "paleta do oczu i policzków",
+    "ingredients": [
+      "akrylany",
+      "dimethicone",
+      "dimethicone crosspolymer",
+      "dimethicone vinyl crosspolymer",
+      "etylheksylgliceryna",
+      "fenoksyetanol",
+      "krzemionka",
+      "tocopheryl acetate",
+      "witamina E"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Mimo ładnego wyglądu i obecności emolientów czy witaminy E, produkt zawiera akrylany (tworzywa sztuczne/polimery) oraz fenoksyetanol (nieodpowiedni dla kobiet w ciąży i karmiących).",
+        "video_id": "q53IhHj7a5w",
+        "video_title": "BEAUTIFUL PALETTE! - BUT IS IT WORTH USING IN YOUR MAKEUP?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-15",
+        "timestamp": "02:35"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "catrice prime and fine fixing spray",
     "brand": "Catrice",
     "name": "Prime and Fine Fixing Spray",
@@ -96089,6 +96120,44 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "lirene dr irena eris 3 action supreme mask peptydowo miedziowa maska intensywnie napinajaca",
+    "brand": "Lirene (Dr Irena Eris)",
+    "name": "3 Action Supreme Mask Peptydowo-miedziowa maska intensywnie napinająca",
+    "category": "maska",
+    "ingredients": [
+      "Bis-tripeptide-1 copper acetate (pochodna tripeptydu miedziowego)",
+      "ceramid NP",
+      "kwas foliowy w niosomach",
+      "kwas hialuronowy",
+      "masło shea",
+      "olej canola",
+      "olej słonecznikowy",
+      "olej z awokado",
+      "retinol",
+      "witamina E (tocopherol, tocopheryl acetate)"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra sucha",
+      "skóra tłusta i trądzikowa (przy zmyciu po 15 minutach)"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład przeciwstarzeniowy, regenerujący i remodelujący skórę z technologią niosomów, kwasem foliowym oraz pochodną peptydu miedziowego w dobrej cenie.",
+        "video_id": "79Oaw9Cf2go",
+        "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-15",
+        "timestamp": "00:47"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {

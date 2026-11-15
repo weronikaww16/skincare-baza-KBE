@@ -10267,10 +10267,9 @@
   "q53IhHj7a5w": {
     "title": "BEAUTIFUL PALETTE! - BUT IS IT WORTH USING IN YOUR MAKEUP?",
     "channel": "Kacper Beauty Make-Up",
-    "date": "2026-11-14",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-15",
+    "status": "done",
+    "summary": "Film przedstawia analizę składu nowej palety do oczu i policzków marki Catrice pod kątem bezpieczeństwa i jakości komponentów."
   },
   "_hr0ZpUgiWA": {
     "title": "NEW MASCARA?",
@@ -10278,5 +10277,12 @@
     "date": "2026-11-14",
     "status": "done",
     "summary": "Film zawiera analizę składu świątecznej edycji tuszu do rzęs marki Catrice. Autor krytycznie ocenia recepturę produktu i konfrontuje ją ze składanymi przez producenta obietnicami."
+  },
+  "79Oaw9Cf2go": {
+    "title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-15",
+    "status": "done",
+    "summary": "Autor przypomina i szczegółowo omawia działanie przeciwstarzeniowej maski peptydowo-miedziowej marki Lirene. Analizuje jej skład chemiczny (INCI), wyjaśnia technologię niosomów oraz zasady łączenia jej z innymi składnikami aktywnymi. Przedstawia także sposoby aplikacji dla różnych typów cery i przeciwwskazania do jej stosowania."
   }
 }
