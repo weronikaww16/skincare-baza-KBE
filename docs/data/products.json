@@ -31877,14 +31877,18 @@
     "category": "serum",
     "ingredients": [
       "olej z pestek winogron",
+      "peptydy",
       "resweratrol",
       "smart peptyd",
+      "substancje barierowo-regeneracyjne",
       "woda różana"
     ],
     "for": [
+      "każdy typ skóry",
       "skóra wokół oczu",
       "utrata jędrności",
-      "zmarszczki"
+      "zmarszczki",
+      "zmarszczki mimiczne"
     ],
     "mentions": [
       {
@@ -31895,6 +31899,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-11-13",
         "timestamp": "03:26"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Wzmacnia syntezę kolagenu, działa silnie przeciwstarzeniowo i regenerująco, nie wchodząc w negatywne interakcje ze składnikami kremu.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "07:32"
       }
     ],
     "verdict": "polecany",
@@ -34132,6 +34145,34 @@
     "conflict": false
   },
   {
+    "key": "bielenda professional supremelab microbiome pro care multi aktywny rownowazaco ochronny koncentrat do twarzy",
+    "brand": "Bielenda Professional Supremelab",
+    "name": "Microbiome Pro Care Multi-aktywny równoważąco-ochronny koncentrat do twarzy",
+    "category": "serum",
+    "ingredients": [
+      "Disodium EDTA",
+      "substancje barierowe"
+    ],
+    "for": [
+      "skóra bardzo sucha",
+      "skóra podrażniona i nadwrażliwa",
+      "skóra w trakcie kuracji retinoidami lub kwasami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Głęboko nawadnia, wycisza nadwrażliwość oraz odbudowuje barierę hydrolipidową; bezpieczny do łączenia z kremem Lirene, ponieważ krem nie zawiera tripeptydu miedziowego wchodzącego w konflikt z Disodium EDTA.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "06:21"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bielenda professional supremelab re advanced serum z retinalem",
     "brand": "Bielenda Professional Supremelab",
     "name": "Re-Advanced Serum z retinalem",
@@ -34569,6 +34610,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "00:26"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "bielenda skin clinic kwas hialuronowy serum nawilzajaco kojace",
+    "brand": "Bielenda Skin Clinic",
+    "name": "Kwas Hialuronowy Serum nawilżająco-kojące",
+    "category": "serum",
+    "ingredients": [
+      "kwas hialuronowy",
+      "peptyd miedzi (śladowa ilość)"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra odwodniona",
+      "skóra potrzebująca lekkiego nawilżenia"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Lekka formuła, która nie obciąża cery, a skutecznie podwaja nawilżenie kremu i wspomaga regenerację.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "05:14"
       }
     ],
     "verdict": "polecany",
@@ -62348,6 +62417,52 @@
     "conflict": false
   },
   {
+    "key": "glam shop joy podkad pielegnacyjny",
+    "brand": "Glam Shop",
+    "name": "JOY Podkład pielęgnacyjny",
+    "category": "podkład",
+    "ingredients": [
+      "Aquaxyl",
+      "Magnolia Bark Extract (Maxnolia O)",
+      "alkan",
+      "anhydroxylitol",
+      "coco-caprylate/caprate",
+      "ethylhexylglycerin",
+      "gliceryna",
+      "krzemionka",
+      "ksylitol",
+      "mika",
+      "phenoxyethanol",
+      "propanediol",
+      "tocopherol (witamina E)",
+      "trójglicerydy",
+      "woda",
+      "xylitylglucoside"
+    ],
+    "for": [
+      "skóra atopowa",
+      "skóra bardzo sucha",
+      "skóra dojrzała",
+      "skóra odwodniona",
+      "skóra po kwasach",
+      "skóra tłusta (po przypudrowaniu pudrem matującym)",
+      "skóra w trakcie kuracji retinoidami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, bogaty w nawilżacze skład, doskonała trwałość (utrzymuje się kilkanaście godzin), piękne nawilżające i świetliste wykończenie, nie wchodzi w zmarszczki i wygładza skórę za przystępną cenę (38 zł).",
+        "video_id": "Vih5XT1W4C0",
+        "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-15",
+        "timestamp": "01:25"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "glam shop natural",
     "brand": "Glam Shop",
     "name": "Natural",
@@ -83208,6 +83323,32 @@
     "conflict": false
   },
   {
+    "key": "kacper skin blue moon needles serum do twarzy",
+    "brand": "Kacper Skin",
+    "name": "Blue Moon Needles Serum do twarzy",
+    "category": "serum",
+    "ingredients": [
+      "mikroigły"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra wymagająca stymulacji i odnowy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkt z mikroigłami, który można bezpiecznie łączyć z kremem Lirene pod warunkiem aplikacji metodą stemplowania/wklepywania.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "08:11"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kacper skin blue moon rich face cream",
     "brand": "Kacper Skin",
     "name": "Blue Moon Rich Face Cream",
@@ -83359,6 +83500,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-31",
         "timestamp": "04:27"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "kacper skin blue moon serum do twarzy z tripeptydem miedziowym 0 5",
+    "brand": "Kacper Skin",
+    "name": "Blue Moon Serum do twarzy z tripeptydem miedziowym 0,5%",
+    "category": "serum",
+    "ingredients": [
+      "czysty tripeptyd miedziowy 0,5%"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "nadprodukcja sebum",
+      "skóra wymagająca przebudowy",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Najbardziej polecane połączenie z kremem Lirene; zapewnia całościowy remodeling skóry, regulację pracy gruczołów łojowych oraz skuteczną redukcję zmarszczek w nocnej pielęgnacji.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "10:01"
       }
     ],
     "verdict": "polecany",
@@ -85321,14 +85490,17 @@
     "name": "V-Lifting Procedure - Serum",
     "category": "serum",
     "ingredients": [
+      "Volufiline",
       "kompleks Volufiline 5%",
       "peptydy stymulujące produkcję kolagenu, elastyny i kwasu hialuronowego"
     ],
     "for": [
       "każdy typ skóry",
       "okolice pod oczy",
+      "skóra dojrzała",
       "skóra z oznakami starzenia i zmarszczkami",
-      "skóra z widocznym wiotczeniem"
+      "skóra z widocznym wiotczeniem",
+      "zmarszczki mimiczne"
     ],
     "mentions": [
       {
@@ -85348,6 +85520,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-05-29",
         "timestamp": "11:15"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Wygładza zmarszczki mimiczne, stymuluje komórki skóry i doskonale współgra z formułą kremu Lirene bez wywoływania podrażnień.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "09:34"
       }
     ],
     "verdict": "polecany",
@@ -90839,6 +91020,34 @@
     "conflict": false
   },
   {
+    "key": "le coeur dermo emulsion serum regenerating",
+    "brand": "Le Coeur",
+    "name": "Dermo Emulsion Serum Regenerating",
+    "category": "serum",
+    "ingredients": [
+      "bisabolol",
+      "ceramidy"
+    ],
+    "for": [
+      "skóra atopowa",
+      "skóra bardzo sucha",
+      "skóra odwodniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Mleczna emulsja regenerująca, która doskonale uzupełnia lipidy w naskórku, koi i mocno nawilża w duecie z kremem PDRN.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "06:50"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "le coeur dermo night cream",
     "brand": "Le Coeur",
     "name": "Dermo Night Cream",
@@ -95411,6 +95620,35 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-28",
         "timestamp": "04:36"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "lirene pdrn lifting activator krem na noc",
+    "brand": "Lirene",
+    "name": "PDRN Lifting Activator krem na noc",
+    "category": "krem",
+    "ingredients": [
+      "ginzenozydy",
+      "kompleks peptydów"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "skóra dojrzała",
+      "utrata jędrności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Zaawansowana formuła odmładzająca oparta na ginzenozydach i kompleksie peptydów; jedyny produkt z całej serii mający naprawdę wartościowy skład, idealny jako filar wieczornej pielęgnacji.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "04:23"
       }
     ],
     "verdict": "polecany",
@@ -111055,6 +111293,39 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "my secret iconic match blurring foundation",
+    "brand": "My Secret",
+    "name": "Iconic Match Blurring Foundation",
+    "category": "podkład",
+    "ingredients": [
+      "Coco-Caprylate/Caprate",
+      "Saccharide Isomerate",
+      "celuloza mikrokrystaliczna",
+      "etyloheksylogliceryna",
+      "fenoksyetanol",
+      "glikol butylenowy",
+      "hialuronian sodu",
+      "krzemian",
+      "kwas cytrynowy",
+      "woda",
+      "wosk pszczeli (beeswax)"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, wartościowy skład bez akrylanów, parafiny, winyli i plastików, nietestowany na zwierzętach. Autor zaznacza jednak, że ze względu na fenoksyetanol nie jest zalecany dla kobiet w ciąży i karmiących, a obecność wosku pszczelego wyklucza go u osób z alergią na produkty pszczele.",
+        "video_id": "MmE0g-uMpKE",
+        "video_title": "DOBRY PODKŁAD ZA 25 ZŁ?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-16",
+        "timestamp": "00:20"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -173654,6 +173925,33 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-01-07",
         "timestamp": "04:22"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "ziaja remodeling hialuronowy zel liftingujacy",
+    "brand": "Ziaja Remodeling",
+    "name": "Hialuronowy żel liftingujący",
+    "category": "serum",
+    "ingredients": [
+      "kwas hialuronowy"
+    ],
+    "for": [
+      "każdy typ skóry",
+      "utrata sprężystości",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Intensywnie nawilża, pobudza produkcję kolagenu, elastyny i fibroblastów, potęgując przeciwstarzeniowe działanie kremu Lirene.",
+        "video_id": "VE7rpJeANcM",
+        "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-16",
+        "timestamp": "05:36"
       }
     ],
     "verdict": "polecany",

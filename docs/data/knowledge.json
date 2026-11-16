@@ -14081,6 +14081,62 @@
       "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-15"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "czysty kwas L-askorbinowy (witamina C / ascorbic acid)",
+        "niekompatybilne składniki aktywne"
+      ],
+      "rule": "Nie należy łączyć czystego kwasu askorbinowego z kremami i substancjami o działaniu drażniącym lub wchodzącymi w reakcję bez wiedzy o ich kompatybilności.",
+      "why": "Niewłaściwe łączenie kwasu askorbinowego prowadzi do silnego podrażnienia i uszkodzenia naskórka.",
+      "timestamp": "01:53",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "tripeptyd miedziowy",
+        "Disodium EDTA"
+      ],
+      "rule": "Nie należy łączyć czystego tripeptydu miedziowego z produktami zawierającymi Disodium EDTA.",
+      "why": "Disodium EDTA chelatuje jony miedzi, unieczynniając działanie peptydu miedziowego.",
+      "timestamp": "06:33",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "podkład JOY",
+        "peptydy",
+        "peptydy miedziowe"
+      ],
+      "rule": "Podkład można łączyć w pielęgnacji z peptydami oraz peptydem miedziowym.",
+      "why": "Formuła dobrze współgra z tymi składnikami aktywnymi bez negatywnych interakcji.",
+      "timestamp": "06:38",
+      "video_id": "Vih5XT1W4C0",
+      "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "phenoxyethanol"
+      ],
+      "rule": "Nie stosować u kobiet w ciąży oraz matek karmiących piersią.",
+      "why": "Obecność fenoksyetanolu w składzie sprawia, że produkt nie jest zalecany dla tej grupy osób.",
+      "timestamp": "04:09",
+      "video_id": "Vih5XT1W4C0",
+      "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
     }
   ],
   "routines": [
@@ -23776,6 +23832,34 @@
       "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-15"
+    },
+    {
+      "problem": "utrata jędrności, zmarszczki mimiczne i potrzeba regeneracji",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja serum do twarzy (nawilżającego, peptydowego lub barierowego)",
+        "Aplikacja kremu Lirene PDRN Lifting Activator na noc"
+      ],
+      "notes": "Krem Lirene PDRN jest przeznaczony wyłącznie na noc i wymaga odpowiednio dobranych serów pozbawionych substancji wchodzących w konflikt.",
+      "timestamp": "04:30",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
+    },
+    {
+      "problem": "głęboka przebudowa skóry i redukcja zmarszczek przy użyciu mikroigiełek",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja serum z mikroigłami (Kacper Skin Blue Moon Needles) metodą stemplującą (dociskanie, bez pocierania)",
+        "Wklepanie kremu na noc Lirene PDRN Lifting Activator (wyłącznie ruchem dociskającym)"
+      ],
+      "notes": "Stosować maksymalnie 2 razy w tygodniu; pod żadnym pozorem nie rozcierać produktów na skórze po nałożeniu mikroigieł.",
+      "timestamp": "08:37",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
     }
   ],
   "tips": [
@@ -39580,6 +39664,51 @@
       "timestamp": "08:08",
       "video_id": "79Oaw9Cf2go",
       "video_title": "THIS PRODUCT IS A REAL BREAKTHROUGH❗️ COPPER PEPTIDES, FOLIC ACID - EFFECTIVE FACIAL CARE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "topic": "odpowiedzialność za łączenie kosmetyków",
+      "tip": "Dokładnie oglądaj i analizuj materiały edukacyjne o składach; nie twórz przypadkowych kombinacji składników aktywnych, aby uniknąć reakcji podrażnieniowych.",
+      "timestamp": "02:03",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
+    },
+    {
+      "topic": "aplikacja kosmetyków z mikroigłami",
+      "tip": "Serum z mikroigłami oraz każdy kolejny nakładany po nim kosmetyk należy wyłącznie delikatnie stemplować i wklepywać w skórę – kategorycznie zabronione jest rozcieranie.",
+      "timestamp": "08:37",
+      "video_id": "VE7rpJeANcM",
+      "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-16"
+    },
+    {
+      "topic": "Rozwarstwienie produktu w butelce",
+      "tip": "Wytrącenie się warstwy oleju na górze opakowania nie oznacza zepsucia podkładu – wystarczy nim mocno wstrząsnąć przed użyciem.",
+      "timestamp": "06:19",
+      "video_id": "Vih5XT1W4C0",
+      "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "topic": "Aplikacja podkładu",
+      "tip": "Podkład najlepiej rozprowadzać zwilżoną gąbką; można go bez obaw nakładać również na powieki i pod oczy zamiast korektora.",
+      "timestamp": "02:49",
+      "video_id": "Vih5XT1W4C0",
+      "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-15"
+    },
+    {
+      "topic": "Stosowanie przy cerze tłustej",
+      "tip": "Osoby z cerą tłustą mogą używać tego podkładu nawilżającego, pod warunkiem utrwalenia go dobrym pudrem matującym (bez talku).",
+      "timestamp": "08:26",
+      "video_id": "Vih5XT1W4C0",
+      "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-15"
     }
