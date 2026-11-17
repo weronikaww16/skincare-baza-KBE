@@ -10305,5 +10305,13 @@
     "date": "2026-11-15",
     "status": "done",
     "summary": "Autor recenzuje pielęgnacyjny podkład do twarzy Glam Shop JOY, omawiając jego formułę, działanie oraz szczegółowy skład. Zachwala jego silne właściwości nawilżające, wygładzające i trwałość na skórze, polecając go szczególnie na okres jesienno-zimowy."
+  },
+  "FzLT524KO7I": {
+    "title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-17",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
   }
 }
