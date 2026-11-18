@@ -14137,6 +14137,20 @@
       "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-15"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "esencja nawilżająca do twarzy",
+        "retinoidy"
+      ],
+      "rule": "Esencji nie można łączyć przed retinolem.",
+      "why": "Autor wspomina, że esencji nie można przed retinolem.",
+      "timestamp": "05:16",
+      "video_id": "FzLT524KO7I",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-18"
     }
   ],
   "routines": [
@@ -23860,6 +23874,22 @@
       "video_title": "EFFECTIVE ANTI-WRINKLE CREAM IN POLAND❗️- BOOST ITS EFFECTS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-16"
+    },
+    {
+      "problem": "pielęgnacja twarzy z użyciem masek w płachcie",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "oczyszczenie twarzy",
+        "nałożenie maseczki w płachcie na 15 minut",
+        "wklepanie esencji po zdjęciu maski",
+        "nałożenie serum i kremu lub samego kremu"
+      ],
+      "notes": "Maseczki nakładamy mokre i mokre zdejmujemy, maksymalnie na 8 minut. Można stosować dwa razy w tygodniu.",
+      "timestamp": "01:56",
+      "video_id": "V_gF__3-zbY",
+      "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-18"
     }
   ],
   "tips": [
@@ -39711,6 +39741,33 @@
       "video_title": "RUN TO GET THIS PERFECT FOUNDATION FOR 30 ZLOTYS❗️ - YOU HAVE TO SEE THIS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-15"
+    },
+    {
+      "topic": "Czas trzymania maseczek",
+      "tip": "Maseczki w płachcie trzymamy na twarzy maksymalnie 8 minut, nakładamy mokre i mokre zdejmujemy.",
+      "timestamp": "02:18",
+      "video_id": "V_gF__3-zbY",
+      "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-18"
+    },
+    {
+      "topic": "Częstotliwość stosowania",
+      "tip": "Dla optymalnych efektów maseczki na tkaninie warto stosować dwa razy w tygodniu.",
+      "timestamp": "01:54",
+      "video_id": "V_gF__3-zbY",
+      "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-18"
+    },
+    {
+      "topic": "stosowanie peelingów olejkowych do ciała",
+      "tip": "Najpierw zmocz się pod prysznicem, zrób peeling, zmyj go i dopiero umyj się żel, aby zachować świeżość skóry i czystość porów.",
+      "timestamp": "07:29",
+      "video_id": "FzLT524KO7I",
+      "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-18"
     }
   ]
 }

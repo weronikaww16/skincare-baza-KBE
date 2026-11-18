@@ -10309,9 +10309,29 @@
   "FzLT524KO7I": {
     "title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-17",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-18",
+    "status": "done",
+    "summary": "Film jest przeglądem kosmetyków z drogerii Rossmann marek takich jak Fluff, Isana, Bielenda czy Alkmie. Autor omawia składy, działanie i opłacalność poszczególnych produktów do pielęgnacji twarzy i ciała."
+  },
+  "V_gF__3-zbY": {
+    "title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-18",
+    "status": "done",
+    "summary": "Autor omawia dwie maski do twarzy na tkaninie marki Medisphere z Dino, analizując ich skład, działanie, cenę oraz sposób stosowania. Porównuje maskę rozświetlającą i przeciwstarzeniową, dzieląc się swoimi opiniami i poradami pielęgnacyjnymi."
+  },
+  "Br6iWAhBOxQ": {
+    "title": "BLUSH IN BUBBLES?!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-18",
+    "status": "done",
+    "summary": "Recenzja i analiza składu różu w serum w kapsułkach Catrice Capsule Burst C010 Sunlit Flush."
+  },
+  "GspBpAuAwNQ": {
+    "title": "THE FIRST COSMETIC OF ITS KIND IN MAKEUP?",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-18",
+    "status": "done",
+    "summary": "Autor omawia skład i działanie sztyftu Catrice PDRN Glow Multi Stick, oceniając go negatywnie ze względu na składniki komedogenne i brak właściwości odmładzających."
   }
 }

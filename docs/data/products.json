@@ -11580,6 +11580,27 @@
     "conflict": false
   },
   {
+    "key": "arganove green tea mineral deodorant",
+    "brand": "Arganove",
+    "name": "Green Tea Mineral Deodorant",
+    "category": "dezodorant",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Świetny skład bez aluminium i alkoholu, 99,7% składników naturalnych.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "06:20"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "arganove hydrolaty do ciaa i twarzy oraz olejki",
     "brand": "Arganove",
     "name": "Hydrolaty do ciała i twarzy oraz olejki",
@@ -11686,6 +11707,48 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "arganove oud mineral deodorant",
+    "brand": "Arganove",
+    "name": "Oud Mineral Deodorant",
+    "category": "dezodorant",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Jeden z ulubionych zapachów widzów, bez aluminium.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "06:20"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "arganove verbena mineral deodorant",
+    "brand": "Arganove",
+    "name": "Verbena Mineral Deodorant",
+    "category": "dezodorant",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Jeden z ulubionych zapachów widzów, bez aluminium.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "06:20"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -26990,6 +27053,48 @@
     "conflict": false
   },
   {
+    "key": "bielenda juicy lips tinted oil arbuz",
+    "brand": "Bielenda",
+    "name": "Juicy Lips Tinted Oil Arbuz",
+    "category": "balsam do ust",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Mocno barwią usta, dając indywidualny naturalny kolor.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "08:20"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "bielenda juicy lips tinted oil malina",
+    "brand": "Bielenda",
+    "name": "Juicy Lips Tinted Oil Malina",
+    "category": "balsam do ust",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Mocno barwią usta, dając indywidualny naturalny kolor.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "08:20"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "bielenda kokosowe serum do twarzy coconut milk",
     "brand": "Bielenda",
     "name": "Kokosowe serum do twarzy CocoNut Milk",
@@ -42144,6 +42249,29 @@
     "conflict": false
   },
   {
+    "key": "catrice capsule burst c010 sunlit flush",
+    "brand": "Catrice",
+    "name": "Capsule Burst C010 Sunlit Flush",
+    "category": "róż w serum",
+    "ingredients": [
+      "akrylany"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Bezwartościowy skład, zawiera dwa akrylany, które nie mają żadnych właściwości pielęgnacyjnych.",
+        "video_id": "Br6iWAhBOxQ",
+        "video_title": "BLUSH IN BUBBLES?!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-18",
+        "timestamp": "01:19"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "catrice cover care",
     "brand": "Catrice",
     "name": "Cover + Care",
@@ -42976,6 +43104,40 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2026-11-15",
         "timestamp": "02:35"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "catrice pdrn glow multi stick c010 glow infusion",
+    "brand": "Catrice",
+    "name": "PDRN Glow Multi Stick C010 Glow Infusion",
+    "category": "sztyft rozświetlający",
+    "ingredients": [
+      "ekstrakt z akmelii",
+      "emolient squalane",
+      "emolienty",
+      "fenoksyetanol",
+      "hialuronian sodu",
+      "olej rycynowy",
+      "olej różany",
+      "plastik",
+      "triglicerydy",
+      "witamina E",
+      "wosk",
+      "wosk syntetyczny"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Produkt ma kłamliwy marketing związany z PDRN, nie odmładza, nie wygładza zmarszczek i nie liftinguje, a jego skład zawiera składniki komedogenne (np. syntetyczny wosk, olej rycynowy), które zapychają pory.",
+        "video_id": "GspBpAuAwNQ",
+        "video_title": "THE FIRST COSMETIC OF ITS KIND IN MAKEUP?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-18",
+        "timestamp": "00:00"
       }
     ],
     "verdict": "odradzany",
@@ -59590,6 +59752,27 @@
     "conflict": false
   },
   {
+    "key": "fluff czekolada do kapieli",
+    "brand": "Fluff",
+    "name": "Czekolada do kąpieli",
+    "category": "produkt do kąpieli",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobre składowo, bez PVP, w przeciwieństwie do ubiegłorocznych wersji.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "01:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "fluff dragon kiss",
     "brand": "Fluff",
     "name": "Dragon Kiss",
@@ -59986,6 +60169,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "fluff mango gelato body wash scrub",
+    "brand": "Fluff",
+    "name": "Mango Gelato Body Wash Scrub",
+    "category": "peeling",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Lekko-średni zdzierak, świetna technologia, ale pozostawia olejkowe wykończenie.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "07:06"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -60915,6 +61119,30 @@
     "conflict": false
   },
   {
+    "key": "fluff winter face treats coffee cups face masks",
+    "brand": "Fluff",
+    "name": "Winter Face Treats Coffee Cups Face Masks",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "kobiety w ciąży",
+      "matki karmiące"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetne maski w kremie, idealne dla kobiet w ciąży i matek karmiących.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "00:38"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "fluff wyrownujacy koloryt mleczko do twarzy",
     "brand": "Fluff",
     "name": "Wyrównujący koloryt mleczko do twarzy",
@@ -60964,6 +61192,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "fluff zel pod prysznic mango gelato",
+    "brand": "Fluff",
+    "name": "Żel pod prysznic Mango Gelato",
+    "category": "żel do mycia",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Skład i zapach są dobre, ale nienawidzi zakrętek bez pompek czy dozowników.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "05:38"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -68231,6 +68480,32 @@
     "conflict": false
   },
   {
+    "key": "isana bakuchiol serum",
+    "brand": "Isana",
+    "name": "Bakuchiol Serum",
+    "category": "serum",
+    "ingredients": [
+      "bakuchiol",
+      "retinol"
+    ],
+    "for": [
+      "początkujący"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Idealne dla początkujących z retinoidami.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "isana bakuchiol serum 0 5 bakuchiol 0 1 retinol",
     "brand": "Isana",
     "name": "Bakuchiol Serum 0,5% Bakuchiol + 0,1% Retinol",
@@ -68983,6 +69258,7 @@
     "ingredients": [
       "2% niacynamid",
       "5% ceramid-kompleks",
+      "ceramidowy kompleks",
       "ceramidy",
       "dekspantenol",
       "niacynamid",
@@ -68990,6 +69266,7 @@
     ],
     "for": [
       "działanie przeciwzapalne",
+      "skóra wymagająca ukojenia",
       "wrażliwa skóra"
     ],
     "mentions": [
@@ -69010,6 +69287,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "02:17"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Fajny, prosty, aktywny skład, długoterminowe rezultaty pielęgnacyjne.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
       }
     ],
     "verdict": "polecany",
@@ -69959,6 +70245,7 @@
       "każdy typ skóry",
       "naczynkowa",
       "odwodniona",
+      "skóra odwodniona",
       "skóra tłusta",
       "sucha",
       "trądzikowa",
@@ -69975,6 +70262,15 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2026-08-25",
         "timestamp": "01:43"
+      },
+      {
+        "verdict": "neutralny",
+        "reason": "Genialny produkt nawilżający, dający efekt 'krzlanej skóry', świetna cena w porównaniu do esencji koreańskich.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "04:45"
       }
     ],
     "verdict": "polecany",
@@ -71161,6 +71457,29 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "isana holo patch hydrokoloidowe plastry na niedoskonaosci",
+    "brand": "Isana",
+    "name": "Holo Patch Hydrokoloidowe plastry na niedoskonałości",
+    "category": "plasterki na niedoskonałości",
+    "ingredients": [],
+    "for": [
+      "niedoskonałości"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Jedyny produkt w Rossmannie tego typu bez kleju z plastiku niszczącego barierę hydrolipidową, bez alkoholu.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "08:42"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -76845,6 +77164,30 @@
     "conflict": false
   },
   {
+    "key": "isana peptide serum",
+    "brand": "Isana",
+    "name": "Peptide Serum",
+    "category": "serum",
+    "ingredients": [
+      "kolagen",
+      "peptydy"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajny, prosty, aktywny skład, długoterminowe rezultaty pielęgnacyjne.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "isana pflegecreme",
     "brand": "Isana",
     "name": "Pflegecreme",
@@ -77713,9 +78056,14 @@
     "brand": "Isana",
     "name": "Pure (Krem pod oczy)",
     "category": "krem pod oczy",
-    "ingredients": [],
+    "ingredients": [
+      "aloes",
+      "kwas hialuronowy"
+    ],
     "for": [
-      "skóra młoda"
+      "każdy typ skóry",
+      "skóra młoda",
+      "skóra wrażliwa"
     ],
     "mentions": [
       {
@@ -77726,6 +78074,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "12:44"
+      },
+      {
+        "verdict": "neutralny",
+        "reason": "Zawiera chelatory tetrasodium EDTA lub trisodium EDTA, zwykła seria nawilżająca bez rewolucyjnych technologii.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "03:14"
       }
     ],
     "verdict": "polecany",
@@ -78747,6 +79104,30 @@
     "conflict": false
   },
   {
+    "key": "isana serum do twarzy z niacynamidem",
+    "brand": "Isana",
+    "name": "Serum do twarzy z niacynamidem",
+    "category": "serum",
+    "ingredients": [
+      "gliceryna",
+      "niacynamid"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajny, prosty, aktywny skład, długoterminowe rezultaty pielęgnacyjne.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "isana serum do wosow w ampule czarny bez truskawka bazylia mango",
     "brand": "Isana",
     "name": "Serum do włosów w ampule (Czarny bez & Truskawka / Bazylia & Mango)",
@@ -78769,6 +79150,58 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "00:51"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana serum nawilzajace na noc",
+    "brand": "Isana",
+    "name": "Serum nawilżające na noc",
+    "category": "serum",
+    "ingredients": [
+      "gliceryna",
+      "niacynamid"
+    ],
+    "for": [
+      "skóra na noc"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajny, prosty, aktywny skład, długoterminowe rezultaty pielęgnacyjne.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana serum pod oczy 1 witamina c",
+    "brand": "Isana",
+    "name": "Serum pod oczy 1% witamina C",
+    "category": "serum",
+    "ingredients": [
+      "betaina",
+      "witamina C"
+    ],
+    "for": [
+      "skóra pod oczami"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajny, prosty, aktywny skład, długoterminowe rezultaty pielęgnacyjne.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "02:09"
       }
     ],
     "verdict": "polecany",
@@ -78849,6 +79282,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-11-11",
         "timestamp": "05:41"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana serum z kwasem azelainowym",
+    "brand": "Isana",
+    "name": "Serum z kwasem azelainowym",
+    "category": "serum",
+    "ingredients": [
+      "kwas azelainowy"
+    ],
+    "for": [
+      "początkujący"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Idealne na początek do przygotowania skóry na wyższe stężenia.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "03:04"
       }
     ],
     "verdict": "polecany",
@@ -80991,6 +81449,32 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "isana pure krem 24 h nawilzajacy i witalizujacy",
+    "brand": "Isana Pure",
+    "name": "Krem 24 h nawilżający i witalizujący",
+    "category": "krem",
+    "ingredients": [
+      "niacynamid",
+      "pantenol"
+    ],
+    "for": [
+      "skóra bezproblemowa"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Zwykła seria nawilżająca bez rewolucyjnych technologii i anti-aging.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "03:14"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
@@ -101219,6 +101703,71 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "medisphere bakuchiol boost",
+    "brand": "Medisphere",
+    "name": "Bakuchiol Boost",
+    "category": "maska",
+    "ingredients": [
+      "1,2-heksanodiol",
+      "bufor",
+      "ekstrakt z sezamu",
+      "ektoina",
+      "gliceryna",
+      "olej bakuchiol",
+      "propanediol",
+      "tokoferol",
+      "woda"
+    ],
+    "for": [
+      "skóra dojrzała z oznakami starzenia",
+      "zmniejszenie napięcia skóry"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Globalnie antystarzeniowa, mocno nawilżająca, wygładza skórę, poprawia elastyczność i redukuje oznaki starzenia. Cena 3,99 zł.",
+        "video_id": "V_gF__3-zbY",
+        "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "05:07"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "medisphere flower star glow",
+    "brand": "Medisphere",
+    "name": "Flower Star Glow",
+    "category": "maska",
+    "ingredients": [
+      "1,2-heksanodiol",
+      "ekstrakt z brunatnicy",
+      "gliceryna",
+      "glikoproteiny",
+      "kwas hialuronowy",
+      "sodu PCA",
+      "wyciąg z korzenia trawy afrykańskiej"
+    ],
+    "for": [
+      "skóra matowa pozbawiona blasku"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Daje piękny glass skin, rozświetla, matowa skóra jest pozbawiona blasku. Świetny skład i niska cena (3,99 zł w Dino).",
+        "video_id": "V_gF__3-zbY",
+        "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "01:09"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -122493,6 +123042,82 @@
     "conflict": false
   },
   {
+    "key": "nivelazione naturalny dezodorant kwasowy dla osob aktywnych fizycznie",
+    "brand": "Nivelazione",
+    "name": "Naturalny dezodorant kwasowy dla osób aktywnych fizycznie",
+    "category": "dezodorant",
+    "ingredients": [
+      "kwasy"
+    ],
+    "for": [
+      "skóra osób aktywnych fizycznie"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Produkt na noc, złuszczający, przyspiesza detoksykację z aluminium.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "00:00"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "nivelazione naturalny dezodorant kwasowy dla osob narazonych na stres",
+    "brand": "Nivelazione",
+    "name": "Naturalny dezodorant kwasowy dla osób narażonych na stres",
+    "category": "dezodorant",
+    "ingredients": [
+      "kwasy"
+    ],
+    "for": [
+      "skóra narażona na stres"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Produkt na noc, złuszczający skórę pach, do używania 3 noce pod rząd w tygodniu.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "00:00"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "nivelazione naturalny dezodorant kwasowy dla skory wrazliwej i po depilacji",
+    "brand": "Nivelazione",
+    "name": "Naturalny dezodorant kwasowy dla skóry wrażliwej i po depilacji",
+    "category": "dezodorant",
+    "ingredients": [
+      "kwasy"
+    ],
+    "for": [
+      "po depilacji",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Produkt na noc, przyspiesza detoksykację z aluminium.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "00:00"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "nivelazione perfekcyjne stopy sol zmiekczajaca",
     "brand": "NIVELAZIONE",
     "name": "Perfekcyjne stopy sól zmiekczająca",
@@ -123939,6 +124564,54 @@
     "conflict": false
   },
   {
+    "key": "onlybio hair in balance blondi odzywka ochadzajaca kolor wosow",
+    "brand": "OnlyBio",
+    "name": "Hair in Balance Blondi Odżywka ochładzająca kolor włosów",
+    "category": "odżywka",
+    "ingredients": [
+      "olej z orzechów brazylijskich"
+    ],
+    "for": [
+      "włosy blond"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Średnio schładza kolor włosów.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "01:32"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "onlybio hair in balance blondi olejek",
+    "brand": "OnlyBio",
+    "name": "Hair in Balance Blondi Olejek",
+    "category": "olejek",
+    "ingredients": [],
+    "for": [
+      "włosy blond"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobre składniki.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "01:32"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "onlybio hair in balance blondi szampon ochadzajacy kolor wosow",
     "brand": "OnlyBio",
     "name": "Hair in Balance Blondi Szampon ochładzający kolor włosów",
@@ -123949,10 +124622,12 @@
       "barwniki fioletowe/niebieskie",
       "ekstrakt z arniki",
       "ekstrakt z tataraku",
+      "ekstrakty z kasztana i salsefi",
       "witamina E"
     ],
     "for": [
       "stosowanie 1-2 razy w tygodniu",
+      "włosy blond",
       "włosy blond z żółtymi odcieniami"
     ],
     "mentions": [
@@ -123964,6 +124639,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-07-28",
         "timestamp": "14:38"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Nie wysuszał włosów, ale efekt neutralizacji utrzymywał się tylko do następnego mycia.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "01:32"
       }
     ],
     "verdict": "polecany",
@@ -136643,6 +137327,27 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "routines by alkmie spf 50 glow stick",
+    "brand": "Routines by Alkmie",
+    "name": "SPF 50 Glow Stick",
+    "category": "SPF",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wątpliwa ochrona przeciwsłoneczna, brak podanego PPD wskaźnika, lepiej inwestować w produkty z rodziny filtrów sprawdzonych na kanale.",
+        "video_id": "FzLT524KO7I",
+        "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-18",
+        "timestamp": "03:55"
+      }
+    ],
+    "verdict": "neutralny",
     "conflict": false
   },
   {
