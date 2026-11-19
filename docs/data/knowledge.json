@@ -14151,6 +14151,49 @@
       "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-18"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "maść GorVita Blizna",
+        "ceramidy",
+        "witamina C (Tetra)"
+      ],
+      "rule": "Produkt na bazie wyciągu z cebuli można łączyć wyłącznie z ceramidami lub witaminą C w formie tetraizopalmitynianu.",
+      "why": "Takie połączenie wzmacnia rozjaśnianie i regenerację bez wywoływania podrażnień.",
+      "timestamp": "01:10",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "maść GorVita Blizna",
+        "inne składniki aktywne"
+      ],
+      "rule": "Nie należy łączyć produktu z innymi silnymi substancjami aktywnymi w jednej rutynie.",
+      "why": "Obecność wyciągu z cebuli niesie ryzyko wystąpienia silnego podrażnienia skóry.",
+      "timestamp": "01:21",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "kwasy",
+        "retinoidy"
+      ],
+      "rule": "Nie stosować kwasów i retinoidów jednocześnie bez przygotowania ani latem bez fotoprotekcji.",
+      "why": "Błędy w ich stosowaniu i brak ochrony przeciwsłonecznej prowadzą do powstawania trudnych do usunięcia przebarwień posłonecznych i pozapalnych.",
+      "timestamp": "05:28",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
     }
   ],
   "routines": [
@@ -23890,6 +23933,20 @@
       "video_title": "DINO❗️- MUST-HAVE HITS EVERYONE NEEDS ❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-18"
+    },
+    {
+      "problem": "przebarwienia i blizny",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Aplikacja maści GorVita Blizna na oczyszczoną skórę na noc (samodzielnie lub w połączeniu z ceramidami / witaminą C Tetra)",
+        "Stosowanie 1 raz dziennie lub 2-3 razy w tygodniu przy obecności innych aktywnych kuracji"
+      ],
+      "notes": "Kurację można wdrożyć wyłącznie na skórę z nienaruszoną barierą hydrolipidową; w ciągu dnia bezwzględnie wymagany jest krem z filtrem SPF.",
+      "timestamp": "02:40",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
     }
   ],
   "tips": [
@@ -39768,6 +39825,42 @@
       "video_title": "ROSSMANN❗️- WHAT’S WORTH BUYING AND WHAT’S NOT?❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-18"
+    },
+    {
+      "topic": "Alergia na cebulę",
+      "tip": "W przypadku alergii na cebulę należy bezwzględnie zrezygnować ze stosowania maści GorVita Blizna.",
+      "timestamp": "01:35",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
+    },
+    {
+      "topic": "Mechanizm i czas powstawania przebarwień",
+      "tip": "Proces tworzenia się przebarwienia w głębszych warstwach naskórka trwa około 6 miesięcy, dlatego jego redukcja również wymaga cierpliwości – pierwsze efekty widać zazwyczaj po 3-4 tygodniach regularnego stosowania.",
+      "timestamp": "05:08",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
+    },
+    {
+      "topic": "Przeciwwskazania",
+      "tip": "Produkt nie jest przeznaczony dla kobiet w ciąży ani dla matek karmiących piersią.",
+      "timestamp": "07:50",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
+    },
+    {
+      "topic": "Bariera hydrolipidowa a redukcja przebarwień",
+      "tip": "Nigdy nie należy stosować produktów redukujących przebarwienia przy zaburzonej barierze hydrolipidowej – najpierw trzeba ją zregenerować (np. ceramidami, peptydami), w przeciwnym razie kosmetyki aktywne mogą pogorszyć stan skóry.",
+      "timestamp": "09:07",
+      "video_id": "9xq_SzGF1e0",
+      "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-19"
     }
   ]
 }

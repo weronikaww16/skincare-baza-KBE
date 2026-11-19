@@ -63055,6 +63055,40 @@
     "conflict": false
   },
   {
+    "key": "gorvita blizna masc krem",
+    "brand": "GorVita",
+    "name": "Blizna (maść / krem)",
+    "category": "maść",
+    "ingredients": [
+      "alantoina",
+      "ekstrakt z cebuli",
+      "gliceryna",
+      "hialuronian sodu",
+      "pantenol",
+      "wyciąg z kory drzewa Boldo (diacetyl boldina)"
+    ],
+    "for": [
+      "blizny",
+      "każdy rodzaj skóry",
+      "przebarwienia",
+      "skóra sucha",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Niska cena (ok. 27 zł), jedwabista formuła, brak nieprzyjemnego zapachu oraz skuteczne działanie rozjaśniające przebarwienia i wspomagające regenerację blizn dzięki połączeniu ekstraktu z cebuli i kory drzewa Boldo.",
+        "video_id": "9xq_SzGF1e0",
+        "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-19",
+        "timestamp": "01:43"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "gorvita masc propolisowa",
     "brand": "Gorvita",
     "name": "Maść propolisowa",
