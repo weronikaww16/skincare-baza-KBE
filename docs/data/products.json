@@ -6778,6 +6778,29 @@
     "conflict": false
   },
   {
+    "key": "abib produkty z roza jerychonska",
+    "brand": "Abib",
+    "name": "Produkty z różą jerychońską",
+    "category": "serum / krem / płatki",
+    "ingredients": [
+      "róża jerychońska"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Brak realnych, długoterminowych rezultatów, jedynie powierzchowny efekt placebo do pierwszego zmycia; marka nie jest cruelty-free.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "00:06"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "acnederm zel do skory",
     "brand": "Acnederm",
     "name": "żel do skóry",
@@ -16063,6 +16086,27 @@
     "conflict": false
   },
   {
+    "key": "barwa myda w kostce",
+    "brand": "Barwa",
+    "name": "Mydła w kostce",
+    "category": "mydło w kostce",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Tragiczny skład, przynoszą więcej szkody niż pożytku w porównaniu do wersji w płynie.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "05:08"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "barwa mydo delikatne kojace owsiane",
     "brand": "Barwa",
     "name": "Mydło delikatne kojące Owsiane",
@@ -16155,6 +16199,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "00:48"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "barwa mydo w pynie warianty miodowe owsiane kozie mleko",
+    "brand": "Barwa",
+    "name": "Mydło w płynie (warianty: miodowe, owsiane, kozie mleko)",
+    "category": "mydło w płynie / żel pod prysznic",
+    "ingredients": [
+      "kozie mleko",
+      "miód",
+      "owies"
+    ],
+    "for": [
+      "mycie dłoni i ciała",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjny skład na delikatnych substancjach myjących, brak SLS, parabenów, alkoholu, DEA, MEA, TEA; nie wysuszają skóry; wariant miodowy najpiękniej pachnie.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "04:04"
       }
     ],
     "verdict": "polecany",
@@ -38374,6 +38446,37 @@
     "conflict": false
   },
   {
+    "key": "biotaniqe professional multi active 3 strefy maska do twarzy",
+    "brand": "Biotaniqe Professional",
+    "name": "Multi-Active 3 Strefy Maska do twarzy",
+    "category": "maska",
+    "ingredients": [
+      "fibroina",
+      "niacynamid",
+      "nonapeptyd",
+      "olej ryżowy",
+      "woda ryżowa"
+    ],
+    "for": [
+      "oznaki starzenia",
+      "skóra odwodniona",
+      "utrata jędrności"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bogata, silnie skoncentrowana esencja, długoterminowe rezultaty; intensywnie nawadnia, rozświetla i wygładza skórę.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "05:19"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "biotaniqe professional redukcja przebarwien maseczka ampuka nocna odnowa cery dojrzaej",
     "brand": "Biotaniqe Professional",
     "name": "Redukcja Przebarwień Maseczka-ampułka nocna odnowa cery dojrzałej",
@@ -44923,6 +45026,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-11-11",
         "timestamp": "05:01"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "child s farm oat derma seria produktow szampon pyn do kapieli zel do mycia mleczko do kapieli krem",
+    "brand": "Child's Farm",
+    "name": "Oat Derma (seria produktów: szampon, płyn do kąpieli, żel do mycia, mleczko do kąpieli, krem)",
+    "category": "pielęgnacja ciała / krem",
+    "ingredients": [
+      "owies (oat)"
+    ],
+    "for": [
+      "skóra alergiczna",
+      "skóra bardzo wrażliwa",
+      "skóra podrażniona",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetne formuły bez substancji zapachowych (pachną naturalnymi surowcami), regenerują, natłuszczają i odbudowują barierę hydrolipidową.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "01:36"
       }
     ],
     "verdict": "polecany",
@@ -109851,6 +109982,34 @@
     "conflict": false
   },
   {
+    "key": "miya cosmetics beauty lab mist serum w mgiece z pdrn i niacynamidem",
+    "brand": "Miya Cosmetics",
+    "name": "BEAUTY.lab Mist Serum w mgiełce z PDRN i niacynamidem",
+    "category": "serum / mgiełka",
+    "ingredients": [
+      "PDRN",
+      "antyoksydanty",
+      "niacynamid"
+    ],
+    "for": [
+      "brak blasku",
+      "skóra szara"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Autor uważa PDRN w kosmetykach za 'ściemę', jednak produkt zawiera inne dobre składniki antyoksydacyjne i dobrze rozświetla skórę.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "01:16"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "miya cosmetics beauty lab serum aktywnie odbudowujace bariere hydrolipidowa",
     "brand": "Miya Cosmetics",
     "name": "Beauty.lab Serum aktywnie odbudowujące barierę hydrolipidową",
@@ -109991,6 +110150,7 @@
     ],
     "for": [
       "każdy typ skóry",
+      "oznaki starzenia",
       "skóra dojrzała",
       "skóra odwodniona",
       "skóra sucha",
@@ -110006,6 +110166,41 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-20",
         "timestamp": "01:38"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Genialny skład, żelowa konsystencja, szybko się wchłania bez lepkiej i tłustej warstwy, świetnie nawilża i działa przeciwstarzeniowo.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "00:33"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "miya cosmetics beauty lab serum wygadzajace z kompleksem anti aging 5",
+    "brand": "Miya Cosmetics",
+    "name": "BEAUTY.lab Serum wygładzające z kompleksem anti-aging 5%",
+    "category": "serum",
+    "ingredients": [
+      "kompleks anti-aging 5%"
+    ],
+    "for": [
+      "oznaki starzenia",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjny skład, lekka wodna formuła wchłaniająca się bez śladu, działa w głębszych warstwach skóry.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "01:00"
       }
     ],
     "verdict": "polecany",
@@ -118490,6 +118685,32 @@
     "conflict": false
   },
   {
+    "key": "neboa glow peptide szampon odzywka maska serum",
+    "brand": "Neboa",
+    "name": "Glow Peptide (szampon, odżywka, maska, serum)",
+    "category": "kosmetyki do włosów",
+    "ingredients": [
+      "peptydy roślinne",
+      "tripeptyd miedziowy"
+    ],
+    "for": [
+      "włosy o każdej porowatości"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bardzo dobrze skomponowane, zaawansowane technologicznie składy, produkty cruelty-free, maska wygładza, odżywka nabłyszcza.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "07:48"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "neboa glow peptide odbudowujaca maska",
     "brand": "Neboa",
     "name": "Glow Peptide Odbudowująca Maska",
@@ -119195,6 +119416,35 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-07-27",
         "timestamp": "07:22"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "neboa phyto keratin glow szampon odzywka",
+    "brand": "Neboa",
+    "name": "Phyto-Keratin Glow (szampon, odżywka)",
+    "category": "kosmetyki do włosów",
+    "ingredients": [
+      "ceramidy",
+      "fitokeratyna",
+      "proteiny"
+    ],
+    "for": [
+      "włosy grube",
+      "włosy trudne do obciążenia",
+      "włosy zniszczone"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny skład silnie wygładzający, ale produkt jest ciężki i proteinowy – nie nadaje się do cienkich włosów.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "09:29"
       }
     ],
     "verdict": "polecany",
@@ -152289,6 +152539,34 @@
     "conflict": false
   },
   {
+    "key": "topa dermo masking hydra boost ampuka serum maska w pacie",
+    "brand": "Tołpa",
+    "name": "Dermo Masking Hydra Boost (ampułka-serum + maska w płacie)",
+    "category": "maska",
+    "ingredients": [
+      "CICA",
+      "kwas hialuronowy 5%",
+      "trehaloza"
+    ],
+    "for": [
+      "skóra odwodniona",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dwuetapowa kuracja dająca piorunujące efekty nawilżenia i ukojenia skóry.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "06:52"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "topa dermo masking hydra boost ampulka serum maska w pacie",
     "brand": "tołpa",
     "name": "dermo masking hydra boost ampulka-serum + maska w płacie",
@@ -159475,6 +159753,30 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-18",
         "timestamp": "00:38"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "uzdrowisko maska nawilzajaca kremowa",
+    "brand": "Uzdrowisko",
+    "name": "Maska nawilżająca kremowa",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "skóra odwodniona",
+      "skóra sucha"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjna technologia i skład, silnie nawilża i nawadnia skórę.",
+        "video_id": "NHZuiSeskzI",
+        "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-20",
+        "timestamp": "06:01"
       }
     ],
     "verdict": "polecany",
