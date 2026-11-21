@@ -14194,6 +14194,20 @@
       "video_title": "BIG HIT FOR HYPERPIGMENTATION FOR 27 ZŁOTY!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-19"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy miedziowe (helator disodium EDTA)",
+        "witamina C (z wyjątkiem tetraizopalmitynianu askorbylu)"
+      ],
+      "rule": "Nie łączyć serum z peptydami miedziowymi z innymi formami witaminy C niż tetraizopalmitynian askorbylu.",
+      "why": "Inne formy witaminy C destablizują peptydy, wchodzą w reakcję krzyżową, powodują uwrażliwienie skóry, zaczerwienienie, podrażnienie i niszczą barierę hydrolipidową (BHN).",
+      "timestamp": "07:35",
+      "video_id": "4wBBZHiyano",
+      "video_title": "BIEDRONKA❗️- WE HAVE SUCH A TREASURE IN THIS STORE, IT'S SHOCKING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-21"
     }
   ],
   "routines": [
@@ -39903,6 +39917,24 @@
       "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-20"
+    },
+    {
+      "topic": "stosowanie serum pod oczy",
+      "tip": "Autor lubi stosować to serum pod oczy, ponieważ ma delikatną mleczną konsystencję i daje efekt blur pod oczami, pod warunkiem, że produkt nie drażni oczu.",
+      "timestamp": "10:12",
+      "video_id": "4wBBZHiyano",
+      "video_title": "BIEDRONKA❗️- WE HAVE SUCH A TREASURE IN THIS STORE, IT'S SHOCKING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-21"
+    },
+    {
+      "topic": "warunki działania kosmetyków",
+      "tip": "Żeby wykorzystać 100% potencjału działania kosmetyku, trzeba odpowiednio skórę złuszczać i umożliwić penetrację składników aktywnych, żeby skóra nie miała warstwy z rogów.",
+      "timestamp": "09:26",
+      "video_id": "4wBBZHiyano",
+      "video_title": "BIEDRONKA❗️- WE HAVE SUCH A TREASURE IN THIS STORE, IT'S SHOCKING❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-21"
     }
   ]
 }
