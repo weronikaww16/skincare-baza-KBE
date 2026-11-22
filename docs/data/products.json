@@ -97539,6 +97539,27 @@
     "conflict": false
   },
   {
+    "key": "lovely balsam zmieniajacy odcien ust pod wpywem ph",
+    "brand": "Lovely",
+    "name": "Balsam zmieniający odcień ust pod wpływem pH",
+    "category": "balsam do ust",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Posiada dobry skład jako jeden z nielicznych kosmetyków w tej kolekcji.",
+        "video_id": "-G0CoYtp7Ls",
+        "video_title": "SHOCK AND DISBELIEF!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-21",
+        "timestamp": "02:15"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "lovely bubble foundation",
     "brand": "Lovely",
     "name": "Bubble Foundation",
@@ -97567,6 +97588,57 @@
     "conflict": false
   },
   {
+    "key": "lovely doppio dazzle liquid eyeshadow",
+    "brand": "Lovely",
+    "name": "Doppio Dazzle Liquid Eyeshadow",
+    "category": "cień do powiek",
+    "ingredients": [
+      "acrylates copolymer (mikroplastik)",
+      "barwniki",
+      "dimethicone/vinyl dimethicone crosspolymer (winyl)",
+      "fenoksyetanol",
+      "glikol propylenowy",
+      "krzemionka",
+      "mika",
+      "woda"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zły skład zawierający winyl oraz mikroplastiki, brak wartościowych składników uzasadniających zakup.",
+        "video_id": "-G0CoYtp7Ls",
+        "video_title": "SHOCK AND DISBELIEF!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-21",
+        "timestamp": "01:01"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "lovely paletka",
+    "brand": "Lovely",
+    "name": "Paletka",
+    "category": "paleta do makijażu",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Nie nadaje się do użytku ze względu na zły skład, tak jak większość serii.",
+        "video_id": "-G0CoYtp7Ls",
+        "video_title": "SHOCK AND DISBELIEF!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-21",
+        "timestamp": "02:23"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "lovely pissax",
     "brand": "Lovely",
     "name": "PISSAX",
@@ -97589,6 +97661,27 @@
       }
     ],
     "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "lovely rozswietlacz z rozpylaczem w formie balonika",
+    "brand": "Lovely",
+    "name": "Rozświetlacz z rozpylaczem w formie balonika",
+    "category": "rozświetlacz",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Jeden z nielicznych produktów z tej serii posiadający dobry skład.",
+        "video_id": "-G0CoYtp7Ls",
+        "video_title": "SHOCK AND DISBELIEF!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-21",
+        "timestamp": "02:05"
+      }
+    ],
+    "verdict": "polecany",
     "conflict": false
   },
   {
@@ -97860,6 +97953,34 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "lovely whipped cream balsam do ust o wasciwosciach ochronnych",
+    "brand": "Lovely",
+    "name": "Whipped Cream Balsam do ust o właściwościach ochronnych",
+    "category": "balsam do ust",
+    "ingredients": [
+      "alkohol benzylowy",
+      "krzemionka",
+      "mikroplastik",
+      "parafina",
+      "styren-izopren kopolimer",
+      "wosk"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Brak jakichkolwiek substancji aktywnych pielęgnujących usta; produkt bazuje na parafinie i mikroplastikach dających jedynie złudną gładkość.",
+        "video_id": "-G0CoYtp7Ls",
+        "video_title": "SHOCK AND DISBELIEF!",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-21",
+        "timestamp": "00:07"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {

@@ -10354,5 +10354,28 @@
     "date": "2026-11-21",
     "status": "done",
     "summary": "Autor omawia budżetowe serum barierowe ceramidowe z Biedronki marki Eveline. Analizuje jego skład krok po kroku, ocenia działanie oraz dzieli się radami dotyczącymi łączenia składników."
+  },
+  "W2M18dpj8O4": {
+    "title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-22",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+  },
+  "-G0CoYtp7Ls": {
+    "title": "SHOCK AND DISBELIEF!",
+    "channel": "Kacper Beauty Make-Up",
+    "date": "2026-11-21",
+    "status": "done",
+    "summary": "Autor analizuje składy kosmetyków z nowości marki Lovely, odradzając większość z nich z uwagi na obecność mikroplastików i brak substancji pielęgnujących, wskazując jedynie dwa produkty z dobrym składem."
+  },
+  "v0dj42dY8jo": {
+    "title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-21",
+    "attempts": 1,
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
   }
 }
