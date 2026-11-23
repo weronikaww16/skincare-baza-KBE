@@ -10358,10 +10358,9 @@
   "W2M18dpj8O4": {
     "title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-22",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-23",
+    "status": "done",
+    "summary": "Autor omawia nowości kosmetyczne oraz produkty z portfolio Kacper Skin połączone z akcją Black Week. Przedstawia m.in. maskę do skóry głowy, mgiełkę do twarzy, świecę sojową, spray do pomieszczeń i sztyft liftingujący pod oczy oraz do twarzy."
   },
   "-G0CoYtp7Ls": {
     "title": "SHOCK AND DISBELIEF!",
@@ -10373,9 +10372,22 @@
   "v0dj42dY8jo": {
     "title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
     "channel": "Kacper Skin Ekspert",
-    "date": "2026-11-21",
-    "attempts": 1,
-    "status": "failed",
-    "error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=900)"
+    "date": "2026-11-22",
+    "status": "done",
+    "summary": "Autor omawia krem neurogaba, odpowiada na pytania dotyczące jego stosowania, działania i łączenia z innymi składnikami aktywnymi. Przedstawia również porady dotyczące pielęgnacji nocnej i doboru kosmetyków."
+  },
+  "GsWhCTLrFtQ": {
+    "title": "A LUXURY FACE PRODUCT YOU NEED TO KNOW!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-23",
+    "status": "done",
+    "summary": "Film jest recenzją ujędrniającego serum do twarzy, szyi i dekoltu marki Uzdrovisco. Autor omawia jego działanie, składniki aktywne, sposób aplikacji oraz to, dla jakich typów skóry jest odpowiednie."
+  },
+  "grF_M3YztUI": {
+    "title": "I CREATED A MIRACLE SCALP PRODUCT!",
+    "channel": "Kacper Skin Ekspert",
+    "date": "2026-11-23",
+    "status": "done",
+    "summary": "Autor przedstawia nowość w swoim portofolio kosmetycznym: maskę do skóry głowy z retinoidami. Opowiada o jej składzie, działaniu oraz sposobie stosowania."
   }
 }

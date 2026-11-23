@@ -14208,6 +14208,123 @@
       "video_title": "BIEDRONKA❗️- WE HAVE SUCH A TREASURE IN THIS STORE, IT'S SHOCKING❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-21"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "peptydy",
+        "ceramidy",
+        "wit C",
+        "peptydy miedziowe"
+      ],
+      "rule": "Serum można łączyć z większością składników przeciwstarzeniowych.",
+      "why": "Serum działa antystarzeniowo i można je łączyć z innymi składnikami jak peptydy czy ceramidy (w przypadku peptydów miedziowych traktując je jako drugi produkt).",
+      "timestamp": "08:04",
+      "video_id": "GsWhCTLrFtQ",
+      "video_title": "A LUXURY FACE PRODUCT YOU NEED TO KNOW!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "retinoidy",
+        "kwasy peelingujące"
+      ],
+      "rule": "Jeżeli używacie retinoidów, kategoryczny zakaz używania innych kwasów peelingujących i kombinatorstwa.",
+      "why": "Maska działa złuszczająco na zupełnie innej zasady i zawiera silne retinoidy HPR.",
+      "timestamp": "01:23",
+      "video_id": "grF_M3YztUI",
+      "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "Advanced Retinoid Scalp Mask",
+        "szampony z kwasami",
+        "peelingi kwasowe",
+        "wcierki z kwasami"
+      ],
+      "rule": "Podczas stosowania maski obowiązuje zakaz szamponów z kwasami, peelingów kwasowych i wcierek z kwasami.",
+      "why": "Stosujecie retinoidy na skórę głowy.",
+      "timestamp": "04:00",
+      "video_id": "grF_M3YztUI",
+      "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptyd miedziowy",
+        "witamina C inna niż tetra"
+      ],
+      "rule": "Mgiełki z peptydem miedziowym nie należy łączyć z witaminą C inną niż tetra.",
+      "why": "Ze względu na specyfikę peptydu miedzi.",
+      "timestamp": "06:01",
+      "video_id": "W2M18dpj8O4",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptyd miedziowy",
+        "dysodu edta helator"
+      ],
+      "rule": "Produkt z peptydem miedziowym nie może być łączony z dysodu edta helatorem.",
+      "why": "Wpływa na stabilność i działanie składników.",
+      "timestamp": "06:01",
+      "video_id": "W2M18dpj8O4",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "kwas gamma-aminomasłowy",
+        "tripeptyd miedziany"
+      ],
+      "rule": "Można łączyć pod warunkiem, że nie wystąpi silne zaczerwienienie.",
+      "why": "Jeśli po nałożeniu pojawi się delikatne zaczerwienienie trwające do 3-5 minut i brak pieczenia, można łączyć. Przy pieczeniu powyżej 5 minut należy zmyć.",
+      "timestamp": "01:51",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "kwas gamma-aminomasłowy",
+        "inne peptydy"
+      ],
+      "rule": "Można łączyć z innymi peptydami.",
+      "why": "Z tripeptydem miedzianym ma mniejsze skutki, ale z innymi peptydami zasada łączenia jest poprawna.",
+      "timestamp": "02:35",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "kwas gamma-aminomasłowy",
+        "retinol",
+        "kwasy"
+      ],
+      "rule": "Nie łączyć z retinolem i kwasami w tej samej rutynie.",
+      "why": "Krem jest progresywny i od mładzający, a nie naprawiający barierę hydrolipidową. Warto stosować rotację nocną.",
+      "timestamp": "05:10",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
     }
   ],
   "routines": [
@@ -23976,6 +24093,49 @@
       "video_title": "ROSSMANN - WHAT TO BUY AND WHAT TO AVOID?",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-20"
+    },
+    {
+      "problem": "zmarszczki i utrata jędrności",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "nałożyć jedną pompkę serum rano na oczyszczoną skórę twarzy, szyi i okolice oczu"
+      ],
+      "notes": "Autor stosował również na noc, mimo że producent zaleca rano, ponieważ skład nie zawiera składników przeciwsłonecznych wykluczających nocne użycie.",
+      "timestamp": "04:30",
+      "video_id": "GsWhCTLrFtQ",
+      "video_title": "A LUXURY FACE PRODUCT YOU NEED TO KNOW!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "problem": "wypadanie włosów, powolny wzrost, przetłuszczająca się skóra głowy",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Mycie skóry głowy raz szamponem i dokładne osuszenie ręcznikiem",
+        "Nałożenie Scalp Retinoid Advanced Mask na skórę głowy na 15 minut",
+        "W trakcie działania można zaaplikować inną odżywkę na długość włosów",
+        "Po 15 minutach spłukanie maski i umycie skóry głowy raz dodatkowo szamponem"
+      ],
+      "notes": "Stosować 2 razy w tygodniu z odstępem trzydniowym.",
+      "timestamp": "03:00",
+      "video_id": "grF_M3YztUI",
+      "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "problem": "zmarszczki i zwiotczenie skóry",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Krem z neuroprzekaźnikiem Gaba na noc",
+        "Kremy nawilżające lub ceramidy w inne noce"
+      ],
+      "notes": "Stosować tylko na noc. Warto rotować z ceramidami.",
+      "timestamp": "01:38",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
     }
   ],
   "tips": [
@@ -39935,6 +40095,78 @@
       "video_title": "BIEDRONKA❗️- WE HAVE SUCH A TREASURE IN THIS STORE, IT'S SHOCKING❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-21"
+    },
+    {
+      "topic": "aplikacja serum",
+      "tip": "Nakładaj jedną pompkę serum na całą twarz, szyję i dekolt na mokrą skórę po toniku, aby uniknąć rolowania i uzyskać efekt \"glass skin\".",
+      "timestamp": "05:05",
+      "video_id": "GsWhCTLrFtQ",
+      "video_title": "A LUXURY FACE PRODUCT YOU NEED TO KNOW!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "Częstotliwość stosowania",
+      "tip": "Maskę stosuje się dwa razy w tygodniu z odstępem trzydniowym.",
+      "timestamp": "02:57",
+      "video_id": "grF_M3YztUI",
+      "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "Okres stosowania",
+      "tip": "Maskę stosujemy tak samo jak retinoidy na twarz – do końca kwietnia, w lato nie stosujemy na skórę głowy lepiej dmuchać na zimne.",
+      "timestamp": "04:16",
+      "video_id": "grF_M3YztUI",
+      "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "Sposób użycia maski do skóry głowy",
+      "tip": "Stosować 2 razy w tygodniu z odstępem 3 dni. Osuszyć skórę, nałożyć maskę na 15 minut, zmyć, umyć głowę szamponem dwa razy.",
+      "timestamp": "04:12",
+      "video_id": "W2M18dpj8O4",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "Aplikacja sprayu zapachowego",
+      "tip": "Wystarczy 1-2 psiknięcia na całe pomieszczenie, aby zapach utrzymywał się przez kilka godzin.",
+      "timestamp": "07:30",
+      "video_id": "W2M18dpj8O4",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "Aplikacja sztyftu pod oczy",
+      "tip": "Nałożyć serum aktywne, następnie wklepać sztyft metodą wstemplowania wokół oczu (około 3 razy).",
+      "timestamp": "09:39",
+      "video_id": "W2M18dpj8O4",
+      "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-23"
+    },
+    {
+      "topic": "szczypanie skóry",
+      "tip": "Krem może powodować efekt mrowienia lub gilgotania przez kwas GABA, co jest normalnym objawem jego działania.",
+      "timestamp": "07:40",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
+    },
+    {
+      "topic": "przeciwskazania",
+      "tip": "Nie mogą używać kobiety w ciąży, matki karmiące piersią oraz osoby ze zniszczoną barierą hydrolipidową.",
+      "timestamp": "06:07",
+      "video_id": "v0dj42dY8jo",
+      "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-22"
     }
   ]
 }

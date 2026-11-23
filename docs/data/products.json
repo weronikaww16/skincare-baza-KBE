@@ -83345,6 +83345,63 @@
     "conflict": false
   },
   {
+    "key": "kacper skin advanced retinoid scalp mask",
+    "brand": "Kacper Skin",
+    "name": "Advanced Retinoid Scalp Mask",
+    "category": "maska",
+    "ingredients": [
+      "AP",
+      "EOP",
+      "Lactobacillus ferment",
+      "ceramid NP",
+      "cholesterol",
+      "ekstrakt z rozmarynu",
+      "fitosfingozyna",
+      "inulina",
+      "kofeina",
+      "kompleks ceramidów",
+      "niacynamid",
+      "olej kokosowy",
+      "olej makadamia",
+      "olej monoi",
+      "propanediol",
+      "retinoid HPR",
+      "retinoid w formie HPR",
+      "składniki barierowo-odbudowujące",
+      "sodu PCA"
+    ],
+    "for": [
+      "każdy typ skóry głowy",
+      "martwe komórki naskórka",
+      "przetłuszczanie skóry głowy",
+      "skóra wrażliwa",
+      "wolny wzrost włosów",
+      "wypadanie włosów"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Innowacyjny produkt zawierający retinoidy HPR nowej generacji, kofeinę oraz kompleks ceramidów i oleje, działający złuszczająco i regenerująco na skórę głowy bez potrzeby stosowania innych mocnych peelingów.",
+        "video_id": "grF_M3YztUI",
+        "video_title": "I CREATED A MIRACLE SCALP PRODUCT!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "01:05"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "zastępuje peeling skóry głowy, wywołuje mikrozłuszczanie, nie wymaga ochrony przeciwsłonecznej skóry głowy",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "01:28"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kacper skin anti acne neuro serum",
     "brand": "Kacper Skin",
     "name": "Anti-Acne Neuro Serum",
@@ -83580,7 +83637,8 @@
     "name": "Blue Moon",
     "category": "serum",
     "ingredients": [
-      "tripeptyd miedziowy"
+      "tripeptyd miedziowy",
+      "trójpeptyd miedziowy"
     ],
     "for": [
       "każdy typ skóry",
@@ -83605,6 +83663,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-02-06",
         "timestamp": "09:05"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "z trójpeptydem miedziowym, przeceniony o 50% w Black Week",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "00:32"
       }
     ],
     "verdict": "polecany",
@@ -83896,8 +83963,10 @@
       "Hyaluronic Acid",
       "Niacinamide",
       "Panthenol",
+      "dysodu edta helator",
       "peptyd miedziowy",
-      "tripeptyd miedziowy"
+      "tripeptyd miedziowy",
+      "trójpeptyd miedziowy"
     ],
     "for": [
       "każdy typ skóry",
@@ -83954,6 +84023,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-31",
         "timestamp": "06:15"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "ulepszony skład, pozbawiona kontrowersyjnych konserwantów, z trójpeptydem miedziowym",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "05:06"
       }
     ],
     "verdict": "polecany",
@@ -84524,6 +84602,46 @@
     "conflict": false
   },
   {
+    "key": "kacper skin f lifting procedure stick",
+    "brand": "Kacper Skin",
+    "name": "F-Lifting Procedure Stick",
+    "category": "sztyft",
+    "ingredients": [
+      "bisabolol",
+      "emolienty",
+      "koenzym Q10",
+      "kwas hialuronowy",
+      "masło mango",
+      "olej jojoba",
+      "olej z opuncji figowej",
+      "olejek kokosowy",
+      "skwalan",
+      "tokoferol",
+      "witamina C tetrad",
+      "wolufilina 5%"
+    ],
+    "for": [
+      "odwodniona",
+      "przesuszona",
+      "skóra sucha",
+      "trudzikowa",
+      "zmarszczki wokół oczu"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "zapobiega zbieraniu się korektora w zmarszczkach, działa przeciwstarzeniowo",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "09:08"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kacper skin gaba serum",
     "brand": "Kacper Skin",
     "name": "GABA Serum",
@@ -84717,6 +84835,36 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-11-01",
         "timestamp": "12:30"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "kacper skin lip serum do ust",
+    "brand": "Kacper Skin",
+    "name": "Lip Serum do ust",
+    "category": "serum",
+    "ingredients": [
+      "antyoksydanty",
+      "emolienty",
+      "olej śliwkowy",
+      "wolufilina 5%"
+    ],
+    "for": [
+      "odwodnione",
+      "starzejące się",
+      "usta suche"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "z wolufiliną 5%, olejem śliwkowym i antyoksydantami, działa silnie regenerująco i ujędrniająco",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "12:43"
       }
     ],
     "verdict": "polecany",
@@ -86004,6 +86152,30 @@
     "conflict": false
   },
   {
+    "key": "kacper skin spray do pomieszczen gingerbread",
+    "brand": "Kacper Skin",
+    "name": "Spray do pomieszczeń Gingerbread",
+    "category": "spray",
+    "ingredients": [
+      "alkohol",
+      "olejki eteryczne"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "mocno skoncentrowana mgiełka na alkoholu, bezpieczna dla zwierząt",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "06:48"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "kacper skin strong barrier vitamin c serum",
     "brand": "Kacper Skin",
     "name": "Strong Barrier Vitamin C Serum",
@@ -86368,6 +86540,29 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-07-27",
         "timestamp": "02:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "kacper skin swieca sojowa gingerbread",
+    "brand": "Kacper Skin",
+    "name": "Świeca sojowa Gingerbread",
+    "category": "świeca",
+    "ingredients": [
+      "wosk sojowy"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "słodki, nie duszący, nienachalny zapach pierniczka z miodem",
+        "video_id": "W2M18dpj8O4",
+        "video_title": "The Most Important COSMETIC LAUNCH OF THE YEAR❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "06:48"
       }
     ],
     "verdict": "polecany",
@@ -108588,10 +108783,17 @@
     "ingredients": [
       "algin",
       "heksapeptyd-8",
-      "kwas gamma-aminomasłowy (GABA)"
+      "kwas gamma-aminomasłowy (GABA)",
+      "kwas gamma-aminomasłowy (gaba)",
+      "neuropeptydy",
+      "oligosacharyd z alg",
+      "witamina e (tokoferol)"
     ],
     "for": [
-      "każdy typ skóry (poza kobietami w ciąży i matkami karmiącymi)"
+      "każdy typ skóry (poza kobietami w ciąży i matkami karmiącymi)",
+      "skóra dojrzała",
+      "zmarszczki",
+      "zwiotczenie"
     ],
     "mentions": [
       {
@@ -108602,6 +108804,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-25",
         "timestamp": "04:05"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Krem ma świetną technologię, nowoczesne kompleksy peptydowe i neuroprzekaźnik gaba. Działa na zmarszczki, liftinguje i stymuluje produkcję kolagenu.",
+        "video_id": "v0dj42dY8jo",
+        "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-22",
+        "timestamp": "01:12"
       }
     ],
     "verdict": "polecany",
@@ -159370,6 +159581,44 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-30",
         "timestamp": "10:49"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "uzdrovisco serum globalnie odmadzajace do twarzy szyi i dekoltu bio elixir",
+    "brand": "Uzdrovisco",
+    "name": "Serum globalnie odmładzające do twarzy, szyi i dekoltu (Bio Elixir)",
+    "category": "serum",
+    "ingredients": [
+      "alkohol benzylowy",
+      "aminokwasy",
+      "bio-stymulator młodości z szafranu",
+      "ekstrakt szafranu",
+      "ekstrakt z krokusa",
+      "estry jojoby",
+      "hialuronian sodu",
+      "kwas laurynowy",
+      "pirokton olaminy",
+      "pochodna lizyny",
+      "trehaloza",
+      "wypełniacz hialuronowo-peptydowy"
+    ],
+    "for": [
+      "każdy typ skóry poza tłustą, problematyczną, trądzikową i z tendencją do zapychania",
+      "skóra dojrzała",
+      "skóra wrażliwa"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma bardzo fajny kompleks składników aktywnych, silnie nawilża, stymuluje produkcję kolagenu i wygładza zmarszczki, nie roluje się na mokrej skórze.",
+        "video_id": "GsWhCTLrFtQ",
+        "video_title": "A LUXURY FACE PRODUCT YOU NEED TO KNOW!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-23",
+        "timestamp": "01:11"
       }
     ],
     "verdict": "polecany",
