@@ -67216,6 +67216,29 @@
     "conflict": false
   },
   {
+    "key": "hermz harmonique krem maska pod oczy",
+    "brand": "Hermz",
+    "name": "Harmonique krem-maska pod oczy",
+    "category": "krem pod oczy",
+    "ingredients": [],
+    "for": [
+      "globalne odmłodzenie skóry wokół oczu"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "Wspomniany wyłącznie w celu odróżnienia od Uzdrovisco – autor zaznacza, że to intensywna kuracja odmładzająca o zupełnie innym profilu działania.",
+        "video_id": "XbA8lYJ1H98",
+        "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-24",
+        "timestamp": "08:01"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
     "key": "heyka clay paste strong hold styling play white natural mat finish",
     "brand": "Heyka",
     "name": "Clay Paste Strong Hold Styling Play White Natural Mat Finish",
@@ -158034,9 +158057,21 @@
     "ingredients": [
       "ceramidy",
       "dipeptyd pro-age",
-      "kofeina"
+      "ekstrakt z czarnego bzu",
+      "karnozyna",
+      "kofeina",
+      "masło pomarańczowe",
+      "olej z rokitnika",
+      "prokofeina",
+      "skwalan",
+      "witamina E"
     ],
     "for": [
+      "cienie pod oczami",
+      "drobne linie i zmarszczki",
+      "osłabiona bariera hydrolipidowa",
+      "oznaki zmęczenia",
+      "skóra odwodniona",
       "skóra wokół oczu"
     ],
     "mentions": [
@@ -158048,6 +158083,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-09-10",
         "timestamp": "01:50"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Ma przyjemną, jedwabistą konsystencję, świetnie nawilża, redukuje cienie i oznaki zmęczenia oraz wzmacnia barierę hydrolipidową; zawiera bogaty kompleks ceramidów i prokofeinę.",
+        "video_id": "XbA8lYJ1H98",
+        "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-24",
+        "timestamp": "01:14"
       }
     ],
     "verdict": "polecany",
@@ -160348,6 +160392,34 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-10-26",
         "timestamp": "13:51"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "v lifting v lifting stick",
+    "brand": "V-Lifting",
+    "name": "V-Lifting Stick",
+    "category": "sztyft",
+    "ingredients": [
+      "volufilina",
+      "witamina C Tetra"
+    ],
+    "for": [
+      "nierównomierny koloryt wokół oczu",
+      "utrata jędrności",
+      "zmarszczki"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Doskonale uzupełnia działanie kremu pod oczy, stymuluje produkcję kolagenu, spłyca zmarszczki i rozjaśnia skórę.",
+        "video_id": "XbA8lYJ1H98",
+        "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-24",
+        "timestamp": "08:31"
       }
     ],
     "verdict": "polecany",

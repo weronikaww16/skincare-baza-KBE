@@ -14325,6 +14325,35 @@
       "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-22"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "ceramidy",
+        "peptydy",
+        "witamina C Tetra"
+      ],
+      "rule": "Krem z ceramidami i prokofeiną można łączyć z peptydami, lipidami oraz lipidową formą witaminy C (C-Tetra).",
+      "why": "Składniki te współgrają w odbudowie bariery hydrolipidowej i stymulacji skóry, nie powodując podrażnień.",
+      "timestamp": "09:32",
+      "video_id": "XbA8lYJ1H98",
+      "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-24"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "krem pod oczy Uzdrovisco",
+        "kwas askorbinowy (inne formy witaminy C)"
+      ],
+      "rule": "Autor odradza łączenie tego kremu wokół oczu z innymi, bardziej drażniącymi formami witaminy C niż forma Tetra.",
+      "why": "Skóra wokół oczu jest cienka i pozbawiona gruczołów łojowych, co zwiększa ryzyko podrażnień.",
+      "timestamp": "09:37",
+      "video_id": "XbA8lYJ1H98",
+      "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-24"
     }
   ],
   "routines": [
@@ -24136,6 +24165,21 @@
       "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-22"
+    },
+    {
+      "problem": "cienie, zmarszczki, zwiotczenie skóry wokół oczu",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja serum pod oczy",
+        "Aplikacja kremu pod oczy Uzdrovisco Eye Fusion",
+        "Wklepanie odrobiny sztyftu V-Lifting opuszką palca w skórę wokół oczu"
+      ],
+      "notes": "Połączenie tworzy mocny zestaw stymulujący fibroblasty do produkcji kolagenu, silnie nawilżający i rozjaśniający.",
+      "timestamp": "08:37",
+      "video_id": "XbA8lYJ1H98",
+      "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-24"
     }
   ],
   "tips": [
@@ -40167,6 +40211,24 @@
       "video_title": "ROSSMANN - FACE CREAM THAT GIVES MAX RESULTS!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-22"
+    },
+    {
+      "topic": "worki pod oczami",
+      "tip": "Żaden krem nie zlikwiduje całkowicie worków pod oczami – kosmetyki mogą jedynie zmniejszyć obrzęki i poprawić napięcie skóry, ale obietnice całkowitej redukcji są nierealne.",
+      "timestamp": "04:20",
+      "video_id": "XbA8lYJ1H98",
+      "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-24"
+    },
+    {
+      "topic": "higiena aplikacji kosmetyków w sztyfcie",
+      "tip": "Kosmetyk w sztyfcie (stick) najlepiej nabierać na czysty palec i wklepywać w skórę, zamiast jeździć nim bezpośrednio po uprzednio zaaplikowanym kremie.",
+      "timestamp": "08:44",
+      "video_id": "XbA8lYJ1H98",
+      "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-24"
     }
   ]
 }
