@@ -14354,6 +14354,20 @@
       "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-24"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "silikony",
+        "skóra głowy"
+      ],
+      "rule": "Nigdy w życiu nie nakładaj silikonów na skórę głowy.",
+      "why": "Silikony są do końcówek włosów, a nałożone na skórę głowy mogą doprowadzić do czopowania mieszków włosowych i wypadania włosów.",
+      "timestamp": "03:15",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
     }
   ],
   "routines": [
@@ -24180,6 +24194,35 @@
       "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-24"
+    },
+    {
+      "problem": "demakijaż i mycie twarzy po płynie micelarnym",
+      "time_of_day": "wieczór",
+      "steps": [
+        "Przelanie płynu micelarnego do pustej butelki i zmycie makijażu dłońmi",
+        "Spłukanie twarzy wodą",
+        "Umycie twarzy żelem do mycia twarzy lub pianką emulsyjną"
+      ],
+      "notes": "Płyn micelarny zawiera detergenty, niszczy barierę hydrolipidową i nie może być zostawiony na twarzy bez zmycia.",
+      "timestamp": "08:09",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
+    },
+    {
+      "problem": "użycie peelingu ciała",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Zapeelingowanie ciała",
+        "Zmycie warstwy olejowej za pomocą żelu pod prysznic"
+      ],
+      "notes": "Autor nie znosi olejowej warstwy pozostawianej przez peelingi.",
+      "timestamp": "09:47",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
     }
   ],
   "tips": [
@@ -40229,6 +40272,33 @@
       "video_title": "LUXURY FOR UNDER THE EYES❗️- MAX RESULTS AFTER JUST 1 USE❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-24"
+    },
+    {
+      "topic": "Dobór płatków pod oczy",
+      "tip": "Wybieraj płatki pod oczy dopasowane do potrzeb swojej skóry, chociaż złote mają najbogatszy skład.",
+      "timestamp": "01:30",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
+    },
+    {
+      "topic": "Stosowanie maseczek do włosów",
+      "tip": "Maski z piramidek można nakładać na włosy i skórę głowy, bo nawilżają i wygładzają włosy.",
+      "timestamp": "02:17",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
+    },
+    {
+      "topic": "Używanie płynów micelarnych",
+      "tip": "Zawsze spłukuj płyn micelarny z twarzy wodą i domywaj żelem, ponieważ zawiera detergenty niszczące barierę naskórkową.",
+      "timestamp": "08:11",
+      "video_id": "otYE9RybxhU",
+      "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-25"
     }
   ]
 }

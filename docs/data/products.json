@@ -16953,6 +16953,30 @@
     "conflict": false
   },
   {
+    "key": "be beauty hydrozelowe patki pod oczy niebieskie",
+    "brand": "Be Beauty",
+    "name": "Hydrożelowe płatki pod oczy niebieskie",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "nawilżenie",
+      "skóra wokół oczu"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Dobre składy, nawilżenie, chociaż wersja złota ma najbogatszy skład.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "00:51"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "be beauty hydrozelowe patki pod oczy ujedrniajace ze zotem 24k",
     "brand": "Be Beauty",
     "name": "Hydrożelowe płatki pod oczy ujędrniające ze złotem 24k",
@@ -17153,6 +17177,52 @@
     "conflict": false
   },
   {
+    "key": "be beauty krem do twarzy i ciaa odzywienie rozowy kokosowy rozowy",
+    "brand": "Be Beauty",
+    "name": "Krem do twarzy i ciała odżywienie różowy (kokosowy/różowy)",
+    "category": "krem",
+    "ingredients": [],
+    "for": [
+      "cała rodzina",
+      "ciało",
+      "twarz"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Rewelacyjne składy, uniwersalne do twarzy i ciała, bardzo duża pojemność, brak parafiny, akrylatów i winyli.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "04:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty krem oliwkowy",
+    "brand": "Be Beauty",
+    "name": "Krem oliwkowy",
+    "category": "krem",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Dla autora śmierdzi i zapach jest nie do zaakceptowania.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "04:36"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
     "key": "be beauty lip sunscreen spf 30",
     "brand": "Be Beauty",
     "name": "Lip Sunscreen SPF 30",
@@ -17311,6 +17381,32 @@
     "conflict": false
   },
   {
+    "key": "be beauty maseczki do twarzy w pachcie rozowe zote fioletowe niebieskie",
+    "brand": "Be Beauty",
+    "name": "Maseczki do twarzy w płachcie (różowe, żółte, fioletowe, niebieskie)",
+    "category": "maska",
+    "ingredients": [
+      "tetrasodium EDTA",
+      "trisodium EDTA"
+    ],
+    "for": [
+      "twarz"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Genialne składy, pakowane po 5 w starter pack, dobre działanie (rozjaśnienie, regeneracja, anti-aging, nawodnienie).",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "06:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "be beauty maska do twarzy w pachcie nawilzenie",
     "brand": "Be Beauty",
     "name": "Maska do twarzy w płachcie nawilżenie",
@@ -17353,6 +17449,53 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-12-10",
         "timestamp": "07:13"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty maska do wosow czerwona",
+    "brand": "Be Beauty",
+    "name": "Maska do włosów czerwona",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "neutralny",
+        "reason": "W sumie nic nie robiła, najsłabiej się sprawdziła.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "02:10"
+      }
+    ],
+    "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "be beauty maska do wosow i skory gowy dwupak zota niebieska",
+    "brand": "Be Beauty",
+    "name": "Maska do włosów i skóry głowy dwupak (żółta/niebieska)",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "skóra głowy",
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Fajnie nawilżają, wygładzają włos, świetne składy za 6 zł za 2x25 ml.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "02:05"
       }
     ],
     "verdict": "polecany",
@@ -17558,6 +17701,54 @@
       }
     ],
     "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty patki pod oczy zote",
+    "brand": "Be Beauty",
+    "name": "Płatki pod oczy złote",
+    "category": "maska",
+    "ingredients": [],
+    "for": [
+      "skóra wokół oczu"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Najlepsze, mają najbogatszy skład i najlepsze rezultaty wokół oczu.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "01:07"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "be beauty pyn micelarny",
+    "brand": "Be Beauty",
+    "name": "Płyn micelarny",
+    "category": "tonik",
+    "ingredients": [
+      "detergenty"
+    ],
+    "for": [
+      "wrażliwa skóra podrażniona"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Zawiera detergenty, niszczy barierę hydrolipidową, nie do zostawiania na twarzy.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "07:54"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
@@ -37061,6 +37252,33 @@
     "conflict": false
   },
   {
+    "key": "bioelixire serum do wosow z olejkiem z czarnuszki",
+    "brand": "Bioelixire",
+    "name": "Serum do włosów z olejkiem z czarnuszki",
+    "category": "serum",
+    "ingredients": [
+      "emolienty",
+      "olejek z czarnuszki",
+      "silikony"
+    ],
+    "for": [
+      "końcówki włosów"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Produkty silikonowe służą do zabezpieczania końcówek, mają rewelacyjny skład do ochrony przed uszkodzeniami mechanicznymi.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "03:05"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "bioelixire serum z olejem arganowym 3w1",
     "brand": "Bioelixire",
     "name": "Serum z olejem arganowym 3w1",
@@ -46652,6 +46870,30 @@
         "channel": "Kacper Beauty Make-Up",
         "date": "2025-10-14",
         "timestamp": "02:56"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "clarisa ever lasting skin concealer",
+    "brand": "Clarisa",
+    "name": "Ever Lasting Skin Concealer",
+    "category": "korektor",
+    "ingredients": [
+      "acrylates",
+      "phenoxyethanol"
+    ],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "zły skład, zawierający acrylates, które mogą obciążać i nie dbać o skórę",
+        "video_id": "VW0q7HEpnUc",
+        "video_title": "THE NEWEST CONCEALER THAT WILL DELIGHT EVERYONE?",
+        "channel": "Kacper Beauty Make-Up",
+        "date": "2026-11-25",
+        "timestamp": "00:00"
       }
     ],
     "verdict": "odradzany",
@@ -91659,6 +91901,48 @@
     "conflict": false
   },
   {
+    "key": "laq zel pod prysznic krol kanapy",
+    "brand": "LaQ",
+    "name": "Żel pod prysznic Król Kanapy",
+    "category": "żel do mycia",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, polski i uczciwy na maxa skład, firma przekroczyła poziom hard.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "00:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "laq zel pod prysznic nieze ciacho",
+    "brand": "LaQ",
+    "name": "Żel pod prysznic Niezłe Ciacho",
+    "category": "żel do mycia",
+    "ingredients": [],
+    "for": [],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny, polski skład i uczciwe podejście do produktu.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "00:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "laq zele pod prysznic",
     "brand": "LaQ",
     "name": "Żele pod prysznic",
@@ -97676,6 +97960,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-02-06",
         "timestamp": "02:04"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "love your body naturalny peeling kawowy kokos truskawka",
+    "brand": "Love Your Body",
+    "name": "Naturalny peeling kawowy (kokos, truskawka)",
+    "category": "krem",
+    "ingredients": [
+      "olejowa warstwa"
+    ],
+    "for": [
+      "ciało"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Naturalny skład, ale firma kończy działalność, więc warto kupić zapas o ile są dostępne.",
+        "video_id": "otYE9RybxhU",
+        "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-25",
+        "timestamp": "08:57"
       }
     ],
     "verdict": "polecany",
