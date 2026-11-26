@@ -67263,6 +67263,45 @@
     "conflict": false
   },
   {
+    "key": "herbal care farmona zielona glinka z olejkiem chia oczyszczajaca maseczka do twarzy",
+    "brand": "Herbal Care (Farmona)",
+    "name": "Zielona Glinka z olejkiem chia oczyszczająca maseczka do twarzy",
+    "category": "maska",
+    "ingredients": [
+      "Alkohol benzylowy",
+      "Benzoesan sodu",
+      "Gliceryna",
+      "Glinka kaolinowa",
+      "Kwas cytrynowy",
+      "Kwas dehydrooctowy",
+      "Kwas mlekowy",
+      "Olej canola",
+      "Olej chia",
+      "Olej sojowy",
+      "Olej z szałwii",
+      "Woda"
+    ],
+    "for": [
+      "każdy rodzaj skóry",
+      "skóra dojrzała",
+      "skóra mieszana",
+      "skóra tłusta"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Ma świetny skład, dobrze czyści skórę, nawilża i nie narusza bariery hydrolipidowej.",
+        "video_id": "tZrbTUrb600",
+        "video_title": "BIEDRONKA❗️- A HIT FOR LESS THAN 10 PLN THAT EVERYONE SHOULD HAVE!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-26",
+        "timestamp": "01:20"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "heriter froggy wcierka wspierajaca mikrobiom",
     "brand": "Heriter",
     "name": "Froggy wcierka wspierająca mikrobiom",
