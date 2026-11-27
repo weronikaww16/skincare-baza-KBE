@@ -14368,6 +14368,48 @@
       "video_title": "BIEDRONKA - SUCH CHEAP HITS AT THIS STORE, IT'S A SHOCK❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-25"
+    },
+    {
+      "type": "uwaga",
+      "ingredients": [
+        "oleje",
+        "serum nawilżające"
+      ],
+      "rule": "Oleje nie nawilżają, więc warto pod nie nałożyć serum nawilżające.",
+      "why": "Oleje nie dostarczają wody, lecz pomagają ją zatrzymać i transportować składniki aktywne.",
+      "timestamp": "00:25",
+      "video_id": "k7qU5rkb-Ow",
+      "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "mgiełka nabłyszczająca",
+        "skóra głowy"
+      ],
+      "rule": "Nie rozpylać mgiełki blisko skóry głowy.",
+      "why": "Może dojść do sklejenia włosów i sprawienia, że skóra głowy będzie wyglądać nieestetycznie.",
+      "timestamp": "02:27",
+      "video_id": "k7qU5rkb-Ow",
+      "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "serum silikonowe",
+        "skóra głowy"
+      ],
+      "rule": "Serum silikonowego używać tylko na końcówki, nie olejować nim włosów ani nie nakładać na skórę głowy.",
+      "why": "Silikony są przeznaczone wyłącznie do zabezpieczania końcówek włosów.",
+      "timestamp": "02:39",
+      "video_id": "k7qU5rkb-Ow",
+      "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
     }
   ],
   "routines": [
@@ -40332,6 +40374,24 @@
       "video_title": "BIEDRONKA❗️- A HIT FOR LESS THAN 10 PLN THAT EVERYONE SHOULD HAVE!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-26"
+    },
+    {
+      "topic": "Używanie olejków do ciała",
+      "tip": "Na olejki warto nałożyć serum nawilżające, aby ułatwić transport składników aktywnych w głąb skóry.",
+      "timestamp": "00:25",
+      "video_id": "k7qU5rkb-Ow",
+      "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
+    },
+    {
+      "topic": "Olejek pod prysznic w szklanej butelce",
+      "tip": "Olejek można przelać do innej butelki, a szklaną ozdobną butelkę zostawić jako dekorację w łazience, żeby uniknąć poślizgnięcia i stłuczenia pod prysznicem.",
+      "timestamp": "02:46",
+      "video_id": "k7qU5rkb-Ow",
+      "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
     }
   ]
 }

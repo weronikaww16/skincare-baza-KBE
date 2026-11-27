@@ -11055,6 +11055,84 @@
     "conflict": false
   },
   {
+    "key": "anwen hairspresso odzywka nabyszczajaca",
+    "brand": "Anwen",
+    "name": "Hairspresso Odżywka Nabłyszczająca",
+    "category": "odżywka",
+    "ingredients": [
+      "naturalne oleje"
+    ],
+    "for": [
+      "przesuszone i zdrowe włosy",
+      "puch",
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Tworzy warstwę ochronną, chroni przed puszeniem.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "01:06"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "anwen hairspresso odzywka odbudowujaca",
+    "brand": "Anwen",
+    "name": "Hairspresso Odżywka Odbudowująca",
+    "category": "odżywka",
+    "ingredients": [
+      "Emolienty",
+      "Humektanty",
+      "proteiny"
+    ],
+    "for": [
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Włos jest martwy i nie można go odbudować, to tylko marketing.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "01:06"
+      }
+    ],
+    "verdict": "odradzany",
+    "conflict": false
+  },
+  {
+    "key": "anwen hairspresso szampon nabyszczajacy",
+    "brand": "Anwen",
+    "name": "Hairspresso Szampon Nabłyszczający",
+    "category": "szampon",
+    "ingredients": [],
+    "for": [
+      "fani kawy",
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetne, czyste składniki i zapach kawy.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "01:06"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "anwen marakuja olej do wosow o wysokiej porowatosci",
     "brand": "Anwen",
     "name": "Marakuja Olej do włosów o wysokiej porowatości",
@@ -14156,6 +14234,31 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-26",
         "timestamp": "03:00"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "babydream mandelol",
+    "brand": "Babydream",
+    "name": "Mandelöl",
+    "category": "olejek",
+    "ingredients": [
+      "olejek ze słodkich migdałów"
+    ],
+    "for": [
+      "suche ciało"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Bogata formuła, słodkie migdały, świetny na natłuszczenie skóry i przenika w barierę hydrolipidową.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "00:00"
       }
     ],
     "verdict": "polecany",
@@ -22043,10 +22146,12 @@
       "atopowe zapalenie skóry",
       "dzieci",
       "osoby dorosłe",
+      "podrażnienia",
       "skóra atopowa",
       "skóra podrażniona",
       "skóra wrażliwa",
-      "skóra wysuszona"
+      "skóra wysuszona",
+      "zaczerwienienia"
     ],
     "mentions": [
       {
@@ -22075,6 +22180,15 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2025-10-29",
         "timestamp": "06:58"
+      },
+      {
+        "verdict": "polecany",
+        "reason": "Silnie wycisza skórę, łagodzi podrażnienia, zaczerwienienia i zadrapania; mniejsza/większa pojemność, dobra cena w aptekach.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "07:42"
       }
     ],
     "verdict": "polecany",
@@ -60196,6 +60310,32 @@
         "channel": "Kacper Skin Ekspert",
         "date": "2026-11-18",
         "timestamp": "01:10"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
+    "key": "fluff delicious treat bundle",
+    "brand": "Fluff",
+    "name": "Delicious Treat Bundle",
+    "category": "zestaw perfum",
+    "ingredients": [
+      "alkohol"
+    ],
+    "for": [
+      "nastolatki",
+      "ubrania"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Świetny zestaw na prezent z ładnymi, intensywnymi zapachami, chociaż nietrwałymi.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "03:43"
       }
     ],
     "verdict": "polecany",
@@ -112366,6 +112506,33 @@
     "conflict": false
   },
   {
+    "key": "momme zimowy sztyft do zadan specjalnych",
+    "brand": "momme",
+    "name": "Zimowy sztyft do zadań specjalnych",
+    "category": "sztyft",
+    "ingredients": [
+      "baza emoliientowa"
+    ],
+    "for": [
+      "dzieci",
+      "skóra atopowa",
+      "wrażliwa skóra"
+    ],
+    "mentions": [
+      {
+        "verdict": "polecany",
+        "reason": "Chroni przed mrozem, wiatrem, wysuszeniem i przejściem transepidermalnym, wspiera barierę hydrolipidową.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "06:21"
+      }
+    ],
+    "verdict": "polecany",
+    "conflict": false
+  },
+  {
     "key": "mustela delikatny szampon do bardzo wrazliwej skory gowy",
     "brand": "Mustela",
     "name": "Delikatny szampon do bardzo wrażliwej skóry głowy",
@@ -146082,6 +146249,31 @@
       }
     ],
     "verdict": "neutralny",
+    "conflict": false
+  },
+  {
+    "key": "stars serum molekularne silikonowe",
+    "brand": "Stars",
+    "name": "Serum molekularne silikonowe",
+    "category": "serum",
+    "ingredients": [
+      "akrylaty"
+    ],
+    "for": [
+      "włosy"
+    ],
+    "mentions": [
+      {
+        "verdict": "odradzany",
+        "reason": "Produkty z akrylatami, cena 5 dech jest za wysoka, a na końcówki lepiej kupić np. Bioélixir.",
+        "video_id": "k7qU5rkb-Ow",
+        "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+        "channel": "Kacper Skin Ekspert",
+        "date": "2026-11-27",
+        "timestamp": "09:16"
+      }
+    ],
+    "verdict": "odradzany",
     "conflict": false
   },
   {
