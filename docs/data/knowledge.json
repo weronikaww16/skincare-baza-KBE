@@ -14410,6 +14410,48 @@
       "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-27"
+    },
+    {
+      "type": "nie łączyć",
+      "ingredients": [
+        "peptydy (Palmitoyl Hexapeptide-12)",
+        "witamina C (inna niż tetraizopalmitynian askorbylu / tetra)"
+      ],
+      "rule": "Nie należy łączyć tego kremu z formami witaminy C innymi niż forma tetra.",
+      "why": "Krem zawiera peptydy (Palmitoyl Hexapeptide-12), które wchodzą w niepożądane interakcje z tradycyjnymi, kwaśnymi formami witaminy C.",
+      "timestamp": "07:41",
+      "video_id": "oUUGyWt3W9A",
+      "video_title": "A FACE CREAM FOR 25 ZŁOTY THAT EVERYONE WILL LOVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-28"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "krem z kwasem foliowym i peptydami",
+        "peptydy miedziowe / ceramidy / witamina C tetra / volufilina"
+      ],
+      "rule": "Krem można łączyć z peptydami miedziowymi, ceramidami, peptydami sygnałowymi oraz witaminą C w formie tetra.",
+      "why": "Wspomagają one i maksymalizują działanie przeciwstarzeniowe, regenerujące i odbudowujące barierę hydrolipidową.",
+      "timestamp": "09:32",
+      "video_id": "oUUGyWt3W9A",
+      "video_title": "A FACE CREAM FOR 25 ZŁOTY THAT EVERYONE WILL LOVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-28"
+    },
+    {
+      "type": "można łączyć",
+      "ingredients": [
+        "kwas hialuronowy",
+        "peptydy"
+      ],
+      "rule": "Serum z kwasem hialuronowym i serum z peptydami można nakładać warstwowo jedno po drugim.",
+      "why": "Autor wskazuje, że te produkty świetnie ze sobą współpracują – najpierw należy zaaplikować kwas hialuronowy, a następnie peptydy.",
+      "timestamp": "06:09",
+      "video_id": "PKBt2bd4xIA",
+      "video_title": "BIEDRONKA❗️- BUY 1 GET 1 FREE ON FACIAL SKINCARE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
     }
   ],
   "routines": [
@@ -24280,6 +24322,20 @@
       "video_title": "BIEDRONKA❗️- A HIT FOR LESS THAN 10 PLN THAT EVERYONE SHOULD HAVE!",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-26"
+    },
+    {
+      "problem": "odwodnienie i profilaktyka przeciwstarzeniowa",
+      "time_of_day": "cały dzień",
+      "steps": [
+        "Aplikacja serum z kwasem hialuronowym (np. Eveline Serum Shot Hialuron)",
+        "Aplikacja serum peptydowego (np. Eveline Serum Shot Peptydy)"
+      ],
+      "notes": "Produkty wzajemnie się uzupełniają, głęboko nawadniając i regenerując skórę.",
+      "timestamp": "06:09",
+      "video_id": "PKBt2bd4xIA",
+      "video_title": "BIEDRONKA❗️- BUY 1 GET 1 FREE ON FACIAL SKINCARE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
     }
   ],
   "tips": [
@@ -40390,6 +40446,42 @@
       "timestamp": "02:46",
       "video_id": "k7qU5rkb-Ow",
       "video_title": "ROSSMANN - SUCH HITS AT THIS DRUGSTORE, IT’S SHOCKING!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
+    },
+    {
+      "topic": "Termin przydatności (PAO)",
+      "tip": "Krem po otwarciu zachowuje świeżość i stabilność przez 6 miesięcy (PAO 6M).",
+      "timestamp": "08:40",
+      "video_id": "oUUGyWt3W9A",
+      "video_title": "A FACE CREAM FOR 25 ZŁOTY THAT EVERYONE WILL LOVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-28"
+    },
+    {
+      "topic": "Stosowanie przy cerze trądzikowej i tłustej",
+      "tip": "Osoby z cerą tłustą, problematyczną lub trądzikową mogą bezpiecznie stosować ten krem pod warunkiem regularnego i prawidłowego złuszczania naskórka.",
+      "timestamp": "10:24",
+      "video_id": "oUUGyWt3W9A",
+      "video_title": "A FACE CREAM FOR 25 ZŁOTY THAT EVERYONE WILL LOVE!",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-28"
+    },
+    {
+      "topic": "Wybór płatków pod oczy Be Beauty",
+      "tip": "Spośród płatków pod oczy marki Be Beauty najlepsze rezultaty dają płatki złote, ponieważ mają najbogatszy skład pobudzający produkcję kolagenu i elastyny.",
+      "timestamp": "06:48",
+      "video_id": "PKBt2bd4xIA",
+      "video_title": "BIEDRONKA❗️- BUY 1 GET 1 FREE ON FACIAL SKINCARE❗️",
+      "channel": "Kacper Skin Ekspert",
+      "date": "2026-11-27"
+    },
+    {
+      "topic": "Maseczki Farmona Herbal Care",
+      "tip": "Z serii maseczek Farmona Herbal Care warto wybierać wyłącznie zieloną glinkę z chia, ponieważ inne warianty z tej linii mają bardzo złe składy.",
+      "timestamp": "03:20",
+      "video_id": "PKBt2bd4xIA",
+      "video_title": "BIEDRONKA❗️- BUY 1 GET 1 FREE ON FACIAL SKINCARE❗️",
       "channel": "Kacper Skin Ekspert",
       "date": "2026-11-27"
     }
